@@ -1,10 +1,67 @@
 {
   "title": "Global Intelligence Monitor",
-  "snapshot": "Thursday 5 November 2026, 21:18 (Europe/Rome)",
+  "snapshot": "Thursday 5 November 2026, 22:11 (Europe/Rome)",
   "snapshotDate": "2026-11-05",
-  "lastUpdated": "2026-11-05T21:18:00+01:00",
+  "lastUpdated": "2026-11-05T22:11:00+01:00",
   "summary": "A one-page briefing on world news, conflicts, politics and the economy in the week to 5 November 2026, with country profiles and a timeline since 1945.",
   "news": [
+    {
+      "headline": "Herzog to name who forms Israel's government on Sunday",
+      "summary": "After finishing party consultations, President Herzog said he will announce on Sunday 8 Nov whom he tasks with forming a government. Eisenkot has 67 Knesset recommendations vs Netanyahu's 46; Herzog cited mutual vetoes and will hold private talks with party leaders over the Israeli weekend.",
+      "date": "5 Nov 2026",
+      "region": "Middle East",
+      "countries": [
+        "IL"
+      ],
+      "source": "Ynet / Reuters / Arab News",
+      "url": "https://www.ynetnews.com/article/rjj1td9pfx"
+    },
+    {
+      "headline": "Sweden extends Schengen internal border checks citing Russia hybrid threats",
+      "summary": "Government decision: targeted internal border controls from 12 Nov 2026 to 11 May 2027. Justice Minister Gunnar Strömmer (via Reuters) linked the move to sabotage and hybrid threats tied to Russia's war on Ukraine; Kremlin denies the accusations.",
+      "date": "5 Nov 2026",
+      "region": "Europe",
+      "countries": [
+        "RU"
+      ],
+      "source": "Reuters / Swedish government",
+      "url": "https://www.straitstimes.com/world/europe/sweden-says-russia-hybrid-threats-make-internal-border-checks-necessary"
+    },
+    {
+      "headline": "Italy finalising 13th military aid package for Ukraine",
+      "summary": "Reuters: Defence Minister Guido Crosetto will brief COPASIR on 10 Nov on Italy's first 2026 arms tranche (13th overall). Package may include Aster interceptors for SAMP/T; Crosetto also proposes extending the decree-based aid mechanism beyond 31 Dec 2026 despite League opposition.",
+      "date": "5 Nov 2026",
+      "region": "Europe",
+      "countries": [
+        "UA"
+      ],
+      "source": "Reuters / ANSA",
+      "url": "https://www.ansa.it/english/news/2026/11/05/new-aid-decree-for-kyiv-on-the-way-policy-remains-unchanged_fd51694e-3da7-4ebb-9340-955bc10db57f.html"
+    },
+    {
+      "headline": "Russia and Ukraine trade airstrikes as Brussels reconstruction talks resume",
+      "summary": "AP: overnight Russian barrage and Ukrainian drone strikes continued as talks on postwar reconstruction and security guarantees resumed in Brussels. Search continues at Komyshuvakha after Monday's aid-point strike.",
+      "date": "5 Nov 2026",
+      "region": "Europe",
+      "countries": [
+        "UA",
+        "RU"
+      ],
+      "source": "AP",
+      "url": "https://apnews.com/article/russia-ukraine-war-airstrikes-negotiations-kushner-0b975a30f862731346e7e1d098a8d538"
+    },
+    {
+      "headline": "Burnham: Putin will not be invited to Britain's G20 summit",
+      "summary": "Reuters via Devdiscourse: UK PM Andy Burnham told The Economist that Russian President Vladimir Putin would not be invited to next year's G20 summit in Britain.",
+      "date": "5 Nov 2026",
+      "region": "Europe",
+      "countries": [
+        "GB",
+        "RU"
+      ],
+      "source": "Reuters / The Economist",
+      "url": "https://www.devdiscourse.com/article/international/4002095-reuters-world-news-summary"
+    },
     {
       "headline": "Oil rebounds: Brent near $98.44 amid Hormuz tanker incidents",
       "summary": "CNBC: Brent futures rose about 4% to $98.44 a barrel by 2:42 p.m. ET (WTI ~$90.71) after Wednesday's >8% drop. UKMTO said at least five vessels reported incidents since Sunday; IRGC claims on unauthorised Hormuz routes remain unconfirmed by maritime officials.",
@@ -17,17 +74,6 @@
       ],
       "source": "CNBC",
       "url": "https://www.cnbc.com/2026/11/05/oil-falls-for-a-fourth-day-on-expectations-for-lower-risk-of-iran-war-escalation.html"
-    },
-    {
-      "headline": "Herzog continues weekend talks; Eisenkot holds 67 recommendations",
-      "summary": "Jerusalem Post: after party consultations, Eisenkot has 67 recommendations vs Netanyahu's smaller bloc. Herzog said he will meet party heads privately over the weekend to 'leave no stone unturned' before naming who forms the next government.",
-      "date": "5 Nov 2026",
-      "region": "Middle East",
-      "countries": [
-        "IL"
-      ],
-      "source": "Jerusalem Post",
-      "url": "https://www.jpost.com/israel-election-2026/article-913989"
     },
     {
       "headline": "Putin puts Japan Tobacco's Russian assets under temporary state management",
@@ -459,18 +505,6 @@
       ],
       "source": "CGTN",
       "url": "https://news.cgtn.com/news/2026-11-04/President-Xi-Jinping-s-key-remarks-on-high-standard-opening-up-1RNogdiZkys/p.html"
-    },
-    {
-      "headline": "Burnham says US midterms create an 'opportunity'",
-      "summary": "UK Prime Minister Andy Burnham said the result lets the world focus on the cost of living and ending the Iran war.",
-      "date": "4 Nov 2026",
-      "region": "Europe",
-      "countries": [
-        "GB",
-        "US"
-      ],
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/politics/live/2026/nov/04/ed-miliband-andy-burnham-king-charles-labour-louise-haigh-alex-burghart-pmqs-conservatives-uk-politics-latest-news"
     }
   ],
   "conflicts": [
@@ -481,10 +515,10 @@
         "label": "Talks amid fighting",
         "tone": "danger"
       },
-      "latest": "Komyshuvakha aid-point strike death toll at 43 with ~33 still missing (Kyiv Independent, 5 Nov). Melania Trump hosted Russian and Ukrainian officials; Meloni pressed the EU for a single peace envoy. US-led talks still set for Abu Dhabi 10-11 Nov.",
+      "latest": "AP: Russia and Ukraine traded overnight airstrikes as Brussels talks on reconstruction and security guarantees resumed (5 Nov). Komyshuvakha aid-point toll ~42–43 with ~33 still missing. Italy preparing 13th arms package (COPASIR 10 Nov). US-led Abu Dhabi talks still set for 10-11 Nov.",
       "date": "5 Nov 2026",
-      "source": "Kyiv Independent / POLITICO",
-      "url": "https://kyivindependent.com/42-bodies-recovered-from-rubble-after-russian-strike-on-komyshuvakha-as-search-continues-police-say/"
+      "source": "AP / Reuters / ANSA",
+      "url": "https://apnews.com/article/russia-ukraine-war-airstrikes-negotiations-kushner-0b975a30f862731346e7e1d098a8d538"
     },
     {
       "name": "US/Israel-Iran war",
@@ -493,7 +527,7 @@
         "label": "Talks and strikes",
         "tone": "warning"
       },
-      "latest": "Brent rebounded toward ~$98.44 as IRGC claimed tanker/tug fires on unauthorised Hormuz routes (unconfirmed by maritime officials). UKMTO: ≥5 vessel incidents since Sunday. South Korea plans anti-piracy expansion toward waters south of Oman.",
+      "latest": "IRGC/army claim multiple tanker/tug fires on unauthorised Hormuz routes (unconfirmed by maritime officials); UKMTO: ≥5 vessel incidents since Sunday, including projectiles off Qatar. Oil rebounded after Wednesday's drop. Iran FM held Gulf calls; Qatari mediation continues.",
       "date": "5 Nov 2026",
       "source": "CNBC / Yonhap",
       "url": "https://www.cnbc.com/2026/11/05/oil-falls-for-a-fourth-day-on-expectations-for-lower-risk-of-iran-war-escalation.html"
@@ -550,6 +584,50 @@
   "politics": [
     {
       "date": "5 Nov",
+      "title": "UK: Burnham says Putin not invited to Britain's G20",
+      "detail": "Asked by The Economist about next year's UK G20 summit, Burnham said Putin would not be invited.",
+      "status": {
+        "label": "Diplomacy",
+        "tone": "warning"
+      },
+      "source": "Reuters",
+      "url": "https://www.devdiscourse.com/article/international/4002095-reuters-world-news-summary"
+    },
+    {
+      "date": "5 Nov",
+      "title": "Italy: 13th Ukraine arms package; Crosetto to brief COPASIR 10 Nov",
+      "detail": "First Italian military aid tranche of 2026; Crosetto also proposes extending the decree mechanism past 31 Dec despite League opposition.",
+      "status": {
+        "label": "Aid",
+        "tone": "warning"
+      },
+      "source": "Reuters / ANSA",
+      "url": "https://www.ansa.it/english/news/2026/11/05/new-aid-decree-for-kyiv-on-the-way-policy-remains-unchanged_fd51694e-3da7-4ebb-9340-955bc10db57f.html"
+    },
+    {
+      "date": "5 Nov",
+      "title": "Sweden: internal Schengen border checks extended to May 2027",
+      "detail": "Controls from 12 Nov 2026–11 May 2027, citing hybrid threats linked to Russia's war on Ukraine (Kremlin denies).",
+      "status": {
+        "label": "Security",
+        "tone": "warning"
+      },
+      "source": "Reuters / regeringen.se",
+      "url": "https://www.regeringen.se/pressmeddelanden/2026/11/aterinford-granskontroll-vid-inre-grans/"
+    },
+    {
+      "date": "5 Nov",
+      "title": "Israel: Herzog will name mandate-holder on Sunday",
+      "detail": "Eisenkot 67 recommendations vs Netanyahu 46; Herzog cites mutual vetoes and will talk to party leaders privately before Sunday's decision.",
+      "status": {
+        "label": "Decision Sunday",
+        "tone": "warning"
+      },
+      "source": "Ynet / Reuters",
+      "url": "https://www.ynetnews.com/article/rjj1td9pfx"
+    },
+    {
+      "date": "5 Nov",
       "title": "Europe: coordinated hoax bomb threats hit ≥25 flights",
       "detail": "Guardian: ~33 flights disrupted this week; nothing found. Investigators say no evidence yet of a state actor.",
       "status": {
@@ -591,17 +669,6 @@
       },
       "source": "AP",
       "url": "https://apnews.com/article/ueno-bank-collapse-paraguay-banking-crisis-santiago-pena-impeachment-eccea1c9a64808b5cd7e6e1d5542084f"
-    },
-    {
-      "date": "5 Nov",
-      "title": "Israel: Eisenkot has 67 recommendations; Herzog continues weekend talks",
-      "detail": "Jerusalem Post: Eisenkot leads recommendations; Herzog will meet party heads privately over the weekend before deciding who gets the mandate to form a government.",
-      "status": {
-        "label": "Coalition talks",
-        "tone": "warning"
-      },
-      "source": "Jerusalem Post",
-      "url": "https://www.jpost.com/israel-election-2026/article-913989"
     },
     {
       "date": "5 Nov",
@@ -691,12 +758,28 @@
   ],
   "upcoming": [
     {
-      "date": "Weekend of 7-9 Nov (expected)",
-      "event": "Israel: Herzog expected to name who forms the next government after weekend consultations",
+      "date": "8 Nov",
+      "event": "Israel: Herzog to announce who is tasked with forming the next government",
       "place": "Jerusalem",
       "kind": "Politics",
-      "source": "Jerusalem Post",
-      "url": "https://www.jpost.com/israel-election-2026/article-913989"
+      "source": "Ynet / Reuters",
+      "url": "https://www.ynetnews.com/article/rjj1td9pfx"
+    },
+    {
+      "date": "10 Nov",
+      "event": "Italy: Crosetto briefs COPASIR on 13th Ukraine military aid package",
+      "place": "Rome",
+      "kind": "Politics",
+      "source": "Reuters / ANSA",
+      "url": "https://www.ansa.it/english/news/2026/11/05/new-aid-decree-for-kyiv-on-the-way-policy-remains-unchanged_fd51694e-3da7-4ebb-9340-955bc10db57f.html"
+    },
+    {
+      "date": "12 Nov",
+      "event": "Sweden: renewed internal Schengen border controls take effect (to 11 May 2027)",
+      "place": "Sweden",
+      "kind": "Politics",
+      "source": "Swedish government",
+      "url": "https://www.regeringen.se/pressmeddelanden/2026/11/aterinford-granskontroll-vid-inre-grans/"
     },
     {
       "date": "6 Nov",
@@ -917,7 +1000,7 @@
       "url": "https://vocemundi.com/the-week-2026-11-01/"
     }
   ],
-  "economyNote": "The Bank of England raised Bank Rate to 4% on 5 November, its first hike in over three years. Energy from the Iran war remains the main driver of European inflation; Brent recovered toward about $97 after Wednesday's drop.",
+  "economyNote": "The Bank of England raised Bank Rate to 4% on 5 November, its first hike in over three years. Energy from the Iran war remains the main driver of European inflation; Brent recovered toward about $98 after Wednesday's drop.",
   "policyRates": [
     {
       "label": "US Fed",
@@ -1010,7 +1093,7 @@
       "population": 10.124,
       "gdp": 616.56,
       "headOfState": "President Isaac Herzog",
-      "headOfGov": "Prime Minister Benjamin Netanyahu (caretaker; Eisenkot has 67 recommendations; Herzog continuing weekend consultations, 5 Nov)"
+      "headOfGov": "Prime Minister Benjamin Netanyahu (caretaker; Eisenkot 67 vs Netanyahu 46 recommendations; Herzog to name mandate-holder Sunday 8 Nov)"
     },
     {
       "code": "IN",
@@ -1104,7 +1187,7 @@
       "headOfGov": "Prime Minister Anwar Ibrahim"
     }
   ],
-  "profilesNote": "Leaders checked against news of 1-5 November 2026.",
+  "profilesNote": "Leaders checked against news of 1-5 November 2026 (evening update).",
   "profileSource": "https://www.imf.org/external/datamapper/NGDPD@WEO",
   "history": [
     {
@@ -1391,12 +1474,36 @@
       "year": 2026,
       "date": "5 Nov 2026",
       "title": "BoE hike, Paraguay crisis, Europe flight hoaxes, Nasdaq plunge",
-      "detail": "BoE lifts Bank Rate to 4%; Peña resigns and is impeached over Ueno Bank; ≥25 Europe flights hit by hoax bomb threats; Nasdaq closes −5.17%; Komyshuvakha toll 43.",
-      "url": "https://www.euronews.com/2026/11/05/putin-seizes-russian-operations-of-cigarette-giant-japan-tobacco-international",
-      "source": "Euronews / CNBC"
+      "detail": "BoE lifts Bank Rate to 4%; Peña resigns/impeached over Ueno Bank; ≥25 Europe flights hit by hoax bomb threats; Nasdaq closes −5.17%; Herzog sets Sunday mandate decision; Sweden extends Schengen border checks; Italy prepares 13th Ukraine arms package.",
+      "url": "https://www.ynetnews.com/article/rjj1td9pfx",
+      "source": "Ynet / Reuters / Euronews / CNBC"
     }
   ],
   "sources": [
+    {
+      "title": "Ukraine-Russia airstrikes; Brussels talks",
+      "site": "apnews.com",
+      "date": "5 Nov 2026",
+      "url": "https://apnews.com/article/russia-ukraine-war-airstrikes-negotiations-kushner-0b975a30f862731346e7e1d098a8d538"
+    },
+    {
+      "title": "Italy Ukraine aid package / COPASIR",
+      "site": "ansa.it",
+      "date": "5 Nov 2026",
+      "url": "https://www.ansa.it/english/news/2026/11/05/new-aid-decree-for-kyiv-on-the-way-policy-remains-unchanged_fd51694e-3da7-4ebb-9340-955bc10db57f.html"
+    },
+    {
+      "title": "Sweden internal border controls decision",
+      "site": "regeringen.se",
+      "date": "5 Nov 2026",
+      "url": "https://www.regeringen.se/pressmeddelanden/2026/11/aterinford-granskontroll-vid-inre-grans/"
+    },
+    {
+      "title": "Herzog Sunday mandate announcement",
+      "site": "ynetnews.com",
+      "date": "5 Nov 2026",
+      "url": "https://www.ynetnews.com/article/rjj1td9pfx"
+    },
     {
       "title": "Brent rebound / Hormuz tanker incidents",
       "site": "cnbc.com",
