@@ -2,10 +2,13 @@
 (function () {
   "use strict";
   var D = null;
-  var state = { tab: "news", region: "All", upKind: "All", country: "US", decade: "All", q: "" };
-  var REGION_LABEL = { All: "Semua", Americas: "Amerika", Europe: "Eropa", "Middle East": "Timur Tengah", "Asia-Pacific": "Asia-Pasifik", Africa: "Afrika" };
+  var L = null; /* live-news.json (optional) */
+  var liveShown = 15;
+  var state = { tab: "news", liveCat: "All", region: "All", upKind: "All", country: "US", decade: "All", q: "" };
+  var REGION_LABEL = { All: "Semua", Global: "Global", Americas: "Amerika", Europe: "Eropa", "Middle East": "Timur Tengah", "Asia-Pacific": "Asia-Pasifik", Africa: "Afrika" };
   var REGIONS = ["All", "Americas", "Europe", "Middle East", "Asia-Pacific", "Africa"];
   var DECADES = ["All", "1940s", "1950s", "1960s", "1970s", "1980s", "1990s", "2000s", "2010s", "2020s"];
+  var CAT_LABEL = { All: "Semua", news: "Umum", economy: "Ekonomi", conflict: "Konflik" };
   var KIND_LABEL = { All: "Semua", Politics: "Politik", Economy: "Ekonomi" };
   var TABS = ["news", "conflicts", "politics", "economy", "countries", "timeline"];
 
@@ -42,6 +45,37 @@
     } catch (e) { return d.toISOString(); }
   }
 
+  function timeAgo(iso) {
+    var t = Date.parse(iso);
+    if (isNaN(t)) return "";
+    var m = Math.round((Date.now() - t) / 60000);
+    if (m < 1) return "baru saja";
+    if (m < 60) return m + " menit lalu";
+    var h = Math.round(m / 60);
+    if (h < 24) return h + " jam lalu";
+    return Math.round(h / 24) + " hari lalu";
+  }
+  function liveCard(n) {
+    return '<article class="card live"><div class="meta"><span class="badge t-' + (n.category === "conflict" ? "danger" : n.category === "economy" ? "warning" : "accent") + '">' +
+      esc(CAT_LABEL[n.category] || n.category) + "</span><span>" + esc(REGION_LABEL[n.region] || n.region) + "</span><span>" + esc(timeAgo(n.published)) +
+      '</span></div><h4><a href="' + esc(n.link) + '" target="_blank" rel="noopener">' + esc(n.title) + "</a></h4>" + (n.summary ? "<p>" + esc(n.summary) + "</p>" : "") +
+      '<div class="meta"><span>' + esc(n.source) + "</span>" + link(n.link) + "</div></article>";
+  }
+  function liveSection() {
+    if (!L || !L.items || !L.items.length) return "";
+    var list = L.items.filter(function (n) {
+      return (state.liveCat === "All" || n.category === state.liveCat) && (state.region === "All" || n.region === state.region);
+    });
+    var shown = list.slice(0, liveShown);
+    return '<h2>🔴 Berita Langsung</h2><p class="cap">Diperbarui: ' + esc(timeAgo(L.updatedAt)) + " · " + esc(fmtStamp(L.updatedAt)) +
+      " · otomatis tiap jam dari " + (L.sources || []).length + " sumber (" + esc((L.sources || []).join(", ")) + ")</p>" +
+      chips(["All", "news", "economy", "conflict"], state.liveCat, function (c) { return CAT_LABEL[c]; }, function (c) {
+        return L.items.filter(function (n) { return (c === "All" || n.category === c) && (state.region === "All" || n.region === state.region); }).length;
+      }, "cat") +
+      (shown.length ? shown.map(liveCard).join("") : '<p class="empty">Tidak ada berita langsung untuk filter ini.</p>') +
+      (list.length > shown.length ? '<button class="more" id="more">Tampilkan lebih banyak (' + (list.length - shown.length) + ")</button>" : "");
+  }
+
   function newsCard(n) {
     return '<article class="card"><div class="meta"><span>' + esc(n.date) + "</span><span>" + esc(REGION_LABEL[n.region] || n.region) +
       "</span></div><h4>" + esc(n.headline) + "</h4><p>" + esc(n.summary) + '</p><div class="meta"><span>' + esc(n.source) + "</span>" + link(n.url) + "</div></article>";
@@ -71,11 +105,9 @@
   var views = {
     news: function () {
       var list = D.news.filter(function (n) { return state.region === "All" || n.region === state.region; });
-      return "<h2>Berita Dunia</h2>" +
+      return chips(REGIONS, state.region, function (r) { return REGION_LABEL[r]; }, null, "region") + liveSection() +
+        "<h2>Ringkasan Harian</h2>" +
         '<div class="notice">Snapshot per ' + esc(D.snapshot) + ". Isi berita dalam bahasa Inggris, setiap item ada tautan sumbernya.</div>" +
-        chips(REGIONS, state.region, function (r) { return REGION_LABEL[r]; }, function (r) {
-          return r === "All" ? D.news.length : D.news.filter(function (n) { return n.region === r; }).length;
-        }, "region") +
         (list.length ? list.map(newsCard).join("") : '<p class="empty">Tidak ada berita untuk filter ini.</p>');
     },
     conflicts: function () {
@@ -151,6 +183,7 @@
 
   function searchEntries() {
     var E = [];
+    if (L && L.items) L.items.forEach(function (n) { E.push({ s: "Langsung · " + n.source, t: n.title, x: n.summary + " " + n.region + " " + n.category, d: timeAgo(n.published), u: n.link }); });
     D.news.forEach(function (n) { E.push({ s: "Berita", t: n.headline, x: n.summary + " " + n.region + " " + n.source, d: n.date, u: n.url }); });
     D.conflicts.forEach(function (c) { E.push({ s: "Konflik", t: c.name, x: c.parties + " " + c.latest + " " + c.status.label, d: c.date, u: c.url }); });
     D.politics.forEach(function (p) { E.push({ s: "Politik", t: p.title, x: p.detail, d: p.date, u: p.url }); });
@@ -180,9 +213,11 @@
   }
 
   main.addEventListener("click", function (ev) {
+    if (ev.target.id === "more") { liveShown += 20; render(); return; }
     var b = ev.target.closest("button.chip");
     if (!b) return;
-    if (b.dataset.region) state.region = b.dataset.region;
+    if (b.dataset.region) { state.region = b.dataset.region; liveShown = 15; }
+    if (b.dataset.cat) { state.liveCat = b.dataset.cat; liveShown = 15; }
     if (b.dataset.kind) state.upKind = b.dataset.kind;
     if (b.dataset.decade) state.decade = b.dataset.decade;
     render();
@@ -203,7 +238,16 @@
   function setUpdated(offline) {
     updatedEl.textContent = "Terakhir diperbarui: " + fmtStamp(D.lastUpdated) + (offline ? " · offline" : "");
   }
+  function loadLive() {
+    return fetch("live-news.json", { cache: "no-store" }).then(function (r) {
+      if (!r.ok) throw new Error("HTTP " + r.status);
+      return r.json();
+    }).then(function (j) {
+      if (j && Array.isArray(j.items)) { L = j; render(); }
+    }).catch(function () { /* live news is optional */ });
+  }
   function load() {
+    loadLive();
     updatedEl.textContent = "Memuat data…";
     return fetch("data.json", { cache: "no-store" }).then(function (r) {
       if (!r.ok) throw new Error("HTTP " + r.status);

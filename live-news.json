@@ -1,0 +1,739 @@
+{
+ "updatedAt": "2026-11-05T17:21:31Z",
+ "sources": [
+  "BBC World",
+  "BBC Business",
+  "Al Jazeera",
+  "NPR World",
+  "The Guardian World",
+  "The Guardian Economics",
+  "DW World",
+  "DW Business",
+  "France 24",
+  "CNBC World"
+ ],
+ "failed": [],
+ "count": 80,
+ "items": [
+  {
+   "title": "Democrats to probe JPMorgan's relationship with Jeffrey Epstein when they take Senate control",
+   "summary": "JPMorgan kept Jeffrey Epstein as a client for years after top executive Mary Erdoes hearing claims he paid to have underage girls brought to his home.",
+   "link": "https://www.cnbc.com/2026/11/05/jpmorgan-epstein-democrats-erdoes-midterm-election.html",
+   "source": "CNBC World",
+   "published": "2026-11-05T17:16:48Z",
+   "region": "Americas",
+   "category": "economy"
+  },
+  {
+   "title": "Paraguay President Santiago Peña resigns after bank collapse",
+   "summary": "The move follows a bank collapse and after the lower house of congress voted in favour of pursuing an impeachment trial against him.",
+   "link": "https://www.bbc.co.uk/news/articles/c6p9g39vln3yo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "published": "2026-11-05T17:14:41Z",
+   "region": "Americas",
+   "category": "economy"
+  },
+  {
+   "title": "Interest rates hiked to 4% in first increase in over three years",
+   "summary": "Most analysts expected the increase from 3.75% to 4%.",
+   "link": "https://www.bbc.co.uk/news/articles/ck5ynw45jrgqo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC Business",
+   "published": "2026-11-05T17:09:55Z",
+   "region": "Global",
+   "category": "economy"
+  },
+  {
+   "title": "🔴 Live: Interior ministry says 600,000 protest across France as unions claim 'close to 1.6 million'",
+   "summary": "",
+   "link": "https://www.france24.com/en/france/20261105-live-france-nationwide-strikes-living-costs",
+   "source": "France 24",
+   "published": "2026-11-05T17:05:44Z",
+   "region": "Europe",
+   "category": "news"
+  },
+  {
+   "title": "Today’s UK interest rate rise unlikely to be the last unless Iran war ends; Wall Street slides on AI fears – business live",
+   "summary": "UK hit by first interest rate rise in three years, as Bank predicts inflation will approach 5% by middle of 2027 Interest rate rise in midst of cost of living crisis will leave many incredulous UK government bond prices are also rallying today. This has pushed down the yield, or rate of return, on…",
+   "link": "https://www.theguardian.com/business/live/2026/nov/05/bank-of-england-interest-rate-decision-pound-inflation-oil-iran-stock-markets-latest-news-updates",
+   "source": "The Guardian Economics",
+   "published": "2026-11-05T17:03:36Z",
+   "region": "Europe",
+   "category": "economy"
+  },
+  {
+   "title": "Russell Brand found guilty of rape and sexual assault",
+   "summary": "Judge says actor and comedian faces ‘significant custodial term’ after being convicted of raping a woman and assaulting three others Russell Brand has been found guilty of raping a fan and sexually assaulting three women, ending a years-long legal saga that has raised questions about how he was…",
+   "link": "https://www.theguardian.com/culture/2026/nov/05/russell-brand-found-guilty-rape-sexual-assault",
+   "source": "The Guardian World",
+   "published": "2026-11-05T17:03:15Z",
+   "region": "Global",
+   "category": "news"
+  },
+  {
+   "title": "Washington state passes ballot measure banning trans girls from school sports",
+   "summary": "Measure in Democratic state says students must submit health documents verifying biological sex for girls’ teams Voters in Washington state have passed a ballot measure banning transgender girls from playing on girls’ sports teams, a major loss for LGBTQ+ rights in a solidly Democratic state. The…",
+   "link": "https://www.theguardian.com/us-news/2026/nov/05/washington-ballot-measure-trans-athlete-ban",
+   "source": "The Guardian World",
+   "published": "2026-11-05T17:02:02Z",
+   "region": "Americas",
+   "category": "news"
+  },
+  {
+   "title": "Burnham says long-awaited 10-year plan may be delayed until January – UK politics live",
+   "summary": "The document has been described as the core policy statement coming from No 10 Yesterday the pro-Brexit Guido Fawkes website published a list of items that it said could be banned as a result of Andy Burnham’s reset with the EU. It was based on items that have been banned under EU regulations…",
+   "link": "https://www.theguardian.com/politics/live/2026/nov/05/uk-politics-latest-news-updates-andy-burnham-eu-brexit-labour",
+   "source": "The Guardian World",
+   "published": "2026-11-05T17:00:46Z",
+   "region": "Europe",
+   "category": "news"
+  },
+  {
+   "title": "After the landslide victory of the Students' List, Serbia's judiciary springs into life after years of stalled and unresolved cases and investigations",
+   "summary": "The landslide victory of the Students' List in Serbia's general election seems to have removed a blockage in the justice system: Cases that were long stalled are now suddenly moving forward. How can this be?",
+   "link": "https://www.dw.com/en/after-the-landslide-victory-of-the-students-list-serbia-s-judiciary-springs-into-life-after-years-of-stalled-and-unresolved-cases-and-investigations/a-79868652?maca=en-rss-en-world-4025-rdf",
+   "source": "DW World",
+   "published": "2026-11-05T17:00:00Z",
+   "region": "Europe",
+   "category": "news"
+  },
+  {
+   "title": "EU presses UK to guarantee discounted university tuition fees for European students",
+   "summary": "Failure to agree lower fees for EU citizens studying in UK should delay prized food and drink deal, members say UK politics live – latest updates The EU is seeking a firmer pledge from the British government to guarantee European students discounted rates on university tuition fees before a…",
+   "link": "https://www.theguardian.com/world/2026/nov/05/eu-seeks-firmer-pledge-from-uk-discounted-university-tuition-fees",
+   "source": "The Guardian World",
+   "published": "2026-11-05T16:58:54Z",
+   "region": "Europe",
+   "category": "news"
+  },
+  {
+   "title": "Multiple planes diverted as bomb threats to commercial flights reported across Europe – live",
+   "summary": "EU transport commissioner says ‘too early’ to say if bomb threats to 20 flights are linked Tell us: have you been affected by the bomb threats? And the Italian news agency Ansa reported that two more planes with links to Italy were affected by bomb threats this morning: that’s a WizzAir service…",
+   "link": "https://www.theguardian.com/world/live/2026/nov/05/aer-lingus-plane-bomb-threat-europe-latest-news-updates",
+   "source": "The Guardian World",
+   "published": "2026-11-05T16:54:47Z",
+   "region": "Europe",
+   "category": "conflict"
+  },
+  {
+   "title": "Bishara: US election deals a blow to warmongers",
+   "summary": "Al Jazeera's senior political analyst Marwan Bishara says the US election is a setback for warmongers.",
+   "link": "https://www.aljazeera.com/video/newsfeed/2026/11/5/aje-onl-nf_us-election-deals-a-blow-to-warmongers-051126?traffic_source=rss",
+   "source": "Al Jazeera",
+   "published": "2026-11-05T16:48:53Z",
+   "region": "Americas",
+   "category": "news"
+  },
+  {
+   "title": "Democratic sweep puts crypto on defensive in Washington",
+   "summary": "Democrats in Congress could impose tougher rules on crypto and investigate President Donald Trump, ushering in a tougher era for the industry.",
+   "link": "https://www.cnbc.com/2026/11/05/crypto-midterms-democrats-clarity-act.html",
+   "source": "CNBC World",
+   "published": "2026-11-05T16:48:34Z",
+   "region": "Americas",
+   "category": "economy"
+  },
+  {
+   "title": "Gaza holds final of tournament honouring more than 1,000 slain athletes",
+   "summary": "The final of Gaza’s ‘Thousand Martyrs’ Cup marks the return of organised football after nearly three years of war.",
+   "link": "https://www.aljazeera.com/video/newsfeed/2026/11/5/gaza-holds-final-of-tournament-honouring-more-than-1000-slain-athletes?traffic_source=rss",
+   "source": "Al Jazeera",
+   "published": "2026-11-05T16:46:34Z",
+   "region": "Middle East",
+   "category": "conflict"
+  },
+  {
+   "title": "Shares in Musk's SpaceX plunge as tech and AI stocks fall",
+   "summary": "The market has been reacting to possible tougher scrutiny of data centre construction and the AI industry following the US mid-terms",
+   "link": "https://www.bbc.co.uk/news/articles/cmn04705rd8jo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC Business",
+   "published": "2026-11-05T16:44:38Z",
+   "region": "Americas",
+   "category": "economy"
+  },
+  {
+   "title": "Leon Black sues US congressman Robert Garcia for $7.5m over Epstein comments",
+   "summary": "Black in defamation lawsuit alleges California lawmaker made false statements about his ties to Jeffrey Epstein Billionaire Leon Black has filed a defamation lawsuit against California congressman Robert Garcia, accusing the lawmaker, who is the top Democrat on the House oversight committee, of…",
+   "link": "https://www.theguardian.com/us-news/2026/nov/05/leon-black-sues-congressman-robert-garcia-epstein",
+   "source": "The Guardian World",
+   "published": "2026-11-05T16:44:08Z",
+   "region": "Americas",
+   "category": "news"
+  },
+  {
+   "title": "Republicans hoping to succeed Trump in 2028 dissect midterm rout",
+   "summary": "JD Vance, Ron DeSantis and Ted Cruz all pointed to Iran war and affordability as key factors in Democratic victory US midterms 2026 live – latest updates Republican hopefuls in the race to succeed Donald Trump swiftly blamed two key pillars of his agenda – the Iran war and tariffs – for summoning…",
+   "link": "https://www.theguardian.com/us-news/2026/nov/05/republicans-cruz-desantis-vance-midterm-rout",
+   "source": "The Guardian World",
+   "published": "2026-11-05T16:36:43Z",
+   "region": "Americas",
+   "category": "conflict"
+  },
+  {
+   "title": "US elections 2026 live: Republicans blast their party’s midterms collapse, blaming Iran war and affordability crisis",
+   "summary": "Ted Cruz and Newt Gingrich call the US midterms election a failure and ‘Watergate-level repudiation’ as Democrats overtake both chambers of Congress Live results | How do you feel about the results? Sign up for Breaking News US email Election night brought a series of dramatic developments…",
+   "link": "https://www.theguardian.com/us-news/live/2026/nov/05/midterm-elections-live-latest-updates-mississippi-senate-race",
+   "source": "The Guardian World",
+   "published": "2026-11-05T16:35:11Z",
+   "region": "Americas",
+   "category": "conflict"
+  },
+  {
+   "title": "Barkin sees interest rate hikes ahead, but at a gradual pace",
+   "summary": "In a CNBC interview, the policymaker expressed concern over inflation and said monetary policy will need to adjust.",
+   "link": "https://www.cnbc.com/2026/11/05/barkin-sees-interest-rate-hikes-ahead-but-at-a-gradual-pace.html",
+   "source": "CNBC World",
+   "published": "2026-11-05T16:34:33Z",
+   "region": "Global",
+   "category": "economy"
+  },
+  {
+   "title": "Marc Lore's Wonder confidentially files for IPO",
+   "summary": "Marc Lore's latest startup Wonder has confidentially filed for an initial public offering.",
+   "link": "https://www.cnbc.com/2026/11/05/wonder-confidential-ipo-filing.html",
+   "source": "CNBC World",
+   "published": "2026-11-05T16:27:10Z",
+   "region": "Global",
+   "category": "economy"
+  },
+  {
+   "title": "Trump's energy deals are about to face a wave of investigations by Democrats",
+   "summary": "Democrats are certain to scrutinize the U.S. intervention in Venezuela, administration mineral deals and the cancellation of previously funded energy projects.",
+   "link": "https://www.cnbc.com/2026/11/05/trump-election-energy-venezuela-critical-mineral-renewable-iran.html",
+   "source": "CNBC World",
+   "published": "2026-11-05T16:23:48Z",
+   "region": "Americas",
+   "category": "economy"
+  },
+  {
+   "title": "California’s billionaire tax faces defeat, but Democrats plan higher taxes on the wealthy",
+   "summary": "The likely defeat of the California billionaire tax may energize Democrats in Congress to propose federal tax hikes on high earners, according to tax experts.",
+   "link": "https://www.cnbc.com/2026/11/05/as-california-billionaire-tax-fizzles-democrats-plan-taxes-on-wealthy.html",
+   "source": "CNBC World",
+   "published": "2026-11-05T16:19:21Z",
+   "region": "Americas",
+   "category": "economy"
+  },
+  {
+   "title": "Burnham wants to ‘recast’ Chagos Islands deal after US resistance",
+   "summary": "UK PM says he wants ‘a new discussion’ with Washington over the disputed islands UK politics live – latest updates Andy Burnham has said he wants to “recast” the UK’s deal to cede control of the Chagos Islands after resistance from Washington, which said the agreement could instead be modelled on…",
+   "link": "https://www.theguardian.com/politics/2026/nov/05/andy-burnham-recast-chagos-islands-deal-us-resistance",
+   "source": "The Guardian World",
+   "published": "2026-11-05T16:17:48Z",
+   "region": "Europe",
+   "category": "news"
+  },
+  {
+   "title": "Navi Pillay: Fighting violence with justice",
+   "summary": "From the International Criminal Court to Africa’s place in the global justice system, the stakes are high. In an exclusive interview, Nobel Peace Prize winner, Navi Pillay will discuss international justice . She says it it must not be held hostage to political power, as Donald Trump targets the…",
+   "link": "https://www.france24.com/en/navi-pillay-fighting-violence-with-justice",
+   "source": "France 24",
+   "published": "2026-11-05T16:12:59Z",
+   "region": "Africa",
+   "category": "conflict"
+  },
+  {
+   "title": "Photos: Spain mourns Jesus de Miguel, who died after on-pitch collision",
+   "summary": "Mourners gather in Navahermosa to honour Tenerife player, whose death has united Spain’s football community in grief.",
+   "link": "https://www.aljazeera.com/gallery/2026/11/5/photos-spain-mourns-jesus-de-miguel-who-died-after-on-pitch-collision?traffic_source=rss",
+   "source": "Al Jazeera",
+   "published": "2026-11-05T16:12:37Z",
+   "region": "Europe",
+   "category": "news"
+  },
+  {
+   "title": "Vance eyes 2028 reset, as Republicans mull pivot after US midterms drubbing",
+   "summary": "A Democratic 'blue tsunami' in the US midterms shines a light on emerging distaste for Trump's brand among Republicans.",
+   "link": "https://www.aljazeera.com/news/2026/11/5/vance-eyes-2028-reset-as-republicans-mull-pivot-after-us-midterms-drubbing?traffic_source=rss",
+   "source": "Al Jazeera",
+   "published": "2026-11-05T16:12:35Z",
+   "region": "Americas",
+   "category": "news"
+  },
+  {
+   "title": "Voters say the economy drove them to the polls — and blame Trump for their troubles",
+   "summary": "Participants in the CNBC Voter Poll ranked the economy the most important issue facing the country, ahead of topics tied to democracy and immigration.",
+   "link": "https://www.cnbc.com/2026/11/04/2026-midterms-trump-economy-iran-war.html",
+   "source": "CNBC World",
+   "published": "2026-11-05T16:07:59Z",
+   "region": "Americas",
+   "category": "economy"
+  },
+  {
+   "title": "Photos: Thousands rally in France over rising costs and economic struggles",
+   "summary": "Trade unions led more than 260 planned protests nationwide, urging government to address economic woes and wage demands.",
+   "link": "https://www.aljazeera.com/gallery/2026/11/5/photos-thousands-rally-in-france-over-rising-costs-and-economic-struggles?traffic_source=rss",
+   "source": "Al Jazeera",
+   "published": "2026-11-05T16:07:56Z",
+   "region": "Europe",
+   "category": "economy"
+  },
+  {
+   "title": "Bank of England hikes interest rate for the first time since Iran war, warns inflation will near 5%",
+   "summary": "One policymaker voted to raise the bank's key interest rate to 4.25%.",
+   "link": "https://www.cnbc.com/2026/11/05/interest-rates-inflation-uk.html",
+   "source": "CNBC World",
+   "published": "2026-11-05T16:01:47Z",
+   "region": "Middle East",
+   "category": "economy"
+  },
+  {
+   "title": "Top Japan FA official to stand against Infantino for FIFA presidency",
+   "summary": "Kozo Tashima second person to declare he will challenge Infantino, after former Spurs defender Ramon Vega.",
+   "link": "https://www.aljazeera.com/sports/2026/11/5/top-japan-fa-official-to-stand-against-infantino-for-fifa-presidency?traffic_source=rss",
+   "source": "Al Jazeera",
+   "published": "2026-11-05T15:52:15Z",
+   "region": "Asia-Pacific",
+   "category": "news"
+  },
+  {
+   "title": "US midterms: 'Donald Trump's wings have been more than clipped'",
+   "summary": "US President Donald Trump faced a radically transformed and hostile political landscape after Democrats seized both the House of Representatives and the Senate in Tuesday's (November 3) midterms. The result was a personal humiliation for the 80-year-old Trump, leaving him as a lame duck president…",
+   "link": "https://www.france24.com/en/video/20261105-us-midterms-donald-trump-s-wings-have-been-more-than-clipped",
+   "source": "France 24",
+   "published": "2026-11-05T15:46:48Z",
+   "region": "Americas",
+   "category": "news"
+  },
+  {
+   "title": "Russell Brand is being investigated over two new rape complaints, police say",
+   "summary": "Det Supt Andy Furphy said he hoped other potential victims would gain \"courage\" and \"confidence\" from the guilty verdicts.",
+   "link": "https://www.bbc.co.uk/news/articles/c6vgx8q09gg4o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "published": "2026-11-05T15:44:49Z",
+   "region": "Global",
+   "category": "news"
+  },
+  {
+   "title": "France holds new strikes and protests as unions demand immediate answers",
+   "summary": "Five of France's unions join a wave of strikes and protests in a national day of action.",
+   "link": "https://www.bbc.co.uk/news/articles/ckx2qzv835pgo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "published": "2026-11-05T15:43:15Z",
+   "region": "Europe",
+   "category": "conflict"
+  },
+  {
+   "title": "Global travel sector grows despite headwinds",
+   "summary": "The global tourism sector is growing, despite conflicts and economic uncertainty. That's the finding of a new report by World Travel Market, which says the number of international arrivals is set to hit a record 1.57 billion in 2026.",
+   "link": "https://www.france24.com/en/tv-shows/people-profit/20261105-global-travel-sector-grows-despite-headwinds",
+   "source": "France 24",
+   "published": "2026-11-05T15:43:09Z",
+   "region": "Global",
+   "category": "economy"
+  },
+  {
+   "title": "Europe: Dozens of flights diverted following bomb threats",
+   "summary": "Hoax bomb threats hit at least 27 affected flights around Europe this week.",
+   "link": "https://www.france24.com/en/video/20261105-europe-dozens-of-flights-diverted-following-bomb-threats",
+   "source": "France 24",
+   "published": "2026-11-05T15:40:50Z",
+   "region": "Europe",
+   "category": "conflict"
+  },
+  {
+   "title": "'Identity crisis': Can Democrats 'deliver' following their 'historic', once in a generation victory?",
+   "summary": "A historic Democratic electoral breakthrough has transformed the American political landscape. For Laurie Dundon, Senior Associate Fellow at the European Leadership Network and former US diplomat, the central question is whether the Democratic Party can convert electoral momentum into coherent…",
+   "link": "https://www.france24.com/en/identity-crisis-can-democrats-deliver-following-their-historic-once-in-a-generation-victory",
+   "source": "France 24",
+   "published": "2026-11-05T15:27:11Z",
+   "region": "Americas",
+   "category": "news"
+  },
+  {
+   "title": "Drunk and dangerous e-bike riders face on-the-spot fines under crackdown",
+   "summary": "A consultation will consider fines and other ways to clamp down on dangerous e-bike riders.",
+   "link": "https://www.bbc.co.uk/news/articles/cmze4zk4d789o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC Business",
+   "published": "2026-11-05T15:27:09Z",
+   "region": "Global",
+   "category": "economy"
+  },
+  {
+   "title": "Bomb threats disrupt flights across Europe for the second time. Here’s what we know",
+   "summary": "Dozens of flights across Europe reported bomb threats on Thursday for the second time this week, disrupting air travel across London, Dublin, and Helsinki.",
+   "link": "https://www.cnbc.com/2026/11/05/bomb-threats-flights-europe.html",
+   "source": "CNBC World",
+   "published": "2026-11-05T15:26:06Z",
+   "region": "Europe",
+   "category": "conflict"
+  },
+  {
+   "title": "Why do veterinary fees and sausage rolls vary in price across London?",
+   "summary": "Location is not just the only factor on why prices differ across London, as Anna O'Neill finds out.",
+   "link": "https://www.bbc.co.uk/news/articles/cmgqw51gdnzyo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC Business",
+   "published": "2026-11-05T15:19:36Z",
+   "region": "Europe",
+   "category": "economy"
+  },
+  {
+   "title": "Why has Cristiano Ronaldo retired from international football?",
+   "summary": "Portugal superstar Ronaldo calls time on international career after a falling-out with head coach Jorge Jesus.",
+   "link": "https://www.aljazeera.com/sports/2026/11/5/why-has-cristiano-ronaldo-retired-from-international-football?traffic_source=rss",
+   "source": "Al Jazeera",
+   "published": "2026-11-05T15:14:05Z",
+   "region": "Europe",
+   "category": "news"
+  },
+  {
+   "title": "Jerusalem Daily: Settler pogroms in Hebron",
+   "summary": "Israel’s president consults party leaders on forming a government, as Israeli forces attack Palestinians in Gaza.",
+   "link": "https://www.aljazeera.com/video/newsfeed/2026/11/5/jerusalem-daily-settler-pogroms-in-hebron?traffic_source=rss",
+   "source": "Al Jazeera",
+   "published": "2026-11-05T15:10:42Z",
+   "region": "Middle East",
+   "category": "conflict"
+  },
+  {
+   "title": "Ronaldo in records: International milestones from the football icon",
+   "summary": "Ronaldo, 41, ended an illustrious 23-year career that spanned six World Cups and six European Championships.",
+   "link": "https://www.aljazeera.com/sports/2026/11/5/ronaldo-in-records-international-milestones-from-the-football-icon?traffic_source=rss",
+   "source": "Al Jazeera",
+   "published": "2026-11-05T15:09:31Z",
+   "region": "Europe",
+   "category": "news"
+  },
+  {
+   "title": "Iran signals satisfaction, skepticism after US midterm vote",
+   "summary": "While the Iranian regime says the US midterms will not change Washington's policy toward Tehran, some officials and commentators see the resounding Democratic victory as blowback against the Iran war.",
+   "link": "https://www.dw.com/en/iran-signals-satisfaction-skepticism-after-us-midterm-vote/a-79867149?maca=en-rss-en-world-4025-rdf",
+   "source": "DW World",
+   "published": "2026-11-05T15:04:00Z",
+   "region": "Middle East",
+   "category": "conflict"
+  },
+  {
+   "title": "Israel's Arab list backs Eisenkot as Netanyahu loses ultra-Orthodox support",
+   "summary": "Israel's largest Arab party grouping said Thursday it would recommend opposition leader Gadi Eisenkot to form the next government, potentially bolstering his bid after Arab-majority lists won a record 19 seats in last week's election and Prime Minister Benjamin Netanyahu lost the support of an…",
+   "link": "https://www.france24.com/en/middle-east/20261105-israel-main-arab-list-backs-eisenkot-to-form-government-after-election",
+   "source": "France 24",
+   "published": "2026-11-05T14:43:59Z",
+   "region": "Middle East",
+   "category": "news"
+  },
+  {
+   "title": "Bringing the magic of Harry Potter to life through music",
+   "summary": "In this edition of Entre Nous, we meet Timothy Henty, the British conductor bringing the magic of Harry Potter to life in Paris. As part of the Harry Potter Film Concert Series, he leads more than 80 musicians in a spectacular live orchestral performance, offering audiences a unique opportunity to…",
+   "link": "https://www.france24.com/en/tv-shows/entre-nous/20261105-bringing-the-magic-of-harry-potter-to-life-through-music",
+   "source": "France 24",
+   "published": "2026-11-05T14:30:51Z",
+   "region": "Europe",
+   "category": "news"
+  },
+  {
+   "title": "Debt of poorest countries at record $9.4tn high, World Bank data shows",
+   "summary": "Cost of servicing external debt is preventing developing countries from investing for future Debt owed by developing countries rose to a record $9.4tn (£7tn) last year, with the poorest paying the highest interest rates since the late 1980s, World Bank data shows. The UK government is preparing to…",
+   "link": "https://www.theguardian.com/business/2026/nov/05/developing-country-debt-record-94tn-high-world-bank-data",
+   "source": "The Guardian Economics",
+   "published": "2026-11-05T14:30:25Z",
+   "region": "Europe",
+   "category": "economy"
+  },
+  {
+   "title": "A bitter end for Ronaldo - the icon who transformed Portugal",
+   "summary": "As Cristiano Ronaldo retires from international football, Guillem Balague looks at why and what is next for the Portugal legend.",
+   "link": "https://www.bbc.co.uk/sport/football/articles/ckn9rwr2zzpvo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "published": "2026-11-05T14:29:40Z",
+   "region": "Europe",
+   "category": "news"
+  },
+  {
+   "title": "Watch: How rapist Brand was never far from controversy",
+   "summary": "BBC correspondent Sima Kotecha explains how the trial unfolded.",
+   "link": "https://www.bbc.co.uk/news/videos/c9dr8713zjgyo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "published": "2026-11-05T14:28:21Z",
+   "region": "Global",
+   "category": "news"
+  },
+  {
+   "title": "British comedian Russell Brand found guilty of rape, sexual assault",
+   "summary": "A London jury on Thursday convicted British comedian and actor Russell Brand of one count of rape and three counts of sexual assault.",
+   "link": "https://www.france24.com/en/europe/20261105-british-comedian-russell-brand-found-guilty-of-rape-sexual-assault",
+   "source": "France 24",
+   "published": "2026-11-05T14:26:40Z",
+   "region": "Europe",
+   "category": "news"
+  },
+  {
+   "title": "What does the raise in interest rates mean?",
+   "summary": "The BBC's cost of living correspondent Kevin Peachey explains what the change could mean for those saving for a holiday or to buying a house.",
+   "link": "https://www.bbc.co.uk/news/videos/c9kgjvmn4vlno?at_medium=RSS&at_campaign=rss",
+   "source": "BBC Business",
+   "published": "2026-11-05T14:02:24Z",
+   "region": "Global",
+   "category": "economy"
+  },
+  {
+   "title": "Joshua Wong, face of Hong Kong's pro-democracy protests, jailed for 10 years",
+   "summary": "Wong, 30, is among hundreds of Hongkongers detained under the controversial national security law.",
+   "link": "https://www.bbc.co.uk/news/articles/cwp9g3rlp8jlo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "published": "2026-11-05T13:51:03Z",
+   "region": "Asia-Pacific",
+   "category": "news"
+  },
+  {
+   "title": "What does Trump's midterm elections loss mean for strained US-India ties?",
+   "summary": "Donald Trump's electoral setback might give New Delhi and Washington space to reset relations, but there is no guarantee that the US will actually change its approach to India.",
+   "link": "https://www.dw.com/en/what-does-trump-s-midterm-elections-loss-mean-for-strained-us-india-ties/a-79865777?maca=en-rss-en-world-4025-rdf",
+   "source": "DW World",
+   "published": "2026-11-05T13:34:00Z",
+   "region": "Americas",
+   "category": "news"
+  },
+  {
+   "title": "Faisal Islam: How high will interest rates go?",
+   "summary": "The BBC's economics editor views one more interest rate as likely, but thinks that will be all.",
+   "link": "https://www.bbc.co.uk/news/articles/ckr5y0y37gv3o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC Business",
+   "published": "2026-11-05T13:17:10Z",
+   "region": "Global",
+   "category": "economy"
+  },
+  {
+   "title": "Interest rate rise in midst of cost of living crisis will leave many incredulous",
+   "summary": "Bank’s decision goes contrary to analysis from Office for Budget Responsibility that predicts lower inflation and little impetus for wage growth Bank of England raises interest rates to 4% Business live – latest updates An interest rate rise by the Bank of England to 4% is a big call when…",
+   "link": "https://www.theguardian.com/business/2026/nov/05/interest-rate-rise-in-midst-of-cost-of-living-crisis-will-leave-many-incredulous",
+   "source": "The Guardian Economics",
+   "published": "2026-11-05T13:10:44Z",
+   "region": "Europe",
+   "category": "economy"
+  },
+  {
+   "title": "Three ways the interest rate rise could affect you",
+   "summary": "Job, loans and savings are all affected by the rise in interest rates announced by the Bank of England.",
+   "link": "https://www.bbc.co.uk/news/articles/cx4g1q3vlp62o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC Business",
+   "published": "2026-11-05T13:08:30Z",
+   "region": "Europe",
+   "category": "economy"
+  },
+  {
+   "title": "What's next for Democrats after the midterms. And, a look at the outstanding races",
+   "summary": "Democrats have regained control of Congress. They have a long list of investigations into Trump planned. And, not all races have been called. Here's a look at how they could affect the Dems' majority.",
+   "link": "https://www.npr.org/2026/11/05/g-s1-152046/up-first-newsletter-democrats-congress-control-house-senate-trump-reaction",
+   "source": "NPR World",
+   "published": "2026-11-05T12:02:24Z",
+   "region": "Americas",
+   "category": "news"
+  },
+  {
+   "title": "Bank of England raises interest rates to 4%, the first increase for more than three years",
+   "summary": "Base rate increases from 3.75%, and Bank governor signals another rise in near future to combat rising inflation Analysis: Interest rate rise in midst of cost of living crisis will leave many incredulous Business live – latest updates The Bank of England has raised interest rates for the first time…",
+   "link": "https://www.theguardian.com/business/2026/nov/05/bank-of-england-raises-interest-rates-first-increase-for-more-than-three-years",
+   "source": "The Guardian Economics",
+   "published": "2026-11-05T12:00:31Z",
+   "region": "Europe",
+   "category": "economy"
+  },
+  {
+   "title": "The Pitt and ER are similar enough for lawsuit to proceed, judge rules",
+   "summary": "The widow of ER creator Michael Crichton argues The Pitt is effectively a reboot of the 1990s series.",
+   "link": "https://www.bbc.co.uk/news/articles/cq4g1r42jx00o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "published": "2026-11-05T11:21:35Z",
+   "region": "Global",
+   "category": "news"
+  },
+  {
+   "title": "North Korea tells EU to 'mind its own business' on human rights",
+   "summary": "North Korea's UN mission has lashed out at the European Union over a draft UN resolution. Pyongyang has said the West does not have a monopoly on human rights.",
+   "link": "https://www.dw.com/en/north-korea-tells-eu-to-mind-its-own-business-on-human-rights/a-79862196?maca=en-rss-en-world-4025-rdf",
+   "source": "DW World",
+   "published": "2026-11-05T11:14:00Z",
+   "region": "Asia-Pacific",
+   "category": "news"
+  },
+  {
+   "title": "Rural voters were feeling left behind before the midterms, poll shows",
+   "summary": "Polling done for the Guardian shows plummeting support from a former key constituency of Donald Trump’s base Polling conducted by the Harris Poll for the Guardian before the election shows just how angry voters were and points to one key reason Republicans lost so badly: plummeting support from…",
+   "link": "https://www.theguardian.com/business/2026/nov/05/former-trump-voters-economy",
+   "source": "The Guardian Economics",
+   "published": "2026-11-05T11:00:22Z",
+   "region": "Americas",
+   "category": "economy"
+  },
+  {
+   "title": "Was an Italian chef really fired over refusal to put pineapple on pizza?",
+   "summary": "The chef had stated that putting pineapple on pizza was \"offensive to his culture\".",
+   "link": "https://www.bbc.co.uk/news/videos/cmvg9yy8wpweo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "published": "2026-11-05T10:33:21Z",
+   "region": "Europe",
+   "category": "conflict"
+  },
+  {
+   "title": "Bomb threats disrupt several flights across Europe",
+   "summary": "At least a dozen flights were either diverted or landed with a military escort after bomb or security threats. The first reported case involved a flight from Dublin to Rome landing outside Paris and more soon followed.",
+   "link": "https://www.dw.com/en/bomb-threats-disrupt-several-flights-across-europe/a-79861216?maca=en-rss-en-world-4025-rdf",
+   "source": "DW World",
+   "published": "2026-11-05T10:10:00Z",
+   "region": "Europe",
+   "category": "conflict"
+  },
+  {
+   "title": "South Korea tests Arctic shipping route amid Russia-West row",
+   "summary": "For South Korean ships, navigating off the north coast of Russia dramatically reduces travel time to Europe, but the pro-Ukraine coalition might see it as undermining their efforts to isolate Moscow.",
+   "link": "https://www.dw.com/en/south-korea-tests-arctic-shipping-route-amid-russia-west-row/a-79853907?maca=en-rss-en-world-4025-rdf",
+   "source": "DW World",
+   "published": "2026-11-05T09:45:00Z",
+   "region": "Europe",
+   "category": "news"
+  },
+  {
+   "title": "What the Democrats' midterms win means for the US economy and Trump",
+   "summary": "From high oil prices and data centers to tariffs and mounting debt, economic concerns played a key role in the crushing defeat of President Donald Trump's Republicans. So can the Democrats now make a difference?",
+   "link": "https://www.dw.com/en/what-the-democrats-midterms-win-means-for-the-us-economy-and-trump/a-79853716?maca=en-rss-en-world-4025-rdf",
+   "source": "DW World",
+   "published": "2026-11-05T07:03:00Z",
+   "region": "Americas",
+   "category": "economy"
+  },
+  {
+   "title": "Bob Dylan comes knockin' on pope's door as Leo welcomes legend to Vatican",
+   "summary": "The American singer-songwriter and poet visited with the American pope at the Vatican during a break between concert dates in Italy. The Vatican said the encounter was brief.",
+   "link": "https://www.npr.org/2026/11/05/g-s1-152035/vatican-pope-bob-dylan",
+   "source": "NPR World",
+   "published": "2026-11-05T07:02:12Z",
+   "region": "Americas",
+   "category": "news"
+  },
+  {
+   "title": "Thursday briefing: ‘A dignified life for all must be the north star’: economist Isabella Weber answers your questions",
+   "summary": "In today’s newsletter: From the cost of living to the AI bubble and the fight against fascism, Weber answers Guardian readers’ questions on how to build a fairer economy and world Good morning. As stateside celebrations die down, the Democratic party will be forced to confront a (deceptively)…",
+   "link": "https://www.theguardian.com/world/2026/nov/05/thursday-briefing-a-dignified-life-for-all-must-be-the-north-star-economist-isabella-weber-answers-your-questions",
+   "source": "The Guardian Economics",
+   "published": "2026-11-05T06:44:54Z",
+   "region": "Global",
+   "category": "economy"
+  },
+  {
+   "title": "Hong Kong activist Joshua Wong sentenced to 10 years in prison",
+   "summary": "Wong was sentenced for his second conviction under a Beijing-imposed national security law, in a case that critics say reflects the crackdown on the city's once-thriving pro-democracy movement.",
+   "link": "https://www.npr.org/2026/11/05/g-s1-152032/hong-kong-activist-wong-sentenced",
+   "source": "NPR World",
+   "published": "2026-11-05T05:29:56Z",
+   "region": "Asia-Pacific",
+   "category": "news"
+  },
+  {
+   "title": "Winners, losers, the EU: Five takeaways from the US midterms",
+   "summary": "Donald Trump's Republicans suffered a crushing defeat in Tuesday's midterm elections, with the Democrats wresting control of Congress. What does this mean for US politics and the world?",
+   "link": "https://www.dw.com/en/winners-losers-the-eu-five-takeaways-from-the-us-midterms/a-79858901?maca=en-rss-en-world-4025-rdf",
+   "source": "DW World",
+   "published": "2026-11-04T20:27:00Z",
+   "region": "Americas",
+   "category": "news"
+  },
+  {
+   "title": "36 years later: Hungary opens Communist-era secret service files",
+   "summary": "Decades after the end of Soviet rule, Hungary is releasing all its secret service files. The disclosure is sparking fresh debate about informants, guilt and responsibility.",
+   "link": "https://www.dw.com/en/36-years-later-hungary-opens-communist-era-secret-service-files/a-79858016?maca=en-rss-en-world-4025-rdf",
+   "source": "DW World",
+   "published": "2026-11-04T19:30:00Z",
+   "region": "Europe",
+   "category": "news"
+  },
+  {
+   "title": "US stocks rise, dollar slides as investors digest Democrats’ midterm victories",
+   "summary": "Government bond yields fall while initial fears ease over impact of election results on world’s biggest economy US midterm elections – live updates After US midterms, what will lame-duck Trump mean for global economy? US stocks have surged as investors digest the Democrats’ victories in the midterm…",
+   "link": "https://www.theguardian.com/business/2026/nov/04/us-dollar-slides-democrats-midterm-election-win-growth-fears",
+   "source": "The Guardian Economics",
+   "published": "2026-11-04T16:38:28Z",
+   "region": "Americas",
+   "category": "economy"
+  },
+  {
+   "title": "After the US midterms, what will a lame duck Trump mean for the global economy?",
+   "summary": "Republicans’ crushing setback will play out in stock markets, inflation, interest rates and economic growth Donald Trump’s loss of control of the House of Representatives and the Senate has put the world economy on notice for an unpredictable final two years of his presidential term. After…",
+   "link": "https://www.theguardian.com/us-news/2026/nov/04/explainer-midterms-trump-us-global-economy-markets",
+   "source": "The Guardian Economics",
+   "published": "2026-11-04T15:56:30Z",
+   "region": "Americas",
+   "category": "economy"
+  },
+  {
+   "title": "The RBA says there is ‘excess demand’ in the economy. Households doing it tough might disagree | Greg Jericho",
+   "summary": "The problem with inflation driven by factors such as wars and supply side shocks is that interest rate rises don’t do much Get our daily political email , free app or daily news podcast On Tuesday this week came the biggest news regarding inflation. No, not the Reserve Bank’s decision to raise…",
+   "link": "https://www.theguardian.com/business/grogonomics/2026/nov/04/the-rba-says-there-is-excess-demand-in-the-economy-households-doing-it-tough-might-disagree",
+   "source": "The Guardian Economics",
+   "published": "2026-11-04T14:00:37Z",
+   "region": "Global",
+   "category": "economy"
+  },
+  {
+   "title": "Abdul El-Sayed welcomes Trump's plan to cut Israel aid, calls for end to arms sales",
+   "summary": "Michigan's first Muslim senator-elect, Abdul El-Sayed, discusses his historic victory, an unlikely agreement with Trump on Israel military aid and the political divisions that remain.",
+   "link": "https://www.npr.org/2026/11/04/nx-s1-6028702/abdul-el-sayed-michigan-senate-israel-aid",
+   "source": "NPR World",
+   "published": "2026-11-04T13:38:09Z",
+   "region": "Middle East",
+   "category": "conflict"
+  },
+  {
+   "title": "The world is reacting to the Democrats' sweeping midterm elections victory",
+   "summary": "From Kyiv to Moscow, and Tehran to Tel Aviv, all eyes were on the Democrats' big win as foreign powers weigh how a flipped Congress will affect international relations.",
+   "link": "https://www.npr.org/2026/11/04/nx-s1-6028664/world-reacts-midterm-elections",
+   "source": "NPR World",
+   "published": "2026-11-04T12:34:35Z",
+   "region": "Europe",
+   "category": "news"
+  },
+  {
+   "title": "Democrats seize full control of Congress. And, which candidates made history last night",
+   "summary": "Democrats have won the House and the Senate, taking full control of Congress for the first time since 2023. And history was made in several states. Here's what happened last night.",
+   "link": "https://www.npr.org/2026/11/04/g-s1-151745/up-first-newsletter-midterms-democrats-congress-control",
+   "source": "NPR World",
+   "published": "2026-11-04T12:18:39Z",
+   "region": "Americas",
+   "category": "news"
+  },
+  {
+   "title": "BMW reports lower Q3 earnings as China woes mount",
+   "summary": "BMW reports a drop in profits in the July to September quarter amid fierce competition from China.",
+   "link": "https://www.dw.com/en/bmw-reports-lower-q3-earnings-as-china-woes-mount/a-79850847?maca=en-rss-en-bus-2091-rdf",
+   "source": "DW Business",
+   "published": "2026-11-04T10:25:00Z",
+   "region": "Asia-Pacific",
+   "category": "economy"
+  },
+  {
+   "title": "Japan faces diplomatic dilemma amid joint pressure from nuclear neighbors",
+   "summary": "As the Ukraine war grinds on, ties between Russia and neighboring Japan are at their worst in decades. Tokyo wants more support from Washington, but some Japanese are concerned they may not get it.",
+   "link": "https://www.npr.org/2026/11/03/nx-s1-6012016/japan-faces-diplomatic-dilemma-amid-joint-pressure-from-nuclear-neighbors",
+   "source": "NPR World",
+   "published": "2026-11-03T22:25:15Z",
+   "region": "Asia-Pacific",
+   "category": "conflict"
+  },
+  {
+   "title": "For Ukraine's Kherson region, a short ceasefire meant a momentary return to normal life",
+   "summary": "In Kherson city, usually seething with Russian drones, friends met at cafes, families were out together and shoppers stocked up. \"The city seems alive,\" said one resident, \"just like it used to be.\"",
+   "link": "https://www.npr.org/2026/11/03/g-s1-151238/ukraine-russia-ceasefire-oleshky-kherson",
+   "source": "NPR World",
+   "published": "2026-11-03T15:54:39Z",
+   "region": "Europe",
+   "category": "conflict"
+  },
+  {
+   "title": "Indian navy rescues 20 crew from Iranian fishing boat hijacked off Somalia",
+   "summary": "he operation involved a warship, a maritime surveillance aircraft and marine commandos. The hijacking followed a resurgence of Somali piracy across the Gulf of Aden and western Indian Ocean.",
+   "link": "https://www.npr.org/2026/11/03/g-s1-151468/indian-navy-rescues-20-crew-from-iranian-fishing-boat-hijacked-off-somalia",
+   "source": "NPR World",
+   "published": "2026-11-03T14:13:58Z",
+   "region": "Asia-Pacific",
+   "category": "news"
+  },
+  {
+   "title": "Could the AI boom make borrowing more expensive in Europe?",
+   "summary": "France, Germany and Italy face a volatile bond market as war inflation bites. With US tech giants now issuing billions in AI bonds, they are competing with cash-strapped European governments.",
+   "link": "https://www.dw.com/en/could-the-ai-boom-make-borrowing-more-expensive-in-europe/a-79511985?maca=en-rss-en-bus-2091-rdf",
+   "source": "DW Business",
+   "published": "2026-11-03T10:27:00Z",
+   "region": "Europe",
+   "category": "economy"
+  }
+ ]
+}

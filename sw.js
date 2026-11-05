@@ -1,5 +1,5 @@
-/* Service worker: cache-first app shell, network-first data.json. Bump VERSION when shell files change. */
-var VERSION = "gim-v1";
+/* Service worker: cache-first app shell, network-first data.json and live-news.json. Bump VERSION when shell files change. */
+var VERSION = "gim-v2";
 var SHELL = ["./", "index.html", "app.css", "app.js", "manifest.webmanifest",
   "icons/apple-touch-icon.png", "icons/icon-192.png", "icons/icon-512.png", "icons/icon-maskable-512.png", "icons/favicon-32.png"];
 
@@ -16,12 +16,13 @@ self.addEventListener("fetch", function (e) {
   if (req.method !== "GET") return;
   var url = new URL(req.url);
   if (url.origin !== self.location.origin) return;
-  if (url.pathname.endsWith("/data.json")) {
+  var dataFile = url.pathname.endsWith("/data.json") ? "data.json" : url.pathname.endsWith("/live-news.json") ? "live-news.json" : null;
+  if (dataFile) {
     e.respondWith(fetch(req, { cache: "no-store" }).then(function (res) {
-      if (res.ok) { var copy = res.clone(); caches.open(VERSION).then(function (c) { c.put("data.json", copy); }); }
+      if (res.ok) { var copy = res.clone(); caches.open(VERSION).then(function (c) { c.put(dataFile, copy); }); }
       return res;
     }).catch(function () {
-      return caches.open(VERSION).then(function (c) { return c.match("data.json"); }).then(function (cached) {
+      return caches.open(VERSION).then(function (c) { return c.match(dataFile); }).then(function (cached) {
         if (!cached) return new Response('{"error":"offline"}', { status: 503, headers: { "Content-Type": "application/json" } });
         return cached.text().then(function (body) {
           return new Response(body, { headers: { "Content-Type": "application/json", "X-GIM-Offline": "1" } });
