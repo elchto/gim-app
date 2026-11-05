@@ -1,10 +1,68 @@
 {
   "title": "Global Intelligence Monitor",
-  "snapshot": "Thursday 5 November 2026, 19:30 (Europe/Rome)",
+  "snapshot": "Thursday 5 November 2026, 20:15 (Europe/Rome)",
   "snapshotDate": "2026-11-05",
-  "lastUpdated": "2026-11-05T19:30:00+01:00",
+  "lastUpdated": "2026-11-05T20:15:00+01:00",
   "summary": "A one-page briefing on world news, conflicts, politics and the economy in the week to 5 November 2026, with country profiles and a timeline since 1945.",
   "news": [
+    {
+      "headline": "Putin puts Japan Tobacco's Russian assets under temporary state management",
+      "summary": "A presidential decree transfers JTI stakes in four Russian factories (about 4,000 staff and roughly 40% of the cigarette market) to Industrial Assets / Promyshlennye Aktivy. JTI said it is assessing options; the move follows earlier seizures of Nestlé, Auchan, Metro and others.",
+      "date": "5 Nov 2026",
+      "region": "Europe",
+      "countries": [
+        "RU",
+        "JP"
+      ],
+      "source": "Kremlin / TASS / Euronews",
+      "url": "https://www.euronews.com/2026/11/05/putin-seizes-russian-operations-of-cigarette-giant-japan-tobacco-international"
+    },
+    {
+      "headline": "South Korea plans to expand anti-piracy mission closer to Hormuz",
+      "summary": "Seoul will seek Assembly approval to extend the Cheonghae unit from the Gulf of Aden to waters south of Oman (~1,930 km radius), add a P-8A patrol aircraft and an EOD/mine team, and keep operations non-combat and outside the strait itself.",
+      "date": "5 Nov 2026",
+      "region": "Asia-Pacific",
+      "countries": [
+        "IR",
+        "US"
+      ],
+      "source": "Yonhap",
+      "url": "https://en.yna.co.kr/view/AEN20261105000700315"
+    },
+    {
+      "headline": "Poland detains six over military-parts smuggling to Russia",
+      "summary": "ABW and prosecutors say five Poles and a Russian woman ran a group that moved ammunition and weapons components to Kaliningrad (worth over 2 million zloty). Four face espionage charges and pretrial detention; the group operated at least June 2023–December 2025.",
+      "date": "5 Nov 2026",
+      "region": "Europe",
+      "countries": [
+        "RU"
+      ],
+      "source": "Notes from Poland / ABW",
+      "url": "https://notesfrompoland.com/2026/11/05/six-detained-in-poland-on-suspicion-of-exporting-military-components-to-russia/"
+    },
+    {
+      "headline": "Meloni urges EU to appoint a single Ukraine peace envoy",
+      "summary": "In a letter to European Council President António Costa, Italy's PM said overlapping Miami, Oslo, Brussels and other formats make Europe look 'all over the place' and asked for the issue to go on the 13 Nov Dublin informal summit agenda, with a formal decision by December.",
+      "date": "5 Nov 2026",
+      "region": "Europe",
+      "countries": [
+        "UA",
+        "RU"
+      ],
+      "source": "POLITICO / Kyiv Independent",
+      "url": "https://www.politico.eu/article/giorgia-meloni-urges-eu-unity-ukraine/"
+    },
+    {
+      "headline": "Nasdaq down about 5.1% in afternoon US trade as AI stocks plunge",
+      "summary": "Yahoo Finance showed the Nasdaq Composite near 24,413 (−5.1%) with the market still open; earlier reports had the S&P 500 off about 3.7–3.9% and the Dow about 2.9%, erasing Wednesday's post-election rally on data-centre and chip fears.",
+      "date": "5 Nov 2026",
+      "region": "Americas",
+      "countries": [
+        "US"
+      ],
+      "source": "Yahoo Finance / AP",
+      "url": "https://finance.yahoo.com/quote/%5EIXIC/history/"
+    },
     {
       "headline": "Bank of England raises rates to 4%, first hike in over three years",
       "summary": "The MPC voted 8-1 to lift Bank Rate from 3.75% to 4% (Catherine Mann wanted 4.25%), citing energy prices from the Iran war, and now expects UK inflation near 5% by mid-2027.",
@@ -26,26 +84,15 @@
       "url": "https://apnews.com/article/ueno-bank-collapse-paraguay-banking-crisis-santiago-pena-impeachment-eccea1c9a64808b5cd7e6e1d5542084f"
     },
     {
-      "headline": "Nasdaq slides about 5% as AI and chip stocks sell off",
-      "summary": "Intraday on 5 Nov the Nasdaq was down about 5%, the S&P 500 3.3% and the Dow 2.2%, wiping out Wednesday's post-election rally; the chip index fell about 11% on fears of data-centre curbs after Democratic wins.",
-      "date": "5 Nov 2026",
-      "region": "Americas",
-      "countries": [
-        "US"
-      ],
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/live/stock-market-today-thursday-november-5-dow-sp-500-nasdaq-oil-rises-chip-stocks-141439950.html"
-    },
-    {
       "headline": "Eisenkot gets 67 recommendations to form Israel's next government",
-      "summary": "After Herzog's consultations, Gadi Eisenkot has 67 Knesset recommendations against 46 for Netanyahu; United Torah Judaism recommended no one. Eisenkot is expected, but not yet confirmed, to receive the mandate.",
+      "summary": "Joint List and Ra'am joined other opposition parties so Eisenkot has 67 Knesset recommendations vs 46 for Netanyahu; UTJ recommended no one. Herzog is expected to grant him the mandate after consultations wrap (28 days, plus up to 14).",
       "date": "5 Nov 2026",
       "region": "Middle East",
       "countries": [
         "IL"
       ],
-      "source": "Ynet / Jerusalem Post",
-      "url": "https://www.ynetnews.com/article/ryuqebc6zg"
+      "source": "Ynet / Jerusalem Post / AFP",
+      "url": "https://www.jpost.com/israel-election-2026/article-913989"
     },
     {
       "headline": "Iran says more tankers hit mines in the Strait of Hormuz",
@@ -253,17 +300,6 @@
       "url": "https://www.aljazeera.com/news/2026/11/4/israel-vote-results-confirmed-as-election-commission-rejects-fraud-claims"
     },
     {
-      "headline": "Houthi-Saudi fighting widens; US pulls non-emergency staff",
-      "summary": "Yemen's Houthis claimed missile and drone attacks on Saudi airports and oil sites, mostly unverified. The US ordered non-emergency government staff to leave Saudi Arabia.",
-      "date": "1 Nov 2026",
-      "region": "Middle East",
-      "countries": [
-        "SA"
-      ],
-      "source": "Vocemundi weekly review",
-      "url": "https://vocemundi.com/the-week-2026-11-01/"
-    },
-    {
       "headline": "Saudi crown prince hosts Syria's President al-Sharaa",
       "summary": "Mohammed bin Salman received Ahmed al-Sharaa in Riyadh for talks on security, counterterrorism and economic ties.",
       "date": "4 Nov 2026",
@@ -387,17 +423,6 @@
       "url": "https://www.thestar.com.my/news/nation/2026/11/04/keep-calm-and-stay-alert-says-anwar"
     },
     {
-      "headline": "Modi opens Pune Metro Line 3",
-      "summary": "Modi said India's metro network grew from 248 km in 2014 to about 1,200 km across 26 cities.",
-      "date": "3 Nov 2026",
-      "region": "Asia-Pacific",
-      "countries": [
-        "IN"
-      ],
-      "source": "The Hindu",
-      "url": "https://www.thehindu.com/news/national/maharashtra/pm-modi-pune-metro-line-inauguration-india-network-nov-3-2026/article71660288.ece"
-    },
-    {
       "headline": "Xi pledges 'high-standard opening up' before Shanghai import expo",
       "summary": "Xi said China will keep economic globalisation open and inclusive, as Beijing urged APEC members to uphold free trade.",
       "date": "4 Nov 2026",
@@ -407,29 +432,6 @@
       ],
       "source": "CGTN",
       "url": "https://news.cgtn.com/news/2026-11-04/President-Xi-Jinping-s-key-remarks-on-high-standard-opening-up-1RNogdiZkys/p.html"
-    },
-    {
-      "headline": "US-China trade truce holds, extended to January",
-      "summary": "The Guardian notes the truce has stopped tit-for-tat tariffs, but both sides keep tightening controls on chips and critical minerals.",
-      "date": "1 Nov 2026",
-      "region": "Asia-Pacific",
-      "countries": [
-        "CN",
-        "US"
-      ],
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/nov/01/us-china-trade-war-trump-xi"
-    },
-    {
-      "headline": "Opposition criticises Takaichi for skipping G7 meeting",
-      "summary": "Japan's opposition stepped up criticism of Prime Minister Sanae Takaichi for missing last month's G7 meeting.",
-      "date": "4 Nov 2026",
-      "region": "Asia-Pacific",
-      "countries": [
-        "JP"
-      ],
-      "source": "The Japan Times",
-      "url": "https://www.japantimes.co.jp/news/2026/11/04/japan/politics/opposition-takaichi-g7-criticism-mounts/"
     },
     {
       "headline": "Burnham says US midterms create an 'opportunity'",
@@ -460,13 +462,13 @@
       "name": "Russia-Ukraine war",
       "parties": "Russia, Ukraine (US mediating)",
       "status": {
-        "label": "Escalating",
+        "label": "Talks amid fighting",
         "tone": "danger"
       },
-      "latest": "Komyshuvakha strike toll at 42; strikes traded overnight. Melania Trump hosted both sides on 5 Nov; US-led talks in Abu Dhabi on 10-11 Nov.",
+      "latest": "Melania Trump hosted Russian and Ukrainian officials on 5 Nov after the Oleshky ceasefire; Meloni pressed the EU for a single peace envoy. US-led trilateral talks remain set for Abu Dhabi on 10-11 Nov while strikes continue.",
       "date": "5 Nov 2026",
-      "source": "AP / NBC News",
-      "url": "https://apnews.com/article/russia-ukraine-war-airstrikes-negotiations-kushner-0b975a30f862731346e7e1d098a8d538"
+      "source": "NBC / POLITICO",
+      "url": "https://www.politico.eu/article/giorgia-meloni-urges-eu-unity-ukraine/"
     },
     {
       "name": "US/Israel-Iran war",
@@ -475,10 +477,10 @@
         "label": "Talks and strikes",
         "tone": "warning"
       },
-      "latest": "Began 28 Feb 2026. Iran claims more tankers hit mines in Hormuz (unconfirmed); UKMTO reports a tanker hit off Qatar. Oman-Iran talks on a joint strait mechanism continue.",
+      "latest": "Iran says tankers/tug caught fire on unauthorised Hormuz routes (unconfirmed by maritime officials); South Korea plans to expand anti-piracy patrols toward waters south of Oman. Oil recovered toward ~$97 Brent.",
       "date": "5 Nov 2026",
-      "source": "CBS News / AFP",
-      "url": "https://www.cbsnews.com/live-updates/iran-war-us-trump-midterms-strait-of-hormuz/"
+      "source": "CNBC / Yonhap",
+      "url": "https://en.yna.co.kr/view/AEN20261105000700315"
     },
     {
       "name": "Houthis vs Saudi-led coalition (Yemen)",
@@ -532,6 +534,28 @@
   "politics": [
     {
       "date": "5 Nov",
+      "title": "Italy: Meloni presses EU for a Ukraine peace envoy",
+      "detail": "Letter to Costa calls overlapping formats 'all over the place' and seeks a Dublin (13 Nov) agenda item plus a December decision.",
+      "status": {
+        "label": "Diplomacy",
+        "tone": "warning"
+      },
+      "source": "POLITICO",
+      "url": "https://www.politico.eu/article/giorgia-meloni-urges-eu-unity-ukraine/"
+    },
+    {
+      "date": "5 Nov",
+      "title": "Poland: six detained over arms-parts pipeline to Russia",
+      "detail": "Four charged with espionage; ABW says components including ammunition parts were smuggled toward Kaliningrad.",
+      "status": {
+        "label": "Security",
+        "tone": "danger"
+      },
+      "source": "Notes from Poland",
+      "url": "https://notesfrompoland.com/2026/11/05/six-detained-in-poland-on-suspicion-of-exporting-military-components-to-russia/"
+    },
+    {
+      "date": "5 Nov",
       "title": "Paraguay: President Peña resigns; Alliana to take over",
       "detail": "Peña resigned amid the Ueno Bank crisis as impeachment moved forward; VP Pedro Alliana serves until August 2028.",
       "status": {
@@ -544,7 +568,7 @@
     {
       "date": "5 Nov",
       "title": "Israel: Eisenkot leads with 67 recommendations",
-      "detail": "Netanyahu got 46; UTJ abstained. Herzog is expected to give Eisenkot the first mandate (28 days, plus up to 14).",
+      "detail": "67 recommendations (including Joint List and Ra'am) vs 46 for Netanyahu; UTJ abstained. Herzog expected to give Eisenkot the first 28-day mandate.",
       "status": {
         "label": "Coalition talks",
         "tone": "warning"
@@ -636,13 +660,6 @@
       "detail": "About $4 billion a year, to stop at the end of 2026; arms sales continue.",
       "source": "Democracy Now / Xinhua",
       "url": "https://www.democracynow.org/2026/11/4/headlines"
-    },
-    {
-      "date": "4 Nov",
-      "title": "EU: Montenegro close to finishing accession talks",
-      "detail": "The Commission's enlargement report says a treaty could be signed in June 2027.",
-      "source": "Reuters via Devdiscourse",
-      "url": "https://www.devdiscourse.com/article/international/4001613-reuters-world-news-summary"
     }
   ],
   "upcoming": [
@@ -701,6 +718,14 @@
       "kind": "Politics",
       "source": "Reuters",
       "url": "https://www.reuters.com/5f374b32b07b/world/europe/us-hold-trilateral-talks-with-ukraine-russia-abu-dhabi-next-week-us-official-2026-11-02/"
+    },
+    {
+      "date": "12-13 Nov",
+      "event": "European Political Community + informal EU Council (Dublin); Meloni wants Ukraine envoy on agenda",
+      "place": "Dublin",
+      "kind": "Politics",
+      "source": "POLITICO / Kyiv Independent",
+      "url": "https://www.politico.eu/article/giorgia-meloni-urges-eu-unity-ukraine/"
     },
     {
       "date": "13 Nov",
@@ -769,6 +794,14 @@
       "url": "https://www.cnbc.com/2026/11/05/interest-rates-inflation-uk.html"
     },
     {
+      "item": "Russia: Japan Tobacco assets",
+      "figure": "Temporary state management",
+      "detail": "Putin decree moves JTI's four Russian factories (~40% cigarette market) to Industrial Assets; JTI assessing options.",
+      "date": "5 Nov 2026",
+      "source": "Euronews / TASS",
+      "url": "https://www.euronews.com/2026/11/05/putin-seizes-russian-operations-of-cigarette-giant-japan-tobacco-international"
+    },
+    {
       "item": "US Federal Reserve",
       "figure": "3.75-4.00% (hold)",
       "detail": "10-2 vote; Cook and Hammack wanted a 0.25 point hike. Statement: inflation remains elevated.",
@@ -810,19 +843,19 @@
     },
     {
       "item": "Brent crude oil",
-      "figure": "about $97 a barrel",
-      "detail": "Up about 2.6% on 5 Nov after a fall of more than 8% on 4 Nov to the lowest since 31 Aug.",
+      "figure": "about $97.09 a barrel",
+      "detail": "Brent futures up about 2.6% on 5 Nov (CNBC) after tumbling more than 8% on 4 Nov to the lowest since 31 Aug.",
       "date": "5 Nov 2026",
       "source": "CNBC / Reuters",
       "url": "https://www.cnbc.com/2026/11/05/oil-falls-for-a-fourth-day-on-expectations-for-lower-risk-of-iran-war-escalation.html"
     },
     {
       "item": "US stocks",
-      "figure": "Nasdaq about -5% (intraday)",
-      "detail": "5 Nov midday: S&P 500 -3.3%, Dow -2.2%; chip index about -11%. Gains of 4 Nov (S&P +1.6%) erased.",
+      "figure": "Nasdaq about −5.1% (afternoon)",
+      "detail": "Yahoo showed Nasdaq near 24,413 (−5.1%) while US markets were still open; S&P ~−3.7–3.9%, Dow ~−2.9% in afternoon reports. Chip/AI sell-off.",
       "date": "5 Nov 2026",
       "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/live/stock-market-today-thursday-november-5-dow-sp-500-nasdaq-oil-rises-chip-stocks-141439950.html"
+      "url": "https://finance.yahoo.com/quote/%5EIXIC/history/"
     },
     {
       "item": "Japan stocks",
@@ -849,7 +882,7 @@
       "url": "https://vocemundi.com/the-week-2026-11-01/"
     }
   ],
-  "economyNote": "The Bank of England decides on 5 November; see the upcoming events table. Energy is the main driver of higher inflation in Europe while the Iran war keeps Hormuz shipping disrupted.",
+  "economyNote": "The Bank of England raised Bank Rate to 4% on 5 November, its first hike in over three years. Energy from the Iran war remains the main driver of European inflation; Brent recovered toward about $97 after Wednesday's drop.",
   "policyRates": [
     {
       "label": "US Fed",
@@ -942,7 +975,7 @@
       "population": 10.124,
       "gdp": 616.56,
       "headOfState": "President Isaac Herzog",
-      "headOfGov": "Prime Minister Benjamin Netanyahu (Eisenkot leads coalition recommendations, 5 Nov)"
+      "headOfGov": "Prime Minister Benjamin Netanyahu (caretaker; Eisenkot expected to get formation mandate, 5 Nov)"
     },
     {
       "code": "IN",
@@ -1036,7 +1069,7 @@
       "headOfGov": "Prime Minister Anwar Ibrahim"
     }
   ],
-  "profilesNote": "Population and GDP are IMF World Economic Outlook estimates for 2025 (GDP in current US dollars). Leaders checked against news of 1-4 November 2026.",
+  "profilesNote": "Leaders checked against news of 1-5 November 2026.",
   "profileSource": "https://www.imf.org/external/datamapper/NGDPD@WEO",
   "history": [
     {
@@ -1322,13 +1355,31 @@
     {
       "year": 2026,
       "date": "5 Nov 2026",
-      "title": "Bank of England raises rates; Paraguay's president resigns",
-      "detail": "BoE lifts Bank Rate to 4% because of the Iran-war energy shock; Santiago Peña quits after the Ueno Bank collapse.",
-      "url": "https://www.cnbc.com/2026/11/05/interest-rates-inflation-uk.html",
-      "source": "CNBC"
+      "title": "BoE hike, Paraguay resignation, JTI Russia seizure",
+      "detail": "BoE lifts Bank Rate to 4%; Santiago Peña quits after Ueno Bank collapse; Putin places Japan Tobacco's Russian assets under temporary management.",
+      "url": "https://www.euronews.com/2026/11/05/putin-seizes-russian-operations-of-cigarette-giant-japan-tobacco-international",
+      "source": "Euronews / CNBC"
     }
   ],
   "sources": [
+    {
+      "title": "Meloni letter on EU Ukraine envoy",
+      "site": "politico.eu",
+      "date": "5 Nov 2026",
+      "url": "https://www.politico.eu/article/giorgia-meloni-urges-eu-unity-ukraine/"
+    },
+    {
+      "title": "South Korea Cheonghae expansion toward Hormuz",
+      "site": "yna.co.kr",
+      "date": "5 Nov 2026",
+      "url": "https://en.yna.co.kr/view/AEN20261105000700315"
+    },
+    {
+      "title": "Putin decree on JTI temporary administration",
+      "site": "kremlin.ru",
+      "date": "5 Nov 2026",
+      "url": "http://en.kremlin.ru/acts/news/81186"
+    },
     {
       "title": "IMF World Economic Outlook: GDP",
       "site": "imf.org",
