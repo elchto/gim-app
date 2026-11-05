@@ -1,10 +1,95 @@
 {
   "title": "Global Intelligence Monitor",
-  "snapshot": "Thursday 5 November 2026, 23:20 (Europe/Rome)",
-  "snapshotDate": "2026-11-05",
-  "lastUpdated": "2026-11-05T23:20:00+01:00",
-  "summary": "A one-page briefing on world news, conflicts, politics and the economy in the week to 5 November 2026, with country profiles and a timeline since 1945.",
+  "snapshot": "Friday 6 November 2026, 00:20 (Europe/Rome)",
+  "snapshotDate": "2026-11-06",
+  "lastUpdated": "2026-11-06T00:20:00+01:00",
+  "summary": "A one-page briefing on world news, conflicts, politics and the economy in the week to 6 November 2026, with country profiles and a timeline since 1945.",
   "news": [
+    {
+      "headline": "Pressure mounts on Hegseth after Republican midterm rout",
+      "summary": "Straits Times: Defence Secretary Pete Hegseth faces growing pressure as Democrats prepare congressional probes and Republicans blame the Iran war he championed for the election losses. Trump has stood by him so far, saying he is 'doing a very good job'.",
+      "date": "6 Nov 2026",
+      "region": "Americas",
+      "countries": [
+        "US"
+      ],
+      "source": "The Straits Times / Reuters",
+      "url": "https://www.straitstimes.com/world/while-you-were-sleeping-5-stories-you-might-have-missed-nov-6-2026"
+    },
+    {
+      "headline": "North Korea tests new air-defence missile and cruise-missile drill",
+      "summary": "Yonhap/KCNA: Pyongyang said it test-fired a newly designed air-defence missile system on 4 Nov and staged a long-range strategic cruise-missile strike drill against a virtual airport target — its fourth weapons test in a week. South Korea's JCS detected multiple missiles from Sondok flying less than 300 km.",
+      "date": "5 Nov 2026",
+      "region": "Asia-Pacific",
+      "countries": [],
+      "source": "Yonhap",
+      "url": "https://en.yna.co.kr/view/AEN20261105000651315"
+    },
+    {
+      "headline": "Democrats prepare energy and Iran-war probes for January Congress",
+      "summary": "CNBC: With House and Senate control, Democrats plan subpoenas on Trump energy deal-making — Venezuela oil (NABEP), critical-minerals stakes, cancelled renewables — and a war-powers push to end the Iran war. Jeffries said Democrats will 'end this reckless and costly war of choice'.",
+      "date": "5 Nov 2026",
+      "region": "Americas",
+      "countries": [
+        "US"
+      ],
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/11/05/trump-election-energy-venezuela-critical-mineral-renewable-iran.html"
+    },
+    {
+      "headline": "Europe flight hoaxes: emails signed 'fighters of the Male State'",
+      "summary": "Straits Times/AFP: Threat emails to Rome and Sofia airports during the 5 Nov wave of hoax bomb alerts were signed 'the fighters of the Male State'. AFP could not confirm a link to the far-right Russian movement of that name. At least 25–27 flights were disrupted across Europe.",
+      "date": "5 Nov 2026",
+      "region": "Europe",
+      "countries": [
+        "RU"
+      ],
+      "source": "The Straits Times / AFP",
+      "url": "https://www.straitstimes.com/world/while-you-were-sleeping-5-stories-you-might-have-missed-nov-6-2026"
+    },
+    {
+      "headline": "Brent settles at $98.29 after Hormuz tanker attacks",
+      "summary": "CNA/Reuters: Brent closed up $3.67 (3.88%) at $98.29 a barrel on 5 Nov; WTI rose to $90.52. UKMTO: at least five vessel incidents since Sunday. IRGC claimed tanker/tug fires on unauthorised Hormuz routes; Iran FM Araqchi held Gulf mediation calls.",
+      "date": "5 Nov 2026",
+      "region": "Middle East",
+      "countries": [
+        "IR",
+        "US"
+      ],
+      "source": "CNA / Reuters",
+      "url": "https://www.channelnewsasia.com/business/brent-crude-jumps-settles-up-over-3-after-tanker-attacks-6526116"
+    },
+    {
+      "headline": "France protests revised to 575,000; Lecornu sets Monday social conference",
+      "summary": "France 24: Interior ministry revised Thursday turnout to 575,000 (from ~600,000); CGT still claims nearly 1.6 million. About 448 arrests and 53 injured officers (provisional). PM Sébastien Lecornu will hold a social conference with unions and employers on Monday 9 Nov.",
+      "date": "5 Nov 2026",
+      "region": "Europe",
+      "countries": [
+        "FR"
+      ],
+      "source": "France 24",
+      "url": "https://www.france24.com/en/france/20261105-live-france-nationwide-strikes-living-costs"
+    },
+    {
+      "headline": "South Africa local count: ANC ~32%, DA ~26% at halfway",
+      "summary": "IOL: With ~53% counted, ANC on 31.83% nationally (CSIR projects ~31.7%), DA 25.92%, MK Party ~8%. ANC had won only 15 of 213 councils outright so far; hung councils rising. Full results still expected around 8 Nov.",
+      "date": "5 Nov 2026",
+      "region": "Africa",
+      "countries": [],
+      "source": "IOL",
+      "url": "https://iol.co.za/lge2026/2026-11-05-halfway-count-spells-trouble-for-anc-as-da-narrows-gap-to-six-points/"
+    },
+    {
+      "headline": "Paraguay: Congress spares Alliana; he is due to succeed Peña",
+      "summary": "Rio Times / AP / G1: Lower house shelved impeachment of VP Pedro Alliana (48-30) after unanimously sending Peña's case to the Senate. Alliana is due to be sworn in as president to finish the term to August 2028; swearing-in was scheduled for the evening of 5 Nov (completion not yet confirmed by major English wires).",
+      "date": "5 Nov 2026",
+      "region": "Americas",
+      "countries": [
+        "BR"
+      ],
+      "source": "The Rio Times / AP / G1",
+      "url": "https://www.riotimesonline.com/paraguay-congress-spares-alliana-next-president/"
+    },
     {
       "headline": "Nigerian court voids Atiku's presidential candidacy",
       "summary": "A Federal High Court in Abuja nullified the David Mark-led leadership of the opposition ADC and all its actions, including Atiku Abubakar's nomination for the 16 January 2027 presidential election. The ADC and Atiku say they will appeal and seek a stay of execution; Atiku calls the timing politically motivated (claim).",
@@ -134,19 +219,6 @@
       "url": "https://www.devdiscourse.com/article/international/4002095-reuters-world-news-summary"
     },
     {
-      "headline": "Oil rebounds: Brent near $98.44 amid Hormuz tanker incidents",
-      "summary": "CNBC: Brent futures rose about 4% to $98.44 a barrel by 2:42 p.m. ET (WTI ~$90.71) after Wednesday's >8% drop. UKMTO said at least five vessels reported incidents since Sunday; IRGC claims on unauthorised Hormuz routes remain unconfirmed by maritime officials.",
-      "date": "5 Nov 2026",
-      "region": "Middle East",
-      "countries": [
-        "IR",
-        "SA",
-        "US"
-      ],
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/11/05/oil-falls-for-a-fourth-day-on-expectations-for-lower-risk-of-iran-war-escalation.html"
-    },
-    {
       "headline": "Putin puts Japan Tobacco's Russian assets under temporary state management",
       "summary": "A presidential decree transfers JTI stakes in four Russian factories (about 4,000 staff and roughly 40% of the cigarette market) to Industrial Assets / Promyshlennye Aktivy. JTI said it is assessing options; the move follows earlier seizures of Nestlé, Auchan, Metro and others.",
       "date": "5 Nov 2026",
@@ -216,15 +288,6 @@
       "url": "https://www.cnbc.com/2026/11/05/interest-rates-inflation-uk.html"
     },
     {
-      "headline": "Paraguay's Peña resigns; lower house impeaches him over Ueno Bank collapse",
-      "summary": "AP reports the lower house voted 78-0 to impeach minutes after Peña announced his resignation. Ueno Bank's insolvency froze accounts for about 3 million customers (~60% of adults). Vice President Pedro Alliana is expected to take over through August 2028 once Congress accepts the resignation.",
-      "date": "5 Nov 2026",
-      "region": "Americas",
-      "countries": [],
-      "source": "AP / BBC",
-      "url": "https://apnews.com/article/ueno-bank-collapse-paraguay-banking-crisis-santiago-pena-impeachment-eccea1c9a64808b5cd7e6e1d5542084f"
-    },
-    {
       "headline": "Eisenkot gets 67 recommendations to form Israel's next government",
       "summary": "Joint List and Ra'am joined other opposition parties so Eisenkot has 67 Knesset recommendations vs 46 for Netanyahu; UTJ recommended no one. Herzog is expected to grant him the mandate after consultations wrap (28 days, plus up to 14).",
       "date": "5 Nov 2026",
@@ -234,18 +297,6 @@
       ],
       "source": "Ynet / Jerusalem Post / AFP",
       "url": "https://www.jpost.com/israel-election-2026/article-913989"
-    },
-    {
-      "headline": "Iran says more tankers hit mines in the Strait of Hormuz",
-      "summary": "Iran's Guards and army said several tankers and a tugboat caught fire after hitting mines (not confirmed by maritime officials); UKMTO reported a tanker struck by two projectiles off Qatar. Oman says it is still discussing a joint Hormuz mechanism with Iran.",
-      "date": "5 Nov 2026",
-      "region": "Middle East",
-      "countries": [
-        "IR",
-        "US"
-      ],
-      "source": "Reuters / AFP / CBS",
-      "url": "https://www.arabnews.com/middle-east/iran-says-five-tankers-and-tugboat-caught-fire-in-hormuz-3009888"
     },
     {
       "headline": "Melania Trump hosts Russian and Ukrainian officials at the White House",
@@ -273,31 +324,6 @@
       "url": "https://kyivindependent.com/42-bodies-recovered-from-rubble-after-russian-strike-on-komyshuvakha-as-search-continues-police-say/"
     },
     {
-      "headline": "France: interior ministry says 600,000 protest as unions claim ~1.6 million",
-      "summary": "Fourth national strike day over living costs and wages. France 24 cited the interior ministry at 600,000; CGT claimed close to 1.6 million. Clashes and tear gas reported in several cities; hundreds arrested per AP.",
-      "date": "5 Nov 2026",
-      "region": "Europe",
-      "countries": [
-        "FR"
-      ],
-      "source": "France 24 / AP / The Guardian",
-      "url": "https://www.france24.com/en/live-news/20261105-%F0%9F%94%B4-live-interior-ministry-says-600-000-protest-across-france-as-unions-claim-close-to-1-6-million"
-    },
-    {
-      "headline": "Hoax bomb threats disrupt at least 25 flights across Europe",
-      "summary": "The Guardian: at least 25 flights diverted or searched on Thursday across Italy, Ireland, the UK, Spain and more; about 33 flights hit this week. All landed safely; nothing found. Investigators say no evidence yet of a state actor. Some emails claimed 'Fighters of the Male State'.",
-      "date": "5 Nov 2026",
-      "region": "Europe",
-      "countries": [
-        "GB",
-        "IT",
-        "FR",
-        "DE"
-      ],
-      "source": "The Guardian / BBC",
-      "url": "https://www.theguardian.com/world/2026/nov/05/bomb-threats-disrupt-flights-across-europe-and-renew-hybrid-warfare-fears"
-    },
-    {
       "headline": "Joshua Wong jailed for 10 years under Hong Kong security law",
       "summary": "The pro-democracy activist, due for release in January, was sentenced for colluding with foreign forces under the 2020 national security law.",
       "date": "5 Nov 2026",
@@ -307,15 +333,6 @@
       ],
       "source": "BBC",
       "url": "https://www.bbc.co.uk/news/articles/cwp9g3rlp8jlo"
-    },
-    {
-      "headline": "ANC falls to about 32% in early South Africa local results",
-      "summary": "With 36% of votes counted, the ANC had about 32% and the DA 27%; if it holds, the ANC would be down about 14 points on 2021. Full results are expected on Sunday.",
-      "date": "5 Nov 2026",
-      "region": "Africa",
-      "countries": [],
-      "source": "Reuters via CNBC Africa",
-      "url": "https://www.cnbcafrica.com/2026/anc-narrowly-leads-da-in-early-south-africa-municipal-election-results"
     },
     {
       "headline": "Sudan and Ethiopia expel each other's diplomats",
@@ -359,29 +376,6 @@
       ],
       "source": "Xinhua",
       "url": "https://english.news.cn/20261104/dafb18a96f514e0d9bb3c190ef92702c/c.html"
-    },
-    {
-      "headline": "Wall Street rallies after the Democratic sweep",
-      "summary": "In early trade the Dow rose 2.3%, the S&P 500 1.72% and the Nasdaq 2.13%, as investors bet a divided Washington limits sharp policy shifts. Defence and data centre stocks fell.",
-      "date": "4 Nov 2026",
-      "region": "Americas",
-      "countries": [
-        "US"
-      ],
-      "source": "Business Standard (Reuters)",
-      "url": "https://www.business-standard.com/world-news/wall-street-rallies-after-democrats-win-congress-data-center-stocks-slide-126110402050_1.html"
-    },
-    {
-      "headline": "Tokyo stocks fall as Democrats retake Congress",
-      "summary": "The Nikkei closed down 1.42% at 62,188.63 after briefly dropping toward 60,000. Tokyo said the US alliance stays essential whatever the result.",
-      "date": "4 Nov 2026",
-      "region": "Asia-Pacific",
-      "countries": [
-        "JP",
-        "US"
-      ],
-      "source": "Kyodo News",
-      "url": "https://english.kyodonews.net/articles/-/90209"
     },
     {
       "headline": "US to host Ukraine-Russia talks in Abu Dhabi on 10-11 November",
@@ -586,10 +580,10 @@
         "label": "Talks amid fighting",
         "tone": "danger"
       },
-      "latest": "BBC: the six-day Oleshky (Kherson) humanitarian truce let hundreds evacuate. It is the widest ceasefire of the war so far, and Arakhamia called it the 'biggest de-escalation since 2022'. Melania Trump hosted the Russian and Ukrainian delegations on 5 Nov and called for a 'more enduring' ceasefire. Strikes continue elsewhere (AP, 5 Nov); the Komyshuvakha aid-point death toll is about 42–43. Italy is preparing a 13th arms package (COPASIR 10 Nov). The US-led Abu Dhabi talks are still set for 10–11 Nov.",
+      "latest": "BBC: Melania Trump hosted Russian and Ukrainian officials at the White House on 5 Nov and called for a 'more enduring' ceasefire after the six-day Oleshky (Kherson) humanitarian truce — Arakhamia called it the 'biggest de-escalation since 2022'. Strikes continue elsewhere (Komyshuvakha aid-point toll ~43). US-led Abu Dhabi talks still set for 10–11 Nov; Italy preparing a 13th arms package (COPASIR 10 Nov).",
       "date": "5 Nov 2026",
       "source": "BBC / AP / Reuters / ANSA",
-      "url": "https://www.bbc.co.uk/news/articles/c9p8g085mz07o"
+      "url": "https://www.bbc.com/news/articles/c9p8g085mz07o"
     },
     {
       "name": "US/Israel-Iran war",
@@ -598,10 +592,10 @@
         "label": "Talks and strikes",
         "tone": "warning"
       },
-      "latest": "IRGC/army claim multiple tanker/tug fires on unauthorised Hormuz routes (unconfirmed by maritime officials); UKMTO: ≥5 vessel incidents since Sunday, including projectiles off Qatar. Oil rebounded after Wednesday's drop. Iran FM held Gulf calls; Qatari mediation continues.",
+      "latest": "CNA/Reuters: Brent settled $98.29 (+$3.67) on 5 Nov after fresh tanker incidents. UKMTO: ≥5 vessel incidents since Sunday. IRGC claimed tanker/tug fires on unauthorised Hormuz routes. Iran FM Araqchi held Gulf calls; Qatari mediation continues. Democrats plan a January war-powers push to end the conflict.",
       "date": "5 Nov 2026",
-      "source": "CNBC / Yonhap",
-      "url": "https://www.cnbc.com/2026/11/05/oil-falls-for-a-fourth-day-on-expectations-for-lower-risk-of-iran-war-escalation.html"
+      "source": "CNA / Reuters / CNBC",
+      "url": "https://www.channelnewsasia.com/business/brent-crude-jumps-settles-up-over-3-after-tanker-attacks-6526116"
     },
     {
       "name": "Houthis vs Saudi-led coalition (Yemen)",
@@ -610,10 +604,10 @@
         "label": "Widening",
         "tone": "danger"
       },
-      "latest": "Coalition said it intercepted a Houthi ballistic missile toward the Medina region (5 Nov). CNBC: Houthis later claimed an attack on King Fahd airport in Dammam — no immediate Saudi confirmation. Saudi alerts warned of potential danger near Yanbu.",
+      "latest": "Coalition said it intercepted a Houthi ballistic missile toward the Medina region (5 Nov). Houthis later claimed an attack on King Fahd airport in Dammam — no immediate Saudi confirmation. Saudi alerts warned of potential danger near Yanbu.",
       "date": "5 Nov 2026",
-      "source": "CNBC / Iran International",
-      "url": "https://www.cnbc.com/2026/11/05/oil-falls-for-a-fourth-day-on-expectations-for-lower-risk-of-iran-war-escalation.html"
+      "source": "CNA / Reuters / CNBC",
+      "url": "https://www.channelnewsasia.com/business/brent-crude-jumps-settles-up-over-3-after-tanker-attacks-6526116"
     },
     {
       "name": "Gaza",
@@ -646,13 +640,79 @@
         "label": "Escalating",
         "tone": "danger"
       },
-      "latest": "UN and AP warn drone strikes on power/fuel sites are deepening outages and hunger. Sudan and Ethiopia expelled each other's diplomats on 5 Nov over alleged RSF backing. UN-backed talks with RSF bloc still expected before 25 Dec.",
+      "latest": "UN and AP warn drone strikes on power/fuel sites are deepening outages and hunger. Sudan and Ethiopia expelled each other's diplomats (Assosa/Qadaref) over alleged RSF backing. UN-backed talks with RSF bloc still expected before 25 Dec.",
       "date": "5 Nov 2026",
-      "source": "AP / UN News / The Soufan Center",
-      "url": "https://apnews.com/article/sudan-rapid-support-forces-drone-strikes-power-3d8369aa7479b594a72bc8439d08a0a2"
+      "source": "AP / Al Jazeera / The Soufan Center",
+      "url": "https://apnews.com/article/ethiopia-sudan-egypt-eritrea-diplomats-expulsions-drone-attacks-5e963c304cde91158a39218209a477cb"
     }
   ],
   "politics": [
+    {
+      "date": "6 Nov",
+      "title": "US: Hegseth under pressure after midterm rout",
+      "detail": "Democrats plan probes; some Republicans blame the Iran war he championed. Trump says Hegseth is 'doing a very good job' and has not signalled a replacement.",
+      "status": {
+        "label": "Under scrutiny",
+        "tone": "warning"
+      },
+      "source": "The Straits Times / Reuters",
+      "url": "https://www.straitstimes.com/world/while-you-were-sleeping-5-stories-you-might-have-missed-nov-6-2026"
+    },
+    {
+      "date": "5 Nov",
+      "title": "US: Democrats prepare energy and Iran-war oversight for January",
+      "detail": "CNBC: subpoena power on Venezuela oil (NABEP), critical minerals and cancelled renewables; Jeffries pledges a war-powers push to end the Iran war.",
+      "status": {
+        "label": "Agenda set",
+        "tone": "warning"
+      },
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/11/05/trump-election-energy-venezuela-critical-mineral-renewable-iran.html"
+    },
+    {
+      "date": "5 Nov",
+      "title": "Paraguay: Alliana spared impeachment; due to succeed Peña",
+      "detail": "Lower house shelved Alliana's impeachment 48-30 after unanimously advancing Peña's case to the Senate. Alliana is due to be sworn in to serve until August 2028 (swearing-in completion not yet confirmed by major English wires).",
+      "status": {
+        "label": "Succession underway",
+        "tone": "warning"
+      },
+      "source": "The Rio Times / AP / G1",
+      "url": "https://www.riotimesonline.com/paraguay-congress-spares-alliana-next-president/"
+    },
+    {
+      "date": "5 Nov",
+      "title": "France: 575,000 protest (ministry); Lecornu sets Monday social conference",
+      "detail": "Interior ministry revised turnout to 575,000; CGT claims ~1.6 million. PM Lecornu will meet unions and employers on 9 Nov on wages and purchasing power.",
+      "status": {
+        "label": "Talks Monday",
+        "tone": "warning"
+      },
+      "source": "France 24",
+      "url": "https://www.france24.com/en/france/20261105-live-france-nationwide-strikes-living-costs"
+    },
+    {
+      "date": "5 Nov",
+      "title": "South Africa: ANC ~32% / DA ~26% at halfway local count",
+      "detail": "IOL/IEC mid-count: ANC 31.83%, DA 25.92%, MK ~8%; many hung councils. Full results still expected around 8 Nov.",
+      "status": {
+        "label": "Counting",
+        "tone": "warning"
+      },
+      "source": "IOL",
+      "url": "https://iol.co.za/lge2026/2026-11-05-halfway-count-spells-trouble-for-anc-as-da-narrows-gap-to-six-points/"
+    },
+    {
+      "date": "5 Nov",
+      "title": "Europe: hoax bomb threats; 'Male State' claim unverified",
+      "detail": "≥25 flights disrupted. AFP saw emails to Rome/Sofia signed 'fighters of the Male State' but could not confirm the Russian far-right group's involvement.",
+      "status": {
+        "label": "Hybrid threat probe",
+        "tone": "warning"
+      },
+      "source": "The Straits Times / AFP / The Guardian",
+      "url": "https://www.straitstimes.com/world/while-you-were-sleeping-5-stories-you-might-have-missed-nov-6-2026"
+    },
     {
       "date": "5 Nov",
       "title": "Nigeria: court voids Atiku's ADC presidential nomination",
@@ -710,17 +770,6 @@
     },
     {
       "date": "5 Nov",
-      "title": "Europe: coordinated hoax bomb threats hit ≥25 flights",
-      "detail": "Guardian: ~33 flights disrupted this week; nothing found. Investigators say no evidence yet of a state actor.",
-      "status": {
-        "label": "Hybrid threat probe",
-        "tone": "warning"
-      },
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/nov/05/bomb-threats-disrupt-flights-across-europe-and-renew-hybrid-warfare-fears"
-    },
-    {
-      "date": "5 Nov",
       "title": "Italy: Meloni presses EU for a Ukraine peace envoy",
       "detail": "Letter to Costa calls overlapping formats 'all over the place' and seeks a Dublin (13 Nov) agenda item plus a December decision.",
       "status": {
@@ -740,28 +789,6 @@
       },
       "source": "Notes from Poland",
       "url": "https://notesfrompoland.com/2026/11/05/six-detained-in-poland-on-suspicion-of-exporting-military-components-to-russia/"
-    },
-    {
-      "date": "5 Nov",
-      "title": "Paraguay: Peña resigns; lower house impeaches over Ueno Bank",
-      "detail": "AP: lower house voted 78-0 to impeach minutes after Peña's resignation announcement. VP Pedro Alliana is expected to serve until August 2028 once Congress formalises the exit.",
-      "status": {
-        "label": "Power shift",
-        "tone": "warning"
-      },
-      "source": "AP",
-      "url": "https://apnews.com/article/ueno-bank-collapse-paraguay-banking-crisis-santiago-pena-impeachment-eccea1c9a64808b5cd7e6e1d5542084f"
-    },
-    {
-      "date": "5 Nov",
-      "title": "France: 600,000 protest (ministry); unions claim ~1.6 million",
-      "detail": "Fourth national strike day over wages and living costs; clashes reported in several cities.",
-      "status": {
-        "label": "Unrest",
-        "tone": "danger"
-      },
-      "source": "France 24 / AP",
-      "url": "https://www.france24.com/en/live-news/20261105-%F0%9F%94%B4-live-interior-ministry-says-600-000-protest-across-france-as-unions-claim-close-to-1-6-million"
     },
     {
       "date": "5 Nov",
@@ -810,13 +837,6 @@
       "url": "https://www.lamoncloa.gob.es/lang/en/presidente/news/paginas/2026/20261005-institutional-statement.aspx"
     },
     {
-      "date": "4-5 Nov",
-      "title": "South Africa: local elections test the ANC",
-      "detail": "Early count (36%): ANC about 32%, DA 27%; full results expected Sunday.",
-      "source": "Reuters via CNBC Africa",
-      "url": "https://www.cnbcafrica.com/2026/anc-narrowly-leads-da-in-early-south-africa-municipal-election-results"
-    },
-    {
       "date": "4 Nov",
       "title": "Indonesia: presidential chief of staff dismissed",
       "detail": "Listyo Sigit Prabowo sacked amid an illegal wiretapping probe.",
@@ -829,16 +849,17 @@
       "detail": "A confidence and supply agreement backing the 2027 budget and reforms.",
       "source": "Business Today Malaysia",
       "url": "https://www.businesstoday.com.my/2026/11/03/anwar-has-fewer-excuses-for-delayed-reforms-after-csa-analysts-say/"
-    },
-    {
-      "date": "3 Nov",
-      "title": "US: Trump announces end of military aid to Israel",
-      "detail": "About $4 billion a year, to stop at the end of 2026; arms sales continue.",
-      "source": "Democracy Now / Xinhua",
-      "url": "https://www.democracynow.org/2026/11/4/headlines"
     }
   ],
   "upcoming": [
+    {
+      "date": "6 Nov",
+      "event": "US jobs report for October",
+      "place": "Washington",
+      "kind": "Economy",
+      "source": "BLS",
+      "url": "https://www.bls.gov/schedule/2026/11_sched.htm"
+    },
     {
       "date": "8 Nov",
       "event": "Israel: Herzog to announce who is tasked with forming the next government",
@@ -864,20 +885,12 @@
       "url": "https://www.regeringen.se/pressmeddelanden/2026/11/aterinford-granskontroll-vid-inre-grans/"
     },
     {
-      "date": "6 Nov",
-      "event": "US jobs report for October",
-      "place": "Washington",
-      "kind": "Economy",
-      "source": "BLS",
-      "url": "https://www.bls.gov/schedule/2026/11_sched.htm"
-    },
-    {
       "date": "8 Nov",
-      "event": "South Africa: full local election results expected",
+      "event": "South Africa: full local election results expected (ANC ~32% / DA ~26% at mid-count)",
       "place": "Pretoria",
       "kind": "Politics",
-      "source": "Reuters via CNBC Africa",
-      "url": "https://www.cnbcafrica.com/2026/anc-narrowly-leads-da-in-early-south-africa-municipal-election-results"
+      "source": "IOL / IEC",
+      "url": "https://iol.co.za/lge2026/2026-11-05-halfway-count-spells-trouble-for-anc-as-da-narrows-gap-to-six-points/"
     },
     {
       "date": "9 Nov",
@@ -1051,19 +1064,19 @@
     },
     {
       "item": "Brent crude oil",
-      "figure": "about $98.44 a barrel",
-      "detail": "CNBC: Brent +~4% to $98.44 by 2:42 p.m. ET on 5 Nov (WTI ~$90.71) after >8% drop on 4 Nov. Hormuz tanker incidents and Iran-war outlook driving swings.",
+      "figure": "$98.29 a barrel (settle)",
+      "detail": "CNA/Reuters: Brent settled +$3.67 (+3.88%) at $98.29 on 5 Nov; WTI $90.52. Rebound after >8% drop on 4 Nov. Hormuz tanker incidents (UKMTO ≥5 since Sunday) and Iran-war outlook driving swings.",
       "date": "5 Nov 2026",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/11/05/oil-falls-for-a-fourth-day-on-expectations-for-lower-risk-of-iran-war-escalation.html"
+      "source": "CNA / Reuters",
+      "url": "https://www.channelnewsasia.com/business/brent-crude-jumps-settles-up-over-3-after-tanker-attacks-6526116"
     },
     {
       "item": "US stocks",
       "figure": "Nasdaq −5.17% (close)",
-      "detail": "Investing.com: Nasdaq Composite closed 24,405.73 (−5.17%). Guardian afternoon: S&P ~−3.7%, Dow ~−2.8%. Chip/AI sell-off after Democratic midterm sweep. CNBC/Guardian report −5.5%, the worst day since April 2025; Nvidia and Qualcomm fell more than 9%.",
+      "detail": "Investing.com: Nasdaq Composite closed 24,405.73 (−5.17%) on 5 Nov — deepest one-day drop in ~19 months / worst since Apr 2025 on AI-regulation fears after the Democratic sweep. Nvidia and Qualcomm fell more than 9%; SOX plunged over 12% (Straits Times).",
       "date": "5 Nov 2026",
-      "source": "Investing.com / The Guardian",
-      "url": "https://www.theguardian.com/business/2026/nov/05/nasdaq-heading-for-worst-day-in-18-months-as-wall-street-sustains-widespread-losses"
+      "source": "Investing.com / The Straits Times / The Guardian",
+      "url": "https://www.straitstimes.com/world/while-you-were-sleeping-5-stories-you-might-have-missed-nov-6-2026"
     },
     {
       "item": "Japan stocks",
@@ -1090,7 +1103,7 @@
       "url": "https://vocemundi.com/the-week-2026-11-01/"
     }
   ],
-  "economyNote": "The Bank of England raised Bank Rate to 4% on 5 November, its first hike in over three years. Energy from the Iran war remains the main driver of European inflation; Brent recovered toward about $98 after Wednesday's drop.",
+  "economyNote": "The Bank of England raised Bank Rate to 4% on 5 November, its first hike in over three years. Energy from the Iran war remains the main driver of European inflation; Brent settled at $98.29 on 5 Nov after tanker attacks. US October jobs report is due later today (6 Nov, 08:30 ET).",
   "policyRates": [
     {
       "label": "US Fed",
@@ -1277,7 +1290,7 @@
       "headOfGov": "Prime Minister Anwar Ibrahim"
     }
   ],
-  "profilesNote": "Leaders checked against news of 1-5 November 2026 (evening update).",
+  "profilesNote": "Leaders checked against news of 5–6 November 2026 (early Friday update). Israel: Netanyahu remains caretaker PM; Herzog to name mandate-holder Sunday 8 Nov (Eisenkot 67 vs Netanyahu 46). Paraguay succession: Alliana due to succeed Peña after lower house spared him — not listed in country profiles.",
   "profileSource": "https://www.imf.org/external/datamapper/NGDPD@WEO",
   "history": [
     {
@@ -1564,12 +1577,30 @@
       "year": 2026,
       "date": "5 Nov 2026",
       "title": "BoE hike, Paraguay crisis, Europe flight hoaxes, Nasdaq plunge",
-      "detail": "BoE lifts Bank Rate to 4%; Peña resigns/impeached over Ueno Bank; ≥25 Europe flights hit by hoax bomb threats; Nasdaq closes −5.17%; Herzog sets Sunday mandate decision; Sweden extends Schengen border checks; Italy prepares 13th Ukraine arms package. Nasdaq has its worst day since Apr 2025 on AI fears; a Nigerian court voids Atiku's candidacy.",
-      "url": "https://www.ynetnews.com/article/rjj1td9pfx",
-      "source": "Ynet / Reuters / Euronews / CNBC"
+      "detail": "BoE lifts Bank Rate to 4%; Peña resigns/impeached over Ueno Bank and Alliana is spared to succeed him; ≥25 Europe flights hit by hoax bomb threats (Male State claim unverified); Nasdaq closes −5.17% / Brent settles $98.29; Herzog sets Sunday mandate decision; Melania hosts RU/UA at White House; North Korea tests new air defence; Hegseth under post-midterm pressure. A Nigerian court voids Atiku's candidacy.",
+      "url": "https://www.straitstimes.com/world/while-you-were-sleeping-5-stories-you-might-have-missed-nov-6-2026",
+      "source": "Straits Times / Ynet / Reuters / Euronews / CNBC / Yonhap"
     }
   ],
   "sources": [
+    {
+      "title": "CNA/Reuters — Brent settle after tanker attacks",
+      "site": "CNA",
+      "url": "https://www.channelnewsasia.com/business/brent-crude-jumps-settles-up-over-3-after-tanker-attacks-6526116",
+      "date": "5 Nov 2026"
+    },
+    {
+      "title": "Yonhap — North Korea air defence test",
+      "site": "Yonhap",
+      "url": "https://en.yna.co.kr/view/AEN20261105000651315",
+      "date": "5 Nov 2026"
+    },
+    {
+      "title": "Straits Times — While You Were Sleeping Nov 6",
+      "site": "The Straits Times",
+      "url": "https://www.straitstimes.com/world/while-you-were-sleeping-5-stories-you-might-have-missed-nov-6-2026",
+      "date": "6 Nov 2026"
+    },
     {
       "title": "Ukraine-Russia airstrikes; Brussels talks",
       "site": "apnews.com",
@@ -1656,11 +1687,6 @@
       "site": "reuters.com",
       "date": "16 Jul 2026",
       "url": "https://www.reuters.com/world/ukraine-parliament-approves-energy-executive-koretskyi-new-pm-2026-07-16/"
-    },
-    {
-      "title": "French government: Sebastien Lecornu",
-      "site": "info.gouv.fr",
-      "url": "https://www.info.gouv.fr/personnalite/sebastien-lecornu"
     }
   ]
 }
