@@ -1,10 +1,34 @@
 {
   "title": "Global Intelligence Monitor",
-  "snapshot": "Thursday 5 November 2026, 20:15 (Europe/Rome)",
+  "snapshot": "Thursday 5 November 2026, 21:18 (Europe/Rome)",
   "snapshotDate": "2026-11-05",
-  "lastUpdated": "2026-11-05T20:15:00+01:00",
+  "lastUpdated": "2026-11-05T21:18:00+01:00",
   "summary": "A one-page briefing on world news, conflicts, politics and the economy in the week to 5 November 2026, with country profiles and a timeline since 1945.",
   "news": [
+    {
+      "headline": "Oil rebounds: Brent near $98.44 amid Hormuz tanker incidents",
+      "summary": "CNBC: Brent futures rose about 4% to $98.44 a barrel by 2:42 p.m. ET (WTI ~$90.71) after Wednesday's >8% drop. UKMTO said at least five vessels reported incidents since Sunday; IRGC claims on unauthorised Hormuz routes remain unconfirmed by maritime officials.",
+      "date": "5 Nov 2026",
+      "region": "Middle East",
+      "countries": [
+        "IR",
+        "SA",
+        "US"
+      ],
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/11/05/oil-falls-for-a-fourth-day-on-expectations-for-lower-risk-of-iran-war-escalation.html"
+    },
+    {
+      "headline": "Herzog continues weekend talks; Eisenkot holds 67 recommendations",
+      "summary": "Jerusalem Post: after party consultations, Eisenkot has 67 recommendations vs Netanyahu's smaller bloc. Herzog said he will meet party heads privately over the weekend to 'leave no stone unturned' before naming who forms the next government.",
+      "date": "5 Nov 2026",
+      "region": "Middle East",
+      "countries": [
+        "IL"
+      ],
+      "source": "Jerusalem Post",
+      "url": "https://www.jpost.com/israel-election-2026/article-913989"
+    },
     {
       "headline": "Putin puts Japan Tobacco's Russian assets under temporary state management",
       "summary": "A presidential decree transfers JTI stakes in four Russian factories (about 4,000 staff and roughly 40% of the cigarette market) to Industrial Assets / Promyshlennye Aktivy. JTI said it is assessing options; the move follows earlier seizures of Nestlé, Auchan, Metro and others.",
@@ -53,15 +77,15 @@
       "url": "https://www.politico.eu/article/giorgia-meloni-urges-eu-unity-ukraine/"
     },
     {
-      "headline": "Nasdaq down about 5.1% in afternoon US trade as AI stocks plunge",
-      "summary": "Yahoo Finance showed the Nasdaq Composite near 24,413 (−5.1%) with the market still open; earlier reports had the S&P 500 off about 3.7–3.9% and the Dow about 2.9%, erasing Wednesday's post-election rally on data-centre and chip fears.",
+      "headline": "Nasdaq closes down 5.17% as AI and chip stocks plunge",
+      "summary": "Investing.com historical data put the Nasdaq Composite close at 24,405.73 (−5.17%). Afternoon reporting had the S&P 500 off about 3.7% and the Dow about 2.8–2.9% as chipmakers and data-centre names led a post-midterm AI sell-off.",
       "date": "5 Nov 2026",
       "region": "Americas",
       "countries": [
         "US"
       ],
-      "source": "Yahoo Finance / AP",
-      "url": "https://finance.yahoo.com/quote/%5EIXIC/history/"
+      "source": "Investing.com / The Guardian",
+      "url": "https://www.theguardian.com/business/2026/nov/05/nasdaq-heading-for-worst-day-in-18-months-as-wall-street-sustains-widespread-losses"
     },
     {
       "headline": "Bank of England raises rates to 4%, first hike in over three years",
@@ -75,12 +99,12 @@
       "url": "https://www.cnbc.com/2026/11/05/interest-rates-inflation-uk.html"
     },
     {
-      "headline": "Paraguay's President Peña resigns after Ueno Bank collapse",
-      "summary": "Peña quit as the lower house moved to impeach him over the collapse of Ueno Bank, which says it has about 3 million customers. Vice President Pedro Alliana is due to be sworn in and serve until August 2028.",
+      "headline": "Paraguay's Peña resigns; lower house impeaches him over Ueno Bank collapse",
+      "summary": "AP reports the lower house voted 78-0 to impeach minutes after Peña announced his resignation. Ueno Bank's insolvency froze accounts for about 3 million customers (~60% of adults). Vice President Pedro Alliana is expected to take over through August 2028 once Congress accepts the resignation.",
       "date": "5 Nov 2026",
       "region": "Americas",
       "countries": [],
-      "source": "BBC / AP",
+      "source": "AP / BBC",
       "url": "https://apnews.com/article/ueno-bank-collapse-paraguay-banking-crisis-santiago-pena-impeachment-eccea1c9a64808b5cd7e6e1d5542084f"
     },
     {
@@ -120,38 +144,41 @@
       "url": "https://www.nbcnews.com/world/ukraine/melania-trump-host-russia-ukraine-representatives-white-house-rare-mee-rcna607390"
     },
     {
-      "headline": "Komyshuvakha strike death toll rises to 42",
-      "summary": "Police said up to 33 people may still be under rubble after Monday's Russian bombing of an aid point in Zaporizhzhia region; overnight both sides traded strikes as reconstruction talks resumed in Brussels.",
+      "headline": "Komyshuvakha strike death toll rises to 43",
+      "summary": "Kyiv Independent: 43 bodies recovered after Monday's Russian aerial-bomb attack on an aid point in Zaporizhzhia Oblast; about 33 people still missing. Zelensky called it proof Russia does not want de-escalation as US-hosted talks approach.",
       "date": "5 Nov 2026",
       "region": "Europe",
       "countries": [
         "UA",
         "RU"
       ],
-      "source": "Reuters via The Independent / AP",
-      "url": "https://www.independent.co.uk/news/world/europe/ukraine-russia-war-live-zelensky-melania-trump-putin-school-attack-b3079507.html"
+      "source": "Kyiv Independent",
+      "url": "https://kyivindependent.com/42-bodies-recovered-from-rubble-after-russian-strike-on-komyshuvakha-as-search-continues-police-say/"
     },
     {
-      "headline": "Hundreds of thousands protest over living costs across France",
-      "summary": "The interior ministry counted more than 600,000 protesters, while the CGT claimed 1.57 million. PM Lecornu said he will convene a 'social conference' with unions and employers on Monday.",
+      "headline": "France: interior ministry says 600,000 protest as unions claim ~1.6 million",
+      "summary": "Fourth national strike day over living costs and wages. France 24 cited the interior ministry at 600,000; CGT claimed close to 1.6 million. Clashes and tear gas reported in several cities; hundreds arrested per AP.",
       "date": "5 Nov 2026",
       "region": "Europe",
       "countries": [
         "FR"
       ],
-      "source": "BBC",
-      "url": "https://www.bbc.co.uk/news/articles/ckx2qzv835pgo"
+      "source": "France 24 / AP / The Guardian",
+      "url": "https://www.france24.com/en/live-news/20261105-%F0%9F%94%B4-live-interior-ministry-says-600-000-protest-across-france-as-unions-claim-close-to-1-6-million"
     },
     {
-      "headline": "Hoax bomb threats divert flights across Europe for a second time",
-      "summary": "At least 27 flights were affected on Thursday (per Reuters), including Aer Lingus, Finnair, Wizz Air and LOT services; Finnair flights to Rome and Vienna landed safely and nothing was found.",
+      "headline": "Hoax bomb threats disrupt at least 25 flights across Europe",
+      "summary": "The Guardian: at least 25 flights diverted or searched on Thursday across Italy, Ireland, the UK, Spain and more; about 33 flights hit this week. All landed safely; nothing found. Investigators say no evidence yet of a state actor. Some emails claimed 'Fighters of the Male State'.",
       "date": "5 Nov 2026",
       "region": "Europe",
       "countries": [
-        "GB"
+        "GB",
+        "IT",
+        "FR",
+        "DE"
       ],
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/11/05/bomb-threats-flights-europe.html"
+      "source": "The Guardian / BBC",
+      "url": "https://www.theguardian.com/world/2026/nov/05/bomb-threats-disrupt-flights-across-europe-and-renew-hybrid-warfare-fears"
     },
     {
       "headline": "Joshua Wong jailed for 10 years under Hong Kong security law",
@@ -444,17 +471,6 @@
       ],
       "source": "The Guardian",
       "url": "https://www.theguardian.com/politics/live/2026/nov/04/ed-miliband-andy-burnham-king-charles-labour-louise-haigh-alex-burghart-pmqs-conservatives-uk-politics-latest-news"
-    },
-    {
-      "headline": "Brazil publishes first global roadmap to phase out fossil fuels",
-      "summary": "Brazil urged countries to start planning now for a voluntary phase-out of coal, oil and gas, days before COP31.",
-      "date": "4 Nov 2026",
-      "region": "Americas",
-      "countries": [
-        "BR"
-      ],
-      "source": "Euronews",
-      "url": "https://www.euronews.com/2026/11/04"
     }
   ],
   "conflicts": [
@@ -465,10 +481,10 @@
         "label": "Talks amid fighting",
         "tone": "danger"
       },
-      "latest": "Melania Trump hosted Russian and Ukrainian officials on 5 Nov after the Oleshky ceasefire; Meloni pressed the EU for a single peace envoy. US-led trilateral talks remain set for Abu Dhabi on 10-11 Nov while strikes continue.",
+      "latest": "Komyshuvakha aid-point strike death toll at 43 with ~33 still missing (Kyiv Independent, 5 Nov). Melania Trump hosted Russian and Ukrainian officials; Meloni pressed the EU for a single peace envoy. US-led talks still set for Abu Dhabi 10-11 Nov.",
       "date": "5 Nov 2026",
-      "source": "NBC / POLITICO",
-      "url": "https://www.politico.eu/article/giorgia-meloni-urges-eu-unity-ukraine/"
+      "source": "Kyiv Independent / POLITICO",
+      "url": "https://kyivindependent.com/42-bodies-recovered-from-rubble-after-russian-strike-on-komyshuvakha-as-search-continues-police-say/"
     },
     {
       "name": "US/Israel-Iran war",
@@ -477,10 +493,10 @@
         "label": "Talks and strikes",
         "tone": "warning"
       },
-      "latest": "Iran says tankers/tug caught fire on unauthorised Hormuz routes (unconfirmed by maritime officials); South Korea plans to expand anti-piracy patrols toward waters south of Oman. Oil recovered toward ~$97 Brent.",
+      "latest": "Brent rebounded toward ~$98.44 as IRGC claimed tanker/tug fires on unauthorised Hormuz routes (unconfirmed by maritime officials). UKMTO: ≥5 vessel incidents since Sunday. South Korea plans anti-piracy expansion toward waters south of Oman.",
       "date": "5 Nov 2026",
       "source": "CNBC / Yonhap",
-      "url": "https://en.yna.co.kr/view/AEN20261105000700315"
+      "url": "https://www.cnbc.com/2026/11/05/oil-falls-for-a-fourth-day-on-expectations-for-lower-risk-of-iran-war-escalation.html"
     },
     {
       "name": "Houthis vs Saudi-led coalition (Yemen)",
@@ -489,10 +505,10 @@
         "label": "Widening",
         "tone": "danger"
       },
-      "latest": "Coalition says it intercepted a Houthi ballistic missile fired toward the Medina region on 5 Nov; attacks on Saudi sites continue. The 2022 UN truce has broken down.",
+      "latest": "Coalition said it intercepted a Houthi ballistic missile toward the Medina region (5 Nov). CNBC: Houthis later claimed an attack on King Fahd airport in Dammam — no immediate Saudi confirmation. Saudi alerts warned of potential danger near Yanbu.",
       "date": "5 Nov 2026",
-      "source": "Iran International (citing coalition)",
-      "url": "https://www.iranintl.com/en/liveblog/202610312594"
+      "source": "CNBC / Iran International",
+      "url": "https://www.cnbc.com/2026/11/05/oil-falls-for-a-fourth-day-on-expectations-for-lower-risk-of-iran-war-escalation.html"
     },
     {
       "name": "Gaza",
@@ -501,10 +517,10 @@
         "label": "Fragile ceasefire",
         "tone": "warning"
       },
-      "latest": "The October 2025 ceasefire holds loosely; a Hamas delegation in Cairo urges mediators to press Israel to implement the deal and move to the next phase.",
+      "latest": "October 2025 ceasefire remains fragile. Democracy Now / Al Jazeera reported further Israeli gunfire killing Palestinians in Gaza on 5 Nov (claims; figures vary by source). Hamas still presses mediators in Cairo on next-phase implementation.",
       "date": "5 Nov 2026",
-      "source": "Middle East Monitor",
-      "url": "https://www.middleeastmonitor.com/20261105-hamas-urges-mediators-to-pressure-israel-to-implement-gaza-agreement/"
+      "source": "Democracy Now / Al Jazeera",
+      "url": "https://www.democracynow.org/2026/11/5/headlines"
     },
     {
       "name": "Israel-Hezbollah (Lebanon)",
@@ -525,13 +541,24 @@
         "label": "Escalating",
         "tone": "danger"
       },
-      "latest": "Drone strikes on power and fuel sites deepen outages and hunger; Sudan and Ethiopia expelled each other's diplomats on 5 Nov over claims of backing rivals. No ceasefire.",
+      "latest": "UN and AP warn drone strikes on power/fuel sites are deepening outages and hunger. Sudan and Ethiopia expelled each other's diplomats on 5 Nov over alleged RSF backing. UN-backed talks with RSF bloc still expected before 25 Dec.",
       "date": "5 Nov 2026",
-      "source": "The National / UN News",
-      "url": "https://www.thenationalnews.com/news/mena/2026/11/05/sudan-and-ethiopia-in-tit-for-tat-expulsions-of-diplomats-as-tensions-rise/"
+      "source": "AP / UN News / The Soufan Center",
+      "url": "https://apnews.com/article/sudan-rapid-support-forces-drone-strikes-power-3d8369aa7479b594a72bc8439d08a0a2"
     }
   ],
   "politics": [
+    {
+      "date": "5 Nov",
+      "title": "Europe: coordinated hoax bomb threats hit ≥25 flights",
+      "detail": "Guardian: ~33 flights disrupted this week; nothing found. Investigators say no evidence yet of a state actor.",
+      "status": {
+        "label": "Hybrid threat probe",
+        "tone": "warning"
+      },
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/nov/05/bomb-threats-disrupt-flights-across-europe-and-renew-hybrid-warfare-fears"
+    },
     {
       "date": "5 Nov",
       "title": "Italy: Meloni presses EU for a Ukraine peace envoy",
@@ -556,8 +583,8 @@
     },
     {
       "date": "5 Nov",
-      "title": "Paraguay: President Peña resigns; Alliana to take over",
-      "detail": "Peña resigned amid the Ueno Bank crisis as impeachment moved forward; VP Pedro Alliana serves until August 2028.",
+      "title": "Paraguay: Peña resigns; lower house impeaches over Ueno Bank",
+      "detail": "AP: lower house voted 78-0 to impeach minutes after Peña's resignation announcement. VP Pedro Alliana is expected to serve until August 2028 once Congress formalises the exit.",
       "status": {
         "label": "Power shift",
         "tone": "warning"
@@ -567,25 +594,25 @@
     },
     {
       "date": "5 Nov",
-      "title": "Israel: Eisenkot leads with 67 recommendations",
-      "detail": "67 recommendations (including Joint List and Ra'am) vs 46 for Netanyahu; UTJ abstained. Herzog expected to give Eisenkot the first 28-day mandate.",
+      "title": "Israel: Eisenkot has 67 recommendations; Herzog continues weekend talks",
+      "detail": "Jerusalem Post: Eisenkot leads recommendations; Herzog will meet party heads privately over the weekend before deciding who gets the mandate to form a government.",
       "status": {
         "label": "Coalition talks",
         "tone": "warning"
       },
-      "source": "Ynet / Jerusalem Post",
+      "source": "Jerusalem Post",
       "url": "https://www.jpost.com/israel-election-2026/article-913989"
     },
     {
       "date": "5 Nov",
-      "title": "France: national day of strikes and protests",
-      "detail": "600,000+ marchers (interior ministry) vs 1.57 million (CGT); Lecornu calls a social conference for Monday.",
+      "title": "France: 600,000 protest (ministry); unions claim ~1.6 million",
+      "detail": "Fourth national strike day over wages and living costs; clashes reported in several cities.",
       "status": {
         "label": "Unrest",
         "tone": "danger"
       },
-      "source": "BBC",
-      "url": "https://www.bbc.co.uk/news/articles/ckx2qzv835pgo"
+      "source": "France 24 / AP",
+      "url": "https://www.france24.com/en/live-news/20261105-%F0%9F%94%B4-live-interior-ministry-says-600-000-protest-across-france-as-unions-claim-close-to-1-6-million"
     },
     {
       "date": "5 Nov",
@@ -664,8 +691,8 @@
   ],
   "upcoming": [
     {
-      "date": "After 5 Nov (expected)",
-      "event": "Israel: Herzog expected to task Eisenkot with forming a government",
+      "date": "Weekend of 7-9 Nov (expected)",
+      "event": "Israel: Herzog expected to name who forms the next government after weekend consultations",
       "place": "Jerusalem",
       "kind": "Politics",
       "source": "Jerusalem Post",
@@ -782,6 +809,14 @@
       "kind": "Politics",
       "source": "The Soufan Center",
       "url": "https://thesoufancenter.org/intelbrief-2026-november-4/"
+    },
+    {
+      "date": "17 Dec",
+      "event": "Bank of England next rate decision",
+      "place": "London",
+      "kind": "Economy",
+      "source": "Bank of England",
+      "url": "https://www.bankofengland.co.uk/monetary-policy/the-interest-rate-bank-rate"
     }
   ],
   "economy": [
@@ -843,19 +878,19 @@
     },
     {
       "item": "Brent crude oil",
-      "figure": "about $97.09 a barrel",
-      "detail": "Brent futures up about 2.6% on 5 Nov (CNBC) after tumbling more than 8% on 4 Nov to the lowest since 31 Aug.",
+      "figure": "about $98.44 a barrel",
+      "detail": "CNBC: Brent +~4% to $98.44 by 2:42 p.m. ET on 5 Nov (WTI ~$90.71) after >8% drop on 4 Nov. Hormuz tanker incidents and Iran-war outlook driving swings.",
       "date": "5 Nov 2026",
-      "source": "CNBC / Reuters",
+      "source": "CNBC",
       "url": "https://www.cnbc.com/2026/11/05/oil-falls-for-a-fourth-day-on-expectations-for-lower-risk-of-iran-war-escalation.html"
     },
     {
       "item": "US stocks",
-      "figure": "Nasdaq about −5.1% (afternoon)",
-      "detail": "Yahoo showed Nasdaq near 24,413 (−5.1%) while US markets were still open; S&P ~−3.7–3.9%, Dow ~−2.9% in afternoon reports. Chip/AI sell-off.",
+      "figure": "Nasdaq −5.17% (close)",
+      "detail": "Investing.com: Nasdaq Composite closed 24,405.73 (−5.17%). Guardian afternoon: S&P ~−3.7%, Dow ~−2.8%. Chip/AI sell-off after Democratic midterm sweep.",
       "date": "5 Nov 2026",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/quote/%5EIXIC/history/"
+      "source": "Investing.com / The Guardian",
+      "url": "https://www.theguardian.com/business/2026/nov/05/nasdaq-heading-for-worst-day-in-18-months-as-wall-street-sustains-widespread-losses"
     },
     {
       "item": "Japan stocks",
@@ -975,7 +1010,7 @@
       "population": 10.124,
       "gdp": 616.56,
       "headOfState": "President Isaac Herzog",
-      "headOfGov": "Prime Minister Benjamin Netanyahu (caretaker; Eisenkot expected to get formation mandate, 5 Nov)"
+      "headOfGov": "Prime Minister Benjamin Netanyahu (caretaker; Eisenkot has 67 recommendations; Herzog continuing weekend consultations, 5 Nov)"
     },
     {
       "code": "IN",
@@ -1355,13 +1390,31 @@
     {
       "year": 2026,
       "date": "5 Nov 2026",
-      "title": "BoE hike, Paraguay resignation, JTI Russia seizure",
-      "detail": "BoE lifts Bank Rate to 4%; Santiago Peña quits after Ueno Bank collapse; Putin places Japan Tobacco's Russian assets under temporary management.",
+      "title": "BoE hike, Paraguay crisis, Europe flight hoaxes, Nasdaq plunge",
+      "detail": "BoE lifts Bank Rate to 4%; Peña resigns and is impeached over Ueno Bank; ≥25 Europe flights hit by hoax bomb threats; Nasdaq closes −5.17%; Komyshuvakha toll 43.",
       "url": "https://www.euronews.com/2026/11/05/putin-seizes-russian-operations-of-cigarette-giant-japan-tobacco-international",
       "source": "Euronews / CNBC"
     }
   ],
   "sources": [
+    {
+      "title": "Brent rebound / Hormuz tanker incidents",
+      "site": "cnbc.com",
+      "date": "5 Nov 2026",
+      "url": "https://www.cnbc.com/2026/11/05/oil-falls-for-a-fourth-day-on-expectations-for-lower-risk-of-iran-war-escalation.html"
+    },
+    {
+      "title": "Komyshuvakha death toll 43",
+      "site": "kyivindependent.com",
+      "date": "5 Nov 2026",
+      "url": "https://kyivindependent.com/42-bodies-recovered-from-rubble-after-russian-strike-on-komyshuvakha-as-search-continues-police-say/"
+    },
+    {
+      "title": "Europe bomb threats disrupt ≥25 flights",
+      "site": "theguardian.com",
+      "date": "5 Nov 2026",
+      "url": "https://www.theguardian.com/world/2026/nov/05/bomb-threats-disrupt-flights-across-europe-and-renew-hybrid-warfare-fears"
+    },
     {
       "title": "Meloni letter on EU Ukraine envoy",
       "site": "politico.eu",
