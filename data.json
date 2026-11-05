@@ -1,10 +1,151 @@
 {
   "title": "Global Intelligence Monitor",
-  "snapshot": "Wednesday 4 November 2026 (Europe/Rome)",
-  "snapshotDate": "2026-11-04",
-  "lastUpdated": "2026-11-05T18:00:00+01:00",
-  "summary": "A one-page briefing on world news, conflicts, politics and the economy in the week to 4 November 2026, with country profiles and a timeline since 1945.",
+  "snapshot": "Thursday 5 November 2026, 19:30 (Europe/Rome)",
+  "snapshotDate": "2026-11-05",
+  "lastUpdated": "2026-11-05T19:30:00+01:00",
+  "summary": "A one-page briefing on world news, conflicts, politics and the economy in the week to 5 November 2026, with country profiles and a timeline since 1945.",
   "news": [
+    {
+      "headline": "Bank of England raises rates to 4%, first hike in over three years",
+      "summary": "The MPC voted 8-1 to lift Bank Rate from 3.75% to 4% (Catherine Mann wanted 4.25%), citing energy prices from the Iran war, and now expects UK inflation near 5% by mid-2027.",
+      "date": "5 Nov 2026",
+      "region": "Europe",
+      "countries": [
+        "GB"
+      ],
+      "source": "The Guardian / CNBC",
+      "url": "https://www.cnbc.com/2026/11/05/interest-rates-inflation-uk.html"
+    },
+    {
+      "headline": "Paraguay's President Peña resigns after Ueno Bank collapse",
+      "summary": "Peña quit as the lower house moved to impeach him over the collapse of Ueno Bank, which says it has about 3 million customers. Vice President Pedro Alliana is due to be sworn in and serve until August 2028.",
+      "date": "5 Nov 2026",
+      "region": "Americas",
+      "countries": [],
+      "source": "BBC / AP",
+      "url": "https://apnews.com/article/ueno-bank-collapse-paraguay-banking-crisis-santiago-pena-impeachment-eccea1c9a64808b5cd7e6e1d5542084f"
+    },
+    {
+      "headline": "Nasdaq slides about 5% as AI and chip stocks sell off",
+      "summary": "Intraday on 5 Nov the Nasdaq was down about 5%, the S&P 500 3.3% and the Dow 2.2%, wiping out Wednesday's post-election rally; the chip index fell about 11% on fears of data-centre curbs after Democratic wins.",
+      "date": "5 Nov 2026",
+      "region": "Americas",
+      "countries": [
+        "US"
+      ],
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/live/stock-market-today-thursday-november-5-dow-sp-500-nasdaq-oil-rises-chip-stocks-141439950.html"
+    },
+    {
+      "headline": "Eisenkot gets 67 recommendations to form Israel's next government",
+      "summary": "After Herzog's consultations, Gadi Eisenkot has 67 Knesset recommendations against 46 for Netanyahu; United Torah Judaism recommended no one. Eisenkot is expected, but not yet confirmed, to receive the mandate.",
+      "date": "5 Nov 2026",
+      "region": "Middle East",
+      "countries": [
+        "IL"
+      ],
+      "source": "Ynet / Jerusalem Post",
+      "url": "https://www.ynetnews.com/article/ryuqebc6zg"
+    },
+    {
+      "headline": "Iran says more tankers hit mines in the Strait of Hormuz",
+      "summary": "Iran's Guards and army said several tankers and a tugboat caught fire after hitting mines (not confirmed by maritime officials); UKMTO reported a tanker struck by two projectiles off Qatar. Oman says it is still discussing a joint Hormuz mechanism with Iran.",
+      "date": "5 Nov 2026",
+      "region": "Middle East",
+      "countries": [
+        "IR",
+        "US"
+      ],
+      "source": "Reuters / AFP / CBS",
+      "url": "https://www.arabnews.com/middle-east/iran-says-five-tankers-and-tugboat-caught-fire-in-hormuz-3009888"
+    },
+    {
+      "headline": "Melania Trump hosts Russian and Ukrainian officials at the White House",
+      "summary": "The first lady met representatives who arranged the six-day Oleshky ceasefire and called for a more 'enduring' peace, ahead of US-led trilateral talks in Abu Dhabi on 10-11 Nov.",
+      "date": "5 Nov 2026",
+      "region": "Europe",
+      "countries": [
+        "US",
+        "UA",
+        "RU"
+      ],
+      "source": "NBC News",
+      "url": "https://www.nbcnews.com/world/ukraine/melania-trump-host-russia-ukraine-representatives-white-house-rare-mee-rcna607390"
+    },
+    {
+      "headline": "Komyshuvakha strike death toll rises to 42",
+      "summary": "Police said up to 33 people may still be under rubble after Monday's Russian bombing of an aid point in Zaporizhzhia region; overnight both sides traded strikes as reconstruction talks resumed in Brussels.",
+      "date": "5 Nov 2026",
+      "region": "Europe",
+      "countries": [
+        "UA",
+        "RU"
+      ],
+      "source": "Reuters via The Independent / AP",
+      "url": "https://www.independent.co.uk/news/world/europe/ukraine-russia-war-live-zelensky-melania-trump-putin-school-attack-b3079507.html"
+    },
+    {
+      "headline": "Hundreds of thousands protest over living costs across France",
+      "summary": "The interior ministry counted more than 600,000 protesters, while the CGT claimed 1.57 million. PM Lecornu said he will convene a 'social conference' with unions and employers on Monday.",
+      "date": "5 Nov 2026",
+      "region": "Europe",
+      "countries": [
+        "FR"
+      ],
+      "source": "BBC",
+      "url": "https://www.bbc.co.uk/news/articles/ckx2qzv835pgo"
+    },
+    {
+      "headline": "Hoax bomb threats divert flights across Europe for a second time",
+      "summary": "At least 27 flights were affected on Thursday (per Reuters), including Aer Lingus, Finnair, Wizz Air and LOT services; Finnair flights to Rome and Vienna landed safely and nothing was found.",
+      "date": "5 Nov 2026",
+      "region": "Europe",
+      "countries": [
+        "GB"
+      ],
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/11/05/bomb-threats-flights-europe.html"
+    },
+    {
+      "headline": "Joshua Wong jailed for 10 years under Hong Kong security law",
+      "summary": "The pro-democracy activist, due for release in January, was sentenced for colluding with foreign forces under the 2020 national security law.",
+      "date": "5 Nov 2026",
+      "region": "Asia-Pacific",
+      "countries": [
+        "CN"
+      ],
+      "source": "BBC",
+      "url": "https://www.bbc.co.uk/news/articles/cwp9g3rlp8jlo"
+    },
+    {
+      "headline": "ANC falls to about 32% in early South Africa local results",
+      "summary": "With 36% of votes counted, the ANC had about 32% and the DA 27%; if it holds, the ANC would be down about 14 points on 2021. Full results are expected on Sunday.",
+      "date": "5 Nov 2026",
+      "region": "Africa",
+      "countries": [],
+      "source": "Reuters via CNBC Africa",
+      "url": "https://www.cnbcafrica.com/2026/anc-narrowly-leads-da-in-early-south-africa-municipal-election-results"
+    },
+    {
+      "headline": "Sudan and Ethiopia expel each other's diplomats",
+      "summary": "Ethiopia ordered six Sudanese diplomats out; Sudan accuses Ethiopia of backing the RSF, while Ethiopia accuses Sudan, Egypt and Eritrea of backing Tigray rebels. Both deny the claims.",
+      "date": "5 Nov 2026",
+      "region": "Africa",
+      "countries": [],
+      "source": "The National",
+      "url": "https://www.thenationalnews.com/news/mena/2026/11/05/sudan-and-ethiopia-in-tit-for-tat-expulsions-of-diplomats-as-tensions-rise/"
+    },
+    {
+      "headline": "Developing-country debt hits a record $9.4tn",
+      "summary": "The World Bank's International Debt Report says debt rose 5.5% last year, the fastest in four years, with the poorest countries paying the highest interest rates since the late 1980s.",
+      "date": "5 Nov 2026",
+      "region": "Africa",
+      "countries": [
+        "GB"
+      ],
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/business/2026/nov/05/developing-country-debt-record-94tn-high-world-bank-data"
+    },
     {
       "headline": "Democrats win control of both houses of the US Congress",
       "summary": "In the 3 November midterms, Democrats took the House and the Senate in a sharp rebuke of President Trump. Democracy Now reports at least 231 House seats and at least seven Senate pickups, with Mississippi and Alaska still too close to call.",
@@ -50,18 +191,6 @@
       ],
       "source": "Kyodo News",
       "url": "https://english.kyodonews.net/articles/-/90209"
-    },
-    {
-      "headline": "Death toll from Russian strike on Zaporizhzhia school rises to 40",
-      "summary": "Glide bombs hit a school used as an aid point in Komyshuvakha on 2 November, hours after a six-day local truce around Oleshky ended. Zelenskyy says 40 are now confirmed dead.",
-      "date": "4 Nov 2026",
-      "region": "Europe",
-      "countries": [
-        "UA",
-        "RU"
-      ],
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/nov/04/all"
     },
     {
       "headline": "US to host Ukraine-Russia talks in Abu Dhabi on 10-11 November",
@@ -315,17 +444,6 @@
       "url": "https://www.theguardian.com/politics/live/2026/nov/04/ed-miliband-andy-burnham-king-charles-labour-louise-haigh-alex-burghart-pmqs-conservatives-uk-politics-latest-news"
     },
     {
-      "headline": "Lula wins a fourth term; Flavio Bolsonaro contests result",
-      "summary": "Lula won the 25 October runoff with 51.79% of valid votes to 48.21%. Bolsonaro refused to concede, though his party recognised the result.",
-      "date": "26 Oct 2026",
-      "region": "Americas",
-      "countries": [
-        "BR"
-      ],
-      "source": "O Globo / Vocemundi",
-      "url": "https://oglobo.globo.com/apuracao-eleicoes-2026/noticia/2026/10/26/resultado-das-eleicoes-2026-no-2o-turno-veja-a-apuracao-final-do-tse-para-presidente.ghtml"
-    },
-    {
       "headline": "Brazil publishes first global roadmap to phase out fossil fuels",
       "summary": "Brazil urged countries to start planning now for a voluntary phase-out of coal, oil and gas, days before COP31.",
       "date": "4 Nov 2026",
@@ -345,10 +463,10 @@
         "label": "Escalating",
         "tone": "danger"
       },
-      "latest": "Strikes resumed after a six-day Oleshky truce ended; the Komyshuvakha school strike killed 40. Talks set for Abu Dhabi on 10-11 Nov.",
-      "date": "4 Nov 2026",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/nov/04/all"
+      "latest": "Komyshuvakha strike toll at 42; strikes traded overnight. Melania Trump hosted both sides on 5 Nov; US-led talks in Abu Dhabi on 10-11 Nov.",
+      "date": "5 Nov 2026",
+      "source": "AP / NBC News",
+      "url": "https://apnews.com/article/russia-ukraine-war-airstrikes-negotiations-kushner-0b975a30f862731346e7e1d098a8d538"
     },
     {
       "name": "US/Israel-Iran war",
@@ -357,10 +475,10 @@
         "label": "Talks and strikes",
         "tone": "warning"
       },
-      "latest": "Began 28 Feb 2026. A June deal collapsed; the US struck Qeshm Island on 2-3 Nov while Qatar passes drafts. Hormuz shipping still disrupted.",
-      "date": "3 Nov 2026",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/11/3/us-hits-qeshm-island-pezeshkian-signals-more-diplomacy-iran-war-latest"
+      "latest": "Began 28 Feb 2026. Iran claims more tankers hit mines in Hormuz (unconfirmed); UKMTO reports a tanker hit off Qatar. Oman-Iran talks on a joint strait mechanism continue.",
+      "date": "5 Nov 2026",
+      "source": "CBS News / AFP",
+      "url": "https://www.cbsnews.com/live-updates/iran-war-us-trump-midterms-strait-of-hormuz/"
     },
     {
       "name": "Houthis vs Saudi-led coalition (Yemen)",
@@ -369,10 +487,10 @@
         "label": "Widening",
         "tone": "danger"
       },
-      "latest": "Claimed attacks on Saudi airports and oil sites; Taiz under siege with shortages. The 2022 UN truce has broken down.",
-      "date": "1 Nov 2026",
-      "source": "Vocemundi",
-      "url": "https://vocemundi.com/the-week-2026-11-01/"
+      "latest": "Coalition says it intercepted a Houthi ballistic missile fired toward the Medina region on 5 Nov; attacks on Saudi sites continue. The 2022 UN truce has broken down.",
+      "date": "5 Nov 2026",
+      "source": "Iran International (citing coalition)",
+      "url": "https://www.iranintl.com/en/liveblog/202610312594"
     },
     {
       "name": "Gaza",
@@ -381,10 +499,10 @@
         "label": "Fragile ceasefire",
         "tone": "warning"
       },
-      "latest": "The October 2025 ceasefire holds loosely; Hamas is in Cairo for second-phase talks on withdrawal, disarmament and governance.",
-      "date": "4 Nov 2026",
-      "source": "Ilke News Agency",
-      "url": "https://ilkha.com/english/world/hamas-delegation-arrives-in-cairo-for-new-round-of-gaza-ceasefire-talks-550914"
+      "latest": "The October 2025 ceasefire holds loosely; a Hamas delegation in Cairo urges mediators to press Israel to implement the deal and move to the next phase.",
+      "date": "5 Nov 2026",
+      "source": "Middle East Monitor",
+      "url": "https://www.middleeastmonitor.com/20261105-hamas-urges-mediators-to-pressure-israel-to-implement-gaza-agreement/"
     },
     {
       "name": "Israel-Hezbollah (Lebanon)",
@@ -405,13 +523,57 @@
         "label": "Escalating",
         "tone": "danger"
       },
-      "latest": "Drone attacks on at least 15 substations since early October. UN expects talks with the RSF bloc before Christmas; no ceasefire.",
-      "date": "4 Nov 2026",
-      "source": "The Soufan Center",
-      "url": "https://thesoufancenter.org/intelbrief-2026-november-4/"
+      "latest": "Drone strikes on power and fuel sites deepen outages and hunger; Sudan and Ethiopia expelled each other's diplomats on 5 Nov over claims of backing rivals. No ceasefire.",
+      "date": "5 Nov 2026",
+      "source": "The National / UN News",
+      "url": "https://www.thenationalnews.com/news/mena/2026/11/05/sudan-and-ethiopia-in-tit-for-tat-expulsions-of-diplomats-as-tensions-rise/"
     }
   ],
   "politics": [
+    {
+      "date": "5 Nov",
+      "title": "Paraguay: President Peña resigns; Alliana to take over",
+      "detail": "Peña resigned amid the Ueno Bank crisis as impeachment moved forward; VP Pedro Alliana serves until August 2028.",
+      "status": {
+        "label": "Power shift",
+        "tone": "warning"
+      },
+      "source": "AP",
+      "url": "https://apnews.com/article/ueno-bank-collapse-paraguay-banking-crisis-santiago-pena-impeachment-eccea1c9a64808b5cd7e6e1d5542084f"
+    },
+    {
+      "date": "5 Nov",
+      "title": "Israel: Eisenkot leads with 67 recommendations",
+      "detail": "Netanyahu got 46; UTJ abstained. Herzog is expected to give Eisenkot the first mandate (28 days, plus up to 14).",
+      "status": {
+        "label": "Coalition talks",
+        "tone": "warning"
+      },
+      "source": "Ynet / Jerusalem Post",
+      "url": "https://www.jpost.com/israel-election-2026/article-913989"
+    },
+    {
+      "date": "5 Nov",
+      "title": "France: national day of strikes and protests",
+      "detail": "600,000+ marchers (interior ministry) vs 1.57 million (CGT); Lecornu calls a social conference for Monday.",
+      "status": {
+        "label": "Unrest",
+        "tone": "danger"
+      },
+      "source": "BBC",
+      "url": "https://www.bbc.co.uk/news/articles/ckx2qzv835pgo"
+    },
+    {
+      "date": "5 Nov",
+      "title": "Hong Kong: Joshua Wong sentenced to 10 years",
+      "detail": "Convicted of collusion with foreign forces under the national security law.",
+      "status": {
+        "label": "Sentenced",
+        "tone": "danger"
+      },
+      "source": "BBC",
+      "url": "https://www.bbc.co.uk/news/articles/cwp9g3rlp8jlo"
+    },
     {
       "date": "3-4 Nov",
       "title": "US midterms: Democrats take House and Senate",
@@ -434,13 +596,6 @@
       "url": "https://www.aljazeera.com/news/2026/11/4/israel-vote-results-confirmed-as-election-commission-rejects-fraud-claims"
     },
     {
-      "date": "25 Oct",
-      "title": "Brazil: Lula re-elected for a fourth term",
-      "detail": "51.79% to 48.21% over Flavio Bolsonaro, who says he will seek annulment.",
-      "source": "O Globo",
-      "url": "https://oglobo.globo.com/apuracao-eleicoes-2026/noticia/2026/10/26/resultado-das-eleicoes-2026-no-2o-turno-veja-a-apuracao-final-do-tse-para-presidente.ghtml"
-    },
-    {
       "date": "3 Nov",
       "title": "Bulgaria: President Iotova wins a new mandate",
       "detail": "Official results gave her 57.58% in the runoff.",
@@ -455,11 +610,11 @@
       "url": "https://www.lamoncloa.gob.es/lang/en/presidente/news/paginas/2026/20261005-institutional-statement.aspx"
     },
     {
-      "date": "4 Nov",
+      "date": "4-5 Nov",
       "title": "South Africa: local elections test the ANC",
-      "detail": "Councillors chosen in 257 municipalities; results pending as of this snapshot.",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/11/4/south-africans-vote-in-local-elections-seen-as-test-for-embattled-anc"
+      "detail": "Early count (36%): ANC about 32%, DA 27%; full results expected Sunday.",
+      "source": "Reuters via CNBC Africa",
+      "url": "https://www.cnbcafrica.com/2026/anc-narrowly-leads-da-in-early-south-africa-municipal-election-results"
     },
     {
       "date": "4 Nov",
@@ -492,20 +647,12 @@
   ],
   "upcoming": [
     {
-      "date": "5 Nov",
-      "event": "Bank of England rate decision",
-      "place": "London",
-      "kind": "Economy",
-      "source": "Bank of England",
-      "url": "https://www.bankofengland.co.uk/monetary-policy-summary-and-minutes/2026/november-2026"
-    },
-    {
-      "date": "5 Nov",
-      "event": "Israel: Herzog ends consultations, then picks a candidate to form a government",
+      "date": "After 5 Nov (expected)",
+      "event": "Israel: Herzog expected to task Eisenkot with forming a government",
       "place": "Jerusalem",
       "kind": "Politics",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/11/4/israel-vote-results-confirmed-as-election-commission-rejects-fraud-claims"
+      "source": "Jerusalem Post",
+      "url": "https://www.jpost.com/israel-election-2026/article-913989"
     },
     {
       "date": "6 Nov",
@@ -514,6 +661,22 @@
       "kind": "Economy",
       "source": "BLS",
       "url": "https://www.bls.gov/schedule/2026/11_sched.htm"
+    },
+    {
+      "date": "8 Nov",
+      "event": "South Africa: full local election results expected",
+      "place": "Pretoria",
+      "kind": "Politics",
+      "source": "Reuters via CNBC Africa",
+      "url": "https://www.cnbcafrica.com/2026/anc-narrowly-leads-da-in-early-south-africa-municipal-election-results"
+    },
+    {
+      "date": "9 Nov",
+      "event": "France: Lecornu's 'social conference' with unions and employers",
+      "place": "Paris",
+      "kind": "Politics",
+      "source": "BBC",
+      "url": "https://www.bbc.co.uk/news/articles/ckx2qzv835pgo"
     },
     {
       "date": "9-20 Nov",
@@ -598,6 +761,14 @@
   ],
   "economy": [
     {
+      "item": "Bank of England",
+      "figure": "4.00% (+0.25)",
+      "detail": "8-1 vote; first hike since Aug 2023. Sees UK inflation near 5% by mid-2027.",
+      "date": "5 Nov 2026",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/11/05/interest-rates-inflation-uk.html"
+    },
+    {
       "item": "US Federal Reserve",
       "figure": "3.75-4.00% (hold)",
       "detail": "10-2 vote; Cook and Hammack wanted a 0.25 point hike. Statement: inflation remains elevated.",
@@ -622,6 +793,14 @@
       "url": "https://www.cnbc.com/2026/10/30/boj-inflation-target-rates.html"
     },
     {
+      "item": "Developing-country debt",
+      "figure": "$9.4tn (record)",
+      "detail": "World Bank International Debt Report: up 5.5% last year, fastest rise in four years.",
+      "date": "5 Nov 2026",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/business/2026/nov/05/developing-country-debt-record-94tn-high-world-bank-data"
+    },
+    {
       "item": "Euro area inflation (flash)",
       "figure": "4.0% in October",
       "detail": "Up from 3.8%. Energy 20.8%; excluding energy, food, alcohol and tobacco 2.5%.",
@@ -631,27 +810,27 @@
     },
     {
       "item": "Brent crude oil",
-      "figure": "$103.60 a barrel",
-      "detail": "Down $1.17, near a four-week low, on hopes that talks will end the wars.",
-      "date": "3 Nov 2026",
-      "source": "Euronext / Dow Jones",
-      "url": "https://live.euronext.com/en/financial-news/oil-prices-ease-settle-near-4-week-low-hopes-peace-talks-will-end-wars"
+      "figure": "about $97 a barrel",
+      "detail": "Up about 2.6% on 5 Nov after a fall of more than 8% on 4 Nov to the lowest since 31 Aug.",
+      "date": "5 Nov 2026",
+      "source": "CNBC / Reuters",
+      "url": "https://www.cnbc.com/2026/11/05/oil-falls-for-a-fourth-day-on-expectations-for-lower-risk-of-iran-war-escalation.html"
     },
     {
       "item": "US stocks",
-      "figure": "S&P 500 +1.72% early",
-      "detail": "Dow +2.3%, Nasdaq +2.13% at 9:46 a.m. ET after the midterms; defence and data centre stocks fell.",
-      "date": "4 Nov 2026",
-      "source": "Business Standard (Reuters)",
-      "url": "https://www.business-standard.com/world-news/wall-street-rallies-after-democrats-win-congress-data-center-stocks-slide-126110402050_1.html"
+      "figure": "Nasdaq about -5% (intraday)",
+      "detail": "5 Nov midday: S&P 500 -3.3%, Dow -2.2%; chip index about -11%. Gains of 4 Nov (S&P +1.6%) erased.",
+      "date": "5 Nov 2026",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/live/stock-market-today-thursday-november-5-dow-sp-500-nasdaq-oil-rises-chip-stocks-141439950.html"
     },
     {
       "item": "Japan stocks",
-      "figure": "Nikkei 62,188.63 (-1.42%)",
-      "detail": "Topix fell 0.89% to 3,895.38.",
-      "date": "4 Nov 2026",
-      "source": "Kyodo News",
-      "url": "https://english.kyodonews.net/articles/-/90209"
+      "figure": "Nikkei 61,077.90 (-1.8%)",
+      "detail": "Close on 5 Nov; Seoul's Kospi fell more than 5% as AI stocks slid. Frankfurt's DAX hit a record.",
+      "date": "5 Nov 2026",
+      "source": "AFP",
+      "url": "https://www.afp.com/en/stock-markets-diverge-oil-prices-rebound-tracking-trump-and-ai"
     },
     {
       "item": "US-China trade",
@@ -686,6 +865,11 @@
       "label": "Bank of Japan",
       "value": 1.25,
       "display": "1.25%"
+    },
+    {
+      "label": "Bank of England",
+      "value": 4,
+      "display": "4.00%"
     }
   ],
   "euroInflation": [
@@ -758,7 +942,7 @@
       "population": 10.124,
       "gdp": 616.56,
       "headOfState": "President Isaac Herzog",
-      "headOfGov": "Prime Minister Benjamin Netanyahu (coalition talks under way)"
+      "headOfGov": "Prime Minister Benjamin Netanyahu (Eisenkot leads coalition recommendations, 5 Nov)"
     },
     {
       "code": "IN",
@@ -1134,6 +1318,14 @@
       "detail": "A rebuke of Trump halfway through his second term.",
       "url": null,
       "source": null
+    },
+    {
+      "year": 2026,
+      "date": "5 Nov 2026",
+      "title": "Bank of England raises rates; Paraguay's president resigns",
+      "detail": "BoE lifts Bank Rate to 4% because of the Iran-war energy shock; Santiago Peña quits after the Ueno Bank collapse.",
+      "url": "https://www.cnbc.com/2026/11/05/interest-rates-inflation-uk.html",
+      "source": "CNBC"
     }
   ],
   "sources": [
