@@ -17,13 +17,9 @@ jobs:
     runs-on: ubuntu-latest
     timeout-minutes: 10
     steps:
-      - uses: actions/checkout@v4
+      - uses: actions/checkout@v5
 
-      - uses: actions/setup-python@v5
-        with:
-          python-version: '3.12'
-
-      - name: Fetch RSS feeds into live-news.json
+      - name: Fetch RSS feeds into live-news.json (runner's built-in Python 3, stdlib only)
         run: python3 scripts/update_live_news.py
 
       - name: Commit and push if changed
