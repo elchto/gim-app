@@ -1,10 +1,81 @@
 {
   "title": "Global Intelligence Monitor",
-  "snapshot": "Thursday 5 November 2026, 22:11 (Europe/Rome)",
+  "snapshot": "Thursday 5 November 2026, 23:20 (Europe/Rome)",
   "snapshotDate": "2026-11-05",
-  "lastUpdated": "2026-11-05T22:11:00+01:00",
+  "lastUpdated": "2026-11-05T23:20:00+01:00",
   "summary": "A one-page briefing on world news, conflicts, politics and the economy in the week to 5 November 2026, with country profiles and a timeline since 1945.",
   "news": [
+    {
+      "headline": "Nigerian court voids Atiku's presidential candidacy",
+      "summary": "A Federal High Court in Abuja nullified the David Mark-led leadership of the opposition ADC and all its actions, including Atiku Abubakar's nomination for the 16 January 2027 presidential election. The ADC and Atiku say they will appeal and seek a stay of execution; Atiku calls the timing politically motivated (claim).",
+      "date": "5 Nov 2026",
+      "region": "Africa",
+      "countries": [],
+      "source": "Reuters / AP / Premium Times",
+      "url": "https://apnews.com/article/nigeria-election-atiku-abubakar-court-e37403f0930a889b9e48b4e93eca2fd3"
+    },
+    {
+      "headline": "Nvidia and Qualcomm drop over 9% in post-election chip sell-off",
+      "summary": "CNBC says the Nasdaq fell 5.5%, its worst day since April 2025, as investors priced in a slower AI data-centre buildout after the Democratic sweep; Nvidia lost almost $450bn in market value, AMD, Micron and Applied Materials fell by double digits, and Tesla and SpaceX each dropped more than 9%.",
+      "date": "5 Nov 2026",
+      "region": "Americas",
+      "countries": [
+        "US"
+      ],
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/11/05/qualcomm-earnings-chip-stocks-election.html"
+    },
+    {
+      "headline": "Fed's Barkin expects further, gradual rate hikes",
+      "summary": "Richmond Fed President Thomas Barkin said inflation is 'the most important risk' and the Fed will have to raise rates further at a gradual pace. CME FedWatch shows markets pricing a better than 80% chance of a December hike.",
+      "date": "5 Nov 2026",
+      "region": "Americas",
+      "countries": [
+        "US"
+      ],
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/11/05/barkin-sees-interest-rate-hikes-ahead-but-at-a-gradual-pace.html"
+    },
+    {
+      "headline": "Newsom to commute all 548 California death sentences",
+      "summary": "California Governor Gavin Newsom said he will change every death sentence in the state to life without parole before leaving office. California Supreme Court approval is needed for people convicted of more than one felony.",
+      "date": "5 Nov 2026",
+      "region": "Americas",
+      "countries": [
+        "US"
+      ],
+      "source": "France 24 / AP",
+      "url": "https://www.france24.com/en/americas/20261105-inhumane-punishment-california-governor-gavin-newsom-to-commute-548-death-sentences"
+    },
+    {
+      "headline": "Nithya Raman ousts Karen Bass as Los Angeles mayor",
+      "summary": "Democratic socialist councilmember Nithya Raman, once seen as a long shot, beat the incumbent mayor Karen Bass.",
+      "date": "5 Nov 2026",
+      "region": "Americas",
+      "countries": [
+        "US"
+      ],
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/us-news/2026/nov/05/los-angeles-mayor-nithya-raman-karen-bass"
+    },
+    {
+      "headline": "Eight killed in a series of shootings in western Turkey",
+      "summary": "Eight people were killed and one seriously injured at several locations in Afyonkarahisar province. Authorities say the suspect fled and was later arrested in Eskişehir province.",
+      "date": "5 Nov 2026",
+      "region": "Middle East",
+      "countries": [],
+      "source": "BBC",
+      "url": "https://www.bbc.co.uk/news/articles/cvj6jj21pd2ko"
+    },
+    {
+      "headline": "Myanmar junta intensifies airstrikes in Rakhine",
+      "summary": "France 24 Observers says strikes on 1 Nov killed 12 civilians and injured 32 in Rakhine State, including at a makeshift maternity clinic in Mrauk-U. This is part of the junta's offensive since September to retake the state, which is about 90% held by the Arakan Army. ACLED reports more use of double-tap strikes.",
+      "date": "5 Nov 2026",
+      "region": "Asia-Pacific",
+      "countries": [],
+      "source": "France 24",
+      "url": "https://www.france24.com/en/asia-pacific/20261105-myanmar-civilians-under-fire-from-military-junta"
+    },
     {
       "headline": "Herzog to name who forms Israel's government on Sunday",
       "summary": "After finishing party consultations, President Herzog said he will announce on Sunday 8 Nov whom he tasks with forming a government. Eisenkot has 67 Knesset recommendations vs Netanyahu's 46; Herzog cited mutual vetoes and will hold private talks with party leaders over the Israeli weekend.",
@@ -515,10 +586,10 @@
         "label": "Talks amid fighting",
         "tone": "danger"
       },
-      "latest": "AP: Russia and Ukraine traded overnight airstrikes as Brussels talks on reconstruction and security guarantees resumed (5 Nov). Komyshuvakha aid-point toll ~42–43 with ~33 still missing. Italy preparing 13th arms package (COPASIR 10 Nov). US-led Abu Dhabi talks still set for 10-11 Nov.",
+      "latest": "BBC: the six-day Oleshky (Kherson) humanitarian truce let hundreds evacuate. It is the widest ceasefire of the war so far, and Arakhamia called it the 'biggest de-escalation since 2022'. Melania Trump hosted the Russian and Ukrainian delegations on 5 Nov and called for a 'more enduring' ceasefire. Strikes continue elsewhere (AP, 5 Nov); the Komyshuvakha aid-point death toll is about 42–43. Italy is preparing a 13th arms package (COPASIR 10 Nov). The US-led Abu Dhabi talks are still set for 10–11 Nov.",
       "date": "5 Nov 2026",
-      "source": "AP / Reuters / ANSA",
-      "url": "https://apnews.com/article/russia-ukraine-war-airstrikes-negotiations-kushner-0b975a30f862731346e7e1d098a8d538"
+      "source": "BBC / AP / Reuters / ANSA",
+      "url": "https://www.bbc.co.uk/news/articles/c9p8g085mz07o"
     },
     {
       "name": "US/Israel-Iran war",
@@ -582,6 +653,17 @@
     }
   ],
   "politics": [
+    {
+      "date": "5 Nov",
+      "title": "Nigeria: court voids Atiku's ADC presidential nomination",
+      "detail": "Justice Peter Lifu nullified the Mark-led ADC leadership and its nominations. The ADC will appeal; the election is on 16 Jan 2027.",
+      "status": {
+        "label": "Under appeal",
+        "tone": "warning"
+      },
+      "source": "Reuters / Channels TV",
+      "url": "https://www.channelstv.com/2026/11/05/court-sacks-mark-led-adc-exco-voids-atikus-candidacy/"
+    },
     {
       "date": "5 Nov",
       "title": "UK: Burnham says Putin not invited to Britain's G20",
@@ -900,6 +982,14 @@
       "kind": "Economy",
       "source": "Bank of England",
       "url": "https://www.bankofengland.co.uk/monetary-policy/the-interest-rate-bank-rate"
+    },
+    {
+      "date": "16 Jan 2027",
+      "event": "Nigeria presidential election",
+      "place": "Nigeria",
+      "kind": "Politics",
+      "source": "BBC",
+      "url": "https://www.bbc.com/news/articles/cw8rzzx46jd5o"
     }
   ],
   "economy": [
@@ -922,7 +1012,7 @@
     {
       "item": "US Federal Reserve",
       "figure": "3.75-4.00% (hold)",
-      "detail": "10-2 vote; Cook and Hammack wanted a 0.25 point hike. Statement: inflation remains elevated.",
+      "detail": "10-2 vote; Cook and Hammack wanted a 0.25 point hike. Statement: inflation remains elevated. Barkin (5 Nov) expects gradual further hikes; FedWatch shows a >80% chance of a December hike.",
       "date": "28 Oct 2026",
       "source": "Federal Reserve",
       "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20261028a.htm"
@@ -970,7 +1060,7 @@
     {
       "item": "US stocks",
       "figure": "Nasdaq −5.17% (close)",
-      "detail": "Investing.com: Nasdaq Composite closed 24,405.73 (−5.17%). Guardian afternoon: S&P ~−3.7%, Dow ~−2.8%. Chip/AI sell-off after Democratic midterm sweep.",
+      "detail": "Investing.com: Nasdaq Composite closed 24,405.73 (−5.17%). Guardian afternoon: S&P ~−3.7%, Dow ~−2.8%. Chip/AI sell-off after Democratic midterm sweep. CNBC/Guardian report −5.5%, the worst day since April 2025; Nvidia and Qualcomm fell more than 9%.",
       "date": "5 Nov 2026",
       "source": "Investing.com / The Guardian",
       "url": "https://www.theguardian.com/business/2026/nov/05/nasdaq-heading-for-worst-day-in-18-months-as-wall-street-sustains-widespread-losses"
@@ -1474,7 +1564,7 @@
       "year": 2026,
       "date": "5 Nov 2026",
       "title": "BoE hike, Paraguay crisis, Europe flight hoaxes, Nasdaq plunge",
-      "detail": "BoE lifts Bank Rate to 4%; Peña resigns/impeached over Ueno Bank; ≥25 Europe flights hit by hoax bomb threats; Nasdaq closes −5.17%; Herzog sets Sunday mandate decision; Sweden extends Schengen border checks; Italy prepares 13th Ukraine arms package.",
+      "detail": "BoE lifts Bank Rate to 4%; Peña resigns/impeached over Ueno Bank; ≥25 Europe flights hit by hoax bomb threats; Nasdaq closes −5.17%; Herzog sets Sunday mandate decision; Sweden extends Schengen border checks; Italy prepares 13th Ukraine arms package. Nasdaq has its worst day since Apr 2025 on AI fears; a Nigerian court voids Atiku's candidacy.",
       "url": "https://www.ynetnews.com/article/rjj1td9pfx",
       "source": "Ynet / Reuters / Euronews / CNBC"
     }
