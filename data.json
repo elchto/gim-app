@@ -1,20 +1,96 @@
 {
   "title": "Global Intelligence Monitor",
-  "snapshot": "Friday 6 November 2026, 00:20 (Europe/Rome)",
+  "snapshot": "Friday 6 November 2026, 01:20 (Europe/Rome)",
   "snapshotDate": "2026-11-06",
-  "lastUpdated": "2026-11-06T00:20:00+01:00",
+  "lastUpdated": "2026-11-06T01:20:00+01:00",
   "summary": "A one-page briefing on world news, conflicts, politics and the economy in the week to 6 November 2026, with country profiles and a timeline since 1945.",
   "news": [
     {
-      "headline": "Pressure mounts on Hegseth after Republican midterm rout",
-      "summary": "Straits Times: Defence Secretary Pete Hegseth faces growing pressure as Democrats prepare congressional probes and Republicans blame the Iran war he championed for the election losses. Trump has stood by him so far, saying he is 'doing a very good job'.",
+      "headline": "UNHCR: nearly 90 million displaced people face severe climate risks",
+      "summary": "France 24 / Reuters: UNHCR said on Friday nearly 90 million forcibly displaced people — about three-quarters of the global total — live in countries highly exposed to droughts, floods and extreme heat, urging more adaptation finance ahead of COP31 in Antalya. Only about 10% of climate finance reaches fragile or conflict-affected countries (claim based on UNHCR).",
+      "date": "6 Nov 2026",
+      "region": "Africa",
+      "countries": [],
+      "source": "France 24 / Reuters / UNHCR",
+      "url": "https://www.france24.com/en/environment/20261105-un-displaced-people-climate-risks"
+    },
+    {
+      "headline": "Trump says Ukraine war 'very close' to a deal after meeting Putin's envoy",
+      "summary": "DW / AP / Reuters: After a private White House meeting with Kirill Dmitriev (not the Ukrainian delegation), Trump told reporters a 'big, beautiful' agreement is near that 'might involve all of Europe'. He gave no terms; Kushner called Brussels reconstruction/security talks 'productive' ahead of Abu Dhabi 10–11 Nov.",
+      "date": "6 Nov 2026",
+      "region": "Europe",
+      "countries": [
+        "US",
+        "UA",
+        "RU"
+      ],
+      "source": "DW / AP / Reuters",
+      "url": "https://www.dw.com/en/trump-raises-prospect-of-big-beautiful-russia-ukraine-deal/a-79871394"
+    },
+    {
+      "headline": "Hegseth vows to fight impeachment push, defends Iran war",
+      "summary": "Reuters / 1News: In a social-media video, Defence Secretary Pete Hegseth called impeachment articles a 'sham', defended the Iran war as 'courageous and historic', and said he will not back down. Trump again said Hegseth is 'doing a very good job' and floated him as a possible appointed Tennessee senator.",
       "date": "6 Nov 2026",
       "region": "Americas",
       "countries": [
         "US"
       ],
-      "source": "The Straits Times / Reuters",
-      "url": "https://www.straitstimes.com/world/while-you-were-sleeping-5-stories-you-might-have-missed-nov-6-2026"
+      "source": "Reuters / 1News",
+      "url": "https://www.1news.co.nz/2026/11/06/hegseth-vows-to-fight-amid-calls-for-him-to-be-sacked-or-impeached/"
+    },
+    {
+      "headline": "South Africa local count: ANC ~31.7%, DA ~25% with ~67% counted",
+      "summary": "IEC / live trackers early Friday: with ~15,972 of 23,696 voting districts captured (~67%), ANC 31.72%, DA 24.99%, MK Party ~8.6%. About 103 of 213 municipalities complete; 72 of those hung. Figures still provisional; full results still expected around 8 Nov.",
+      "date": "6 Nov 2026",
+      "region": "Africa",
+      "countries": [],
+      "source": "IEC / News Definition / UANWORLD",
+      "url": "https://www.newsdefinition.com/article/local-election-results-2026-live-count"
+    },
+    {
+      "headline": "Russell Brand convicted of rape and three sexual assaults",
+      "summary": "BBC: A Southwark Crown Court jury found the comedian guilty of one count of rape and three sexual assaults (not guilty on other counts). He was remanded in custody; sentencing is due Monday 9 Nov, with the judge saying to expect a 'significant custodial term'. Met Police say further allegations remain under investigation.",
+      "date": "5 Nov 2026",
+      "region": "Europe",
+      "countries": [
+        "GB"
+      ],
+      "source": "BBC",
+      "url": "https://www.bbc.com/news/articles/ckyvrze96y70o"
+    },
+    {
+      "headline": "Senate Democrats prepare JPMorgan probe over Epstein banking ties",
+      "summary": "CNBC: Democratic staff on the Senate Finance Committee (expected chair Ron Wyden) plan to use subpoena power once they take the majority to examine how JPMorgan handled Jeffrey Epstein, focusing on decisions by asset-and-wealth CEO Mary Erdoes. JPMorgan declined to comment; it has previously said it regrets any association.",
+      "date": "5 Nov 2026",
+      "region": "Americas",
+      "countries": [
+        "US"
+      ],
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/11/05/jpmorgan-epstein-democrats-erdoes-midterm-election.html"
+    },
+    {
+      "headline": "British Ebola patient arrives at London's Royal Free Hospital",
+      "summary": "Guardian / Reuters: A UK doctor who tested positive while helping the DR Congo outbreak was evacuated and admitted to a specialist isolation unit; authorities say public risk remains low. It is the first British national linked to the current outbreak.",
+      "date": "5 Nov 2026",
+      "region": "Africa",
+      "countries": [
+        "GB"
+      ],
+      "source": "The Guardian / Reuters",
+      "url": "https://www.theguardian.com/world/2026/nov/05/british-ebola-patient-evacuated-drc-arrives-london-hospital"
+    },
+    {
+      "headline": "Iran reports three more Hormuz tankers damaged after US midterms",
+      "summary": "Reuters: Iran said two tankers struck naval mines and another caught fire on 5 Nov; UKMTO still cites ≥5 vessel incidents since Sunday. Parliament Speaker Qalibaf mocked VP Vance over blaming the Iran war for Republican losses. Qatari mediation continues; no breakthrough announced.",
+      "date": "5 Nov 2026",
+      "region": "Middle East",
+      "countries": [
+        "IR",
+        "US"
+      ],
+      "source": "Reuters",
+      "url": "https://www.investing.com/news/commodities-news/tankers-hit-in-hormuz-as-iran-keeps-up-pressure-after-us-vote-5005038"
     },
     {
       "headline": "North Korea tests new air-defence missile and cruise-missile drill",
@@ -69,15 +145,6 @@
       ],
       "source": "France 24",
       "url": "https://www.france24.com/en/france/20261105-live-france-nationwide-strikes-living-costs"
-    },
-    {
-      "headline": "South Africa local count: ANC ~32%, DA ~26% at halfway",
-      "summary": "IOL: With ~53% counted, ANC on 31.83% nationally (CSIR projects ~31.7%), DA 25.92%, MK Party ~8%. ANC had won only 15 of 213 councils outright so far; hung councils rising. Full results still expected around 8 Nov.",
-      "date": "5 Nov 2026",
-      "region": "Africa",
-      "countries": [],
-      "source": "IOL",
-      "url": "https://iol.co.za/lge2026/2026-11-05-halfway-count-spells-trouble-for-anc-as-da-narrows-gap-to-six-points/"
     },
     {
       "headline": "Paraguay: Congress spares Alliana; he is due to succeed Peña",
@@ -479,46 +546,6 @@
       "url": "https://ec.europa.eu/eurostat/en/web/products-euro-indicators/w/2-04112026-ap"
     },
     {
-      "headline": "Montenegro could sign EU accession treaty in June 2027",
-      "summary": "The European Commission said talks with Montenegro could close by the end of this year, the first since Croatia in 2011.",
-      "date": "4 Nov 2026",
-      "region": "Europe",
-      "countries": [],
-      "source": "Reuters via Devdiscourse",
-      "url": "https://www.devdiscourse.com/article/international/4001613-reuters-world-news-summary"
-    },
-    {
-      "headline": "Cyberattack hits French blood banks",
-      "summary": "Officials said no samples were compromised. It follows reports of supermarket fridges in several European countries being remotely taken over.",
-      "date": "4 Nov 2026",
-      "region": "Europe",
-      "countries": [
-        "FR"
-      ],
-      "source": "Euronews",
-      "url": "https://www.euronews.com/2026/11/04"
-    },
-    {
-      "headline": "British health worker with Ebola to be flown from DR Congo to UK",
-      "summary": "The patient is stable. DR Congo's outbreak passed 5,000 deaths by 30 October, its deadliest on record, with cases also in Uganda, Kenya and Nigeria.",
-      "date": "4 Nov 2026",
-      "region": "Africa",
-      "countries": [
-        "GB"
-      ],
-      "source": "The Guardian / Vocemundi",
-      "url": "https://www.theguardian.com/world/2026/nov/04/all"
-    },
-    {
-      "headline": "South Africans vote in local elections seen as a test for the ANC",
-      "summary": "Voters chose councillors in 257 municipalities amid anger over poor services. Final results were not yet out.",
-      "date": "4 Nov 2026",
-      "region": "Africa",
-      "countries": [],
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/11/4/south-africans-vote-in-local-elections-seen-as-test-for-embattled-anc"
-    },
-    {
       "headline": "Drone attacks push Sudan's power grid toward collapse",
       "summary": "At least 15 substations have been hit since early October. The UN envoy says talks with the RSF and its allies are expected before Christmas.",
       "date": "4 Nov 2026",
@@ -537,39 +564,6 @@
       ],
       "source": "The Jakarta Post",
       "url": "https://www.thejakartapost.com/indonesia/2026/11/04/president-prabowo-sacks-chief-of-staff-listyo-for-alleged-wiretapping-"
-    },
-    {
-      "headline": "Anwar shores up government with opposition deal",
-      "summary": "Malaysia's prime minister signed a confidence and supply agreement with 13 opposition MPs backing the 2027 budget and reforms.",
-      "date": "3 Nov 2026",
-      "region": "Asia-Pacific",
-      "countries": [
-        "MY"
-      ],
-      "source": "Business Today Malaysia",
-      "url": "https://www.businesstoday.com.my/2026/11/03/anwar-has-fewer-excuses-for-delayed-reforms-after-csa-analysts-say/"
-    },
-    {
-      "headline": "Anwar warns Malaysia is a cyberattack target",
-      "summary": "The prime minister ordered top-level security briefings and urged the public to stay calm and alert.",
-      "date": "4 Nov 2026",
-      "region": "Asia-Pacific",
-      "countries": [
-        "MY"
-      ],
-      "source": "The Star",
-      "url": "https://www.thestar.com.my/news/nation/2026/11/04/keep-calm-and-stay-alert-says-anwar"
-    },
-    {
-      "headline": "Xi pledges 'high-standard opening up' before Shanghai import expo",
-      "summary": "Xi said China will keep economic globalisation open and inclusive, as Beijing urged APEC members to uphold free trade.",
-      "date": "4 Nov 2026",
-      "region": "Asia-Pacific",
-      "countries": [
-        "CN"
-      ],
-      "source": "CGTN",
-      "url": "https://news.cgtn.com/news/2026-11-04/President-Xi-Jinping-s-key-remarks-on-high-standard-opening-up-1RNogdiZkys/p.html"
     }
   ],
   "conflicts": [
@@ -580,10 +574,10 @@
         "label": "Talks amid fighting",
         "tone": "danger"
       },
-      "latest": "BBC: Melania Trump hosted Russian and Ukrainian officials at the White House on 5 Nov and called for a 'more enduring' ceasefire after the six-day Oleshky (Kherson) humanitarian truce — Arakhamia called it the 'biggest de-escalation since 2022'. Strikes continue elsewhere (Komyshuvakha aid-point toll ~43). US-led Abu Dhabi talks still set for 10–11 Nov; Italy preparing a 13th arms package (COPASIR 10 Nov).",
-      "date": "5 Nov 2026",
-      "source": "BBC / AP / Reuters / ANSA",
-      "url": "https://www.bbc.com/news/articles/c9p8g085mz07o"
+      "latest": "DW/AP: Trump said after a private meeting with Putin's envoy Kirill Dmitriev that a 'big, beautiful' Ukraine deal is near and 'might involve all of Europe' (no terms disclosed; he did not meet the Ukrainian White House guests). Kushner called Brussels reconstruction/security talks productive. Strikes continue; Abu Dhabi trilateral talks still set for 10–11 Nov; Italy preparing a 13th arms package (COPASIR 10 Nov).",
+      "date": "6 Nov 2026",
+      "source": "DW / AP / Reuters / ANSA",
+      "url": "https://www.dw.com/en/trump-raises-prospect-of-big-beautiful-russia-ukraine-deal/a-79871394"
     },
     {
       "name": "US/Israel-Iran war",
@@ -592,10 +586,10 @@
         "label": "Talks and strikes",
         "tone": "warning"
       },
-      "latest": "CNA/Reuters: Brent settled $98.29 (+$3.67) on 5 Nov after fresh tanker incidents. UKMTO: ≥5 vessel incidents since Sunday. IRGC claimed tanker/tug fires on unauthorised Hormuz routes. Iran FM Araqchi held Gulf calls; Qatari mediation continues. Democrats plan a January war-powers push to end the conflict.",
+      "latest": "Reuters: Iran reported three more Hormuz tanker incidents on 5 Nov (IRGC: mines/fire); UKMTO ≥5 vessel incidents since Sunday. Qalibaf mocked Vance over midterm blame for the war. Brent settled $98.29 (+$3.67); overnight trade near ~$98.4. Qatari mediation continues; Democrats plan a January war-powers push.",
       "date": "5 Nov 2026",
-      "source": "CNA / Reuters / CNBC",
-      "url": "https://www.channelnewsasia.com/business/brent-crude-jumps-settles-up-over-3-after-tanker-attacks-6526116"
+      "source": "Reuters / CNA",
+      "url": "https://www.investing.com/news/commodities-news/tankers-hit-in-hormuz-as-iran-keeps-up-pressure-after-us-vote-5005038"
     },
     {
       "name": "Houthis vs Saudi-led coalition (Yemen)",
@@ -604,10 +598,10 @@
         "label": "Widening",
         "tone": "danger"
       },
-      "latest": "Coalition said it intercepted a Houthi ballistic missile toward the Medina region (5 Nov). Houthis later claimed an attack on King Fahd airport in Dammam — no immediate Saudi confirmation. Saudi alerts warned of potential danger near Yanbu.",
+      "latest": "Al Jazeera / Reuters: Saudi-led coalition said it intercepted a Houthi ballistic missile toward the Medina region (5 Nov). Houthis later claimed an attack on King Fahd airport in Dammam — no immediate Saudi confirmation. Saudi alerts warned of potential danger near Yanbu.",
       "date": "5 Nov 2026",
-      "source": "CNA / Reuters / CNBC",
-      "url": "https://www.channelnewsasia.com/business/brent-crude-jumps-settles-up-over-3-after-tanker-attacks-6526116"
+      "source": "Al Jazeera / Reuters / CNA",
+      "url": "https://www.aljazeera.com/news/2026/11/5/saudi-coalition-intercepts-missile-fired-towards-medina"
     },
     {
       "name": "Gaza",
@@ -649,14 +643,58 @@
   "politics": [
     {
       "date": "6 Nov",
-      "title": "US: Hegseth under pressure after midterm rout",
-      "detail": "Democrats plan probes; some Republicans blame the Iran war he championed. Trump says Hegseth is 'doing a very good job' and has not signalled a replacement.",
+      "title": "US: Hegseth vows to fight impeachment; Trump stands by him",
+      "detail": "Video message calls Massie impeachment articles a 'sham' and defends the Iran war. Trump says Hegseth is doing a 'very good job' and floated him as a possible appointed Tennessee senator.",
       "status": {
-        "label": "Under scrutiny",
+        "label": "Defiant",
         "tone": "warning"
       },
-      "source": "The Straits Times / Reuters",
-      "url": "https://www.straitstimes.com/world/while-you-were-sleeping-5-stories-you-might-have-missed-nov-6-2026"
+      "source": "Reuters / 1News",
+      "url": "https://www.1news.co.nz/2026/11/06/hegseth-vows-to-fight-amid-calls-for-him-to-be-sacked-or-impeached/"
+    },
+    {
+      "date": "6 Nov",
+      "title": "US/Ukraine: Trump claims a major peace deal is near",
+      "detail": "After meeting Dmitriev, Trump said a deal 'might involve all of Europe'. No terms given; Abu Dhabi working-level talks still 10–11 Nov.",
+      "status": {
+        "label": "Claim",
+        "tone": "warning"
+      },
+      "source": "DW / Reuters",
+      "url": "https://www.dw.com/en/trump-raises-prospect-of-big-beautiful-russia-ukraine-deal/a-79871394"
+    },
+    {
+      "date": "6 Nov",
+      "title": "South Africa: ANC ~31.7% / DA ~25% with ~67% of districts counted",
+      "detail": "IEC early Friday: many hung councils among the 103 municipalities complete. Full results still expected around 8 Nov.",
+      "status": {
+        "label": "Counting",
+        "tone": "warning"
+      },
+      "source": "IEC / News Definition",
+      "url": "https://www.newsdefinition.com/article/local-election-results-2026-live-count"
+    },
+    {
+      "date": "5 Nov",
+      "title": "US: Senate Democrats prepare JPMorgan–Epstein banking probe",
+      "detail": "Finance Committee staff (expected chair Wyden) plan subpoenas focused on how JPMorgan handled Epstein, including decisions by Mary Erdoes.",
+      "status": {
+        "label": "Oversight",
+        "tone": "warning"
+      },
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/11/05/jpmorgan-epstein-democrats-erdoes-midterm-election.html"
+    },
+    {
+      "date": "5 Nov",
+      "title": "UK: Russell Brand convicted; sentencing Monday",
+      "detail": "Guilty of rape and three sexual assaults; remanded in custody. Judge said to expect a significant prison term on 9 Nov.",
+      "status": {
+        "label": "Convicted",
+        "tone": "danger"
+      },
+      "source": "BBC",
+      "url": "https://www.bbc.com/news/articles/ckyvrze96y70o"
     },
     {
       "date": "5 Nov",
@@ -672,7 +710,7 @@
     {
       "date": "5 Nov",
       "title": "Paraguay: Alliana spared impeachment; due to succeed Peña",
-      "detail": "Lower house shelved Alliana's impeachment 48-30 after unanimously advancing Peña's case to the Senate. Alliana is due to be sworn in to serve until August 2028 (swearing-in completion not yet confirmed by major English wires).",
+      "detail": "Lower house shelved Alliana's impeachment 48-30 after unanimously advancing Peña's case to the Senate. Alliana is due to succeed Peña to August 2028; major English wires had not yet confirmed the swearing-in as completed overnight.",
       "status": {
         "label": "Succession underway",
         "tone": "warning"
@@ -690,17 +728,6 @@
       },
       "source": "France 24",
       "url": "https://www.france24.com/en/france/20261105-live-france-nationwide-strikes-living-costs"
-    },
-    {
-      "date": "5 Nov",
-      "title": "South Africa: ANC ~32% / DA ~26% at halfway local count",
-      "detail": "IOL/IEC mid-count: ANC 31.83%, DA 25.92%, MK ~8%; many hung councils. Full results still expected around 8 Nov.",
-      "status": {
-        "label": "Counting",
-        "tone": "warning"
-      },
-      "source": "IOL",
-      "url": "https://iol.co.za/lge2026/2026-11-05-halfway-count-spells-trouble-for-anc-as-da-narrows-gap-to-six-points/"
     },
     {
       "date": "5 Nov",
@@ -842,13 +869,6 @@
       "detail": "Listyo Sigit Prabowo sacked amid an illegal wiretapping probe.",
       "source": "The Jakarta Post",
       "url": "https://www.thejakartapost.com/indonesia/2026/11/04/president-prabowo-sacks-chief-of-staff-listyo-for-alleged-wiretapping-"
-    },
-    {
-      "date": "3 Nov",
-      "title": "Malaysia: Anwar signs deal with 13 opposition MPs",
-      "detail": "A confidence and supply agreement backing the 2027 budget and reforms.",
-      "source": "Business Today Malaysia",
-      "url": "https://www.businesstoday.com.my/2026/11/03/anwar-has-fewer-excuses-for-delayed-reforms-after-csa-analysts-say/"
     }
   ],
   "upcoming": [
@@ -861,12 +881,44 @@
       "url": "https://www.bls.gov/schedule/2026/11_sched.htm"
     },
     {
+      "date": "7 Nov",
+      "event": "New Zealand general election (polling closes 19:00 NZDT)",
+      "place": "New Zealand",
+      "kind": "Politics",
+      "source": "BBC / Vote NZ",
+      "url": "https://www.bbc.com/news/articles/cr1exvxz8g47o"
+    },
+    {
       "date": "8 Nov",
       "event": "Israel: Herzog to announce who is tasked with forming the next government",
       "place": "Jerusalem",
       "kind": "Politics",
       "source": "Ynet / Reuters",
       "url": "https://www.ynetnews.com/article/rjj1td9pfx"
+    },
+    {
+      "date": "8 Nov",
+      "event": "South Africa: full local election results expected (ANC ~31.7% / DA ~25% at ~67% count)",
+      "place": "Pretoria",
+      "kind": "Politics",
+      "source": "IEC / News Definition",
+      "url": "https://www.newsdefinition.com/article/local-election-results-2026-live-count"
+    },
+    {
+      "date": "9 Nov",
+      "event": "UK: Russell Brand sentencing at Southwark Crown Court",
+      "place": "London",
+      "kind": "Politics",
+      "source": "BBC",
+      "url": "https://www.bbc.com/news/articles/ckyvrze96y70o"
+    },
+    {
+      "date": "9 Nov",
+      "event": "France: Lecornu's 'social conference' with unions and employers",
+      "place": "Paris",
+      "kind": "Politics",
+      "source": "BBC",
+      "url": "https://www.bbc.co.uk/news/articles/ckx2qzv835pgo"
     },
     {
       "date": "10 Nov",
@@ -883,22 +935,6 @@
       "kind": "Politics",
       "source": "Swedish government",
       "url": "https://www.regeringen.se/pressmeddelanden/2026/11/aterinford-granskontroll-vid-inre-grans/"
-    },
-    {
-      "date": "8 Nov",
-      "event": "South Africa: full local election results expected (ANC ~32% / DA ~26% at mid-count)",
-      "place": "Pretoria",
-      "kind": "Politics",
-      "source": "IOL / IEC",
-      "url": "https://iol.co.za/lge2026/2026-11-05-halfway-count-spells-trouble-for-anc-as-da-narrows-gap-to-six-points/"
-    },
-    {
-      "date": "9 Nov",
-      "event": "France: Lecornu's 'social conference' with unions and employers",
-      "place": "Paris",
-      "kind": "Politics",
-      "source": "BBC",
-      "url": "https://www.bbc.co.uk/news/articles/ckx2qzv835pgo"
     },
     {
       "date": "9-20 Nov",
@@ -1064,19 +1100,19 @@
     },
     {
       "item": "Brent crude oil",
-      "figure": "$98.29 a barrel (settle)",
-      "detail": "CNA/Reuters: Brent settled +$3.67 (+3.88%) at $98.29 on 5 Nov; WTI $90.52. Rebound after >8% drop on 4 Nov. Hormuz tanker incidents (UKMTO ≥5 since Sunday) and Iran-war outlook driving swings.",
-      "date": "5 Nov 2026",
-      "source": "CNA / Reuters",
+      "figure": "$98.29 settle / ~$98.4 trade",
+      "detail": "CNA/Reuters: Brent settled +$3.67 (+3.88%) at $98.29 on 5 Nov; WTI $90.52. Early Friday trade reports near ~$98.4. Hormuz tanker incidents (UKMTO ≥5 since Sunday; Iran claimed three more damaged) driving swings.",
+      "date": "6 Nov 2026",
+      "source": "CNA / Reuters / FXBus",
       "url": "https://www.channelnewsasia.com/business/brent-crude-jumps-settles-up-over-3-after-tanker-attacks-6526116"
     },
     {
       "item": "US stocks",
       "figure": "Nasdaq −5.17% (close)",
-      "detail": "Investing.com: Nasdaq Composite closed 24,405.73 (−5.17%) on 5 Nov — deepest one-day drop in ~19 months / worst since Apr 2025 on AI-regulation fears after the Democratic sweep. Nvidia and Qualcomm fell more than 9%; SOX plunged over 12% (Straits Times).",
+      "detail": "Investing.com: Nasdaq Composite closed 24,405.73 (−5.17%) on 5 Nov — worst day since Apr 2025 on AI-regulation fears after the Democratic sweep. CNBC: Tesla and SpaceX together lost over $420bn in market value; Nvidia/Qualcomm fell >9%.",
       "date": "5 Nov 2026",
-      "source": "Investing.com / The Straits Times / The Guardian",
-      "url": "https://www.straitstimes.com/world/while-you-were-sleeping-5-stories-you-might-have-missed-nov-6-2026"
+      "source": "Investing.com / CNBC / The Guardian",
+      "url": "https://www.cnbc.com/2026/11/05/tesla-spacex-stocks-fall-after-2026-midterms.html"
     },
     {
       "item": "Japan stocks",
@@ -1103,7 +1139,7 @@
       "url": "https://vocemundi.com/the-week-2026-11-01/"
     }
   ],
-  "economyNote": "The Bank of England raised Bank Rate to 4% on 5 November, its first hike in over three years. Energy from the Iran war remains the main driver of European inflation; Brent settled at $98.29 on 5 Nov after tanker attacks. US October jobs report is due later today (6 Nov, 08:30 ET).",
+  "economyNote": "The Bank of England raised Bank Rate to 4% on 5 November, its first hike in over three years. Energy from the Iran war remains the main driver of European inflation; Brent settled at $98.29 on 5 Nov (early Friday trade near ~$98.4) after tanker attacks. US October jobs report is due later today (6 Nov, 08:30 ET / 14:30 Rome).",
   "policyRates": [
     {
       "label": "US Fed",
@@ -1290,7 +1326,7 @@
       "headOfGov": "Prime Minister Anwar Ibrahim"
     }
   ],
-  "profilesNote": "Leaders checked against news of 5–6 November 2026 (early Friday update). Israel: Netanyahu remains caretaker PM; Herzog to name mandate-holder Sunday 8 Nov (Eisenkot 67 vs Netanyahu 46). Paraguay succession: Alliana due to succeed Peña after lower house spared him — not listed in country profiles.",
+  "profilesNote": "Leaders checked against news of 6 November 2026 (early Friday ~01:20 Rome). Israel: Netanyahu remains caretaker PM; Herzog to name mandate-holder Sunday 8 Nov (Eisenkot 67 vs Netanyahu 46). Paraguay: Alliana due to succeed Peña after lower house spared him — swearing-in not yet confirmed by major English wires; Paraguay is not listed in country profiles.",
   "profileSource": "https://www.imf.org/external/datamapper/NGDPD@WEO",
   "history": [
     {
@@ -1576,13 +1612,43 @@
     {
       "year": 2026,
       "date": "5 Nov 2026",
-      "title": "BoE hike, Paraguay crisis, Europe flight hoaxes, Nasdaq plunge",
-      "detail": "BoE lifts Bank Rate to 4%; Peña resigns/impeached over Ueno Bank and Alliana is spared to succeed him; ≥25 Europe flights hit by hoax bomb threats (Male State claim unverified); Nasdaq closes −5.17% / Brent settles $98.29; Herzog sets Sunday mandate decision; Melania hosts RU/UA at White House; North Korea tests new air defence; Hegseth under post-midterm pressure. A Nigerian court voids Atiku's candidacy.",
-      "url": "https://www.straitstimes.com/world/while-you-were-sleeping-5-stories-you-might-have-missed-nov-6-2026",
-      "source": "Straits Times / Ynet / Reuters / Euronews / CNBC / Yonhap"
+      "title": "BoE hike, Paraguay crisis, Europe flight hoaxes, Nasdaq plunge, Trump Ukraine-deal claim",
+      "detail": "BoE lifts Bank Rate to 4%; Peña resigns/impeached over Ueno Bank and Alliana is spared to succeed him; ≥25–27 Europe flights hit by hoax bomb threats (Male State claim unverified); Nasdaq closes −5.17% / Brent settles $98.29; Herzog sets Sunday mandate decision; Melania hosts RU/UA at White House and Trump later claims a major Ukraine deal is near after meeting Dmitriev; Hegseth vows to fight impeachment; North Korea tests new air defence; Russell Brand convicted of rape and sexual assaults. A Nigerian court voids Atiku's candidacy.",
+      "url": "https://www.dw.com/en/trump-raises-prospect-of-big-beautiful-russia-ukraine-deal/a-79871394",
+      "source": "Straits Times / Ynet / Reuters / Euronews / CNBC / Yonhap / DW / BBC"
     }
   ],
   "sources": [
+    {
+      "title": "Democrats JPMorgan Epstein probe plans",
+      "site": "cnbc.com",
+      "url": "https://www.cnbc.com/2026/11/05/jpmorgan-epstein-democrats-erdoes-midterm-election.html",
+      "date": "5 Nov 2026"
+    },
+    {
+      "title": "Russell Brand conviction",
+      "site": "bbc.com",
+      "url": "https://www.bbc.com/news/articles/ckyvrze96y70o",
+      "date": "5 Nov 2026"
+    },
+    {
+      "title": "Hegseth vows to fight impeachment",
+      "site": "1news.co.nz",
+      "url": "https://www.1news.co.nz/2026/11/06/hegseth-vows-to-fight-amid-calls-for-him-to-be-sacked-or-impeached/",
+      "date": "6 Nov 2026"
+    },
+    {
+      "title": "Trump Ukraine deal claim after Dmitriev meeting",
+      "site": "dw.com",
+      "url": "https://www.dw.com/en/trump-raises-prospect-of-big-beautiful-russia-ukraine-deal/a-79871394",
+      "date": "6 Nov 2026"
+    },
+    {
+      "title": "UNHCR / France 24 — displaced people and climate risks",
+      "site": "france24.com",
+      "url": "https://www.france24.com/en/environment/20261105-un-displaced-people-climate-risks",
+      "date": "6 Nov 2026"
+    },
     {
       "title": "CNA/Reuters — Brent settle after tanker attacks",
       "site": "CNA",
