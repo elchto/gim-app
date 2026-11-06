@@ -1,10 +1,81 @@
 {
   "title": "Global Intelligence Monitor",
-  "snapshot": "Friday 6 November 2026, 03:10 (Europe/Rome)",
+  "snapshot": "Friday 6 November 2026, 04:15 (Europe/Rome)",
   "snapshotDate": "2026-11-06",
-  "lastUpdated": "2026-11-06T03:10:00+01:00",
-  "summary": "A one-page briefing on world news, conflicts, politics and the economy in the week to 6 November 2026 (early Friday ~03:10 Europe/Rome), with country profiles and a timeline since 1945.",
+  "lastUpdated": "2026-11-06T04:15:00+01:00",
+  "summary": "A one-page briefing on world news, conflicts, politics and the economy in the week to 6 November 2026 (early Friday ~04:15 Europe/Rome), with country profiles and a timeline since 1945.",
   "news": [
+    {
+      "headline": "Japan mulls emergency exception to non-nuclear principles in security strategy",
+      "summary": "Kyodo: A government source said Tokyo is considering stating an explicit emergency exception to the three non-nuclear principles in the updated National Security Strategy (due by year-end) — allowing temporary introduction of US nuclear weapons in a contingency — while likely keeping the principles themselves. Reflects Okada 2010 remarks; PM Takaichi has previously questioned the \"no introduction\" rule. Wording still under LDP–Ishin consultation; China likely to protest (claim).",
+      "date": "6 Nov 2026",
+      "region": "Asia-Pacific",
+      "countries": [
+        "JP",
+        "US",
+        "CN"
+      ],
+      "source": "Kyodo",
+      "url": "https://english.kyodonews.net/articles/-/90511"
+    },
+    {
+      "headline": "China says DF-61 ICBM has entered Rocket Force routine training",
+      "summary": "CCTV / Global Times: State TV said the DF-61 land-based ICBM, unveiled at the Sept 2025 parade, has been inducted into the PLA Rocket Force and is now used in routine training (field mobility, position changes, launch procedures). No range, numbers or basing disclosed. Expert Shao Yongling said the parade-to-training pace was faster than usual for ICBMs (state-media claim).",
+      "date": "6 Nov 2026",
+      "region": "Asia-Pacific",
+      "countries": [
+        "CN"
+      ],
+      "source": "Global Times / CCTV",
+      "url": "https://www.globaltimes.cn/page/202611/1373745.shtml"
+    },
+    {
+      "headline": "Trump floats tariffs up to 300% unless foreign firms build US plants",
+      "summary": "Businesskorea / SBS: At the White House on 5 Nov (reported 6 Nov), Trump said foreign companies that do not build US factories could face tariffs from 50% up to 300%, citing >3,000 foreign-owned facilities under construction and arguing tariffs drive the investment. No products, firms or effective date specified — a maximum threat, not a finalized rule (claim).",
+      "date": "6 Nov 2026",
+      "region": "Americas",
+      "countries": [
+        "US",
+        "CN",
+        "JP"
+      ],
+      "source": "Businesskorea / SBS",
+      "url": "https://www.businesskorea.co.kr/news/articleView.html?idxno=280648"
+    },
+    {
+      "headline": "Brent climbs toward $99.86 Friday as Hormuz risks offset de-escalation bets",
+      "summary": "Reuters (Business Recorder): As of 0222 GMT Friday, Brent January futures were about $99.86 (+$1.57 / +1.6%) and WTI about $91.62 (+$1.10). Both gained a second day after Thursday's settle (Brent $98.29). Still on track for ~12% weekly drops after midterm de-escalation bets, but tanker attacks and Hormuz flows under ~60% of capacity (ANZ claim) kept a floor under prices.",
+      "date": "6 Nov 2026",
+      "region": "Middle East",
+      "countries": [
+        "IR",
+        "US",
+        "SA"
+      ],
+      "source": "Reuters / Business Recorder",
+      "url": "https://www.brecorder.com/news/40447719/oil-set-for-sharp-weekly-drop-but-middle-east-supply-concerns-provide-floor"
+    },
+    {
+      "headline": "Zelenskyy: every Ukrainian power plant damaged; seeks Latin America grid help",
+      "summary": "Guardian / agencies: At a Madrid Ibero-American sideline on 5 Nov (briefing 6 Nov), Zelenskyy said every power plant in Ukraine has been damaged 'in one way or another' by Russian attacks and urged Spain and Latin American firms for compatible grid equipment \"fast\". Overnight exchanges continued; Komyshuvakha toll still cited at 43 with search ongoing.",
+      "date": "6 Nov 2026",
+      "region": "Europe",
+      "countries": [
+        "UA",
+        "RU"
+      ],
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/nov/06/ukraine-war-briefing-zelenskyy-says-russia-has-damaged-every-power-plant-as-he-seeks-latin-american-help"
+    },
+    {
+      "headline": "Two Egyptian officers killed in illegal gold-mining crackdown near Sudan border",
+      "summary": "Reuters / Al Arabiya: Military spokesperson said two army officers, including a senior border-guard officer, were killed during the Eastern Desert campaign against illegal gold mining along the Sudan border. Timing of deaths not specified. Campaign (from June) has detained 151 Egyptians and 540 foreigners; phase four due Saturday. Rights monitors previously alleged an Oct airstrike killed miners in northern Sudan — Egypt did not address that claim.",
+      "date": "6 Nov 2026",
+      "region": "Africa",
+      "countries": [],
+      "source": "Reuters / Al Arabiya",
+      "url": "https://english.alarabiya.net/News/middle-east/2026/11/06/two-egyptian-army-officers-killed-in-goldmining-crackdown-on-southern-border-military-sa"
+    },
     {
       "headline": "NZ election eve: Freshwater poll puts Labour 30.7% ahead of National 26.4%",
       "summary": "RNZ / The Post: Final Freshwater Strategy poll before Saturday's vote has Labour 30.7% (+2), National 26.4% (−1.2), Opportunity 5.1% (just above the threshold). Right bloc projected ~59 seats vs left ~55 in a 120-seat House; Opportunity would hold the balance if it clears 5%. Other late polls still show a narrow right lead. Polls close 19:00 NZDT Saturday 7 Nov.",
@@ -122,19 +193,6 @@
       ],
       "source": "USA Today / WCAX",
       "url": "https://www.usatoday.com/story/news/politics/2026/11/05/pete-hegseth-impeachment-fight/92630898007/"
-    },
-    {
-      "headline": "Brent holds near $98.29 Friday as Hormuz risks offset peace hopes",
-      "summary": "Gulf News / CNBC: Brent futures around $98.29 early Friday (Beijing time quote); WTI near $91.07. Thursday settle was Brent $98.29 (+$3.67) and WTI $90.52 after Hormuz tanker incidents. Eurasia Group cut odds of a deal to 10% and of renewed US strikes to 60%.",
-      "date": "6 Nov 2026",
-      "region": "Middle East",
-      "countries": [
-        "IR",
-        "US",
-        "SA"
-      ],
-      "source": "Gulf News / CNBC / Reuters",
-      "url": "https://gulfnews.com/business/energy/oil-edges-higher-as-iran-uncertainty-offsets-peace-hopes-1.500737847"
     },
     {
       "headline": "UNHCR: nearly 90 million displaced people face severe climate risks",
@@ -574,10 +632,10 @@
         "label": "Talks amid fighting",
         "tone": "danger"
       },
-      "latest": "Al Jazeera/AP: After meeting Kirill Dmitriev (5 Nov), Trump again claimed a major deal is 'very close' and could involve 'all of Europe' — no terms published (claim). Abu Dhabi US-mediated talks still set for 10–11 Nov (Witkoff/Kushner; Medinsky for Russia). Melania hosted RU/UA officials on the Oleshky humanitarian truce. Fighting continues; Komyshuvakha toll earlier reported at 43.",
+      "latest": "Guardian: In Madrid (5 Nov), Zelenskyy said every Ukrainian power plant has been damaged and appealed for Spanish/Latin American grid equipment. Al Jazeera/AP: After meeting Kirill Dmitriev, Trump again claimed a major deal is 'very close' and could involve 'all of Europe' — no terms (claim). Abu Dhabi US-mediated talks still 10–11 Nov. Komyshuvakha toll earlier reported at 43; fighting and overnight exchanges continue.",
       "date": "6 Nov 2026",
-      "source": "Al Jazeera / AP / Reuters",
-      "url": "https://www.aljazeera.com/news/2026/11/6/trump-met-russian-envoy-after-he-appeared-with-melania-trump-and-ukrainians"
+      "source": "The Guardian / Al Jazeera / AP",
+      "url": "https://www.theguardian.com/world/2026/nov/06/ukraine-war-briefing-zelenskyy-says-russia-has-damaged-every-power-plant-as-he-seeks-latin-american-help"
     },
     {
       "name": "US/Israel-Iran war",
@@ -586,10 +644,10 @@
         "label": "Threats and diplomacy",
         "tone": "danger"
       },
-      "latest": "AA/Al Jazeera: Trump said he may have to 'destroy the rest' of Iran and that a decision is coming 'soon' (claim; no strike ordered). Reuters: Iran sent a nuclear proposal via Qatar with seven preconditions. Hormuz: Iran reported further tanker damage 5 Nov; UKMTO ≥5 incidents since Sunday. Putin hosted Iran's Rezaei in Moscow. Brent ~$98.29 Friday.",
+      "latest": "AA/Al Jazeera: Trump said he may have to 'destroy the rest' of Iran and that a decision is coming 'soon' (claim; no strike ordered). Reuters: Iran sent a nuclear proposal via Qatar with seven preconditions. Hormuz: Iran reported further tanker damage 5 Nov; UKMTO ≥5 incidents since Sunday. Brent ~$99.86 early Friday (WTI ~$91.62) per Reuters.",
       "date": "6 Nov 2026",
-      "source": "Anadolu Agency / Reuters / CNBC",
-      "url": "https://www.aa.com.tr/en/americas/trump-warns-that-iran-could-face-destruction-saying-you-ll-know-soon-enough-about-his-next-move/4113532"
+      "source": "Anadolu Agency / Reuters / Business Recorder",
+      "url": "https://www.brecorder.com/news/40447719/oil-set-for-sharp-weekly-drop-but-middle-east-supply-concerns-provide-floor"
     },
     {
       "name": "Houthis vs Saudi-led coalition (Yemen)",
@@ -641,6 +699,39 @@
     }
   ],
   "politics": [
+    {
+      "date": "6 Nov",
+      "title": "Japan: government considers emergency exception to non-nuclear principles in NSS",
+      "detail": "Kyodo source: updated National Security Strategy may explicitly allow temporary introduction of US nuclear weapons in an emergency while keeping the three principles; wording still under debate.",
+      "status": {
+        "label": "Under review",
+        "tone": "warning"
+      },
+      "source": "Kyodo",
+      "url": "https://english.kyodonews.net/articles/-/90511"
+    },
+    {
+      "date": "6 Nov",
+      "title": "US: Trump floats tariffs up to 300% if foreign firms skip US plants",
+      "detail": "White House remarks: tariffs of 50–300% threatened for firms that do not build/operate US factories; no product list or effective date — claim, not a finalized rule.",
+      "status": {
+        "label": "Claim / threat",
+        "tone": "warning"
+      },
+      "source": "Businesskorea / SBS",
+      "url": "https://www.businesskorea.co.kr/news/articleView.html?idxno=280648"
+    },
+    {
+      "date": "6 Nov",
+      "title": "China: DF-61 ICBM enters PLA Rocket Force routine training (CCTV)",
+      "detail": "State TV said the DF-61, unveiled Sept 2025, is now in routine Rocket Force training; no range or deployment figures released.",
+      "status": {
+        "label": "Reported",
+        "tone": "warning"
+      },
+      "source": "Global Times / CCTV",
+      "url": "https://www.globaltimes.cn/page/202611/1373745.shtml"
+    },
     {
       "date": "6 Nov",
       "title": "New Zealand: final Freshwater poll has Labour ahead; vote tomorrow",
@@ -929,11 +1020,11 @@
   "upcoming": [
     {
       "date": "6 Nov",
-      "event": "US jobs report for October",
+      "event": "US jobs report for October (due 08:30 ET / 14:30 Rome — not yet released at ~04:15 Rome)",
       "place": "Washington",
       "kind": "Economy",
-      "source": "BLS",
-      "url": "https://www.bls.gov/schedule/2026/11_sched.htm"
+      "source": "BLS / CNBC preview",
+      "url": "https://www.cnbc.com/2026/11/05/october-jobs-report-preview.html"
     },
     {
       "date": "7 Nov",
@@ -1171,11 +1262,11 @@
     },
     {
       "item": "Brent crude oil",
-      "figure": "$98.29 (Fri quote) / WTI ~$91",
-      "detail": "Gulf News: Brent ~$98.29 early Friday; WTI ~$91.07. Thursday settle Brent $98.29 (+$3.67), WTI $90.52. Hormuz tanker risks and Iran war uncertainty; Eurasia Group deal odds 10%, renewed-strike odds 60%.",
+      "figure": "~$99.86 (Fri early) / WTI ~$91.62",
+      "detail": "Reuters: Brent January +1.6% to about $99.86 as of 0222 GMT Friday; WTI ~$91.62. Still heading for ~12% weekly losses after midterm de-escalation bets, but Hormuz tanker attacks supported a rebound.",
       "date": "6 Nov 2026",
-      "source": "Gulf News / CNBC / Reuters",
-      "url": "https://gulfnews.com/business/energy/oil-edges-higher-as-iran-uncertainty-offsets-peace-hopes-1.500737847"
+      "source": "Reuters / Business Recorder",
+      "url": "https://www.brecorder.com/news/40447719/oil-set-for-sharp-weekly-drop-but-middle-east-supply-concerns-provide-floor"
     },
     {
       "item": "US stocks",
@@ -1210,7 +1301,7 @@
       "url": "https://vocemundi.com/the-week-2026-11-01/"
     }
   ],
-  "economyNote": "The Bank of England raised Bank Rate to 4% on 5 November, its first hike in over three years. Japan real wages rose 2.2% y/y in September (ninth straight gain). Energy from the Iran war remains the main driver of European inflation; Brent held near $98.29 early Friday (WTI ~$91) after Hormuz tanker incidents. US October jobs report is still due later today (6 Nov, 08:30 ET / 14:30 Rome).",
+  "economyNote": "The Bank of England raised Bank Rate to 4% on 5 November, its first hike in over three years. Japan real wages rose 2.2% y/y in September (ninth straight gain). Energy from the Iran war remains the main driver of European inflation; Brent traded near $99.86 early Friday Beijing time (WTI ~$91.62) after Hormuz tanker incidents (Reuters). US October jobs report is still due later today (6 Nov, 08:30 ET / 14:30 Rome).",
   "policyRates": [
     {
       "label": "US Fed",
@@ -1397,7 +1488,7 @@
       "headOfGov": "Prime Minister Anwar Ibrahim"
     }
   ],
-  "profilesNote": "Leaders checked against news of 6 November 2026 (~03:10 Rome). Israel: Netanyahu remains caretaker PM; Herzog to name mandate-holder Sunday 8 Nov (Eisenkot 67 vs Netanyahu 46). Paraguay: Pedro Alliana assumed the presidency after Peña resigned and was impeached over Ueno Bank (AS/COA/NPR); Paraguay is not listed in country profiles.",
+  "profilesNote": "Leaders checked against news of 6 November 2026 (~04:15 Rome). Israel: Netanyahu remains caretaker PM; Herzog to name mandate-holder Sunday 8 Nov (Eisenkot 67 vs Netanyahu 46). Paraguay: Pedro Alliana assumed the presidency after Peña resigned and was impeached over Ueno Bank (AS/COA/NPR); Paraguay is not listed in country profiles. Japan: PM Sanae Takaichi; government considering an explicit emergency exception to the non-nuclear principles in the National Security Strategy (Kyodo; claim/proposal, not yet adopted).",
   "profileSource": "https://www.imf.org/external/datamapper/NGDPD@WEO",
   "history": [
     {
@@ -1691,13 +1782,49 @@
     {
       "year": 2026,
       "date": "6 Nov 2026",
-      "title": "Trump Iran threat; NZ poll flip; Houthis claim Dammam strike; Huang Congress ask",
-      "detail": "Early Friday: Trump again threatened to 'destroy the rest' of Iran; final NZ Freshwater poll put Labour ahead of National ahead of Saturday's vote; Houthis claimed a Dammam airport drone strike (unverified) as the coalition reported intercepts; House chairs asked Nvidia's Jensen Huang to brief Congress on an alleged China spy link; Japan real wages rose 2.2% in September.",
-      "url": "https://www.rnz.co.nz/news/politics_election-2026/2368732/last-poll-before-election-puts-labour-slightly-ahead-of-national-with-opportunity-just-making-it-to-parliament",
-      "source": "RNZ / Xinhua / CNBC"
+      "title": "Japan nuclear-exception debate; China DF-61 training; Trump 300% tariff threat; oil near $100",
+      "detail": "Early Friday: Kyodo said Japan may write an emergency exception to its non-nuclear principles into the NSS; CCTV said China's DF-61 ICBM entered Rocket Force routine training; Trump floated tariffs up to 300% unless foreign firms build US plants; Brent ~$99.86; Zelenskyy said every Ukrainian power plant has been damaged; two Egyptian officers killed in a gold-mining crackdown near Sudan. Earlier Friday items still stand: Trump Iran threat, NZ Labour-ahead poll, Houthis' unverified Dammam claim, Huang Congress ask, Japan real wages +2.2%.",
+      "url": "https://english.kyodonews.net/articles/-/90511",
+      "source": "Kyodo / Global Times / Reuters / Guardian"
     }
   ],
   "sources": [
+    {
+      "title": "Kyodo — Japan non-nuclear principles exception",
+      "site": "Kyodo",
+      "url": "https://english.kyodonews.net/articles/-/90511",
+      "date": "6 Nov 2026"
+    },
+    {
+      "title": "Global Times / CCTV — DF-61 ICBM routine training",
+      "site": "Global Times",
+      "url": "https://www.globaltimes.cn/page/202611/1373745.shtml",
+      "date": "6 Nov 2026"
+    },
+    {
+      "title": "Businesskorea — Trump 300% tariff threat",
+      "site": "Businesskorea",
+      "url": "https://www.businesskorea.co.kr/news/articleView.html?idxno=280648",
+      "date": "6 Nov 2026"
+    },
+    {
+      "title": "Reuters / Business Recorder — Brent Friday oil",
+      "site": "Business Recorder",
+      "url": "https://www.brecorder.com/news/40447719/oil-set-for-sharp-weekly-drop-but-middle-east-supply-concerns-provide-floor",
+      "date": "6 Nov 2026"
+    },
+    {
+      "title": "Guardian — Zelenskyy power plants / Ukraine briefing",
+      "site": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/nov/06/ukraine-war-briefing-zelenskyy-says-russia-has-damaged-every-power-plant-as-he-seeks-latin-american-help",
+      "date": "6 Nov 2026"
+    },
+    {
+      "title": "Al Arabiya / Reuters — Egypt officers gold-mining crackdown",
+      "site": "Al Arabiya",
+      "url": "https://english.alarabiya.net/News/middle-east/2026/11/06/two-egyptian-army-officers-killed-in-goldmining-crackdown-on-southern-border-military-sa",
+      "date": "6 Nov 2026"
+    },
     {
       "title": "RNZ — NZ final Freshwater election poll",
       "site": "RNZ",
@@ -1862,18 +1989,6 @@
       "site": "reuters.com",
       "date": "16 Jul 2026",
       "url": "https://www.reuters.com/world/ukraine-parliament-approves-energy-executive-koretskyi-new-pm-2026-07-16/"
-    },
-    {
-      "title": "Anadolu Agency — Trump Iran remarks",
-      "site": "Anadolu Agency",
-      "url": "https://www.aa.com.tr/en/americas/trump-warns-that-iran-could-face-destruction-saying-you-ll-know-soon-enough-about-his-next-move/4113532",
-      "date": "6 Nov 2026"
-    },
-    {
-      "title": "The Outlier — SA local election results",
-      "site": "The Outlier",
-      "url": "https://www.theoutlier.co.za/results",
-      "date": "6 Nov 2026"
     }
   ]
 }
