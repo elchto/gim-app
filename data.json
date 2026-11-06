@@ -1,10 +1,63 @@
 {
   "title": "Global Intelligence Monitor",
-  "snapshot": "Friday 6 November 2026, 02:10 (Europe/Rome)",
+  "snapshot": "Friday 6 November 2026, 03:10 (Europe/Rome)",
   "snapshotDate": "2026-11-06",
-  "lastUpdated": "2026-11-06T02:10:00+01:00",
-  "summary": "A one-page briefing on world news, conflicts, politics and the economy in the week to 6 November 2026, with country profiles and a timeline since 1945.",
+  "lastUpdated": "2026-11-06T03:10:00+01:00",
+  "summary": "A one-page briefing on world news, conflicts, politics and the economy in the week to 6 November 2026 (early Friday ~03:10 Europe/Rome), with country profiles and a timeline since 1945.",
   "news": [
+    {
+      "headline": "NZ election eve: Freshwater poll puts Labour 30.7% ahead of National 26.4%",
+      "summary": "RNZ / The Post: Final Freshwater Strategy poll before Saturday's vote has Labour 30.7% (+2), National 26.4% (−1.2), Opportunity 5.1% (just above the threshold). Right bloc projected ~59 seats vs left ~55 in a 120-seat House; Opportunity would hold the balance if it clears 5%. Other late polls still show a narrow right lead. Polls close 19:00 NZDT Saturday 7 Nov.",
+      "date": "6 Nov 2026",
+      "region": "Asia-Pacific",
+      "countries": [],
+      "source": "RNZ / The Post",
+      "url": "https://www.rnz.co.nz/news/politics_election-2026/2368732/last-poll-before-election-puts-labour-slightly-ahead-of-national-with-opportunity-just-making-it-to-parliament"
+    },
+    {
+      "headline": "House Republicans ask Nvidia's Jensen Huang to brief Congress on alleged China spy link",
+      "summary": "CNBC / Axios / House Foreign Affairs: Chairs Mast, Moolenaar and Crawford requested a closed-door joint briefing on 18 Nov about Huang's reported contacts with Megaspeed executive Alice Huang (NYT: alleged PRC intelligence asset) and Nvidia's espionage-security protocols. Reply by 11 Nov. Nvidia says meetings were routine customer contacts and clients get no national-security secrets (claim).",
+      "date": "6 Nov 2026",
+      "region": "Americas",
+      "countries": [
+        "US",
+        "CN"
+      ],
+      "source": "CNBC / Axios",
+      "url": "https://www.cnbc.com/2026/11/05/nvidia-jensen-huang-china-spy-congress.html"
+    },
+    {
+      "headline": "Houthis claim drone strike on Dammam airport; coalition says it intercepted missile and drone",
+      "summary": "Xinhua / Al Jazeera: Houthi spokesman Yahya Sarea claimed a drone hit King Fahd International Airport in Dammam and disrupted flights — unverified; no immediate Saudi confirmation. Saudi-led coalition said it destroyed a ballistic missile toward the Medina region and a drone over the Eastern Province. Cross-border exchanges continue as a secondary front of the Iran war.",
+      "date": "6 Nov 2026",
+      "region": "Middle East",
+      "countries": [
+        "SA",
+        "IR"
+      ],
+      "source": "Xinhua / Al Jazeera",
+      "url": "https://english.news.cn/20261106/72ee29c823a547c99f3303a3f31eade0/c.html"
+    },
+    {
+      "headline": "Grynspan extends lead in UNSC straw poll for next UN secretary-general",
+      "summary": "Reuters / The National / Xinhua: In the Security Council's eighth informal straw poll (5 Nov), Costa Rica's Rebeca Grynspan received 12 'encourage' and 3 'discourage' votes, up from 11–4 previously — her strongest showing yet as Guterres's term ends. Which permanent members discouraged her was not disclosed.",
+      "date": "6 Nov 2026",
+      "region": "Americas",
+      "countries": [],
+      "source": "Reuters / The National / Xinhua",
+      "url": "https://www.thenationalnews.com/news/us/2026/11/05/un-secretary-general-straw-poll/"
+    },
+    {
+      "headline": "Japan real wages up 2.2% in September, ninth straight monthly gain",
+      "summary": "CNA / Reuters / Kyodo: Labour ministry data showed real wages +2.2% y/y in September (from revised +1.6% in August); nominal cash earnings +4.6% to ¥311,409 — fastest since Jan 1997. Supports the case for further BOJ rate hikes; many analysts still watch a possible December move.",
+      "date": "6 Nov 2026",
+      "region": "Asia-Pacific",
+      "countries": [
+        "JP"
+      ],
+      "source": "CNA / Reuters",
+      "url": "https://www.channelnewsasia.com/business/japans-real-wages-rise-ninth-month-in-september-backing-boj-rate-hike-6529306"
+    },
     {
       "headline": "Trump warns US may have to 'destroy the rest' of Iran; decision 'soon'",
       "summary": "Anadolu Agency / Al Jazeera: In the Oval Office on 5 Nov (reported 6 Nov), Trump said he may have to 'destroy the rest' of Iran and that 'you'll know soon enough', while claiming he would rather not. He also said Iran is 'not doing anything without our approval' when asked about mediator nuclear proposals. Claim — no new strike announced.",
@@ -46,15 +99,6 @@
       "countries": [],
       "source": "The Outlier / IEC",
       "url": "https://www.theoutlier.co.za/results"
-    },
-    {
-      "headline": "New Zealand election eve: Opportunity party cast as kingmaker",
-      "summary": "The Guardian / AP: Final polls ahead of the 7 Nov vote show National and Labour both near ~29–30%; neither right nor left bloc is projected to govern alone. Centrist Opportunity (led by Qiulae Wong) may clear 5% and hold the balance; Luxon has repeatedly ruled out working with it.",
-      "date": "6 Nov 2026",
-      "region": "Asia-Pacific",
-      "countries": [],
-      "source": "The Guardian / AP",
-      "url": "https://www.theguardian.com/world/2026/nov/05/nz-election-cliffhanger-final-polls-opportunity-party"
     },
     {
       "headline": "Putin hosts Iran's Rezaei at the Kremlin on security and postwar arrangements",
@@ -554,10 +598,10 @@
         "label": "Widening",
         "tone": "danger"
       },
-      "latest": "Al Jazeera / Reuters: Saudi-led coalition said it intercepted a Houthi ballistic missile toward the Medina region (5 Nov). Houthis later claimed an attack on King Fahd airport in Dammam — no immediate Saudi confirmation. Saudi issued alerts for Yanbu Red Sea oil hub.",
-      "date": "5 Nov 2026",
-      "source": "Al Jazeera / Reuters / CNBC",
-      "url": "https://www.aljazeera.com/news/2026/11/5/saudi-coalition-intercepts-missile-fired-towards-medina"
+      "latest": "Xinhua (6 Nov): Houthis claimed a drone strike on King Fahd International Airport in Dammam — unverified; no immediate Saudi confirmation. Coalition said it intercepted a ballistic missile toward Medina and a drone over the Eastern Province. Yanbu Red Sea oil-hub alerts continue.",
+      "date": "6 Nov 2026",
+      "source": "Xinhua / Al Jazeera / Reuters",
+      "url": "https://english.news.cn/20261106/72ee29c823a547c99f3303a3f31eade0/c.html"
     },
     {
       "name": "Gaza",
@@ -597,6 +641,39 @@
     }
   ],
   "politics": [
+    {
+      "date": "6 Nov",
+      "title": "New Zealand: final Freshwater poll has Labour ahead; vote tomorrow",
+      "detail": "The Post/Freshwater: Labour 30.7%, National 26.4%, Opportunity 5.1%. Right bloc ~59 seats vs left ~55 if Opportunity clears 5%; Luxon has ruled out working with Opportunity. Polls close 19:00 NZDT 7 Nov.",
+      "status": {
+        "label": "Election eve",
+        "tone": "warning"
+      },
+      "source": "RNZ / The Post",
+      "url": "https://www.rnz.co.nz/news/politics_election-2026/2368732/last-poll-before-election-puts-labour-slightly-ahead-of-national-with-opportunity-just-making-it-to-parliament"
+    },
+    {
+      "date": "6 Nov",
+      "title": "UN: Grynspan leads 8th Security Council straw poll for secretary-general",
+      "detail": "12 encourage / 3 discourage for Costa Rica's Rebeca Grynspan — strongest showing in eight closed-door ballots as Guterres's term ends.",
+      "status": {
+        "label": "Frontrunner",
+        "tone": "success"
+      },
+      "source": "Reuters / The National",
+      "url": "https://www.thenationalnews.com/news/us/2026/11/05/un-secretary-general-straw-poll/"
+    },
+    {
+      "date": "6 Nov",
+      "title": "US: House chairs seek Nvidia Huang briefing on alleged China spy ties",
+      "detail": "Mast, Moolenaar and Crawford request closed-door session 18 Nov on Alice Huang contacts and Nvidia security protocols; Nvidia calls meetings routine (claim).",
+      "status": {
+        "label": "Oversight",
+        "tone": "warning"
+      },
+      "source": "CNBC / House Foreign Affairs",
+      "url": "https://www.cnbc.com/2026/11/05/nvidia-jensen-huang-china-spy-congress.html"
+    },
     {
       "date": "6 Nov",
       "title": "US: Trump threatens further Iran destruction; decision 'soon'",
@@ -651,17 +728,6 @@
       },
       "source": "The Outlier / IEC",
       "url": "https://www.theoutlier.co.za/results"
-    },
-    {
-      "date": "6 Nov",
-      "title": "New Zealand: cliffhanger vote tomorrow; Opportunity as possible kingmaker",
-      "detail": "Final polls: National ~29–30%, Labour ~28–29%. Neither bloc projected to majority alone. Luxon has ruled out working with Opportunity.",
-      "status": {
-        "label": "Election eve",
-        "tone": "warning"
-      },
-      "source": "The Guardian / AP",
-      "url": "https://www.theguardian.com/world/2026/nov/05/nz-election-cliffhanger-final-polls-opportunity-party"
     },
     {
       "date": "6 Nov",
@@ -871,11 +937,11 @@
     },
     {
       "date": "7 Nov",
-      "event": "New Zealand general election (cliffhanger; Opportunity possible kingmaker; polls close 19:00 NZDT)",
+      "event": "New Zealand general election (Freshwater: Labour 30.7% / National 26.4%; Opportunity 5.1% possible kingmaker; polls close 19:00 NZDT)",
       "place": "New Zealand",
       "kind": "Politics",
-      "source": "The Guardian / Vote NZ",
-      "url": "https://www.theguardian.com/world/2026/nov/05/nz-election-cliffhanger-final-polls-opportunity-party"
+      "source": "RNZ / The Post",
+      "url": "https://www.rnz.co.nz/news/politics_election-2026/2368732/last-poll-before-election-puts-labour-slightly-ahead-of-national-with-opportunity-just-making-it-to-parliament"
     },
     {
       "date": "8 Nov",
@@ -1040,6 +1106,14 @@
   ],
   "economy": [
     {
+      "item": "Japan real wages",
+      "figure": "+2.2% y/y (Sep)",
+      "detail": "Ninth consecutive monthly rise; nominal cash earnings +4.6% to ¥311,409 (fastest since Jan 1997). Supports case for further BOJ hikes.",
+      "date": "6 Nov 2026",
+      "source": "CNA / Reuters",
+      "url": "https://www.channelnewsasia.com/business/japans-real-wages-rise-ninth-month-in-september-backing-boj-rate-hike-6529306"
+    },
+    {
       "item": "Bank of England",
       "figure": "4.00% (+0.25)",
       "detail": "8-1 vote; first hike since Aug 2023. Sees UK inflation near 5% by mid-2027.",
@@ -1136,7 +1210,7 @@
       "url": "https://vocemundi.com/the-week-2026-11-01/"
     }
   ],
-  "economyNote": "The Bank of England raised Bank Rate to 4% on 5 November, its first hike in over three years. Energy from the Iran war remains the main driver of European inflation; Brent held near $98.29 early Friday (WTI ~$91) after Hormuz tanker incidents. US October jobs report is due later today (6 Nov, 08:30 ET / 14:30 Rome).",
+  "economyNote": "The Bank of England raised Bank Rate to 4% on 5 November, its first hike in over three years. Japan real wages rose 2.2% y/y in September (ninth straight gain). Energy from the Iran war remains the main driver of European inflation; Brent held near $98.29 early Friday (WTI ~$91) after Hormuz tanker incidents. US October jobs report is still due later today (6 Nov, 08:30 ET / 14:30 Rome).",
   "policyRates": [
     {
       "label": "US Fed",
@@ -1323,7 +1397,7 @@
       "headOfGov": "Prime Minister Anwar Ibrahim"
     }
   ],
-  "profilesNote": "Leaders checked against news of 6 November 2026 (early Friday ~01:20 Rome). Israel: Netanyahu remains caretaker PM; Herzog to name mandate-holder Sunday 8 Nov (Eisenkot 67 vs Netanyahu 46). Paraguay: Alliana due to succeed Peña after lower house spared him — swearing-in not yet confirmed by major English wires; Paraguay is not listed in country profiles.",
+  "profilesNote": "Leaders checked against news of 6 November 2026 (~03:10 Rome). Israel: Netanyahu remains caretaker PM; Herzog to name mandate-holder Sunday 8 Nov (Eisenkot 67 vs Netanyahu 46). Paraguay: Pedro Alliana assumed the presidency after Peña resigned and was impeached over Ueno Bank (AS/COA/NPR); Paraguay is not listed in country profiles.",
   "profileSource": "https://www.imf.org/external/datamapper/NGDPD@WEO",
   "history": [
     {
@@ -1617,13 +1691,43 @@
     {
       "year": 2026,
       "date": "6 Nov 2026",
-      "title": "Trump Iran threat; Alliana takes Paraguay; SA count advances; NZ election eve",
-      "detail": "Trump says the US may have to 'destroy the rest' of Iran and that a decision is coming soon (claim). Iran's nuclear proposal via Qatar is under US review with seven Iranian preconditions claimed. Alliana assumes Paraguay's presidency; South Africa local count shows ANC ~31.8% / DA ~24.9% at ~71%; New Zealand votes 7 Nov in a cliffhanger with Opportunity as possible kingmaker.",
-      "url": "https://www.aa.com.tr/en/americas/trump-warns-that-iran-could-face-destruction-saying-you-ll-know-soon-enough-about-his-next-move/4113532",
-      "source": "Anadolu Agency / AS/COA / The Outlier / The Guardian"
+      "title": "Trump Iran threat; NZ poll flip; Houthis claim Dammam strike; Huang Congress ask",
+      "detail": "Early Friday: Trump again threatened to 'destroy the rest' of Iran; final NZ Freshwater poll put Labour ahead of National ahead of Saturday's vote; Houthis claimed a Dammam airport drone strike (unverified) as the coalition reported intercepts; House chairs asked Nvidia's Jensen Huang to brief Congress on an alleged China spy link; Japan real wages rose 2.2% in September.",
+      "url": "https://www.rnz.co.nz/news/politics_election-2026/2368732/last-poll-before-election-puts-labour-slightly-ahead-of-national-with-opportunity-just-making-it-to-parliament",
+      "source": "RNZ / Xinhua / CNBC"
     }
   ],
   "sources": [
+    {
+      "title": "RNZ — NZ final Freshwater election poll",
+      "site": "RNZ",
+      "url": "https://www.rnz.co.nz/news/politics_election-2026/2368732/last-poll-before-election-puts-labour-slightly-ahead-of-national-with-opportunity-just-making-it-to-parliament",
+      "date": "6 Nov 2026"
+    },
+    {
+      "title": "CNBC — Nvidia Huang Congress briefing request",
+      "site": "CNBC",
+      "url": "https://www.cnbc.com/2026/11/05/nvidia-jensen-huang-china-spy-congress.html",
+      "date": "6 Nov 2026"
+    },
+    {
+      "title": "Xinhua — Houthis claim Dammam airport attack",
+      "site": "Xinhua",
+      "url": "https://english.news.cn/20261106/72ee29c823a547c99f3303a3f31eade0/c.html",
+      "date": "6 Nov 2026"
+    },
+    {
+      "title": "CNA/Reuters — Japan real wages September",
+      "site": "CNA",
+      "url": "https://www.channelnewsasia.com/business/japans-real-wages-rise-ninth-month-in-september-backing-boj-rate-hike-6529306",
+      "date": "6 Nov 2026"
+    },
+    {
+      "title": "The National — Grynspan UN SG straw poll",
+      "site": "The National",
+      "url": "https://www.thenationalnews.com/news/us/2026/11/05/un-secretary-general-straw-poll/",
+      "date": "6 Nov 2026"
+    },
     {
       "title": "Democrats JPMorgan Epstein probe plans",
       "site": "cnbc.com",
