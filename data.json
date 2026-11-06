@@ -1,10 +1,97 @@
 {
   "title": "Global Intelligence Monitor",
-  "snapshot": "Friday 6 November 2026, 01:20 (Europe/Rome)",
+  "snapshot": "Friday 6 November 2026, 02:10 (Europe/Rome)",
   "snapshotDate": "2026-11-06",
-  "lastUpdated": "2026-11-06T01:20:00+01:00",
+  "lastUpdated": "2026-11-06T02:10:00+01:00",
   "summary": "A one-page briefing on world news, conflicts, politics and the economy in the week to 6 November 2026, with country profiles and a timeline since 1945.",
   "news": [
+    {
+      "headline": "Trump warns US may have to 'destroy the rest' of Iran; decision 'soon'",
+      "summary": "Anadolu Agency / Al Jazeera: In the Oval Office on 5 Nov (reported 6 Nov), Trump said he may have to 'destroy the rest' of Iran and that 'you'll know soon enough', while claiming he would rather not. He also said Iran is 'not doing anything without our approval' when asked about mediator nuclear proposals. Claim — no new strike announced.",
+      "date": "6 Nov 2026",
+      "region": "Middle East",
+      "countries": [
+        "US",
+        "IR"
+      ],
+      "source": "Anadolu Agency / Al Jazeera",
+      "url": "https://www.aa.com.tr/en/americas/trump-warns-that-iran-could-face-destruction-saying-you-ll-know-soon-enough-about-his-next-move/4113532"
+    },
+    {
+      "headline": "Iran sends nuclear proposal to US via Qatar; seven preconditions claimed",
+      "summary": "Reuters (via Iran International / Arab News): A senior Iranian official said Tehran sent a nuclear proposal through Qatar but will discuss it only after Washington meets seven demands (sanctions relief, frozen assets, maritime issues among claims). The US is reviewing the offer; details not published.",
+      "date": "6 Nov 2026",
+      "region": "Middle East",
+      "countries": [
+        "IR",
+        "US"
+      ],
+      "source": "Reuters / Iran International",
+      "url": "https://www.iranintl.com/en/202611055479"
+    },
+    {
+      "headline": "Alliana assumes Paraguay presidency after Peña resigns and is impeached",
+      "summary": "AS/COA / NPR: Santiago Peña resigned on 5 Nov over the Ueno Bank collapse; the lower house then impeached him unanimously. Vice-President Pedro Alliana was spared a parallel impeachment and assumed the presidency; he must manage the bank fallout through August 2028.",
+      "date": "6 Nov 2026",
+      "region": "Americas",
+      "countries": [],
+      "source": "AS/COA / NPR",
+      "url": "https://www.as-coa.org/articles/paraguays-president-resigns-why-and-what-comes-next"
+    },
+    {
+      "headline": "South Africa local count: ANC 31.8%, DA 24.9% with ~71% counted",
+      "summary": "The Outlier (IEC data): With about 71% of voting districts counted, ANC leads the national PR ballot on 31.8%, DA 24.9%, MK 8.9%. Of 104 local councils decided, ANC won 21 outright, DA 6, MK 3, with 73 hung. Full results still expected around 8 Nov.",
+      "date": "6 Nov 2026",
+      "region": "Africa",
+      "countries": [],
+      "source": "The Outlier / IEC",
+      "url": "https://www.theoutlier.co.za/results"
+    },
+    {
+      "headline": "New Zealand election eve: Opportunity party cast as kingmaker",
+      "summary": "The Guardian / AP: Final polls ahead of the 7 Nov vote show National and Labour both near ~29–30%; neither right nor left bloc is projected to govern alone. Centrist Opportunity (led by Qiulae Wong) may clear 5% and hold the balance; Luxon has repeatedly ruled out working with it.",
+      "date": "6 Nov 2026",
+      "region": "Asia-Pacific",
+      "countries": [],
+      "source": "The Guardian / AP",
+      "url": "https://www.theguardian.com/world/2026/nov/05/nz-election-cliffhanger-final-polls-opportunity-party"
+    },
+    {
+      "headline": "Putin hosts Iran's Rezaei at the Kremlin on security and postwar arrangements",
+      "summary": "Kremlin / Anadolu: On 5 Nov Putin received Supreme National Security Council secretary Mohsen Rezaei, who conveyed a message from Iran's leadership. Talks covered regional security, postwar arrangements and a proposed Russia–Iran gas pipeline (official readout).",
+      "date": "6 Nov 2026",
+      "region": "Europe",
+      "countries": [
+        "RU",
+        "IR"
+      ],
+      "source": "Kremlin / Anadolu Agency",
+      "url": "https://www.aa.com.tr/en/world/putin-receives-iran-s-supreme-national-security-council-secretary-rezaei-at-kremlin/4113258"
+    },
+    {
+      "headline": "Massie plans Hegseth impeachment House vote as Congress returns",
+      "summary": "USA Today / WCAX / Roll Call: Rep. Thomas Massie says he will force a House vote on articles of impeachment against Defence Secretary Pete Hegseth when Congress returns (around 9 Nov). Hegseth vowed to fight; Trump still says he is 'doing a very good job'. Removal would still need a two-thirds Senate vote.",
+      "date": "6 Nov 2026",
+      "region": "Americas",
+      "countries": [
+        "US"
+      ],
+      "source": "USA Today / WCAX",
+      "url": "https://www.usatoday.com/story/news/politics/2026/11/05/pete-hegseth-impeachment-fight/92630898007/"
+    },
+    {
+      "headline": "Brent holds near $98.29 Friday as Hormuz risks offset peace hopes",
+      "summary": "Gulf News / CNBC: Brent futures around $98.29 early Friday (Beijing time quote); WTI near $91.07. Thursday settle was Brent $98.29 (+$3.67) and WTI $90.52 after Hormuz tanker incidents. Eurasia Group cut odds of a deal to 10% and of renewed US strikes to 60%.",
+      "date": "6 Nov 2026",
+      "region": "Middle East",
+      "countries": [
+        "IR",
+        "US",
+        "SA"
+      ],
+      "source": "Gulf News / CNBC / Reuters",
+      "url": "https://gulfnews.com/business/energy/oil-edges-higher-as-iran-uncertainty-offsets-peace-hopes-1.500737847"
+    },
     {
       "headline": "UNHCR: nearly 90 million displaced people face severe climate risks",
       "summary": "France 24 / Reuters: UNHCR said on Friday nearly 90 million forcibly displaced people — about three-quarters of the global total — live in countries highly exposed to droughts, floods and extreme heat, urging more adaptation finance ahead of COP31 in Antalya. Only about 10% of climate finance reaches fragile or conflict-affected countries (claim based on UNHCR).",
@@ -26,26 +113,6 @@
       ],
       "source": "DW / AP / Reuters",
       "url": "https://www.dw.com/en/trump-raises-prospect-of-big-beautiful-russia-ukraine-deal/a-79871394"
-    },
-    {
-      "headline": "Hegseth vows to fight impeachment push, defends Iran war",
-      "summary": "Reuters / 1News: In a social-media video, Defence Secretary Pete Hegseth called impeachment articles a 'sham', defended the Iran war as 'courageous and historic', and said he will not back down. Trump again said Hegseth is 'doing a very good job' and floated him as a possible appointed Tennessee senator.",
-      "date": "6 Nov 2026",
-      "region": "Americas",
-      "countries": [
-        "US"
-      ],
-      "source": "Reuters / 1News",
-      "url": "https://www.1news.co.nz/2026/11/06/hegseth-vows-to-fight-amid-calls-for-him-to-be-sacked-or-impeached/"
-    },
-    {
-      "headline": "South Africa local count: ANC ~31.7%, DA ~25% with ~67% counted",
-      "summary": "IEC / live trackers early Friday: with ~15,972 of 23,696 voting districts captured (~67%), ANC 31.72%, DA 24.99%, MK Party ~8.6%. About 103 of 213 municipalities complete; 72 of those hung. Figures still provisional; full results still expected around 8 Nov.",
-      "date": "6 Nov 2026",
-      "region": "Africa",
-      "countries": [],
-      "source": "IEC / News Definition / UANWORLD",
-      "url": "https://www.newsdefinition.com/article/local-election-results-2026-live-count"
     },
     {
       "headline": "Russell Brand convicted of rape and three sexual assaults",
@@ -124,18 +191,6 @@
       "url": "https://www.straitstimes.com/world/while-you-were-sleeping-5-stories-you-might-have-missed-nov-6-2026"
     },
     {
-      "headline": "Brent settles at $98.29 after Hormuz tanker attacks",
-      "summary": "CNA/Reuters: Brent closed up $3.67 (3.88%) at $98.29 a barrel on 5 Nov; WTI rose to $90.52. UKMTO: at least five vessel incidents since Sunday. IRGC claimed tanker/tug fires on unauthorised Hormuz routes; Iran FM Araqchi held Gulf mediation calls.",
-      "date": "5 Nov 2026",
-      "region": "Middle East",
-      "countries": [
-        "IR",
-        "US"
-      ],
-      "source": "CNA / Reuters",
-      "url": "https://www.channelnewsasia.com/business/brent-crude-jumps-settles-up-over-3-after-tanker-attacks-6526116"
-    },
-    {
       "headline": "France protests revised to 575,000; Lecornu sets Monday social conference",
       "summary": "France 24: Interior ministry revised Thursday turnout to 575,000 (from ~600,000); CGT still claims nearly 1.6 million. About 448 arrests and 53 injured officers (provisional). PM Sébastien Lecornu will hold a social conference with unions and employers on Monday 9 Nov.",
       "date": "5 Nov 2026",
@@ -145,17 +200,6 @@
       ],
       "source": "France 24",
       "url": "https://www.france24.com/en/france/20261105-live-france-nationwide-strikes-living-costs"
-    },
-    {
-      "headline": "Paraguay: Congress spares Alliana; he is due to succeed Peña",
-      "summary": "Rio Times / AP / G1: Lower house shelved impeachment of VP Pedro Alliana (48-30) after unanimously sending Peña's case to the Senate. Alliana is due to be sworn in as president to finish the term to August 2028; swearing-in was scheduled for the evening of 5 Nov (completion not yet confirmed by major English wires).",
-      "date": "5 Nov 2026",
-      "region": "Americas",
-      "countries": [
-        "BR"
-      ],
-      "source": "The Rio Times / AP / G1",
-      "url": "https://www.riotimesonline.com/paraguay-congress-spares-alliana-next-president/"
     },
     {
       "headline": "Nigerian court voids Atiku's presidential candidacy",
@@ -433,18 +477,6 @@
       "url": "https://english.kyodonews.net/articles/-/90209"
     },
     {
-      "headline": "Trump says US military aid to Israel will end",
-      "summary": "Trump told Fox News the roughly $4 billion in yearly US military aid to Israel will be cut off at the end of this year, though weapons sales will continue.",
-      "date": "3 Nov 2026",
-      "region": "Americas",
-      "countries": [
-        "US",
-        "IL"
-      ],
-      "source": "Xinhua",
-      "url": "https://english.news.cn/20261104/dafb18a96f514e0d9bb3c190ef92702c/c.html"
-    },
-    {
       "headline": "US to host Ukraine-Russia talks in Abu Dhabi on 10-11 November",
       "summary": "US envoy Steve Witkoff said the working-level talks will cover post-war security, de-escalation, humanitarian steps and ending the war. They are the first three-way talks since February.",
       "date": "2 Nov 2026",
@@ -458,19 +490,6 @@
       "url": "https://www.reuters.com/5f374b32b07b/world/europe/us-hold-trilateral-talks-with-ukraine-russia-abu-dhabi-next-week-us-official-2026-11-02/"
     },
     {
-      "headline": "Merz says Russia must finally negotiate seriously",
-      "summary": "At a Berlin press conference with Zelenskyy, Chancellor Merz called the Abu Dhabi talks the right step but said he had seen no sign of serious Russian engagement.",
-      "date": "3 Nov 2026",
-      "region": "Europe",
-      "countries": [
-        "DE",
-        "UA",
-        "RU"
-      ],
-      "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/world/europe/ukraine-russia-war-live-putin-zelensky-melania-trump-peace-talks-b3078752.html"
-    },
-    {
       "headline": "US strikes Iran's Qeshm Island in the Strait of Hormuz",
       "summary": "US officials called the strikes limited and defensive, after Iranian forces fired on US assets. It was the first US attack on the island since June, while Qatari mediation continues.",
       "date": "3 Nov 2026",
@@ -481,69 +500,6 @@
       ],
       "source": "Al Jazeera",
       "url": "https://www.aljazeera.com/news/2026/11/3/us-hits-qeshm-island-pezeshkian-signals-more-diplomacy-iran-war-latest"
-    },
-    {
-      "headline": "Iran warns of response 'without geographical limitations'",
-      "summary": "Armed forces chief of staff Ali Abdollahi said Iran would meet any US or Israeli threat with an immediate response. Iran's seven-point plan to end the war is still with mediators.",
-      "date": "3 Nov 2026",
-      "region": "Middle East",
-      "countries": [
-        "IR"
-      ],
-      "source": "Xinhua",
-      "url": "https://english.news.cn/20261104/dafb18a96f514e0d9bb3c190ef92702c/c.html"
-    },
-    {
-      "headline": "Israel certifies election results; Herzog starts coalition talks",
-      "summary": "Netanyahu's bloc won 53 seats, Eisenkot's opposition bloc 48 and Arab-led parties a record 19, so no bloc has the 61 needed. The election committee rejected fraud claims.",
-      "date": "4 Nov 2026",
-      "region": "Middle East",
-      "countries": [
-        "IL"
-      ],
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/11/4/israel-vote-results-confirmed-as-election-commission-rejects-fraud-claims"
-    },
-    {
-      "headline": "Saudi crown prince hosts Syria's President al-Sharaa",
-      "summary": "Mohammed bin Salman received Ahmed al-Sharaa in Riyadh for talks on security, counterterrorism and economic ties.",
-      "date": "4 Nov 2026",
-      "region": "Middle East",
-      "countries": [
-        "SA"
-      ],
-      "source": "Saudi Gazette",
-      "url": "https://saudigazette.com.sa/article/665998/saudi-arabia/crown-prince-receives-syrian-president-al-sharaa-in-riyadh"
-    },
-    {
-      "headline": "Iotova re-elected president of Bulgaria",
-      "summary": "Incumbent Iliana Iotova won Sunday's runoff with 57.58% of the vote against former caretaker PM Andrey Gurov.",
-      "date": "3 Nov 2026",
-      "region": "Europe",
-      "countries": [],
-      "source": "Xinhua",
-      "url": "https://english.news.cn/20261104/dafb18a96f514e0d9bb3c190ef92702c/c.html"
-    },
-    {
-      "headline": "Spain's transport minister quits after deadly train crashes",
-      "summary": "Oscar Puente resigned after the 28 October Urda crash. Deputy PM Carlos Cuerpo runs the ministry until the 29 November snap election.",
-      "date": "4 Nov 2026",
-      "region": "Europe",
-      "countries": [],
-      "source": "Reuters via Devdiscourse",
-      "url": "https://www.devdiscourse.com/article/international/4001613-reuters-world-news-summary"
-    },
-    {
-      "headline": "Eurozone inflation rises to 4.0%",
-      "summary": "Eurostat's flash estimate for October is 4.0%, up from 3.8%, driven by energy prices up 20.8% on a year earlier.",
-      "date": "4 Nov 2026",
-      "region": "Europe",
-      "countries": [
-        "DE",
-        "FR"
-      ],
-      "source": "Eurostat",
-      "url": "https://ec.europa.eu/eurostat/en/web/products-euro-indicators/w/2-04112026-ap"
     },
     {
       "headline": "Drone attacks push Sudan's power grid toward collapse",
@@ -574,22 +530,22 @@
         "label": "Talks amid fighting",
         "tone": "danger"
       },
-      "latest": "DW/AP: Trump said after a private meeting with Putin's envoy Kirill Dmitriev that a 'big, beautiful' Ukraine deal is near and 'might involve all of Europe' (no terms disclosed; he did not meet the Ukrainian White House guests). Kushner called Brussels reconstruction/security talks productive. Strikes continue; Abu Dhabi trilateral talks still set for 10–11 Nov; Italy preparing a 13th arms package (COPASIR 10 Nov).",
+      "latest": "Al Jazeera/AP: After meeting Kirill Dmitriev (5 Nov), Trump again claimed a major deal is 'very close' and could involve 'all of Europe' — no terms published (claim). Abu Dhabi US-mediated talks still set for 10–11 Nov (Witkoff/Kushner; Medinsky for Russia). Melania hosted RU/UA officials on the Oleshky humanitarian truce. Fighting continues; Komyshuvakha toll earlier reported at 43.",
       "date": "6 Nov 2026",
-      "source": "DW / AP / Reuters / ANSA",
-      "url": "https://www.dw.com/en/trump-raises-prospect-of-big-beautiful-russia-ukraine-deal/a-79871394"
+      "source": "Al Jazeera / AP / Reuters",
+      "url": "https://www.aljazeera.com/news/2026/11/6/trump-met-russian-envoy-after-he-appeared-with-melania-trump-and-ukrainians"
     },
     {
       "name": "US/Israel-Iran war",
       "parties": "US, Israel, Iran (Qatar, Pakistan mediating)",
       "status": {
-        "label": "Talks and strikes",
-        "tone": "warning"
+        "label": "Threats and diplomacy",
+        "tone": "danger"
       },
-      "latest": "Reuters: Iran reported three more Hormuz tanker incidents on 5 Nov (IRGC: mines/fire); UKMTO ≥5 vessel incidents since Sunday. Qalibaf mocked Vance over midterm blame for the war. Brent settled $98.29 (+$3.67); overnight trade near ~$98.4. Qatari mediation continues; Democrats plan a January war-powers push.",
-      "date": "5 Nov 2026",
-      "source": "Reuters / CNA",
-      "url": "https://www.investing.com/news/commodities-news/tankers-hit-in-hormuz-as-iran-keeps-up-pressure-after-us-vote-5005038"
+      "latest": "AA/Al Jazeera: Trump said he may have to 'destroy the rest' of Iran and that a decision is coming 'soon' (claim; no strike ordered). Reuters: Iran sent a nuclear proposal via Qatar with seven preconditions. Hormuz: Iran reported further tanker damage 5 Nov; UKMTO ≥5 incidents since Sunday. Putin hosted Iran's Rezaei in Moscow. Brent ~$98.29 Friday.",
+      "date": "6 Nov 2026",
+      "source": "Anadolu Agency / Reuters / CNBC",
+      "url": "https://www.aa.com.tr/en/americas/trump-warns-that-iran-could-face-destruction-saying-you-ll-know-soon-enough-about-his-next-move/4113532"
     },
     {
       "name": "Houthis vs Saudi-led coalition (Yemen)",
@@ -598,9 +554,9 @@
         "label": "Widening",
         "tone": "danger"
       },
-      "latest": "Al Jazeera / Reuters: Saudi-led coalition said it intercepted a Houthi ballistic missile toward the Medina region (5 Nov). Houthis later claimed an attack on King Fahd airport in Dammam — no immediate Saudi confirmation. Saudi alerts warned of potential danger near Yanbu.",
+      "latest": "Al Jazeera / Reuters: Saudi-led coalition said it intercepted a Houthi ballistic missile toward the Medina region (5 Nov). Houthis later claimed an attack on King Fahd airport in Dammam — no immediate Saudi confirmation. Saudi issued alerts for Yanbu Red Sea oil hub.",
       "date": "5 Nov 2026",
-      "source": "Al Jazeera / Reuters / CNA",
+      "source": "Al Jazeera / Reuters / CNBC",
       "url": "https://www.aljazeera.com/news/2026/11/5/saudi-coalition-intercepts-missile-fired-towards-medina"
     },
     {
@@ -643,36 +599,80 @@
   "politics": [
     {
       "date": "6 Nov",
-      "title": "US: Hegseth vows to fight impeachment; Trump stands by him",
-      "detail": "Video message calls Massie impeachment articles a 'sham' and defends the Iran war. Trump says Hegseth is doing a 'very good job' and floated him as a possible appointed Tennessee senator.",
+      "title": "US: Trump threatens further Iran destruction; decision 'soon'",
+      "detail": "Oval Office remarks: may have to 'destroy the rest' of Iran; prefers not to; says you'll 'know soon enough'. Asked about mediator nuclear proposals: Iran is 'not doing anything without our approval' (claim).",
       "status": {
-        "label": "Defiant",
-        "tone": "warning"
+        "label": "Escalation risk",
+        "tone": "danger"
       },
-      "source": "Reuters / 1News",
-      "url": "https://www.1news.co.nz/2026/11/06/hegseth-vows-to-fight-amid-calls-for-him-to-be-sacked-or-impeached/"
+      "source": "Anadolu Agency",
+      "url": "https://www.aa.com.tr/en/americas/trump-warns-that-iran-could-face-destruction-saying-you-ll-know-soon-enough-about-his-next-move/4113532"
     },
     {
       "date": "6 Nov",
-      "title": "US/Ukraine: Trump claims a major peace deal is near",
-      "detail": "After meeting Dmitriev, Trump said a deal 'might involve all of Europe'. No terms given; Abu Dhabi working-level talks still 10–11 Nov.",
+      "title": "US: Massie plans Hegseth impeachment vote as House returns",
+      "detail": "Massie says he will force a vote around 9 Nov. Hegseth vows to fight; Trump still backs him publicly. Democrats also preparing Iran-war and energy oversight for January.",
+      "status": {
+        "label": "Vote pending",
+        "tone": "warning"
+      },
+      "source": "USA Today / WCAX",
+      "url": "https://www.usatoday.com/story/news/politics/2026/11/05/pete-hegseth-impeachment-fight/92630898007/"
+    },
+    {
+      "date": "6 Nov",
+      "title": "US/Ukraine: Trump again claims a major peace deal is near",
+      "detail": "After meeting Dmitriev, Trump said a deal 'might involve all of Europe'. No terms released. Abu Dhabi talks remain 10–11 Nov.",
       "status": {
         "label": "Claim",
         "tone": "warning"
       },
-      "source": "DW / Reuters",
-      "url": "https://www.dw.com/en/trump-raises-prospect-of-big-beautiful-russia-ukraine-deal/a-79871394"
+      "source": "Al Jazeera / AP",
+      "url": "https://www.aljazeera.com/news/2026/11/6/trump-met-russian-envoy-after-he-appeared-with-melania-trump-and-ukrainians"
     },
     {
       "date": "6 Nov",
-      "title": "South Africa: ANC ~31.7% / DA ~25% with ~67% of districts counted",
-      "detail": "IEC early Friday: many hung councils among the 103 municipalities complete. Full results still expected around 8 Nov.",
+      "title": "Paraguay: Alliana assumes the presidency after Peña exit",
+      "detail": "Peña resigned and was impeached over Ueno Bank. Alliana, spared impeachment, takes office through August 2028 and must handle the banking fallout.",
+      "status": {
+        "label": "Succession complete",
+        "tone": "warning"
+      },
+      "source": "AS/COA / NPR",
+      "url": "https://www.as-coa.org/articles/paraguays-president-resigns-why-and-what-comes-next"
+    },
+    {
+      "date": "6 Nov",
+      "title": "South Africa: ANC 31.8% / DA 24.9% with ~71% counted",
+      "detail": "Outlier/IEC provisional: many hung councils (73 of 104 decided). ANC 21 outright wins, DA 6, MK 3. Full results still expected ~8 Nov.",
       "status": {
         "label": "Counting",
         "tone": "warning"
       },
-      "source": "IEC / News Definition",
-      "url": "https://www.newsdefinition.com/article/local-election-results-2026-live-count"
+      "source": "The Outlier / IEC",
+      "url": "https://www.theoutlier.co.za/results"
+    },
+    {
+      "date": "6 Nov",
+      "title": "New Zealand: cliffhanger vote tomorrow; Opportunity as possible kingmaker",
+      "detail": "Final polls: National ~29–30%, Labour ~28–29%. Neither bloc projected to majority alone. Luxon has ruled out working with Opportunity.",
+      "status": {
+        "label": "Election eve",
+        "tone": "warning"
+      },
+      "source": "The Guardian / AP",
+      "url": "https://www.theguardian.com/world/2026/nov/05/nz-election-cliffhanger-final-polls-opportunity-party"
+    },
+    {
+      "date": "6 Nov",
+      "title": "Iran/US: nuclear proposal via Qatar under review",
+      "detail": "Senior Iranian official (Reuters): proposal sent via Qatar; talks only after seven US concessions (claim). Trump: Iran not acting without US approval.",
+      "status": {
+        "label": "Diplomacy",
+        "tone": "warning"
+      },
+      "source": "Reuters / Iran International",
+      "url": "https://www.iranintl.com/en/202611055479"
     },
     {
       "date": "5 Nov",
@@ -706,17 +706,6 @@
       },
       "source": "CNBC",
       "url": "https://www.cnbc.com/2026/11/05/trump-election-energy-venezuela-critical-mineral-renewable-iran.html"
-    },
-    {
-      "date": "5 Nov",
-      "title": "Paraguay: Alliana spared impeachment; due to succeed Peña",
-      "detail": "Lower house shelved Alliana's impeachment 48-30 after unanimously advancing Peña's case to the Senate. Alliana is due to succeed Peña to August 2028; major English wires had not yet confirmed the swearing-in as completed overnight.",
-      "status": {
-        "label": "Succession underway",
-        "tone": "warning"
-      },
-      "source": "The Rio Times / AP / G1",
-      "url": "https://www.riotimesonline.com/paraguay-congress-spares-alliana-next-president/"
     },
     {
       "date": "5 Nov",
@@ -882,11 +871,11 @@
     },
     {
       "date": "7 Nov",
-      "event": "New Zealand general election (polling closes 19:00 NZDT)",
+      "event": "New Zealand general election (cliffhanger; Opportunity possible kingmaker; polls close 19:00 NZDT)",
       "place": "New Zealand",
       "kind": "Politics",
-      "source": "BBC / Vote NZ",
-      "url": "https://www.bbc.com/news/articles/cr1exvxz8g47o"
+      "source": "The Guardian / Vote NZ",
+      "url": "https://www.theguardian.com/world/2026/nov/05/nz-election-cliffhanger-final-polls-opportunity-party"
     },
     {
       "date": "8 Nov",
@@ -898,11 +887,11 @@
     },
     {
       "date": "8 Nov",
-      "event": "South Africa: full local election results expected (ANC ~31.7% / DA ~25% at ~67% count)",
+      "event": "South Africa: full local election results expected (ANC 31.8% / DA 24.9% at ~71% count)",
       "place": "Pretoria",
       "kind": "Politics",
-      "source": "IEC / News Definition",
-      "url": "https://www.newsdefinition.com/article/local-election-results-2026-live-count"
+      "source": "The Outlier / IEC",
+      "url": "https://www.theoutlier.co.za/results"
     },
     {
       "date": "9 Nov",
@@ -919,6 +908,14 @@
       "kind": "Politics",
       "source": "BBC",
       "url": "https://www.bbc.co.uk/news/articles/ckx2qzv835pgo"
+    },
+    {
+      "date": "9 Nov",
+      "event": "US House: Massie aims to force Hegseth impeachment vote (lame-duck week)",
+      "place": "Washington",
+      "kind": "Politics",
+      "source": "USA Today / Roll Call",
+      "url": "https://www.usatoday.com/story/news/politics/2026/11/05/pete-hegseth-impeachment-fight/92630898007/"
     },
     {
       "date": "10 Nov",
@@ -1100,11 +1097,11 @@
     },
     {
       "item": "Brent crude oil",
-      "figure": "$98.29 settle / ~$98.4 trade",
-      "detail": "CNA/Reuters: Brent settled +$3.67 (+3.88%) at $98.29 on 5 Nov; WTI $90.52. Early Friday trade reports near ~$98.4. Hormuz tanker incidents (UKMTO ≥5 since Sunday; Iran claimed three more damaged) driving swings.",
+      "figure": "$98.29 (Fri quote) / WTI ~$91",
+      "detail": "Gulf News: Brent ~$98.29 early Friday; WTI ~$91.07. Thursday settle Brent $98.29 (+$3.67), WTI $90.52. Hormuz tanker risks and Iran war uncertainty; Eurasia Group deal odds 10%, renewed-strike odds 60%.",
       "date": "6 Nov 2026",
-      "source": "CNA / Reuters / FXBus",
-      "url": "https://www.channelnewsasia.com/business/brent-crude-jumps-settles-up-over-3-after-tanker-attacks-6526116"
+      "source": "Gulf News / CNBC / Reuters",
+      "url": "https://gulfnews.com/business/energy/oil-edges-higher-as-iran-uncertainty-offsets-peace-hopes-1.500737847"
     },
     {
       "item": "US stocks",
@@ -1139,7 +1136,7 @@
       "url": "https://vocemundi.com/the-week-2026-11-01/"
     }
   ],
-  "economyNote": "The Bank of England raised Bank Rate to 4% on 5 November, its first hike in over three years. Energy from the Iran war remains the main driver of European inflation; Brent settled at $98.29 on 5 Nov (early Friday trade near ~$98.4) after tanker attacks. US October jobs report is due later today (6 Nov, 08:30 ET / 14:30 Rome).",
+  "economyNote": "The Bank of England raised Bank Rate to 4% on 5 November, its first hike in over three years. Energy from the Iran war remains the main driver of European inflation; Brent held near $98.29 early Friday (WTI ~$91) after Hormuz tanker incidents. US October jobs report is due later today (6 Nov, 08:30 ET / 14:30 Rome).",
   "policyRates": [
     {
       "label": "US Fed",
@@ -1613,9 +1610,17 @@
       "year": 2026,
       "date": "5 Nov 2026",
       "title": "BoE hike, Paraguay crisis, Europe flight hoaxes, Nasdaq plunge, Trump Ukraine-deal claim",
-      "detail": "BoE lifts Bank Rate to 4%; Peña resigns/impeached over Ueno Bank and Alliana is spared to succeed him; ≥25–27 Europe flights hit by hoax bomb threats (Male State claim unverified); Nasdaq closes −5.17% / Brent settles $98.29; Herzog sets Sunday mandate decision; Melania hosts RU/UA at White House and Trump later claims a major Ukraine deal is near after meeting Dmitriev; Hegseth vows to fight impeachment; North Korea tests new air defence; Russell Brand convicted of rape and sexual assaults. A Nigerian court voids Atiku's candidacy.",
-      "url": "https://www.dw.com/en/trump-raises-prospect-of-big-beautiful-russia-ukraine-deal/a-79871394",
-      "source": "Straits Times / Ynet / Reuters / Euronews / CNBC / Yonhap / DW / BBC"
+      "detail": "BoE lifts Bank Rate to 4%; Peña resigns/impeached over Ueno Bank and Alliana is spared then assumes the presidency; ≥25–27 Europe flights hit by hoax bomb threats (Male State claim unverified); Nasdaq closes −5.17% / Brent settles $98.29; Herzog sets Sunday mandate decision; Melania hosts RU/UA at White House and Trump later claims a major Ukraine deal is near after meeting Dmitriev; Hegseth vows to fight impeachment (Massie aims for a House vote around 9 Nov); North Korea tests new air defence; Russell Brand convicted of rape and sexual assaults; Iranian tankers reported damaged in Hormuz; Putin hosts Iran's Rezaei. A Nigerian court voids Atiku's candidacy.",
+      "url": "https://www.aljazeera.com/news/2026/11/6/trump-met-russian-envoy-after-he-appeared-with-melania-trump-and-ukrainians",
+      "source": "Al Jazeera / AA / Reuters / Euronews / CNBC / Outlier"
+    },
+    {
+      "year": 2026,
+      "date": "6 Nov 2026",
+      "title": "Trump Iran threat; Alliana takes Paraguay; SA count advances; NZ election eve",
+      "detail": "Trump says the US may have to 'destroy the rest' of Iran and that a decision is coming soon (claim). Iran's nuclear proposal via Qatar is under US review with seven Iranian preconditions claimed. Alliana assumes Paraguay's presidency; South Africa local count shows ANC ~31.8% / DA ~24.9% at ~71%; New Zealand votes 7 Nov in a cliffhanger with Opportunity as possible kingmaker.",
+      "url": "https://www.aa.com.tr/en/americas/trump-warns-that-iran-could-face-destruction-saying-you-ll-know-soon-enough-about-his-next-move/4113532",
+      "source": "Anadolu Agency / AS/COA / The Outlier / The Guardian"
     }
   ],
   "sources": [
@@ -1753,6 +1758,18 @@
       "site": "reuters.com",
       "date": "16 Jul 2026",
       "url": "https://www.reuters.com/world/ukraine-parliament-approves-energy-executive-koretskyi-new-pm-2026-07-16/"
+    },
+    {
+      "title": "Anadolu Agency — Trump Iran remarks",
+      "site": "Anadolu Agency",
+      "url": "https://www.aa.com.tr/en/americas/trump-warns-that-iran-could-face-destruction-saying-you-ll-know-soon-enough-about-his-next-move/4113532",
+      "date": "6 Nov 2026"
+    },
+    {
+      "title": "The Outlier — SA local election results",
+      "site": "The Outlier",
+      "url": "https://www.theoutlier.co.za/results",
+      "date": "6 Nov 2026"
     }
   ]
 }
