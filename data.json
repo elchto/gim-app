@@ -1,10 +1,56 @@
 {
   "title": "Global Intelligence Monitor",
-  "snapshot": "Friday 6 November 2026, 04:15 (Europe/Rome)",
+  "snapshot": "Friday 6 November 2026, 05:15 (Europe/Rome)",
   "snapshotDate": "2026-11-06",
-  "lastUpdated": "2026-11-06T04:15:00+01:00",
-  "summary": "A one-page briefing on world news, conflicts, politics and the economy in the week to 6 November 2026 (early Friday ~04:15 Europe/Rome), with country profiles and a timeline since 1945.",
+  "lastUpdated": "2026-11-06T05:15:00+01:00",
+  "summary": "A one-page briefing on world news, conflicts, politics and the economy in the week to 6 November 2026 (Friday morning ~05:15 Europe/Rome), with country profiles and a timeline since 1945.",
   "news": [
+    {
+      "headline": "Nikkei 225 plunges more than 7% Friday morning after Wall Street AI sell-off",
+      "summary": "Japan Times: By 10:25 a.m. Tokyo the Nikkei was down 7.09%, falling below 60,000 for the first time since May, tracking Thursday's Nasdaq (−5.5%) and S&P 500 (−4.4%) drop on AI/data-centre regulation fears after the Democratic midterm sweep. Rohm −20%, SoftBank −11%; Topix also down >6% (intraday).",
+      "date": "6 Nov 2026",
+      "region": "Asia-Pacific",
+      "countries": [
+        "JP",
+        "US"
+      ],
+      "source": "The Japan Times",
+      "url": "https://www.japantimes.co.jp/business/2026/11/06/markets/market-nov-6/"
+    },
+    {
+      "headline": "Trump weighs three Iran options after NSC meeting; Roosevelt makes Singapore stop",
+      "summary": "Axios: After a post-midterm national-security meeting, Trump said a decision on whether to resume major strikes is coming 'soon' — options include new bombing, continued economic pressure, or a deal with concessions. Qatar mediators circulate a claimed two-day confidence sequence (blockade/funds vs IAEA invite, then Hormuz reopen). CENTCOM is preparing; USS Theodore Roosevelt starts a Singapore port call Friday and is not due in CENTCOM's AOR before mid-November (claims).",
+      "date": "6 Nov 2026",
+      "region": "Middle East",
+      "countries": [
+        "US",
+        "IR"
+      ],
+      "source": "Axios",
+      "url": "https://www.axios.com/2026/11/05/trump-iran-war-national-security-team-decision"
+    },
+    {
+      "headline": "Child among five killed in Israeli strikes and gunfire across Gaza",
+      "summary": "AFP (Dawn): Gaza civil defence said Israeli strikes and gunfire on Thursday killed five people, including a 12-year-old boy east of Al-Bureij and a woman near Khan Yunis, plus deaths near Al-Zawayda and a drone strike west of Gaza City. IDF said it struck 'terrorists' in Al-Zawayda and west of Gaza City and was looking into the Khan Yunis report. October 2025 ceasefire remains fragile (claims).",
+      "date": "6 Nov 2026",
+      "region": "Middle East",
+      "countries": [
+        "IL"
+      ],
+      "source": "AFP / Dawn",
+      "url": "https://www.dawn.com/news/2042440"
+    },
+    {
+      "headline": "Delhi's toxic winter air returns as GRAP Stage II and Winter Action Plan take effect",
+      "summary": "BBC: A grey haze and smoky smell returned to Delhi days after the 1 Nov–28 Feb Winter Action Plan began; federal GRAP Stage II restricts diesel generators and coal/firewood burning. Experts welcome earlier planning but say enforcement and regional emissions cuts are still lacking. Winter AQI often exceeds 300 (\"very poor\").",
+      "date": "6 Nov 2026",
+      "region": "Asia-Pacific",
+      "countries": [
+        "IN"
+      ],
+      "source": "BBC",
+      "url": "https://www.bbc.com/news/articles/cm78p0n09q3xo"
+    },
     {
       "headline": "Japan mulls emergency exception to non-nuclear principles in security strategy",
       "summary": "Kyodo: A government source said Tokyo is considering stating an explicit emergency exception to the three non-nuclear principles in the updated National Security Strategy (due by year-end) — allowing temporary introduction of US nuclear weapons in a contingency — while likely keeping the principles themselves. Reflects Okada 2010 remarks; PM Takaichi has previously questioned the \"no introduction\" rule. Wording still under LDP–Ishin consultation; China likely to protest (claim).",
@@ -602,26 +648,6 @@
       ],
       "source": "Al Jazeera",
       "url": "https://www.aljazeera.com/news/2026/11/3/us-hits-qeshm-island-pezeshkian-signals-more-diplomacy-iran-war-latest"
-    },
-    {
-      "headline": "Drone attacks push Sudan's power grid toward collapse",
-      "summary": "At least 15 substations have been hit since early October. The UN envoy says talks with the RSF and its allies are expected before Christmas.",
-      "date": "4 Nov 2026",
-      "region": "Africa",
-      "countries": [],
-      "source": "The Soufan Center",
-      "url": "https://thesoufancenter.org/intelbrief-2026-november-4/"
-    },
-    {
-      "headline": "Prabowo sacks chief of staff over alleged wiretapping",
-      "summary": "Indonesia's president dismissed Listyo Sigit Prabowo after he and two senior police officers were detained over alleged illegal wiretapping of the president and others.",
-      "date": "4 Nov 2026",
-      "region": "Asia-Pacific",
-      "countries": [
-        "ID"
-      ],
-      "source": "The Jakarta Post",
-      "url": "https://www.thejakartapost.com/indonesia/2026/11/04/president-prabowo-sacks-chief-of-staff-listyo-for-alleged-wiretapping-"
     }
   ],
   "conflicts": [
@@ -644,10 +670,10 @@
         "label": "Threats and diplomacy",
         "tone": "danger"
       },
-      "latest": "AA/Al Jazeera: Trump said he may have to 'destroy the rest' of Iran and that a decision is coming 'soon' (claim; no strike ordered). Reuters: Iran sent a nuclear proposal via Qatar with seven preconditions. Hormuz: Iran reported further tanker damage 5 Nov; UKMTO ≥5 incidents since Sunday. Brent ~$99.86 early Friday (WTI ~$91.62) per Reuters.",
+      "latest": "Axios: After a Thursday NSC meeting Trump said he will decide 'soon' among new strikes, economic pressure or a deal with concessions; Qatar mediators float a claimed two-day confidence sequence. USS Theodore Roosevelt begins a Singapore port call Friday (not expected in CENTCOM AOR before mid-Nov). AA/Al Jazeera: Trump also warned he may have to 'destroy the rest' of Iran (claim; no strike ordered). Iran's nuclear proposal via Qatar and seven preconditions still under review; Hormuz tanker incidents continue. Brent ~$99.86 early Friday (WTI ~$91.62).",
       "date": "6 Nov 2026",
-      "source": "Anadolu Agency / Reuters / Business Recorder",
-      "url": "https://www.brecorder.com/news/40447719/oil-set-for-sharp-weekly-drop-but-middle-east-supply-concerns-provide-floor"
+      "source": "Axios / Anadolu Agency / Reuters",
+      "url": "https://www.axios.com/2026/11/05/trump-iran-war-national-security-team-decision"
     },
     {
       "name": "Houthis vs Saudi-led coalition (Yemen)",
@@ -668,22 +694,22 @@
         "label": "Fragile ceasefire",
         "tone": "warning"
       },
-      "latest": "October 2025 ceasefire remains fragile. Democracy Now / Al Jazeera reported further Israeli gunfire killing Palestinians in Gaza on 5 Nov (claims; figures vary by source). Hamas still presses mediators in Cairo on next-phase implementation.",
-      "date": "5 Nov 2026",
-      "source": "Democracy Now / Al Jazeera",
-      "url": "https://www.democracynow.org/2026/11/5/headlines"
+      "latest": "AFP: Civil defence said Israeli strikes/gunfire on 5 Nov killed five in Gaza, including a 12-year-old near Al-Bureij and a woman near Khan Yunis; IDF said it hit 'terrorists' in Al-Zawayda and west of Gaza City and was looking into the Khan Yunis report. October 2025 ceasefire remains fragile; Hamas still presses mediators in Cairo on next-phase implementation (claims).",
+      "date": "6 Nov 2026",
+      "source": "AFP / Dawn",
+      "url": "https://www.dawn.com/news/2042440"
     },
     {
       "name": "Israel-Hezbollah (Lebanon)",
       "parties": "Israel, Hezbollah, Lebanon",
       "status": {
-        "label": "Ongoing",
-        "tone": "neutral"
+        "label": "Low-level clashes",
+        "tone": "warning"
       },
-      "latest": "Israeli shelling and a drone strike in southern Lebanon; Israel presses Beirut to keep Hezbollah out of any renewed Iran war.",
-      "date": "4 Nov 2026",
-      "source": "The Times of Israel",
-      "url": "https://www.timesofisrael.com/israel-said-pressing-lebanon-to-prevent-hezbollah-from-joining-renewed-war-with-iran/"
+      "latest": "Naharnet / NNA: Overnight Israeli strikes hit Tallousa, Aita al-Jabal and Hadatha-Harees (5 Nov), hours after a drone strike in Qabrikha killed one motorcyclist and wounded another — the first such death since September. Implementation of the June US-brokered framework still lags; Israel continues to press Beirut to keep Hezbollah out of any renewed Iran war.",
+      "date": "5 Nov 2026",
+      "source": "Naharnet / NNA",
+      "url": "https://www.naharnet.com/stories/en/323567-israeli-strikes-target-tallousa-aita-al-jabal-and-hadatha-harees"
     },
     {
       "name": "Sudan civil war",
@@ -699,6 +725,17 @@
     }
   ],
   "politics": [
+    {
+      "date": "6 Nov",
+      "title": "US/Iran: Trump weighs strikes, pressure or deal after NSC meeting",
+      "detail": "Axios: Post-midterm national-security briefing; decision 'soon'. Qatar draft two-day confidence steps circulating (claim). Roosevelt in Singapore Friday; CENTCOM preparing without a new strike directive.",
+      "status": {
+        "label": "Decision pending",
+        "tone": "danger"
+      },
+      "source": "Axios",
+      "url": "https://www.axios.com/2026/11/05/trump-iran-war-national-security-team-decision"
+    },
     {
       "date": "6 Nov",
       "title": "Japan: government considers emergency exception to non-nuclear principles in NSS",
@@ -735,13 +772,13 @@
     {
       "date": "6 Nov",
       "title": "New Zealand: final Freshwater poll has Labour ahead; vote tomorrow",
-      "detail": "The Post/Freshwater: Labour 30.7%, National 26.4%, Opportunity 5.1%. Right bloc ~59 seats vs left ~55 if Opportunity clears 5%; Luxon has ruled out working with Opportunity. Polls close 19:00 NZDT 7 Nov.",
+      "detail": "Spinoff/The Post: Four final polls show tiny margins. Freshwater has Labour 30.7% / National 26.4% / Opportunity 5.1% (possible kingmaker; ~6,000 votes either side of 5%). Other late polls (Curia, Verian) are closer with National slightly ahead. Polls close 19:00 NZDT Saturday 7 Nov.",
       "status": {
         "label": "Election eve",
         "tone": "warning"
       },
-      "source": "RNZ / The Post",
-      "url": "https://www.rnz.co.nz/news/politics_election-2026/2368732/last-poll-before-election-puts-labour-slightly-ahead-of-national-with-opportunity-just-making-it-to-parliament"
+      "source": "The Spinoff / RNZ / The Post",
+      "url": "https://thespinoff.co.nz/politics/06-11-2026/four-final-polls-and-the-tiny-margins-that-could-decide-the-result"
     },
     {
       "date": "6 Nov",
@@ -801,12 +838,12 @@
     {
       "date": "6 Nov",
       "title": "Paraguay: Alliana assumes the presidency after Peña exit",
-      "detail": "Peña resigned and was impeached over Ueno Bank. Alliana, spared impeachment, takes office through August 2028 and must handle the banking fallout.",
+      "detail": "AS/COA / Latin Times: Peña resigned and the lower house impeached him 78–0 over Ueno Bank; Alliana was spared a parallel impeachment and assumed the presidency through August 2028. Deposit Guarantee Fund began first reimbursements; Senate trial question remains open.",
       "status": {
         "label": "Succession complete",
         "tone": "warning"
       },
-      "source": "AS/COA / NPR",
+      "source": "AS/COA / Latin Times",
       "url": "https://www.as-coa.org/articles/paraguays-president-resigns-why-and-what-comes-next"
     },
     {
@@ -1008,19 +1045,12 @@
       "detail": "Transport minister Oscar Puente resigned; Sanchez had called a general election for 29 November.",
       "source": "La Moncloa / Reuters",
       "url": "https://www.lamoncloa.gob.es/lang/en/presidente/news/paginas/2026/20261005-institutional-statement.aspx"
-    },
-    {
-      "date": "4 Nov",
-      "title": "Indonesia: presidential chief of staff dismissed",
-      "detail": "Listyo Sigit Prabowo sacked amid an illegal wiretapping probe.",
-      "source": "The Jakarta Post",
-      "url": "https://www.thejakartapost.com/indonesia/2026/11/04/president-prabowo-sacks-chief-of-staff-listyo-for-alleged-wiretapping-"
     }
   ],
   "upcoming": [
     {
       "date": "6 Nov",
-      "event": "US jobs report for October (due 08:30 ET / 14:30 Rome — not yet released at ~04:15 Rome)",
+      "event": "US jobs report for October (due 08:30 ET / 14:30 Rome — not yet released at ~05:15 Rome)",
       "place": "Washington",
       "kind": "Economy",
       "source": "BLS / CNBC preview",
@@ -1028,11 +1058,11 @@
     },
     {
       "date": "7 Nov",
-      "event": "New Zealand general election (Freshwater: Labour 30.7% / National 26.4%; Opportunity 5.1% possible kingmaker; polls close 19:00 NZDT)",
+      "event": "New Zealand general election (four final polls: Freshwater Labour 30.7%/National 26.4%; Opportunity 5.1% cliffhanger; other polls closer — polls close 19:00 NZDT)",
       "place": "New Zealand",
       "kind": "Politics",
-      "source": "RNZ / The Post",
-      "url": "https://www.rnz.co.nz/news/politics_election-2026/2368732/last-poll-before-election-puts-labour-slightly-ahead-of-national-with-opportunity-just-making-it-to-parliament"
+      "source": "The Spinoff / RNZ",
+      "url": "https://thespinoff.co.nz/politics/06-11-2026/four-final-polls-and-the-tiny-margins-that-could-decide-the-result"
     },
     {
       "date": "8 Nov",
@@ -1270,19 +1300,19 @@
     },
     {
       "item": "US stocks",
-      "figure": "Nasdaq −5.17% (close)",
-      "detail": "Investing.com: Nasdaq Composite closed 24,405.73 (−5.17%) on 5 Nov — worst day since Apr 2025 on AI-regulation fears after the Democratic sweep. CNBC: Tesla and SpaceX together lost over $420bn in market value; Nvidia/Qualcomm fell >9%.",
+      "figure": "Nasdaq −5.5% (Thu close)",
+      "detail": "Japan Times / CNBC: Nasdaq Composite −5.5% Thursday (worst since Apr 2025) on AI-regulation fears after the Democratic sweep; S&P 500 −4.4%; Philadelphia Semiconductor Index −12.3%. Tesla and SpaceX together lost over $420bn in market value; Nvidia/Qualcomm fell >9%.",
       "date": "5 Nov 2026",
-      "source": "Investing.com / CNBC / The Guardian",
-      "url": "https://www.cnbc.com/2026/11/05/tesla-spacex-stocks-fall-after-2026-midterms.html"
+      "source": "The Japan Times / CNBC",
+      "url": "https://www.japantimes.co.jp/business/2026/11/06/markets/market-nov-6/"
     },
     {
       "item": "Japan stocks",
-      "figure": "Nikkei 61,077.90 (-1.8%)",
-      "detail": "Close on 5 Nov; Seoul's Kospi fell more than 5% as AI stocks slid. Frankfurt's DAX hit a record.",
-      "date": "5 Nov 2026",
-      "source": "AFP",
-      "url": "https://www.afp.com/en/stock-markets-diverge-oil-prices-rebound-tracking-trump-and-ai"
+      "figure": "Nikkei −7.09% (Fri a.m. intraday)",
+      "detail": "Japan Times: Nikkei down 7.09% by 10:25 a.m. Friday, below 60,000 first time since May after Nasdaq −5.5% / S&P −4.4% Thursday on AI fears. SoftBank −11%, Rohm −20%; Thursday close had been 61,077.90 (−1.8%).",
+      "date": "6 Nov 2026",
+      "source": "The Japan Times",
+      "url": "https://www.japantimes.co.jp/business/2026/11/06/markets/market-nov-6/"
     },
     {
       "item": "US-China trade",
@@ -1301,7 +1331,7 @@
       "url": "https://vocemundi.com/the-week-2026-11-01/"
     }
   ],
-  "economyNote": "The Bank of England raised Bank Rate to 4% on 5 November, its first hike in over three years. Japan real wages rose 2.2% y/y in September (ninth straight gain). Energy from the Iran war remains the main driver of European inflation; Brent traded near $99.86 early Friday Beijing time (WTI ~$91.62) after Hormuz tanker incidents (Reuters). US October jobs report is still due later today (6 Nov, 08:30 ET / 14:30 Rome).",
+  "economyNote": "The Bank of England raised Bank Rate to 4% on 5 November, its first hike in over three years. Japan real wages rose 2.2% y/y in September (ninth straight gain). Asia opened sharply lower Friday: Nikkei −7.09% by mid-morning (Japan Times) after Nasdaq −5.5%. Energy from the Iran war remains the main European inflation driver; Brent traded near $99.86 early Friday Beijing time (WTI ~$91.62) after Hormuz tanker incidents (Reuters). US October jobs report is still due later today (6 Nov, 08:30 ET / 14:30 Rome).",
   "policyRates": [
     {
       "label": "US Fed",
@@ -1488,7 +1518,7 @@
       "headOfGov": "Prime Minister Anwar Ibrahim"
     }
   ],
-  "profilesNote": "Leaders checked against news of 6 November 2026 (~04:15 Rome). Israel: Netanyahu remains caretaker PM; Herzog to name mandate-holder Sunday 8 Nov (Eisenkot 67 vs Netanyahu 46). Paraguay: Pedro Alliana assumed the presidency after Peña resigned and was impeached over Ueno Bank (AS/COA/NPR); Paraguay is not listed in country profiles. Japan: PM Sanae Takaichi; government considering an explicit emergency exception to the non-nuclear principles in the National Security Strategy (Kyodo; claim/proposal, not yet adopted).",
+  "profilesNote": "Leaders checked against news of 6 November 2026 (~05:15 Rome). Israel: Netanyahu remains caretaker PM; Herzog to name mandate-holder Sunday 8 Nov (Eisenkot 67 vs Netanyahu 46). Paraguay: Pedro Alliana assumed the presidency after Peña resigned and the lower house impeached him over Ueno Bank (AS/COA / Latin Times); Deposit Guarantee payouts started — Paraguay is not listed in country profiles. Japan: PM Sanae Takaichi; government considering an explicit emergency exception to the non-nuclear principles in the National Security Strategy (Kyodo; claim/proposal, not yet adopted).",
   "profileSource": "https://www.imf.org/external/datamapper/NGDPD@WEO",
   "history": [
     {
@@ -1782,13 +1812,49 @@
     {
       "year": 2026,
       "date": "6 Nov 2026",
-      "title": "Japan nuclear-exception debate; China DF-61 training; Trump 300% tariff threat; oil near $100",
-      "detail": "Early Friday: Kyodo said Japan may write an emergency exception to its non-nuclear principles into the NSS; CCTV said China's DF-61 ICBM entered Rocket Force routine training; Trump floated tariffs up to 300% unless foreign firms build US plants; Brent ~$99.86; Zelenskyy said every Ukrainian power plant has been damaged; two Egyptian officers killed in a gold-mining crackdown near Sudan. Earlier Friday items still stand: Trump Iran threat, NZ Labour-ahead poll, Houthis' unverified Dammam claim, Huang Congress ask, Japan real wages +2.2%.",
-      "url": "https://english.kyodonews.net/articles/-/90511",
-      "source": "Kyodo / Global Times / Reuters / Guardian"
+      "title": "Nikkei −7%; Trump Iran decision pending; Gaza ceasefire deaths; Japan nuclear-exception debate",
+      "detail": "Friday morning: Nikkei plunged >7% (Japan Times) after Nasdaq's AI sell-off; Axios said Trump is weighing new Iran strikes, economic pressure or a deal after an NSC meeting, with USS Theodore Roosevelt stopping in Singapore. AFP reported five killed in Gaza including a child amid the fragile ceasefire. Earlier Friday: Kyodo said Japan may write an emergency exception to its non-nuclear principles into the NSS; CCTV said China's DF-61 entered Rocket Force routine training; Trump floated tariffs up to 300%; Brent ~$99.86; Zelenskyy said every Ukrainian power plant has been damaged; Delhi winter smog returned (BBC).",
+      "url": "https://www.japantimes.co.jp/business/2026/11/06/markets/market-nov-6/",
+      "source": "Japan Times / Axios / AFP / Kyodo"
     }
   ],
   "sources": [
+    {
+      "title": "Japan Times — Nikkei Friday plunge",
+      "site": "The Japan Times",
+      "url": "https://www.japantimes.co.jp/business/2026/11/06/markets/market-nov-6/",
+      "date": "6 Nov 2026"
+    },
+    {
+      "title": "Axios — Trump Iran decision after NSC meeting",
+      "site": "Axios",
+      "url": "https://www.axios.com/2026/11/05/trump-iran-war-national-security-team-decision",
+      "date": "6 Nov 2026"
+    },
+    {
+      "title": "AFP / Dawn — Gaza ceasefire deaths 5 Nov",
+      "site": "Dawn",
+      "url": "https://www.dawn.com/news/2042440",
+      "date": "6 Nov 2026"
+    },
+    {
+      "title": "BBC — Delhi winter air pollution",
+      "site": "BBC",
+      "url": "https://www.bbc.com/news/articles/cm78p0n09q3xo",
+      "date": "6 Nov 2026"
+    },
+    {
+      "title": "Naharnet — Israeli strikes southern Lebanon",
+      "site": "Naharnet",
+      "url": "https://www.naharnet.com/stories/en/323567-israeli-strikes-target-tallousa-aita-al-jabal-and-hadatha-harees",
+      "date": "5 Nov 2026"
+    },
+    {
+      "title": "The Spinoff — NZ four final polls",
+      "site": "The Spinoff",
+      "url": "https://thespinoff.co.nz/politics/06-11-2026/four-final-polls-and-the-tiny-margins-that-could-decide-the-result",
+      "date": "6 Nov 2026"
+    },
     {
       "title": "Kyodo — Japan non-nuclear principles exception",
       "site": "Kyodo",
