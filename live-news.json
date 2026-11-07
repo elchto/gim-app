@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-07T00:53:44Z",
+ "updatedAt": "2026-11-07T07:05:04Z",
  "sources": [
   "BBC World",
   "BBC Business",
@@ -16,121 +16,256 @@
  "count": 80,
  "items": [
   {
-   "title": "Man in custody after being found in vehicle near White House with guns",
-   "summary": "Ronny Yordrix Guanipa Chrinos arrested by secret service after telling officers voices told him to kill Donald Trump The US secret service said a suspect has been taken into custody and charged after officers found him in a vehicle near the White House with multiple guns, claiming he heard voices…",
-   "link": "https://www.theguardian.com/us-news/2026/nov/06/secret-service-man-in-custody-trump",
+   "title": "Pope in 'pretty good health' as he starts Latin America tour",
+   "summary": "Pope Leo travels to Uruguay just three weeks after having surgery for lung cancer.",
+   "link": "https://www.bbc.co.uk/news/articles/c60e0001ve9wo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "published": "2026-11-07T06:59:48Z",
+   "region": "Americas",
+   "category": "news"
+  },
+  {
+   "title": "NZ election 2026 live results: count on as National and Labour battle it out in knife-edge New Zealand poll",
+   "summary": "Polls show no coalition is expected to secure a majority of seats, in one of the closest elections in recent history New Zealand heads for election cliffhanger with minor party cast as kingmaker In New Zealand’s bellwether seat, what are locals thinking as a knife-edge poll looms? Another update…",
+   "link": "https://www.theguardian.com/world/live/2026/nov/07/nz-general-election-2026-live-updates-results-new-zealand-polls",
    "source": "The Guardian World",
-   "published": "2026-11-07T00:31:59Z",
-   "region": "Americas",
+   "published": "2026-11-07T06:54:53Z",
+   "region": "Asia-Pacific",
    "category": "news"
   },
   {
-   "title": "Paraguay’s Santiago Pena under arrest, new president Pedro Alliana sworn in",
-   "summary": "The sudden leadership change comes as Paraguay reels from the collapse of the Ueno Bank, a popular lender.",
-   "link": "https://www.aljazeera.com/news/2026/11/7/paraguays-santiago-pena-under-arrest-new-president-pedro-alliana-sworn-in?traffic_source=rss",
+   "title": "Beachcombers in Morocco hunt for hidden treasure",
+   "summary": "For many, the search is driven less by profit than by the thrill of an unexpected discovery.",
+   "link": "https://www.aljazeera.com/news/2026/11/7/beachcombers-in-morocco-hunt-for-hidden-treasure?traffic_source=rss",
    "source": "Al Jazeera",
-   "published": "2026-11-07T00:31:41Z",
-   "region": "Americas",
+   "published": "2026-11-07T06:47:45Z",
+   "region": "Africa",
    "category": "news"
   },
   {
-   "title": "Democrats blast Trump’s decision to appoint Stephen Miller as chief of staff in wake of Republican midterm rout – live",
-   "summary": "Chuck Schumer says the move to promote the controversial immigration hardliner shows that Donald Trump ‘learned nothing from his historic defeat’ in the midterms Stephen Miller, architect of Trump’s immigration crackdown, to become White House chief of staff Sign up for Breaking News US email…",
-   "link": "https://www.theguardian.com/us-news/live/2026/nov/06/us-midterm-elections-2026-democrats-blue-wave-congress-latest-news-updates",
-   "source": "The Guardian World",
-   "published": "2026-11-07T00:30:46Z",
-   "region": "Americas",
-   "category": "news"
-  },
-  {
-   "title": "MTG warns Miller-Wiles shakeup will sink Republican chances in 2028",
-   "summary": "Marjorie Taylor Greene says Trump's White House personnel shuffle will sink the party’s next presidential campaign.",
-   "link": "https://www.aljazeera.com/video/newsfeed/2026/11/7/aje-onl-nf_mtg-warns-white-house-shakeup-sink-republican-2028-061126?traffic_source=rss",
+   "title": "Do not investigate Trump’s corporate allies until he leaves office",
+   "summary": "The US presidential pardon power has created a constitutional absurdity that can protect those accused of corruption.",
+   "link": "https://www.aljazeera.com/opinions/2026/11/7/do-not-investigate-trumps-corporate-allies-until-he-leaves-office?traffic_source=rss",
    "source": "Al Jazeera",
-   "published": "2026-11-07T00:21:49Z",
+   "published": "2026-11-07T06:38:27Z",
    "region": "Americas",
    "category": "news"
   },
   {
-   "title": "Russell Brand suspected to have attacked at least 10 other women",
-   "summary": "Met police chief says ‘many more’ victims could come forward, as actor and comedian awaits sentencing Police are bracing themselves for more victims of Russell Brand to come forward, with at least 10 more women suspected of having been attacked by the disgraced star. Brand, 51, will be sentenced on…",
-   "link": "https://www.theguardian.com/culture/2026/nov/06/russell-brand-trial-other-women",
-   "source": "The Guardian World",
-   "published": "2026-11-07T00:00:47Z",
-   "region": "Global",
-   "category": "conflict"
-  },
-  {
-   "title": "Iran war live: Qatar says US, Iran should not wait to reach a peace deal",
-   "summary": "Qatar's prime minister urges the US and Iran not to wait for a 'perfect moment' to reach a deal to end the war.",
-   "link": "https://www.aljazeera.com/news/liveblog/2026/11/7/iran-war-live-qatar-says-us-iran-should-not-wait-to-reach-a-peace-deal?traffic_source=rss",
+   "title": "How the Iran war helped Democrats win the midterms",
+   "summary": "Tehran brought the costs of war into American homes, fuelling the backlash against Trump's party.",
+   "link": "https://www.aljazeera.com/opinions/2026/11/7/how-the-iran-war-helped-democrats-win-the-midterms?traffic_source=rss",
    "source": "Al Jazeera",
-   "published": "2026-11-07T00:00:00Z",
+   "published": "2026-11-07T06:26:58Z",
    "region": "Middle East",
    "category": "conflict"
   },
   {
-   "title": "New Zealanders head to polls on final day of voting",
-   "summary": "More than half of New Zealand’s voters cast early ballots in the tightly contested race.",
-   "link": "https://www.aljazeera.com/news/2026/11/6/new-zealanders-head-to-polls-on-final-day-of-voting?traffic_source=rss",
+   "title": "Carlos Alcaraz saves match points to reach Paris Masters semifinals",
+   "summary": "Seven-time Grand Slam champion Alcaraz is through to the Paris Masters semifinals for the first time in his career.",
+   "link": "https://www.aljazeera.com/sports/2026/11/7/carlos-alcaraz-match-point-paris-masters-semifinals-tennis?traffic_source=rss",
    "source": "Al Jazeera",
-   "published": "2026-11-06T23:48:01Z",
-   "region": "Asia-Pacific",
-   "category": "news"
-  },
-  {
-   "title": "EU tells TikTok to fix ‘harmful’ For You feed, threatens fines",
-   "summary": "TikTok's algorithm 'leading users down rabbit holes they cannot easily escape from', European Commission says.",
-   "link": "https://www.aljazeera.com/news/2026/11/6/eu-tells-tiktok-to-fix-harmful-for-you-feed-threatens-fines?traffic_source=rss",
-   "source": "Al Jazeera",
-   "published": "2026-11-06T23:33:28Z",
+   "published": "2026-11-07T06:21:04Z",
    "region": "Europe",
    "category": "news"
   },
   {
-   "title": "How Trump’s unconvincing narrative on Iran lost him the US midterms",
-   "summary": "Donald Trump and the Republicans struggle to spin a historic defeat in the US midterms.",
-   "link": "https://www.aljazeera.com/video/the-listening-post/2026/11/6/how-trumps-unconvincing-narrative-on-iran-lost-him-the-us-midterms?traffic_source=rss",
+   "title": "Governing party ahead in early results of New Zealand’s knife-edge vote",
+   "summary": "Early count suggests New Zealand's National and Labour parties are neck and neck, with neither likely to govern alone.",
+   "link": "https://www.aljazeera.com/news/2026/11/7/governing-party-leads-in-new-zealands-knife-edge-vote-early-results?traffic_source=rss",
    "source": "Al Jazeera",
-   "published": "2026-11-06T23:07:22Z",
-   "region": "Americas",
+   "published": "2026-11-07T06:20:27Z",
+   "region": "Asia-Pacific",
    "category": "news"
   },
   {
-   "title": "When a single vowel stands in the path to victory, the stakes could not be higher for these spelling bee champions",
-   "summary": "Primary school students bested 200,000 competitors across New South Wales to reach the Premier’s Spelling Bee finals in Sydney Get our breaking news email , free app or daily news podcast Competing in a spelling bee is not for the faint of heart. Sometimes, the difference between victory and loss…",
-   "link": "https://www.theguardian.com/australia-news/2026/nov/07/when-a-single-vowel-stands-in-the-path-to-victory-the-stakes-could-not-be-higher-for-these-spelling-bee-champions",
+   "title": "Ousted Paraguay president under house arrest after bank collapse",
+   "summary": "Paraguayan authorities placed ousted president Santiago Peña under house arrest on Friday, shortly after the Senate unanimously removed him from office over a massive banking crisis that locked nearly half of Paraguayans out of their savings. Peña offered his resignation over the scandal, but…",
+   "link": "https://www.france24.com/en/americas/20261107-ousted-paraguay-president-under-house-arrest-after-banking-crisis",
+   "source": "France 24",
+   "published": "2026-11-07T06:18:38Z",
+   "region": "Americas",
+   "category": "economy"
+  },
+  {
+   "title": "The end of Maga as we know it",
+   "summary": "The Republican party will regroup after their shellacking in the US midterm elections, but it won’t look the same Walking by a tattoo studio and medical spa on the pretty main street of Round Rock , in Texas Hill Country, Tarik Bakir recalled voting for Barack Obama in 2008 and Donald Trump in…",
+   "link": "https://www.theguardian.com/news/ng-interactive/2026/nov/07/the-end-of-maga-as-we-know-it",
    "source": "The Guardian World",
-   "published": "2026-11-06T23:06:10Z",
+   "published": "2026-11-07T06:00:05Z",
+   "region": "Americas",
+   "category": "conflict"
+  },
+  {
+   "title": "US midterm results may help unite Israeli coalition to unseat Netanyahu",
+   "summary": "Democrats’ sweep could urge Israel’s divided opposition to join forces and remove prime minister closely allied with Trump The Democrats’ sweep of Congress may make it easier for Israel’s splintered opposition to overcome deep internal divisions and form a coalition government, by increasing the…",
+   "link": "https://www.theguardian.com/world/2026/nov/07/us-midterm-results-may-help-unite-israeli-coalition-to-unseat-netanyahu",
+   "source": "The Guardian World",
+   "published": "2026-11-07T06:00:04Z",
+   "region": "Middle East",
+   "category": "news"
+  },
+  {
+   "title": "‘Alien-cortical’ mice: Can human brain cells grow inside animals?",
+   "summary": "Modified mice with human brain cells ignite debates over neurohybrids and the future of cross-species medical research.",
+   "link": "https://www.aljazeera.com/news/2026/11/7/alien-cortical-mice-can-human-brain-cells-grow-inside-animals?traffic_source=rss",
+   "source": "Al Jazeera",
+   "published": "2026-11-07T05:57:25Z",
    "region": "Global",
    "category": "news"
   },
   {
-   "title": "US urges China to honour Busan trade deal commitments",
-   "summary": "Trump-Xi Busan deal aimed to ease tariffs and tech restrictions; progress hinges on China's fulfilment of commitments.",
-   "link": "https://www.aljazeera.com/economy/2026/11/6/us-urges-china-to-honour-busan-trade-deal-commitments?traffic_source=rss",
+   "title": "Paraguay’s Pena under military protection in bank collapse chaos",
+   "summary": "Paraguay moves ex-President Santiago Pena to military base for protection after dramatic day in Asuncion.",
+   "link": "https://www.aljazeera.com/video/newsfeed/2026/11/7/aje-onl-nf_paraguays-pena-under-house-arrest-061126?traffic_source=rss",
    "source": "Al Jazeera",
-   "published": "2026-11-06T23:00:37Z",
+   "published": "2026-11-07T05:51:23Z",
+   "region": "Americas",
+   "category": "conflict"
+  },
+  {
+   "title": "Khawaja claims entire Australia team knew about 2018 ball-tampering scandal",
+   "summary": "The 'Sandpapergate' scandal saw ⁠Australia scuffing the ball with sandpaper in the March 2018 test ​in Cape Town.",
+   "link": "https://www.aljazeera.com/sports/2026/11/7/australia-cricket-ball-tampering-sandpapergate-usman-khawaja?traffic_source=rss",
+   "source": "Al Jazeera",
+   "published": "2026-11-07T05:46:54Z",
+   "region": "Asia-Pacific",
+   "category": "news"
+  },
+  {
+   "title": "President Herzog faces key choice as Israel struggles to form government",
+   "summary": "Eisenkot's bloc and Arab-led parties seek to oust Netanyahu, but failure to form government could leave him in power.",
+   "link": "https://www.aljazeera.com/news/2026/11/7/president-herzog-faces-key-choice-as-israel-struggles-to-form-government?traffic_source=rss",
+   "source": "Al Jazeera",
+   "published": "2026-11-07T05:16:18Z",
+   "region": "Middle East",
+   "category": "news"
+  },
+  {
+   "title": "What’s the point? Ten years after the Paris treaty, are climate talks getting anywhere?",
+   "summary": "Its key temperature goal has been missed but experts say the agreement is still proving a vital moral compass for progress It was a curious way of conducting negotiations. Ahead of the 2025 climate summit, in the Amazonian port of Belém last year, the Brazilian hosts had taken off the table the…",
+   "link": "https://www.theguardian.com/environment/ng-interactive/2026/nov/07/whats-the-point-ten-years-after-the-paris-treaty-are-climate-talks-getting-anywhere",
+   "source": "The Guardian World",
+   "published": "2026-11-07T05:00:02Z",
+   "region": "Europe",
+   "category": "news"
+  },
+  {
+   "title": "US asks China to uphold Busan trade deal commitments",
+   "summary": "The US urged Beijing to meet commitments from a 2025 accord — particularly on agricultural purchases and rare earths supply. China, meanwhile, expressed concern over the US' \"economic, trade restrictive\" measures.",
+   "link": "https://www.dw.com/en/us-asks-china-to-uphold-busan-trade-deal-commitments/a-79882939?maca=en-rss-en-world-4025-rdf",
+   "source": "DW World",
+   "published": "2026-11-07T04:44:00Z",
    "region": "Asia-Pacific",
    "category": "economy"
   },
   {
-   "title": "Susie Wiles exits White House as Trump ousts another woman from key role",
-   "summary": "Wiles thanks president for ‘honor of a lifetime’ as departure leaves behind overwhelmingly male leadership team US politics live – latest updates Donald Trump on Friday said Susie Wiles, the first woman to serve as White House chief of staff, will leave her post, a major shake-up of his inner…",
-   "link": "https://www.theguardian.com/us-news/2026/nov/06/susie-wiles-white-house-resignation",
-   "source": "The Guardian World",
-   "published": "2026-11-06T22:35:09Z",
+   "title": "Paraguay's President Santiago Peña impeached and arrested",
+   "summary": "Santiago Peña was ousted due to a banking crisis which left millions of people unable to access their money.",
+   "link": "https://www.bbc.co.uk/news/articles/c68jzzvjgdy9o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "published": "2026-11-07T03:25:00Z",
    "region": "Americas",
    "category": "news"
   },
   {
-   "title": "Thomas Markle, Meghan’s father, charged in Florida in connection to child sexual abuse material",
-   "summary": "Father of the Duchess of Sussex was taken into custody near Tampa, US prosecutors said Thomas Markle, the father of Meghan, the Duchess of Sussex , was arrested by US federal agents in Florida on Friday and charged in connection with possession of child sexual abuse material, according to the…",
-   "link": "https://www.theguardian.com/uk-news/2026/nov/06/thomas-markle-arrested",
+   "title": "The 'World's Best Airline' is updating its business and first-class experience",
+   "summary": "Singapore Airlines is rolling out new onboard seating, dining and entertainment options that are part of an over $2 billion Singapore dollar investment.",
+   "link": "https://www.cnbc.com/2026/11/06/singapore-airlines-new-first-business-class-a350-starlink.html",
+   "source": "CNBC World",
+   "published": "2026-11-07T03:11:28Z",
+   "region": "Asia-Pacific",
+   "category": "economy"
+  },
+  {
+   "title": "US carries out another round of ‘minor’ strikes on Iran, Trump says",
+   "summary": "The president’s announcement comes days after an earlier attack on Iran was made public, and as diplomatic efforts to end the conflict have accelerated Donald Trump has said the US military on Friday carried out a new round of limited strikes on Iran, targeting an air defence system, describing the…",
+   "link": "https://www.theguardian.com/world/2026/nov/07/us-carries-out-another-round-of-minor-strikes-on-iran-trump-says",
    "source": "The Guardian World",
-   "published": "2026-11-06T22:09:01Z",
+   "published": "2026-11-07T03:07:01Z",
+   "region": "Americas",
+   "category": "conflict"
+  },
+  {
+   "title": "Democrats blast Trump’s decision to make Stephen Miller his chief of staff as president defends picking loyal ‘MVP’ - as it happened",
+   "summary": "This live blog is now closed. Stephen Miller, architect of Trump’s immigration crackdown, to become White House chief of staff Sign up for Breaking News US email Donald Trump will begin the day in Washington today. He has closed door meetings for much of the day, and will take part in a Diwali…",
+   "link": "https://www.theguardian.com/us-news/live/2026/nov/06/us-midterm-elections-2026-democrats-blue-wave-congress-latest-news-updates",
+   "source": "The Guardian World",
+   "published": "2026-11-07T03:02:26Z",
    "region": "Americas",
    "category": "news"
+  },
+  {
+   "title": "Ousted Paraguay president under house arrest after banking crisis leaves 60% of country unable to access accounts",
+   "summary": "Santiago Peña was detained minutes after he was impeached by Congress, as protesters took to the streets demanding answers after the suspension of the Ueno bank Paraguay’s rightwing president has been placed under house arrest minutes after he was impeached by Congress, amid a severe crisis that…",
+   "link": "https://www.theguardian.com/world/2026/nov/07/ousted-paraguay-president-under-house-arrest-after-banking-crisis-leaves-60-of-country-unable-to-access-accounts",
+   "source": "The Guardian World",
+   "published": "2026-11-07T01:55:11Z",
+   "region": "Americas",
+   "category": "economy"
+  },
+  {
+   "title": "'My mortgage is going up £200': How rising interest rates are hitting people's pockets",
+   "summary": "With UK interest rates set to rise, mortgages, credit cards and loans could get more expensive for millions.",
+   "link": "https://www.bbc.co.uk/news/articles/c617kjqjvk12o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC Business",
+   "published": "2026-11-07T01:41:36Z",
+   "region": "Europe",
+   "category": "economy"
+  },
+  {
+   "title": "Stephen Miller, architect of Trump’s immigration crackdown, to become White House chief of staff",
+   "summary": "US president confirms Susie Wiles, current chief of staff and first woman to serve in the role, will step down US politics live – latest updates Stephen Miller, Donald Trump ’s most controversial aide and the architect of his sweeping immigration crackdown, will become his new White House chief of…",
+   "link": "https://www.theguardian.com/us-news/2026/nov/06/stephen-miller-chief-of-staff-trump",
+   "source": "The Guardian World",
+   "published": "2026-11-07T01:38:06Z",
+   "region": "Americas",
+   "category": "news"
+  },
+  {
+   "title": "This man refused life-saving treatment because of his religion - days later the rules changed",
+   "summary": "Jehovah's Witness leaders relaxed strict rules on blood transfusions, but the change came 23 days too late for Isaac Valdez.",
+   "link": "https://www.bbc.co.uk/news/articles/cx5ynly549njo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "published": "2026-11-07T01:27:47Z",
+   "region": "Global",
+   "category": "news"
+  },
+  {
+   "title": "The young Somali woman changing how the world sees Mogadishu",
+   "summary": "For some tourists, the contrast between Somalia's reputation and what they experience on the ground can be striking.",
+   "link": "https://www.bbc.co.uk/news/articles/cq0k0lg48705o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "published": "2026-11-07T01:19:49Z",
+   "region": "Africa",
+   "category": "news"
+  },
+  {
+   "title": "How Stephen Miller appointment shows Trump hasn’t learned his lesson on immigration",
+   "summary": "US voters repudiated mass deportation campaign, but choice of new chief of staff shows Trump doesn’t care On Tuesday, voters resoundingly rebuked Donald Trump and his brutal mass deportation campaign that sent military tanks and masked agents though residential streets. But on Friday, the president…",
+   "link": "https://www.theguardian.com/us-news/2026/nov/06/donald-trump-stephen-miller-immigration",
+   "source": "The Guardian World",
+   "published": "2026-11-07T01:04:52Z",
+   "region": "Americas",
+   "category": "conflict"
+  },
+  {
+   "title": "Cornell faculty pass no-confidence vote over leadership's handling of Jane Doe allegations",
+   "summary": "Friday's resolution by academic staff is largely symbolic as they do not have the power to remove those in charge of the university.",
+   "link": "https://www.bbc.co.uk/news/articles/c933xxl8yv0go?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "published": "2026-11-06T23:46:08Z",
+   "region": "Global",
+   "category": "news"
+  },
+  {
+   "title": "With Stephen Miller pick, Trump readies for a battle",
+   "summary": "The US president's promotion of Miller, a loyal partisan firebrand to be his new chief of staff sets up likely clashes with Congress.",
+   "link": "https://www.bbc.co.uk/news/articles/crp3gg2z171go?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "published": "2026-11-06T23:24:15Z",
+   "region": "Americas",
+   "category": "conflict"
   },
   {
    "title": "Elon Musk appears to signal the end of the road for Cybertruck",
@@ -142,48 +277,12 @@
    "category": "news"
   },
   {
-   "title": "Cornell faculty declares ‘no confidence’ in school leaders in fallout from alleged gang-rape",
-   "summary": "Faculty senate passed resolution expressing deep discontent with school’s response to alleged fraternity rape Cornell University’s faculty senate approved a resolution on Friday declaring “no confidence” in the school’s top leaders, a symbolic gesture reflecting deep discontent on campus in the…",
-   "link": "https://www.theguardian.com/us-news/2026/nov/06/cornell-faculty-declares-no-confidence-school-leaders",
-   "source": "The Guardian World",
-   "published": "2026-11-06T21:46:37Z",
-   "region": "Americas",
-   "category": "news"
-  },
-  {
-   "title": "Palestinian couples tie the knot in mass wedding in Gaza",
-   "summary": "The event brought 250 couples together to celebrate love and new beginnings despite Israel’s genocidal war on Gaza.",
-   "link": "https://www.aljazeera.com/video/newsfeed/2026/11/6/palestinian-couples-tie-the-knot-in-mass-wedding-in-gaza?traffic_source=rss",
-   "source": "Al Jazeera",
-   "published": "2026-11-06T21:37:30Z",
-   "region": "Middle East",
-   "category": "conflict"
-  },
-  {
-   "title": "Global stocks fall amid ‘big worries over AI’ after Democrats’ midterms triumph",
-   "summary": "Asian and European markets follow US tech rout with many analysts predicting more waves of selling to come European and Asian stock markets fell sharply on Friday after the Democrats’ decisive victory in the midterms triggered a rout in US tech stocks a day earlier. A sell-off on Wall Street on…",
-   "link": "https://www.theguardian.com/business/2026/nov/06/global-stocks-plunge-amid-ai-slowdown-fears-after-democrats-midterm-triumph",
-   "source": "The Guardian World",
-   "published": "2026-11-06T21:23:54Z",
-   "region": "Americas",
-   "category": "economy"
-  },
-  {
    "title": "Kenyan cult leader sentenced to 200 years in prison",
    "summary": "In tonight's edition, cult leader Paul Mackenzie is sentenced to 200 years in prison for the murder of 190 children starved ‌to death on his orders. Also, in South Africa, activists warn that new data centres could put added pressure on already strained water and electricity supplies. And Senegal…",
    "link": "https://www.france24.com/en/kenyan-cult-leader-sentenced-to-200-years-in-prison",
    "source": "France 24",
    "published": "2026-11-06T21:23:53Z",
    "region": "Africa",
-   "category": "news"
-  },
-  {
-   "title": "Who is Stephen Miller, Trump’s new White House chief of staff?",
-   "summary": "Miller has been a close confidant of Trump since 2016 and an architect of the president's hardline immigration policies.",
-   "link": "https://www.aljazeera.com/news/2026/11/6/who-is-stephen-miller-trumps-new-white-house-chief-of-staff?traffic_source=rss",
-   "source": "Al Jazeera",
-   "published": "2026-11-06T21:22:57Z",
-   "region": "Americas",
    "category": "news"
   },
   {
@@ -194,15 +293,6 @@
    "published": "2026-11-06T21:22:24Z",
    "region": "Europe",
    "category": "conflict"
-  },
-  {
-   "title": "Three men charged in US with using AI to impersonate CEOs and steal millions",
-   "summary": "Men allegedly impersonated voices and images of executives to convince employees to send large payments Three foreign nationals were arrested and charged with using AI to allegedly impersonate corporate CEOs and attorneys to steal over $100m, according to an indictment that was newly unsealed by…",
-   "link": "https://www.theguardian.com/us-news/2026/nov/06/ai-ceo-impersonation-theft",
-   "source": "The Guardian World",
-   "published": "2026-11-06T21:20:49Z",
-   "region": "Americas",
-   "category": "news"
   },
   {
    "title": "OpenAI bugging suspect Alfozan pleads not guilty",
@@ -367,15 +457,6 @@
    "category": "conflict"
   },
   {
-   "title": "Nigerian court rules opposition candidate cannot stand in elections",
-   "summary": "The high court has sacked the leadership of the opposition ADC party with only months to go until elections.",
-   "link": "https://www.bbc.co.uk/news/articles/cw8rzzx46jd5o?at_medium=RSS&at_campaign=rss",
-   "source": "BBC World",
-   "published": "2026-11-06T17:35:55Z",
-   "region": "Africa",
-   "category": "news"
-  },
-  {
    "title": "US tech stocks post modest recovery on Wall Street after worst day in 19 months – as it happened",
    "summary": "European and Asia-Pacific markets slide after Wall Street rout, while latest US jobs report beats forecasts Could the AI bubble burst after Democrats’ midterms sweep? - The Latest Despite the sharp losses suffered on global stock markets around the world, most indices are still up for the year. The…",
    "link": "https://www.theguardian.com/business/live/2026/nov/06/global-stocks-tumble-ai-panic-markets-democrats-midterms-success-jobs-oil-dollar-latest-news-updates",
@@ -421,24 +502,6 @@
    "category": "economy"
   },
   {
-   "title": "Europe: What we know about the hoax bomb threats disrupting flights",
-   "summary": "Dozens of European flights have been disrupted this week after bomb threats were sent in to various airports, with fighter planes escorting many civilian aircraft after threats were called in mid-flight.",
-   "link": "https://www.france24.com/en/europe-what-we-know-about-the-hoax-bomb-threats-disrupting-flights",
-   "source": "France 24",
-   "published": "2026-11-06T16:59:02Z",
-   "region": "Europe",
-   "category": "conflict"
-  },
-  {
-   "title": "Dozens of Democrats eyeing 2028 presidential run, says former Obama aide",
-   "summary": "Jim Messina tells the BBC that after Democrats' midterm victories he's talked to \"over two dozen campaigns\", with some already hiring staff.",
-   "link": "https://www.bbc.co.uk/news/articles/cx8dzzy8n713o?at_medium=RSS&at_campaign=rss",
-   "source": "BBC World",
-   "published": "2026-11-06T16:51:01Z",
-   "region": "Global",
-   "category": "news"
-  },
-  {
    "title": "Food bank to close amid rising costs",
    "summary": "A food bank in Goole annouces it will close in January as costs rise and donations drop.",
    "link": "https://www.bbc.co.uk/news/articles/cqrkyyj6rx7ro?at_medium=RSS&at_campaign=rss",
@@ -457,15 +520,6 @@
    "category": "economy"
   },
   {
-   "title": "Four midterms takeaways for 2028 White House race",
-   "summary": "The buzz about the presidential election is already under way - here's what we learned this week.",
-   "link": "https://www.bbc.co.uk/news/articles/cq1m41n3v7mmo?at_medium=RSS&at_campaign=rss",
-   "source": "BBC World",
-   "published": "2026-11-06T16:12:22Z",
-   "region": "Americas",
-   "category": "news"
-  },
-  {
    "title": "U.S. economy added 165,000 jobs in October, way more than expected; unemployment rate slips to 4.1%",
    "summary": "Nonfarm payrolls were expected to increase by 59,000 in October as the unemployment rate was expected to hold steady at 4.2%.",
    "link": "https://www.cnbc.com/2026/11/06/jobs-report-october-2026.html",
@@ -475,24 +529,6 @@
    "category": "economy"
   },
   {
-   "title": "Two dead after bus crashes in France, officials say",
-   "summary": "One child and one young adult were killed in the crash, local authorities say, with more injured.",
-   "link": "https://www.bbc.co.uk/news/articles/cmly00l4p3lwo?at_medium=RSS&at_campaign=rss",
-   "source": "BBC World",
-   "published": "2026-11-06T15:33:52Z",
-   "region": "Europe",
-   "category": "conflict"
-  },
-  {
-   "title": "Judge blocks construction of Trump's massive arch after federal agency approval",
-   "summary": "The Trump administration had hoped the construction of the 250-foot arch could begin as early as this week.",
-   "link": "https://www.bbc.co.uk/news/articles/cq99zd93ryvko?at_medium=RSS&at_campaign=rss",
-   "source": "BBC World",
-   "published": "2026-11-06T15:30:42Z",
-   "region": "Americas",
-   "category": "news"
-  },
-  {
    "title": "PM tells firms to publish salaries in job adverts ahead of new law",
    "summary": "The government argues the change will help jobseekers and could help to prevent pay discrimination.",
    "link": "https://www.bbc.co.uk/news/articles/cmd9343z3zw2o?at_medium=RSS&at_campaign=rss",
@@ -500,15 +536,6 @@
    "published": "2026-11-06T15:25:43Z",
    "region": "Global",
    "category": "economy"
-  },
-  {
-   "title": "New wave of bomb threats hit European airlines",
-   "summary": "No link has been established between the threats against the airlines and those against the media outlets.",
-   "link": "https://www.bbc.co.uk/news/articles/cq62yy064vjpo?at_medium=RSS&at_campaign=rss",
-   "source": "BBC World",
-   "published": "2026-11-06T15:25:35Z",
-   "region": "Europe",
-   "category": "conflict"
   },
   {
    "title": "European flights and broadcasters are targeted with another wave of bomb threats",
@@ -610,15 +637,6 @@
    "category": "conflict"
   },
   {
-   "title": "Hoax bomb threats repeatedly disrupt flights across Europe this week. Here’s what we know",
-   "summary": "Dozens of flights across Europe reported bomb threats this week, disrupting air travel across London, Dublin, and Helsinki.",
-   "link": "https://www.cnbc.com/2026/11/05/bomb-threats-flights-europe.html",
-   "source": "CNBC World",
-   "published": "2026-11-06T12:54:13Z",
-   "region": "Europe",
-   "category": "conflict"
-  },
-  {
    "title": "Judge halts construction of Trump's arch. And, Labor Department to release jobs report",
    "summary": "A judge has blocked construction of Trump's arch moments after it won federal approval to proceed. And, the Labor Department is set to release the latest jobs report today, a day after stocks plunged.",
    "link": "https://www.npr.org/2026/11/06/g-s1-152213/up-first-newsletter-job-market-trump-arch-school-enrollment-harmeet-dhillon",
@@ -644,24 +662,6 @@
    "published": "2026-11-06T12:05:00Z",
    "region": "Asia-Pacific",
    "category": "news"
-  },
-  {
-   "title": "Kenya cult leader Paul Mackenzie sentenced to 200 years",
-   "summary": "A court in Kenya has sentenced Paul Mackenzie to 200 years in prison for the murders of 190 children and an adult. He told them to starve themselves to death as part of his apocalyptic religious cult.",
-   "link": "https://www.dw.com/en/kenya-cult-leader-paul-mackenzie-sentenced-to-200-years/a-79875112?maca=en-rss-en-world-4025-rdf",
-   "source": "DW World",
-   "published": "2026-11-06T12:03:00Z",
-   "region": "Africa",
-   "category": "news"
-  },
-  {
-   "title": "'I've taken an extra job to pay for heating oil'",
-   "summary": "People in Sussex say they are taking on extra work and not heating their homes due to oil prices.",
-   "link": "https://www.bbc.co.uk/news/articles/cmj47j7e92gvo?at_medium=RSS&at_campaign=rss",
-   "source": "BBC Business",
-   "published": "2026-11-06T11:40:35Z",
-   "region": "Global",
-   "category": "economy"
   },
   {
    "title": "European shares join a global sell-off as AI spending fears rattle Wall Street and Asian markets",
