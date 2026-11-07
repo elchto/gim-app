@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-07T13:57:39Z",
+ "updatedAt": "2026-11-07T18:44:18Z",
  "sources": [
   "BBC World",
   "BBC Business",
@@ -16,13 +16,337 @@
  "count": 80,
  "items": [
   {
-   "title": "‘Radical’ or ‘hero’?: France debates leftist candidate Jean-Luc Melenchon",
-   "summary": "The hard-left leader has transformed into a real contender in next year presidential elections.",
-   "link": "https://www.aljazeera.com/news/2026/11/7/radical-or-hero-france-debates-leftist-candidate-jean-luc-melenchon?traffic_source=rss",
+   "title": "Paraguay’s ousted president charged over banking scandal",
+   "summary": "Santiago Pena was impeached over the collapse of Ueno Bank, which left millions unable to access their accounts.",
+   "link": "https://www.aljazeera.com/economy/2026/11/7/paraguays-ousted-president-charged-over-banking-scandal?traffic_source=rss",
    "source": "Al Jazeera",
-   "published": "2026-11-07T13:35:46Z",
+   "published": "2026-11-07T18:35:15Z",
+   "region": "Americas",
+   "category": "economy"
+  },
+  {
+   "title": "Kraków shooting latest updates: six killed and more than a dozen injured, police say",
+   "summary": "Polish Prime Minister Donald Tusk heads to the city after four women and two men are killed and more than a dozen people injured Tom Rose, the US ambassador to Poland, wrote on X: We are just learning details of the horrific mass shooting in Kraków, a savage and murderous attack that’s shattered…",
+   "link": "https://www.theguardian.com/world/live/2026/nov/07/krakow-shooting-poland-latest-news-updates",
+   "source": "The Guardian World",
+   "published": "2026-11-07T18:22:25Z",
+   "region": "Europe",
+   "category": "conflict"
+  },
+  {
+   "title": "What we know about Krakow mass shooting so far",
+   "summary": "At least six people were killed by a gunman in military fatigues who opened fire in Poland's second largest city.",
+   "link": "https://www.bbc.co.uk/news/articles/cmd7q15drwgeo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "published": "2026-11-07T18:22:11Z",
+   "region": "Europe",
+   "category": "conflict"
+  },
+  {
+   "title": "US offers $20m reward for information about Iran's nuclear programme",
+   "summary": "Donald Trump has repeatedly raised the prospecting of renewing strikes against Iran's nuclear facilities.",
+   "link": "https://www.bbc.co.uk/news/articles/c6d091ev3p0jo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "published": "2026-11-07T18:14:38Z",
+   "region": "Middle East",
+   "category": "conflict"
+  },
+  {
+   "title": "South Africa's ANC facing worst-ever performance in local elections",
+   "summary": "Near-final results show South Africa's once dominant ANC will see its lowest-ever vote percentage. The party is taking the blame for shoddy municipal services, including water and electricity shortages.",
+   "link": "https://www.dw.com/en/south-africa-s-anc-facing-worst-ever-performance-in-local-elections/a-79887482?maca=en-rss-en-world-4025-rdf",
+   "source": "DW World",
+   "published": "2026-11-07T18:07:00Z",
+   "region": "Africa",
+   "category": "news"
+  },
+  {
+   "title": "Pope Leo hold first mass in Uruguay, urges crowd to be ‘bridge builders’",
+   "summary": "Vatican says some 40,000 people gathered to listen to the head of the Roman Catholic Church in western city of Paysandu.",
+   "link": "https://www.aljazeera.com/news/2026/11/7/pope-leo-hold-first-mass-in-uruguay-urges-crowd-to-be-bridge-builders?traffic_source=rss",
+   "source": "Al Jazeera",
+   "published": "2026-11-07T18:00:21Z",
+   "region": "Americas",
+   "category": "news"
+  },
+  {
+   "title": "Gaza wedding festival sees 250 couples married at the same time",
+   "summary": "A mass wedding for Palestinian brides and grooms has taken place in the rubble-strewn streets of Gaza.",
+   "link": "https://www.bbc.co.uk/news/videos/ckr5ygm78j76o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "published": "2026-11-07T17:58:41Z",
+   "region": "Middle East",
+   "category": "news"
+  },
+  {
+   "title": "Houthis report 25 killed in Yemen strikes",
+   "summary": "Yemen’s Houthis say at least 25 people have been killed and 30 injured in air strikes.",
+   "link": "https://www.aljazeera.com/video/newsfeed/2026/11/7/houthis-report-25-killed-in-yemen-strikes?traffic_source=rss",
+   "source": "Al Jazeera",
+   "published": "2026-11-07T17:39:23Z",
+   "region": "Middle East",
+   "category": "conflict"
+  },
+  {
+   "title": "Six dead after gunman opens fire ‘at random’ in Kraków market square",
+   "summary": "Reports say man fired shots from from his car in Poland’s second city before being wounded by police while trying to flee Kraków shooting – latest updates Six people have been killed and 15 injured after a shooting in a market square in Kraków, Poland. A man who had driven into the square at about…",
+   "link": "https://www.theguardian.com/world/2026/nov/07/krakow-poland-shooting-market-square-deaths-gunman",
+   "source": "The Guardian World",
+   "published": "2026-11-07T17:17:23Z",
+   "region": "Europe",
+   "category": "economy"
+  },
+  {
+   "title": "Lebanese footballer refuses to give up after injuries from Israeli strike",
+   "summary": "After surviving an Israeli airstrike that left her in a coma, Celine Haidar is back on the pitch, coaching footballers.",
+   "link": "https://www.aljazeera.com/video/newsfeed/2026/11/7/lebanese-footballer-refuses-to-give-up-after-injuries-from-israeli-strike?traffic_source=rss",
+   "source": "Al Jazeera",
+   "published": "2026-11-07T17:16:50Z",
+   "region": "Middle East",
+   "category": "conflict"
+  },
+  {
+   "title": "Ousted Paraguayan president appears before prosecutors",
+   "summary": "Paraguayan President Santiago Peña was removed from office and placed under house arrest Friday. The Senate voted on his impeachment after the collapse of a state-affiliated bank.",
+   "link": "https://www.npr.org/2026/11/07/nx-s1-6033373/paraguay-president-ousted-bank-collapse",
+   "source": "NPR World",
+   "published": "2026-11-07T17:14:36Z",
+   "region": "Americas",
+   "category": "news"
+  },
+  {
+   "title": "Jerusalem Daily: Heavy rains flood Gaza",
+   "summary": "Jerusalem Daily: Heavy rains flood Gaza",
+   "link": "https://www.aljazeera.com/video/newsfeed/2026/11/7/jerusalem-daily-heavy-rains-flood-gaza?traffic_source=rss",
+   "source": "Al Jazeera",
+   "published": "2026-11-07T17:11:29Z",
+   "region": "Middle East",
+   "category": "news"
+  },
+  {
+   "title": "Houthis say at least 25 killed in Saudi air strike",
+   "summary": "Saudi Arabia, which leads a coalition fighting the Houthis in Yemen, has not commented.",
+   "link": "https://www.bbc.co.uk/news/articles/c65yn1v99ypmo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "published": "2026-11-07T17:09:24Z",
+   "region": "Middle East",
+   "category": "conflict"
+  },
+  {
+   "title": "Rise in NHS birth centre closures ‘shocking’ denial of women’s rights, experts say",
+   "summary": "Twelve midwife-led maternity units have closed in England since 2019 with six closing since Labour came to power in 2024 NHS officials are shutting growing numbers of birth centres in a “shocking” denial of a woman’s right to have a midwife rather than a doctor oversee their baby’s birth, say…",
+   "link": "https://www.theguardian.com/society/2026/nov/07/nhs-birth-centre-maternity-unit-closures-england-womens-rights",
+   "source": "The Guardian World",
+   "published": "2026-11-07T17:00:16Z",
    "region": "Europe",
    "category": "news"
+  },
+  {
+   "title": "Valencia vs Real Madrid LIVE: La Liga",
+   "summary": "Follow updates from the La Liga clash, including the build-up, analysis and live text commentary of the match.",
+   "link": "https://www.aljazeera.com/sports/liveblog/2026/11/7/valencia-vs-real-madrid-live-la-liga?traffic_source=rss",
+   "source": "Al Jazeera",
+   "published": "2026-11-07T17:00:12Z",
+   "region": "Europe",
+   "category": "conflict"
+  },
+  {
+   "title": "Italian foreign minister says hackers leaked his personal data",
+   "summary": "Prime Minister Giorgia Meloni has blamed pro-Russian hackers for publishing the details online.",
+   "link": "https://www.bbc.co.uk/news/articles/cr20wvge32j3o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "published": "2026-11-07T16:50:06Z",
+   "region": "Europe",
+   "category": "news"
+  },
+  {
+   "title": "Three teenagers arrested after 17-year-old injured in Gloucester sword attack",
+   "summary": "Armed police attended the scene, which led to two nearby schools going into lockdown Three teenagers have been arrested after a 17-year-old was injured in a suspected sword attack near a school in Gloucester. Officers were called to Chalford Road, near St Peter’s high school, in Tuffley, shortly…",
+   "link": "https://www.theguardian.com/uk-news/2026/nov/07/sword-attack-gloucester-school-men-arrested-boy-injured",
+   "source": "The Guardian World",
+   "published": "2026-11-07T16:41:07Z",
+   "region": "Global",
+   "category": "conflict"
+  },
+  {
+   "title": "Israel builds 90km network of military roads across southern Lebanon",
+   "summary": "Israel is building roads and military outposts across southern Lebanon.",
+   "link": "https://www.aljazeera.com/video/newsfeed/2026/11/7/israel-builds-90km-network-of-military-roads-across-southern-lebanon?traffic_source=rss",
+   "source": "Al Jazeera",
+   "published": "2026-11-07T16:30:33Z",
+   "region": "Middle East",
+   "category": "conflict"
+  },
+  {
+   "title": "Guatemalan lawmaker and three police officers killed in armed attack",
+   "summary": "It happened in a region of the country known to have drug trafficking activity.",
+   "link": "https://www.aljazeera.com/news/2026/11/7/guatemalan-lawmaker-and-three-police-officers-killed-in-armed-attack?traffic_source=rss",
+   "source": "Al Jazeera",
+   "published": "2026-11-07T16:15:18Z",
+   "region": "Global",
+   "category": "conflict"
+  },
+  {
+   "title": "Hundreds march in Pau, France against high living costs",
+   "summary": "Hundreds march in Pau, France against high living costs",
+   "link": "https://www.aljazeera.com/video/newsfeed/2026/11/7/hundreds-march-in-pau-france-against-high-living-costs?traffic_source=rss",
+   "source": "Al Jazeera",
+   "published": "2026-11-07T16:09:11Z",
+   "region": "Europe",
+   "category": "news"
+  },
+  {
+   "title": "Why the prognosis for healthcare stocks is uncertain ahead of Congress’ new makeup",
+   "summary": "Healthcare stocks may struggle to find momentum as the Democrats get ready to take over Congress.",
+   "link": "https://www.cnbc.com/2026/11/07/healthcare-stocks-may-face-trouble-due-to-midterm-results.html",
+   "source": "CNBC World",
+   "published": "2026-11-07T16:02:33Z",
+   "region": "Americas",
+   "category": "economy"
+  },
+  {
+   "title": "No clear winner after tight New Zealand general election",
+   "summary": "Weeks of coalition talks could follow after preliminary results pointed to a highly divided national parliament.",
+   "link": "https://www.bbc.co.uk/news/articles/c3ewev11g1e0o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "published": "2026-11-07T15:56:28Z",
+   "region": "Asia-Pacific",
+   "category": "news"
+  },
+  {
+   "title": "🔴 At least five people killed in shooting in Krakow, Polish police say ⤵️",
+   "summary": "",
+   "link": "https://www.france24.com/en/europe/20261107-at-least-three-people-killed-shooting-in-polish-city-of-krakow-police-say",
+   "source": "France 24",
+   "published": "2026-11-07T15:26:49Z",
+   "region": "Europe",
+   "category": "conflict"
+  },
+  {
+   "title": "Berkshire Hathaway more than doubles buybacks in third quarter as earnings decline",
+   "summary": "Berkshire Hathaway said Saturday it accelerated its share repurchases during the third quarter, as operating and overall profits took a hit.",
+   "link": "https://www.cnbc.com/2026/11/07/berkshire-hathaway-q3-2026-earnings-buybacks.html",
+   "source": "CNBC World",
+   "published": "2026-11-07T15:23:46Z",
+   "region": "Global",
+   "category": "economy"
+  },
+  {
+   "title": "UK cannot 'cherry pick' EU single market deal, Barnier tells BBC",
+   "summary": "The former Brexit negotiator says EU countries would reject any British attempts to follow economic rules \"a la carte\".",
+   "link": "https://www.bbc.co.uk/news/articles/c9kgjj206nzpo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "published": "2026-11-07T15:19:35Z",
+   "region": "Europe",
+   "category": "economy"
+  },
+  {
+   "title": "Stephen Miller, Trump’s incoming chief of staff, pledges ‘total devotion’ to the president",
+   "summary": "Hardline aide offers ‘unwavering commitment’ to president amid fears White House will double down on far-right immigration agenda Stephen Miller, Donald Trump ’s most controversial aide and the architect of his sweeping immigration crackdown, has lavished praise on the president after his…",
+   "link": "https://www.theguardian.com/us-news/2026/nov/07/stephen-miller-trump-loyalty",
+   "source": "The Guardian World",
+   "published": "2026-11-07T15:15:11Z",
+   "region": "Americas",
+   "category": "news"
+  },
+  {
+   "title": "Journalism and AI: Who owns the news?",
+   "summary": "Publishers say AI chatbots are using their reporting to answer readers' questions while sending back less traffic and less money. Should the companies that build these tools pay for the journalism they rely on?",
+   "link": "https://www.dw.com/en/journalism-and-ai-who-owns-the-news/a-79884854?maca=en-rss-en-world-4025-rdf",
+   "source": "DW World",
+   "published": "2026-11-07T15:14:00Z",
+   "region": "Global",
+   "category": "news"
+  },
+  {
+   "title": "National Trust votes to seek banking partner more in tune with its environmental policies",
+   "summary": "Charity’s AGM decides overwhelmingly to begin tendering process amid criticism of Barclays’ fossil fuel investments The National Trust has voted overwhelmingly to seek a new banking partner in a significant victory for members who have long argued that its relationship with Barclays was at odds…",
+   "link": "https://www.theguardian.com/uk-news/2026/nov/07/national-trust-agm-barclays-environment-policies",
+   "source": "The Guardian World",
+   "published": "2026-11-07T15:06:59Z",
+   "region": "Global",
+   "category": "economy"
+  },
+  {
+   "title": "Vetting candidates is a tricky process but Reform can’t seem to get it right",
+   "summary": "Charges against party members and off-piste remarks highlight problems brought about by rapid expansion Speaking to reporters after unveiling his new defence spokesperson this week, Nigel Farage’s jovial and upbeat mood suddenly switched. Why, he was asked, was a Reform UK councillor who was…",
+   "link": "https://www.theguardian.com/politics/2026/nov/07/reform-nigel-farage-vetting-candidates-struggle",
+   "source": "The Guardian World",
+   "published": "2026-11-07T15:00:14Z",
+   "region": "Europe",
+   "category": "news"
+  },
+  {
+   "title": "LA’s newer, bluer wave: Nithya Raman leads way as city’s progressives make their mark",
+   "summary": "Democratic socialists won the mayorship, a US House seat and powerful positions in Los Angeles – and a large network of volunteers helped them do it As a blue tsunami overtook US politics this week, Los Angeles saw a major shake-up of its own with a wave of democratic socialists elected to key…",
+   "link": "https://www.theguardian.com/us-news/2026/nov/07/los-angeles-mayor-nithya-raman-progressives-dsa",
+   "source": "The Guardian World",
+   "published": "2026-11-07T15:00:14Z",
+   "region": "Americas",
+   "category": "news"
+  },
+  {
+   "title": "‘Life-changing’: parents welcome £10m UK play centre for disabled children",
+   "summary": "Gympanzees near Bristol will be the first UK site of its type, catering for children unable to use regular playgrounds It has been over a decade since Stephanie Wheen set out to create the UK’s first play and leisure centre specifically designed for disabled children. Over the past 10 years, she…",
+   "link": "https://www.theguardian.com/world/2026/nov/07/life-changing-parents-welcome-10m-uk-play-centre-for-disabled-children",
+   "source": "The Guardian World",
+   "published": "2026-11-07T15:00:13Z",
+   "region": "Europe",
+   "category": "news"
+  },
+  {
+   "title": "Pope Leo calls on Uruguay's Catholics to be 'bridge builders'",
+   "summary": "Pope Leo XIV urged Catholics in Uruguay to build bridges of faith and fraternity on the second day of his 12-day tour of Uruguay, Argentina and Peru. The pope's three-country tour comes just three weeks after he underwent surgery for lung cancer.",
+   "link": "https://www.france24.com/en/pope-leo-calls-on-uruguay-catholics-bridge-builders",
+   "source": "France 24",
+   "published": "2026-11-07T14:59:30Z",
+   "region": "Americas",
+   "category": "news"
+  },
+  {
+   "title": "'We must change everything,' French far-left presidential candidate Mélenchon says at campaign launch",
+   "summary": "Veteran leftist Jean-Luc Mélenchon formally announced his plan to raise France's minimum wage, cap prices for essential foods and restore the country's retirement age to 60 in a speech launching his 2027 presidential election programme on Saturday. Polls currently indicate that he is the left…",
+   "link": "https://www.france24.com/en/france/20261107-french-presidential-hopeful-m%C3%A9lenchon-launches-campaign-by-vowing-lower-retirement-age",
+   "source": "France 24",
+   "published": "2026-11-07T14:44:24Z",
+   "region": "Europe",
+   "category": "economy"
+  },
+  {
+   "title": "Son of Iran's shah receives 'Freedom Prize' in Frankfurt",
+   "summary": "18,000 people gathered in Frankfurt to show support for Reza Pahlavi, the son of the Iranian monarch ousted in 1979. Factions in the opposition have accused him of not distancing himself from his father's rule.",
+   "link": "https://www.dw.com/en/son-of-iran-s-shah-receives-freedom-prize-in-frankfurt/a-79885661?maca=en-rss-en-world-4025-rdf",
+   "source": "DW World",
+   "published": "2026-11-07T14:38:00Z",
+   "region": "Middle East",
+   "category": "news"
+  },
+  {
+   "title": "After victory in the midterms, what next for US Democrats?",
+   "summary": "Donald Trump's Republican party has lost its majority in both chambers of the US Congress. But the president still has a lot of power — and the Democrats have yet to agree on how best to use theirs.",
+   "link": "https://www.dw.com/en/after-victory-in-the-midterms-what-next-for-us-democrats/a-79884957?maca=en-rss-en-world-4025-rdf",
+   "source": "DW World",
+   "published": "2026-11-07T14:15:00Z",
+   "region": "Americas",
+   "category": "news"
+  },
+  {
+   "title": "Mark Cuban says he doesn’t ‘give a f---' about growing his net worth—a healthy mindset for non-billionaires too, a financial therapist says",
+   "summary": "The billionaire serial entrepreneur says he cares more about the impact he can have by spending and investing, rather than worrying about amassing more wealth.",
+   "link": "https://www.cnbc.com/make-it/2026/11/07/mark-cuban-net-worth-money-mindset.html",
+   "source": "CNBC World",
+   "published": "2026-11-07T14:05:01Z",
+   "region": "Americas",
+   "category": "economy"
+  },
+  {
+   "title": "World’s No. 1 restaurant crowned as contest comes under increasing scrutiny",
+   "summary": "Asador Etxebarri in Atxondo, Spain, is the world's top restaurant, according to the 50 Best Restaurants, which announced its 2026 list.",
+   "link": "https://www.cnbc.com/2026/11/07/worlds-50-best-restaurants-2026-asador-etxebarri.html",
+   "source": "CNBC World",
+   "published": "2026-11-07T13:38:44Z",
+   "region": "Europe",
+   "category": "economy"
   },
   {
    "title": "France braces for more nationwide protests as Yellow Vests urge 'mass disobedience'",
@@ -43,130 +367,40 @@
    "category": "conflict"
   },
   {
-   "title": "‘They started bombing us with drones’: Russian attacks unnerve Zaporizhzhia",
-   "summary": "A region once offering refuge becomes increasingly dangerous, as 50 people are killed in a single attack.",
-   "link": "https://www.aljazeera.com/news/2026/11/7/they-started-bombing-us-with-drones-russian-attacks-unnerve-zaporizhzhia?traffic_source=rss",
-   "source": "Al Jazeera",
-   "published": "2026-11-07T13:24:41Z",
-   "region": "Europe",
-   "category": "conflict"
-  },
-  {
-   "title": "Gaza displacement camps collapse under rainwater",
-   "summary": "Rainwater is inundating displacement camps across Gaza as makeshift shelters collapse. Al Jazeera’s Nour Khaled reports.",
-   "link": "https://www.aljazeera.com/video/newsfeed/2026/11/7/gaza-displacement-camps-collapse-under-rainwater?traffic_source=rss",
-   "source": "Al Jazeera",
-   "published": "2026-11-07T13:14:53Z",
-   "region": "Middle East",
-   "category": "news"
-  },
-  {
-   "title": "New Zealand election coalition talks will likely take weeks – as it happened",
-   "summary": "This blog is closed. Another update here with 8% of the vote counted . National on 31.2%, Labour 28.4%, the Greens 12.9%, Act 11.2%, NZ First 9.6%, Opportunity 5.7% and Te Pāti Māori 0.4%. On these numbers, we would have a right bloc coalition back in power. Long way to go . Continue reading...",
-   "link": "https://www.theguardian.com/world/live/2026/nov/07/nz-general-election-2026-live-updates-results-new-zealand-polls",
-   "source": "The Guardian World",
-   "published": "2026-11-07T13:12:22Z",
-   "region": "Asia-Pacific",
-   "category": "news"
-  },
-  {
-   "title": "Buildings damaged in Israeli bombings risk collapse as rain inundates Gaza",
-   "summary": "Floods have swept through Gaza after heavy rain, endangering families and putting war-damaged buildings at risk.",
-   "link": "https://www.aljazeera.com/features/2026/11/7/buildings-damaged-in-israel-bombing-at-risk-of-collapse-as-rain-floods-gaza?traffic_source=rss",
-   "source": "Al Jazeera",
-   "published": "2026-11-07T13:07:23Z",
+   "title": "Risk of Iran war escalation remains high despite Democratic sweep in U.S. midterm elections",
+   "summary": "The U.S. and Iran are on a collision course as tensions in the Middle East simmer.",
+   "link": "https://www.cnbc.com/2026/11/07/iran-war-midterm-election-oil-price-trump.html",
+   "source": "CNBC World",
+   "published": "2026-11-07T13:03:12Z",
    "region": "Middle East",
    "category": "conflict"
   },
   {
-   "title": "Al Jazeera tries out martial art wushu at Youth Olympics",
-   "summary": "Al Jazeera tries out martial art wushu at Youth Olympics",
-   "link": "https://www.aljazeera.com/video/newsfeed/2026/11/7/al-jazeera-tries-out-martial-art-wushu-at-youth-olympics?traffic_source=rss",
-   "source": "Al Jazeera",
-   "published": "2026-11-07T13:06:50Z",
+   "title": "Anthropic IPO meets AI backlash after midterms show stinging rebuke of data centers",
+   "summary": "Anthropic is poised to become the first pure-play AI company to hit the public market at a time when the public is increasingly leary of the industry.",
+   "link": "https://www.cnbc.com/2026/11/07/anthropic-ipo-ai-data-center-backlash.html",
+   "source": "CNBC World",
+   "published": "2026-11-07T13:00:01Z",
    "region": "Global",
-   "category": "news"
+   "category": "economy"
   },
   {
-   "title": "Heavy rains flood displacement camps across Gaza",
-   "summary": "Heavy rains and strong winds have flooded and damaged displacement tents across Gaza.",
-   "link": "https://www.aljazeera.com/video/newsfeed/2026/11/7/heavy-rains-flood-displacement-camps-across-gaza?traffic_source=rss",
-   "source": "Al Jazeera",
-   "published": "2026-11-07T13:04:51Z",
-   "region": "Middle East",
-   "category": "news"
+   "title": "Cosm rides premium moviegoing wave with more immersive screenings and a wider library",
+   "summary": "Cosm tickets cost anywhere from $18 for a matinee to around $70 for prime seats or in-demand showings.",
+   "link": "https://www.cnbc.com/2026/11/07/cosm-immersive-movie-screenings.html",
+   "source": "CNBC World",
+   "published": "2026-11-07T13:00:01Z",
+   "region": "Global",
+   "category": "economy"
   },
   {
-   "title": "Blackouts and water shortages in Kyiv after Russia strikes Ukraine’s energy grid",
-   "summary": "Moscow used 172 drones and 36 ballistic missiles in attacks on electricity substations and bridge over the Dnipro Volodymyr Zelenskyy has accused Russia of trying to “plunge Kyiv and the entire country into a blackout”, after a major attack overnight on energy infrastructure in the capital and a…",
-   "link": "https://www.theguardian.com/world/2026/nov/07/blackout-water-shortage-kyiv-russia-strike-ukraine-energy-grid",
-   "source": "The Guardian World",
-   "published": "2026-11-07T13:03:03Z",
-   "region": "Europe",
-   "category": "conflict"
-  },
-  {
-   "title": "Trump’s elevation of Stephen Miller a middle finger to millions of voters",
-   "summary": "Architect of Trump’s far-right immigration agenda is now most powerful unelected figure in government – it suggests White House is moving to a war footing Donald Trump just gave the middle finger to millions of American voters. Any other president who suffered the kind of drubbing at the polls that…",
-   "link": "https://www.theguardian.com/us-news/2026/nov/07/trump-stephen-miller-midterms",
-   "source": "The Guardian World",
-   "published": "2026-11-07T13:00:12Z",
-   "region": "Americas",
-   "category": "conflict"
-  },
-  {
-   "title": "Court rules against Home Office in asylum seeker kidnapping case",
-   "summary": "Department had claimed that being kidnapped for ransom was not exploitation of trafficking victims in case of Syrian man abducted in Libya The court of appeal has rejected claims by the Home Office that being kidnapped for ransom is not exploitation of trafficking victims. The ruling means that…",
-   "link": "https://www.theguardian.com/law/2026/nov/07/court-of-appeal-rules-kidnap-for-ransom-libya-exploitation-trafficking-victims-asylum-seeker-home-office",
-   "source": "The Guardian World",
-   "published": "2026-11-07T13:00:11Z",
-   "region": "Middle East",
-   "category": "news"
-  },
-  {
-   "title": "Ukraine's power network suffers further damage after fresh Russian strikes",
+   "title": "Russian strikes wound nine and damage Ukraine's power network ahead of talks",
    "summary": "The attacks come before Ukrainian and Russian delegations are due to take part in trilateral talks in Abu Dhabi next week.",
    "link": "https://www.bbc.co.uk/news/articles/cm4g1nq8158po?at_medium=RSS&at_campaign=rss",
    "source": "BBC World",
    "published": "2026-11-07T12:49:36Z",
    "region": "Europe",
    "category": "conflict"
-  },
-  {
-   "title": "Two men arrested after boy injured in Gloucester sword attack",
-   "summary": "Armed police attended the scene, which led to two nearby schools going into lockdown on Friday Two teenagers have been arrested after a 17-year-old was injured in a suspected sword attack near a school in Gloucester. Officers were called to Chalford Road, near St Peter’s high school, in Tuffley…",
-   "link": "https://www.theguardian.com/uk-news/2026/nov/07/sword-attack-gloucester-school-men-arrested-boy-injured",
-   "source": "The Guardian World",
-   "published": "2026-11-07T12:32:29Z",
-   "region": "Global",
-   "category": "conflict"
-  },
-  {
-   "title": "Pro-Russian hackers leak Italian foreign minister’s data on dark web",
-   "summary": "The prime minister blames pro-Russian hackers for the leak, as her top diplomat says the cyberthreat was ongoing.",
-   "link": "https://www.aljazeera.com/news/2026/11/7/pro-russian-hackers-leak-italian-foreign-ministers-data-on-dark-web?traffic_source=rss",
-   "source": "Al Jazeera",
-   "published": "2026-11-07T12:29:48Z",
-   "region": "Europe",
-   "category": "news"
-  },
-  {
-   "title": "Atletico Madrid vs Barcelona: La Liga – predictions, team news, lineups",
-   "summary": "Barcelona and Atletico clash on Sunday in a blockbuster encounter which could upend the La Liga title race this season.",
-   "link": "https://www.aljazeera.com/sports/2026/11/7/atletico-madrid-barcelona-la-liga-prediction-team-news-lineups-preview?traffic_source=rss",
-   "source": "Al Jazeera",
-   "published": "2026-11-07T12:27:58Z",
-   "region": "Europe",
-   "category": "conflict"
-  },
-  {
-   "title": "Why are oil traders refusing to buy Russian diesel after Trump-Putin deal?",
-   "summary": "Zero Russian diesel has reached the US as tankers divert and buyers fear legal action.",
-   "link": "https://www.aljazeera.com/news/2026/11/7/why-are-oil-traders-refusing-to-buy-russian-diesel-after-trump-putin-deal?traffic_source=rss",
-   "source": "Al Jazeera",
-   "published": "2026-11-07T12:24:11Z",
-   "region": "Europe",
-   "category": "news"
   },
   {
    "title": "Four things we learned this week about 2028 White House race",
@@ -205,76 +439,13 @@
    "category": "news"
   },
   {
-   "title": "Israel coalition talks gain momentum",
-   "summary": "Following inconclusive elections in Israel, opposition candidate Gadi Eisenkot says he is confident of securing the mandate to form a government, as President Isaac Herzog prepares to nominate the first candidate. Eisenkot claims he is making progress in efforts to oust long-serving Prime Minister…",
-   "link": "https://www.france24.com/en/israel-coalition-talks-gain-momentum",
-   "source": "France 24",
-   "published": "2026-11-07T12:12:06Z",
-   "region": "Middle East",
-   "category": "news"
-  },
-  {
-   "title": "Kenyan cult leader sentenced to 200 years in prison",
-   "summary": "Kenyan cult leader Paul Mackenzie has been sentenced to 200 years in prison for the deaths of 190 children who were starved to death on his orders in Shakahola Forest. Prosecutors said he had convinced followers to fast to reach heaven before the apocalypse, with some victims beaten, buried alive…",
-   "link": "https://www.france24.com/en/kenyan-cult-leader-sentenced-to-200-years-in-prison-1",
-   "source": "France 24",
-   "published": "2026-11-07T12:10:34Z",
-   "region": "Africa",
-   "category": "news"
-  },
-  {
-   "title": "Retired tennis star Gaël Monfils named captain of France's Davis Cup team",
-   "summary": "Recently retired tennis player Gaël Monfils was named captain of the French Davis Cup team, the country's tennis federation announced Saturday. France will next take part in the Davis Cup in February 2027 after having failed to qualify for this year's finals in Bologna.",
-   "link": "https://www.france24.com/en/france/20261107-retired-tennis-star-ga%C3%ABl-monfils-named-captain-of-france-s-davis-cup-team",
-   "source": "France 24",
-   "published": "2026-11-07T12:07:56Z",
-   "region": "Europe",
-   "category": "news"
-  },
-  {
-   "title": "New ‘high safety’ chemicals in plastic food packaging linked to lower birth weight, study finds",
-   "summary": "Dinch, an allegedly ‘safe’ alternative, used in the EU and US also found to cause fetal development complications Exposure to a new generation of allegedly “safe” plasticizers is linked to lower birth weight and fetal development complications, which could cause serious health problems later in…",
-   "link": "https://www.theguardian.com/us-news/2026/nov/07/nontoxic-plastic-lower-birth-weight-study",
-   "source": "The Guardian World",
-   "published": "2026-11-07T12:00:13Z",
-   "region": "Europe",
-   "category": "news"
-  },
-  {
-   "title": "Florida Republicans survived the ‘blue wave’, but find themselves on shaky ground",
-   "summary": "Sunshine state emerged as the lone flag bearer of the Maga agenda, but even there, the GOP finds itself on the defense After the dust settled on Tuesday night’s near-annihilation of the Republican party nationwide, a single red flag fluttered defiantly in Florida, now a last bastion of the Maga…",
-   "link": "https://www.theguardian.com/us-news/2026/nov/07/florida-republicans-midterm-elections",
-   "source": "The Guardian World",
-   "published": "2026-11-07T12:00:10Z",
-   "region": "Global",
-   "category": "news"
-  },
-  {
    "title": "Trump may have lost but don’t bet Democrats can fix the economy",
    "summary": "There’s not much they can do over the next couple of years to alleviate angry voters’ stress over prices It was the economy, again. Although Donald Trump largely ignored it, voters’ acute concerns over the rising cost of living fuelled a political upheaval for the ages that is likely to deliver the…",
    "link": "https://www.theguardian.com/business/2026/nov/07/democrats-economy-affordability-crisis",
-   "source": "The Guardian World",
+   "source": "The Guardian Economics",
    "published": "2026-11-07T11:00:08Z",
    "region": "Americas",
    "category": "economy"
-  },
-  {
-   "title": "French presidential election: How far-left Mélenchon became a Gen Z favourite",
-   "summary": "Far-left presidential candidate Jean-Luc Mélenchon presents his policy platform at a key rally near Paris on Saturday. A polarising figure for the general electorate, he is nonetheless beloved among France's youth, who are drawn to his progressive policy proposals and say he empowers them to get…",
-   "link": "https://www.france24.com/en/france/20261107-french-2027-presidential-elections-how-m%C3%A9lenchon-became-a-gen-z-favourite",
-   "source": "France 24",
-   "published": "2026-11-07T10:44:34Z",
-   "region": "Europe",
-   "category": "news"
-  },
-  {
-   "title": "Russell Brand barrister reports himself to watchdog over clash with journalist",
-   "summary": "Ian Winter KC told Rosamund Urwin of the Sunday Times, whose investigation led to Brand’s victims coming forward: ‘I hope you are pleased with yourself’ Russell Brand’s barrister has reported himself to his professional regulator after being accused of launching a tirade at a journalist shortly…",
-   "link": "https://www.theguardian.com/culture/2026/nov/06/russell-brand-barrister-ian-winter-reports-himself-bar-watchdog-confronting-sunday-times-journalist",
-   "source": "The Guardian World",
-   "published": "2026-11-07T10:04:01Z",
-   "region": "Global",
-   "category": "conflict"
   },
   {
    "title": "Ukraine: Russia hits Kyiv with airstrikes ahead of trilateral talks",
@@ -304,39 +475,12 @@
    "category": "economy"
   },
   {
-   "title": "Trump says U.S. carried out ‘minor strikes’ on Iran as missiles hit Qeshm Island",
-   "summary": "Trump said the U.S. carried out ‘minor strikes’ on Iran after Iranian media reported two missiles hit Qeshm Island near the Strait of Hormuz.",
-   "link": "https://www.cnbc.com/2026/11/07/trump-us-minor-strikes-iran-qeshm-island.html",
-   "source": "CNBC World",
-   "published": "2026-11-07T07:37:36Z",
-   "region": "Middle East",
-   "category": "conflict"
-  },
-  {
    "title": "US: Giant pandas from China make public debut at Atlanta zoo",
    "summary": "Ping Ping and Fu Shuang are the first giant pandas to be housed in Zoo Atlanta after a gap of two years.",
    "link": "https://www.dw.com/en/us-giant-pandas-from-china-make-public-debut-at-atlanta-zoo/a-79883388?maca=en-rss-en-world-4025-rdf",
    "source": "DW World",
    "published": "2026-11-07T07:33:00Z",
    "region": "Asia-Pacific",
-   "category": "news"
-  },
-  {
-   "title": "Paraguay's president impeached and under house arrest after bank collapse",
-   "summary": "Santiago Peña was ousted due to a banking crisis which left millions of people unable to access their money.",
-   "link": "https://www.bbc.co.uk/news/articles/c68jzzvjgdy9o?at_medium=RSS&at_campaign=rss",
-   "source": "BBC World",
-   "published": "2026-11-07T07:20:00Z",
-   "region": "Americas",
-   "category": "economy"
-  },
-  {
-   "title": "Pope in 'pretty good health' as he starts Latin America tour",
-   "summary": "Pope Leo travels to Uruguay just three weeks after having surgery for lung cancer.",
-   "link": "https://www.bbc.co.uk/news/articles/c60e0001ve9wo?at_medium=RSS&at_campaign=rss",
-   "source": "BBC World",
-   "published": "2026-11-07T06:59:48Z",
-   "region": "Americas",
    "category": "news"
   },
   {
@@ -358,25 +502,7 @@
    "category": "economy"
   },
   {
-   "title": "The 'World's Best Airline' is updating its business and first-class experience",
-   "summary": "Singapore Airlines is rolling out new onboard seating, dining and entertainment options that are part of an over $2 billion Singapore dollar investment.",
-   "link": "https://www.cnbc.com/2026/11/06/singapore-airlines-new-first-business-class-a350-starlink.html",
-   "source": "CNBC World",
-   "published": "2026-11-07T03:11:28Z",
-   "region": "Asia-Pacific",
-   "category": "economy"
-  },
-  {
-   "title": "Inside the card-grading empire shaping the price of Pokémon cards",
-   "summary": "PSA’s resale premium, backlog and grading-market dominance shape what collectors pay — and how much their Pokémon cards may fetch.",
-   "link": "https://www.cnbc.com/2026/11/06/card-pokemon-grading-psa-collectors-price.html",
-   "source": "CNBC World",
-   "published": "2026-11-07T02:00:01Z",
-   "region": "Global",
-   "category": "economy"
-  },
-  {
-   "title": "'My mortgage is going up £200': How rising interest rates are hitting people's pockets",
+   "title": "'My mortgage is going up £200 a month': How rising interest rates are hitting people's pockets",
    "summary": "With UK interest rates set to rise, mortgages, credit cards and loans could get more expensive for millions.",
    "link": "https://www.bbc.co.uk/news/articles/c617kjqjvk12o?at_medium=RSS&at_campaign=rss",
    "source": "BBC Business",
@@ -385,66 +511,12 @@
    "category": "economy"
   },
   {
-   "title": "This man refused life-saving treatment because of his religion - days later the rules changed",
-   "summary": "Jehovah's Witness leaders relaxed strict rules on blood transfusions, but the change came 23 days too late for Isaac Valdez.",
-   "link": "https://www.bbc.co.uk/news/articles/cx5ynly549njo?at_medium=RSS&at_campaign=rss",
-   "source": "BBC World",
-   "published": "2026-11-07T01:27:47Z",
-   "region": "Global",
-   "category": "news"
-  },
-  {
-   "title": "The young Somali woman changing how the world sees Mogadishu",
-   "summary": "For some tourists, the contrast between Somalia's reputation and what they experience on the ground can be striking.",
-   "link": "https://www.bbc.co.uk/news/articles/cq0k0lg48705o?at_medium=RSS&at_campaign=rss",
-   "source": "BBC World",
-   "published": "2026-11-07T01:19:49Z",
-   "region": "Africa",
-   "category": "news"
-  },
-  {
-   "title": "Cornell faculty pass no-confidence vote over leadership's handling of Jane Doe allegations",
-   "summary": "Friday's resolution by academic staff is largely symbolic as they do not have the power to remove those in charge of the university.",
-   "link": "https://www.bbc.co.uk/news/articles/c933xxl8yv0go?at_medium=RSS&at_campaign=rss",
-   "source": "BBC World",
-   "published": "2026-11-06T23:46:08Z",
-   "region": "Global",
-   "category": "news"
-  },
-  {
-   "title": "With Stephen Miller pick, Trump readies for a battle",
-   "summary": "The US president's promotion of Miller, a loyal partisan firebrand to be his new chief of staff sets up likely clashes with Congress.",
-   "link": "https://www.bbc.co.uk/news/articles/crp3gg2z171go?at_medium=RSS&at_campaign=rss",
-   "source": "BBC World",
-   "published": "2026-11-06T23:24:15Z",
-   "region": "Americas",
-   "category": "conflict"
-  },
-  {
    "title": "Elon Musk appears to signal the end of the road for Cybertruck",
    "summary": "Musk said it was to make room for production of its Cybercabs - autonomous taxis without a driver.",
    "link": "https://www.bbc.co.uk/news/articles/cq1j33w7d232o?at_medium=RSS&at_campaign=rss",
-   "source": "BBC World",
+   "source": "BBC Business",
    "published": "2026-11-06T21:49:50Z",
    "region": "Global",
-   "category": "news"
-  },
-  {
-   "title": "OpenAI bugging suspect Alfozan pleads not guilty",
-   "summary": "Saudi national Abdulrahman Alfozan is charged with planting a recording device in a conference room at artificial intelligence giant OpenAI.",
-   "link": "https://www.cnbc.com/2026/11/06/openai-bugging-alfozan-saudi.html",
-   "source": "CNBC World",
-   "published": "2026-11-06T21:15:47Z",
-   "region": "Middle East",
-   "category": "economy"
-  },
-  {
-   "title": "Investors brace for lower Anthropic valuation, calling $1.5 trillion a 'stretch'",
-   "summary": "Anthropic could list below a $1.5 trillion valuation, trailing previous expectations, as the AI trade sours on Wall Street.",
-   "link": "https://www.cnbc.com/2026/11/06/investors-brace-for-anthropic-valuation-1point5-trillion-a-stretch.html",
-   "source": "CNBC World",
-   "published": "2026-11-06T21:07:07Z",
-   "region": "Americas",
    "category": "economy"
   },
   {
@@ -453,15 +525,6 @@
    "link": "https://www.bbc.co.uk/news/articles/c35ynnpzdq51o?at_medium=RSS&at_campaign=rss",
    "source": "BBC Business",
    "published": "2026-11-06T21:06:25Z",
-   "region": "Global",
-   "category": "economy"
-  },
-  {
-   "title": "AI stocks hammered by midterm shock as data center buildout becomes a 'war of attrition'",
-   "summary": "The election rout landed on an AI trade already under pressure from high interest rates, heavy capital spending and questions about returns.",
-   "link": "https://www.cnbc.com/2026/11/06/ai-data-center-midterms-selloff.html",
-   "source": "CNBC World",
-   "published": "2026-11-06T20:44:13Z",
    "region": "Global",
    "category": "economy"
   },
@@ -482,24 +545,6 @@
    "published": "2026-11-06T20:23:00Z",
    "region": "Americas",
    "category": "economy"
-  },
-  {
-   "title": "Oil prices tumble for the week as investors weigh Iran conflict risk after midterm elections",
-   "summary": "Oil prices fell Friday as investors weighed the risk of renewed Iran war escalation after the midterms, alongside prospects for a diplomatic breakthrough.",
-   "link": "https://www.cnbc.com/2026/11/06/oil-price-today-brent-wti.html",
-   "source": "CNBC World",
-   "published": "2026-11-06T19:54:30Z",
-   "region": "Middle East",
-   "category": "economy"
-  },
-  {
-   "title": "Critics say Democrats should look into Trump's Middle East deals in future corruption investigations",
-   "summary": "After their victory in the US midterm elections, the Democrats have promised to investigate corruption in the Trump administration. Critics say the president's Middle East deals is an area they should focus on.",
-   "link": "https://www.dw.com/en/critics-say-democrats-should-look-into-trump-s-middle-east-deals-in-future-corruption-investigations/a-79877104?maca=en-rss-en-world-4025-rdf",
-   "source": "DW World",
-   "published": "2026-11-06T19:16:00Z",
-   "region": "Americas",
-   "category": "news"
   },
   {
    "title": "Pope Leo begins a 12-day, 3-country South America tour after his cancer surgery",
@@ -619,15 +664,6 @@
    "category": "economy"
   },
   {
-   "title": "Czech arms makers set sights on space defense in bid to sustain Ukraine-driven arms boom",
-   "summary": "Czech arms makers have thrived on demand linked to the war in Ukraine. To sustain their growth, they need to look beyond ammunition and toward new technologies — and even space.",
-   "link": "https://www.dw.com/en/czech-arms-makers-set-sights-on-space-defense-in-bid-to-sustain-ukraine-driven-arms-boom/a-79876035?maca=en-rss-en-world-4025-rdf",
-   "source": "DW World",
-   "published": "2026-11-06T14:00:00Z",
-   "region": "Europe",
-   "category": "conflict"
-  },
-  {
    "title": "Ex-lawmaker gets 12.5 years in Macao's first national security case",
    "summary": "Au's arrest last year was the first publicly known prosecution under Macao's national security law since it was enacted in 2009.",
    "link": "https://www.npr.org/2026/11/06/g-s1-152217/ex-lawmaker-gets-12-5-years-in-macaos-first-national-security-case",
@@ -644,24 +680,6 @@
    "published": "2026-11-06T13:42:26Z",
    "region": "Americas",
    "category": "economy"
-  },
-  {
-   "title": "Zambia's opposition criticizes government restructuring and layoffs",
-   "summary": "Government-backed dismissals and restructuring are fueling debate in Zambia. Opposition politicians are questioning the transparency of the plans; officials say the changes are necessary.",
-   "link": "https://www.dw.com/en/zambia-s-opposition-criticizes-government-restructuring-and-layoffs/a-79875892?maca=en-rss-en-world-4025-rdf",
-   "source": "DW World",
-   "published": "2026-11-06T13:28:00Z",
-   "region": "Global",
-   "category": "news"
-  },
-  {
-   "title": "For people in Iran, a constant threat of war and dearth of information",
-   "summary": "Most people in Iran have little idea of the course of the US-led war and peace talks on the global stage. With few sources of information, the population must navigate conflicting rumors and fears of a nuclear attack.",
-   "link": "https://www.dw.com/en/for-people-in-iran-a-constant-threat-of-war-and-dearth-of-information/a-79875438?maca=en-rss-en-world-4025-rdf",
-   "source": "DW World",
-   "published": "2026-11-06T12:56:00Z",
-   "region": "Middle East",
-   "category": "conflict"
   },
   {
    "title": "Judge halts construction of Trump's arch. And, Labor Department to release jobs report",
@@ -691,15 +709,6 @@
    "category": "news"
   },
   {
-   "title": "Paraguay's president is impeached minutes after resigning following a bank collapse",
-   "summary": "Paraguayan lawmakers voted to impeach President Santiago Peña minutes after his resignation, as the collapse of a digital bank tied to his government froze millions of people's savings.",
-   "link": "https://www.npr.org/2026/11/05/nx-s1-6030842/paraguay-president-impeached-bank-collapse",
-   "source": "NPR World",
-   "published": "2026-11-05T18:30:16Z",
-   "region": "Americas",
-   "category": "economy"
-  },
-  {
    "title": "Bank of England raises interest rates to 4%, the first increase for more than three years",
    "summary": "Base rate increases from 3.75% and Bank governor signals another rise in near future to combat rising inflation Analysis: Interest rate rise in midst of cost of living crisis will leave many incredulous The Bank of England has raised interest rates for the first time in three years and warned of…",
    "link": "https://www.theguardian.com/business/2026/nov/05/bank-of-england-raises-interest-rates-first-increase-for-more-than-three-years",
@@ -723,15 +732,6 @@
    "link": "https://www.theguardian.com/business/2026/nov/05/developing-country-debt-record-94tn-high-world-bank-data",
    "source": "The Guardian Economics",
    "published": "2026-11-05T14:30:25Z",
-   "region": "Europe",
-   "category": "economy"
-  },
-  {
-   "title": "Interest rate rise in midst of cost of living crisis will leave many incredulous",
-   "summary": "Bank’s decision goes contrary to analysis from Office for Budget Responsibility that predicts lower inflation and little impetus for wage growth Bank of England raises interest rates to 4% Business live – latest updates An interest rate rise by the Bank of England to 4% is a big call when…",
-   "link": "https://www.theguardian.com/business/2026/nov/05/interest-rate-rise-in-midst-of-cost-of-living-crisis-will-leave-many-incredulous",
-   "source": "The Guardian Economics",
-   "published": "2026-11-05T13:10:44Z",
    "region": "Europe",
    "category": "economy"
   }
