@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-08T16:39:42Z",
+ "updatedAt": "2026-11-08T21:07:28Z",
  "sources": [
   "BBC World",
   "BBC Business",
@@ -13,8 +13,269 @@
   "CNBC World"
  ],
  "failed": [],
- "count": 79,
+ "count": 78,
  "items": [
+  {
+   "title": "Nvidia investigates CEO Jensen Huang's relationship with alleged Chinese spy",
+   "summary": "",
+   "link": "https://www.cnbc.com/2026/11/08/nvidia-jensen-huang-investigation-china-spy.html",
+   "source": "CNBC World",
+   "published": "2026-11-08T20:50:54Z",
+   "region": "Asia-Pacific",
+   "category": "economy"
+  },
+  {
+   "title": "Migrant boat sinks off Senegal, killing at least 34 people, authorities say",
+   "summary": "A boat carrying migrants along the hazardous Atlantic Ocean route from West Africa to Europe sank off the coast of Senegal, killed at least 34 people, authorities said Sunday. Only one survivor has so far been found, and \"an indeterminate number\" are still missing.",
+   "link": "https://www.france24.com/en/africa/20261108-migrant-boat-sinks-off-senegal-killing-at-least-34-people-authorities-say",
+   "source": "France 24",
+   "published": "2026-11-08T20:40:33Z",
+   "region": "Africa",
+   "category": "conflict"
+  },
+  {
+   "title": "Pope Leo XIV delivers homily to thousands in Uruguay",
+   "summary": "Pope Leo XIV delivers homily to thousands in Uruguay",
+   "link": "https://www.aljazeera.com/video/newsfeed/2026/11/8/pope-leo-xiv-delivers-homily-to-thousands-in-uruguay?traffic_source=rss",
+   "source": "Al Jazeera",
+   "published": "2026-11-08T20:29:47Z",
+   "region": "Americas",
+   "category": "news"
+  },
+  {
+   "title": "Rangoli makers adapt to rising costs to preserve colourful Diwali tradition",
+   "summary": "Rangoli makers in India are adapting to rising material costs by turning to organic alternatives.",
+   "link": "https://www.aljazeera.com/video/newsfeed/2026/11/8/_8-11-sv-rangoli-diwali-india-081126?traffic_source=rss",
+   "source": "Al Jazeera",
+   "published": "2026-11-08T20:26:01Z",
+   "region": "Asia-Pacific",
+   "category": "news"
+  },
+  {
+   "title": "Iran threatens to ‘rain down hell’ if US escalates war",
+   "summary": "President Trump warns that US forces are 'locked and loaded' and ready to strike, if necessary.",
+   "link": "https://www.aljazeera.com/news/2026/11/8/iran-threatens-to-rain-down-hell-if-us-escalates-war?traffic_source=rss",
+   "source": "Al Jazeera",
+   "published": "2026-11-08T20:13:39Z",
+   "region": "Americas",
+   "category": "conflict"
+  },
+  {
+   "title": "Cruise ship pianist rescued after nine hours treading water miles from shore",
+   "summary": "Man taken to hospital after falling off Royal Caribbean ship in Pacific Ocean, with Coast Guard investigating incident A pianist for a Royal Caribbean cruise ship is expected to survive after two Newport Beach, California , fishermen discovered him treading water in the Pacific Ocean nearly 20…",
+   "link": "https://www.theguardian.com/us-news/2026/nov/08/royal-caribbean-cruise-ship-pianist-rescue",
+   "source": "The Guardian World",
+   "published": "2026-11-08T20:13:09Z",
+   "region": "Asia-Pacific",
+   "category": "news"
+  },
+  {
+   "title": "Seven dead and more than 100 injured after trains collide in Egypt",
+   "summary": "Several carriages derailed after two trains travelling in the same direction crashed outside the city of Giza.",
+   "link": "https://www.bbc.co.uk/news/articles/cwvgr20mmmevo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "published": "2026-11-08T19:58:02Z",
+   "region": "Middle East",
+   "category": "news"
+  },
+  {
+   "title": "Small plane crashes into pickup truck on busy Florida highway",
+   "summary": "No one was injured after emergency landing in Fort Myers 50 minutes after takeoff with two people onboard A small plane crashed into the rear of a pickup truck as it made an emergency landing on a busy Florida highway on Saturday but miraculously no one was injured in the dramatic incident. Video…",
+   "link": "https://www.theguardian.com/us-news/2026/nov/08/florida-plane-crash-truck-highway",
+   "source": "The Guardian World",
+   "published": "2026-11-08T19:29:05Z",
+   "region": "Global",
+   "category": "news"
+  },
+  {
+   "title": "Al Jazeera tries Baseball5 at Youth Olympics",
+   "summary": "Al Jazeera tries Baseball5 at Youth Olympics",
+   "link": "https://www.aljazeera.com/video/newsfeed/2026/11/8/al-jazeera-tries-baseball5-at-youth-olympics?traffic_source=rss",
+   "source": "Al Jazeera",
+   "published": "2026-11-08T19:26:38Z",
+   "region": "Global",
+   "category": "news"
+  },
+  {
+   "title": "Europe to join U.S.-brokered Ukraine talks in Abu Dhabi, defying Kremlin objections",
+   "summary": "France says European officials will attend this week's U.S.-mediated Russia-Ukraine talks in Abu Dhabi, the first three-way round of negotiations since February.",
+   "link": "https://www.npr.org/2026/11/08/nx-s1-6034014/europe-join-us-brokered-ukraine-talks-abu-dhabi-russia",
+   "source": "NPR World",
+   "published": "2026-11-08T19:25:30Z",
+   "region": "Europe",
+   "category": "news"
+  },
+  {
+   "title": "Man United earn 4-4 draw against Aston Villa but remain in relegation zone",
+   "summary": "Michael Carrick's team continue forgettable season with last-gasp draw at Old Trafford in front of angry home fans.",
+   "link": "https://www.aljazeera.com/sports/2026/11/8/man-united-earn-4-4-draw-against-aston-villa-but-remain-in-relegation-zone?traffic_source=rss",
+   "source": "Al Jazeera",
+   "published": "2026-11-08T19:15:36Z",
+   "region": "Global",
+   "category": "news"
+  },
+  {
+   "title": "Hakeem Jeffries supports impeachment of Pete Hegseth: ‘He has got to go’",
+   "summary": "House Democrat is a ‘hard yes’ on impeachment resolution against defense secretary who ‘has abused his power’ House minority leader Hakeem Jeffries, poised to become majority leader, said on Sunday that he strongly supports impeaching defense secretary Pete Hegseth as a Republican lawmaker prepares…",
+   "link": "https://www.theguardian.com/us-news/2026/nov/08/pete-hegseth-impeachment-hakeem-jeffries",
+   "source": "The Guardian World",
+   "published": "2026-11-08T19:11:33Z",
+   "region": "Global",
+   "category": "news"
+  },
+  {
+   "title": "After the midterms, where does the Republican Party stand?",
+   "summary": "GOP suffered a loss, but it is hardly a historic one. A party in power has always been held to account in the midterms.",
+   "link": "https://www.aljazeera.com/opinions/2026/11/8/after-the-midterms-where-does-the-republican-party-stand?traffic_source=rss",
+   "source": "Al Jazeera",
+   "published": "2026-11-08T19:09:18Z",
+   "region": "Global",
+   "category": "news"
+  },
+  {
+   "title": "Russell Brand case must be wake-up call to protect women in media, Lisa Nandy says",
+   "summary": "Culture secretary says there is still a problem with exploitation and abuse in the industry and public life The culture secretary, Lisa Nandy, has said there is still a problem with exploitation and abuse in the media industry and a failure to properly deal with allegations after Russell Brand’s…",
+   "link": "https://www.theguardian.com/media/2026/nov/08/women-abuse-media-industry-lisa-nandy-russell-brand",
+   "source": "The Guardian World",
+   "published": "2026-11-08T19:05:04Z",
+   "region": "Global",
+   "category": "news"
+  },
+  {
+   "title": "Democrats amp up Trump investigation threats, Blanche counters he may probe lawmakers",
+   "summary": "Democrats have vowed to investigate both President Donald Trump's White House and businesses that have worked with the administration.",
+   "link": "https://www.cnbc.com/2026/11/08/democrats-trump-oversight-blanche-doj-investigations.html",
+   "source": "CNBC World",
+   "published": "2026-11-08T18:57:56Z",
+   "region": "Americas",
+   "category": "economy"
+  },
+  {
+   "title": "Riot breaks out at influencer boxing event attended by Tommy Robinson in Ireland",
+   "summary": "Two people arrested after Robinson’s presence inflames tensions in scenes witnessed by many on social media Two people were arrested at an influencer boxing event that descended into a riot in Ireland after the presence of the far-right activist Tommy Robinson inflamed tensions in the crowd. The…",
+   "link": "https://www.theguardian.com/uk-news/2026/nov/08/riot-influencer-boxing-event-attended-tommy-robinson-ireland",
+   "source": "The Guardian World",
+   "published": "2026-11-08T18:33:34Z",
+   "region": "Europe",
+   "category": "news"
+  },
+  {
+   "title": "Carlos Alcaraz beats Ben Shelton to win Paris Masters tennis title",
+   "summary": "Alcaraz bagged a 7-6 (7/5), 7-5 straight sets for an elusive Paris crown before the year-end ATP Finals.",
+   "link": "https://www.aljazeera.com/sports/2026/11/8/carlos-alcaraz-beats-ben-shelton-to-win-paris-masters-tennis-title?traffic_source=rss",
+   "source": "Al Jazeera",
+   "published": "2026-11-08T18:22:58Z",
+   "region": "Europe",
+   "category": "news"
+  },
+  {
+   "title": "Surgeon having lunch near Krakow shooting undoubtedly saved officer's life, colleague says",
+   "summary": "Further details have emerged about two police officers hailed for preventing a Polish gunman from killing more.",
+   "link": "https://www.bbc.co.uk/news/articles/c5x2vw4e1gx1o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "published": "2026-11-08T18:22:53Z",
+   "region": "Europe",
+   "category": "news"
+  },
+  {
+   "title": "Lisa Nandy wary of ‘circular arguments’ about rejoining EU",
+   "summary": "Culture secretary pushes back against talk of revisiting Brexit but says closer ties would fulfil referendum promises One of Andy Burnham’s cabinet ministers has said she wants to avoid “circular arguments” about whether the UK should rejoin the EU, underlining divisions at the top of government…",
+   "link": "https://www.theguardian.com/politics/2026/nov/08/lisa-nandy-wary-of-circular-arguments-about-rejoining-eu",
+   "source": "The Guardian World",
+   "published": "2026-11-08T18:20:06Z",
+   "region": "Europe",
+   "category": "news"
+  },
+  {
+   "title": "Eisenkot open to Netanyahu joining Israel’s next government",
+   "summary": "Israel's president officially tasks the opposition leader with forming a new government.",
+   "link": "https://www.aljazeera.com/news/2026/11/8/israels-president-tasks-eisenkot-to-form-new-coalition-government?traffic_source=rss",
+   "source": "Al Jazeera",
+   "published": "2026-11-08T18:12:27Z",
+   "region": "Middle East",
+   "category": "news"
+  },
+  {
+   "title": "Teaching GCSE topics younger risks turning schools into ‘early exam factories’, Powell warns",
+   "summary": "Lucy Powell says proposals to end widespread practice will be included in overhaul of England’s national curriculum Pushing GCSE subjects on younger pupils risks turning England’s secondary schools into “early exam factories”, the education secretary has said, warning that it is increasing…",
+   "link": "https://www.theguardian.com/education/2026/nov/08/gcses-teaching-england-curriculum-education-secretary-lucy-powell",
+   "source": "The Guardian World",
+   "published": "2026-11-08T18:07:54Z",
+   "region": "Europe",
+   "category": "news"
+  },
+  {
+   "title": "Infantino’s Japanese challenger claims he could unseat FIFA president",
+   "summary": "Kozo Tashima believes he has a '20 to 30 percent' chance of winning the FIFA presidency election against Infantino.",
+   "link": "https://www.aljazeera.com/sports/2026/11/8/infantinos-japanese-challenger-claims-he-could-unseat-fifa-president?traffic_source=rss",
+   "source": "Al Jazeera",
+   "published": "2026-11-08T18:01:05Z",
+   "region": "Asia-Pacific",
+   "category": "news"
+  },
+  {
+   "title": "Climate always comes second: are green issues slipping down Burnham’s agenda?",
+   "summary": "Prime minister says he’s committed to meeting climate targets, but some believe his actions suggest otherwise Labour expected to cut EV targets for car industry despite MPs’ climate concerns Andy Burnham insists he is committed to the green transition, but his MPs worry that in decision after…",
+   "link": "https://www.theguardian.com/environment/2026/nov/08/andy-burnham-uk-climate-crisis-rosebank-jackdaw",
+   "source": "The Guardian World",
+   "published": "2026-11-08T18:01:01Z",
+   "region": "Europe",
+   "category": "news"
+  },
+  {
+   "title": "Trump set to lurch further right, claiming US took ‘giant step back’ in elections",
+   "summary": "Trump poised to double down on immigration crackdown and refuse concessions to new Democratic majority in Congress Donald Trump set the stage for his administration to lurch further to the right this weekend, claiming the US had taken a “giant step back” by widely rejecting his party. The US…",
+   "link": "https://www.theguardian.com/us-news/2026/nov/08/trump-midterm-elections-loss-democrats-immigration",
+   "source": "The Guardian World",
+   "published": "2026-11-08T17:58:43Z",
+   "region": "Americas",
+   "category": "news"
+  },
+  {
+   "title": "South Africa elections: ANC marks its worst-ever performance",
+   "summary": "The African National Congress, the party of late Nobel Prize winner Nelson Mandela, slumped to its worst-ever result in South Africa's municipal election. The voters blame the ANC for water and electricity shortages.",
+   "link": "https://www.dw.com/en/south-africa-elections-anc-marks-its-worst-ever-performance/a-79887482?maca=en-rss-en-world-4025-rdf",
+   "source": "DW World",
+   "published": "2026-11-08T17:35:00Z",
+   "region": "Africa",
+   "category": "news"
+  },
+  {
+   "title": "Ukraine: Russian strikes leave hundreds of thousands without power",
+   "summary": "Hundreds of thousands of Ukrainians were left without electricity on Sunday following Russian airstrikes targeting the country's energy infrastructure. Moscow has intensified its attacks as winter approaches, leaving residents in Kyiv and other parts of the country struggling with power cuts as…",
+   "link": "https://www.france24.com/en/ukraine-russian-strikes-leave-hundreds-of-thousands-without-power",
+   "source": "France 24",
+   "published": "2026-11-08T16:59:42Z",
+   "region": "Europe",
+   "category": "conflict"
+  },
+  {
+   "title": "Gadi Eisenkot receives mandate to form government",
+   "summary": "Israel's opposition leader Gadi Eisenkot has officially been tasked with forming the country's next government, following a formal announcement by President Isaac Herzog. He now has up to six weeks to negotiate with potential coalition partners and secure a parliamentary majority. While an alliance…",
+   "link": "https://www.france24.com/en/gadi-eisenkot-receives-mandate-to-form-government",
+   "source": "France 24",
+   "published": "2026-11-08T16:58:11Z",
+   "region": "Middle East",
+   "category": "news"
+  },
+  {
+   "title": "No clear winner in New Zealand election, as leaders prepare for weeks of talks",
+   "summary": "Prime Minister Christopher Luxon, who will lead a caretaker government while negotiations take place, said: \"I think everyone's over politics so let's all have a bit of a break for the next three weeks\".",
+   "link": "https://www.npr.org/2026/11/08/nx-s1-6033999/no-clear-winner-in-new-zealand-election-as-leaders-prepare-for-weeks-of-talks",
+   "source": "NPR World",
+   "published": "2026-11-08T16:46:15Z",
+   "region": "Asia-Pacific",
+   "category": "news"
+  },
+  {
+   "title": "Spain's Alcaraz beats error-prone Shelton to win Paris Masters for first time",
+   "summary": "Spanish tennis star Carlos Alcaraz avenged his loss to American player Ben Shelton in the US Open in September as he inched ahead of his rival Sunday to win the Paris Masters for the first time. It was Shelton's first defeat in a Masters final.",
+   "link": "https://www.france24.com/en/sport/20261108-spain-s-alcaraz-beats-error-prone-shelton-to-win-paris-masters-for-first-time",
+   "source": "France 24",
+   "published": "2026-11-08T16:31:53Z",
+   "region": "Europe",
+   "category": "news"
+  },
   {
    "title": "After a successful trip to Uruguay, Pope Leo heads to Argentina",
    "summary": "On Sunday, tens of thousands packed the main square in Florida, Uruguay, to watch Pope Leo speak.",
@@ -34,30 +295,12 @@
    "category": "news"
   },
   {
-   "title": "Israeli forces release Palestinian journalist Abou Shhadeh",
-   "summary": "Abed Abou Shhadeh says his detention was part of Israel's political measures 'to intimidate Arab society as a whole'.",
-   "link": "https://www.aljazeera.com/news/2026/11/8/israeli-forces-release-palestinian-journalist-abou-shhadeh?traffic_source=rss",
-   "source": "Al Jazeera",
-   "published": "2026-11-08T16:18:09Z",
+   "title": "Footage shows derailed carriages after fatal train crash in Egypt",
+   "summary": "At least seven people died when two trains collided, causing several carriages to derail and fall down an embankment.",
+   "link": "https://www.bbc.co.uk/news/videos/cw78p2km7d94o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "published": "2026-11-08T16:05:57Z",
    "region": "Middle East",
-   "category": "news"
-  },
-  {
-   "title": "Egyptian embassy reopens in Libya for the first time in 12 years",
-   "summary": "Egypt has reopened its embassy in Libya’s capital, Tripoli, after a 12-year closure.",
-   "link": "https://www.aljazeera.com/video/newsfeed/2026/11/8/egyptian-embassy-reopens-in-libya-for-the-first-time-in-12-years?traffic_source=rss",
-   "source": "Al Jazeera",
-   "published": "2026-11-08T15:47:11Z",
-   "region": "Middle East",
-   "category": "news"
-  },
-  {
-   "title": "‘No matter what, he doesn’t quit’: disabled wrestlers draw strength from ring alter egos",
-   "summary": "Scheme in Derry aims to sow confidence by getting people with learning and physical disabilities into wrestling The music thumped, the lights blazed and from the ring the announcer did a countdown. “Who is ready to rumble?” he roared. The bellows and cheers indicated that the crowd at St Columb’s…",
-   "link": "https://www.theguardian.com/uk-news/2026/nov/08/disabled-wrestlers-derry-foyle-rumble",
-   "source": "The Guardian World",
-   "published": "2026-11-08T15:37:54Z",
-   "region": "Global",
    "category": "news"
   },
   {
@@ -68,15 +311,6 @@
    "published": "2026-11-08T15:37:25Z",
    "region": "Global",
    "category": "economy"
-  },
-  {
-   "title": "Tenerife’s Jesus De Miguel honoured in tearful tribute by teammates, fans",
-   "summary": "Teammates choke back tears, fans chant his name and his family are promised support by the club at the memorial service.",
-   "link": "https://www.aljazeera.com/sports/2026/11/8/tenerifes-jesus-de-miguel-honoured-in-tearful-tribute-by-teammates-fans?traffic_source=rss",
-   "source": "Al Jazeera",
-   "published": "2026-11-08T15:37:16Z",
-   "region": "Global",
-   "category": "news"
   },
   {
    "title": "How Democrats will try to end Trump's tariffs",
@@ -97,15 +331,6 @@
    "category": "news"
   },
   {
-   "title": "Beef industry quietly squashes part of its own science curriculum after ranchers protest",
-   "summary": "Lesson for teenagers included how cattle’s methane emissions contribute to climate crisis, but it was then scrapped A beef industry-funded effort to teach teenagers about cattle’s climate impact was quietly scrapped following backlash from some ranchers, who disputed the premise that cows…",
-   "link": "https://www.theguardian.com/environment/2026/nov/08/beef-industry-climate-impact-education",
-   "source": "The Guardian World",
-   "published": "2026-11-08T15:00:43Z",
-   "region": "Global",
-   "category": "news"
-  },
-  {
    "title": "'What makes you tick': NWSL, WNBA owner Kara Nortman on a personality test she uses to build success",
    "summary": "Kara Nortman, a top investor in women's pro sports teams, credits the Enneagram personality system for her own leadership instincts and team-building success.",
    "link": "https://www.cnbc.com/2026/11/08/wnba-nwsl-womens-sports.html",
@@ -115,30 +340,12 @@
    "category": "economy"
   },
   {
-   "title": "‘The end of an era’: Scillonian III sets sail on final voyage from Isles of Scilly",
-   "summary": "Much-loved passenger ship has traversed Atlantic swells between islands and Cornish mainland for almost 50 years Tears were shed, sea shanties sung and tales of stormy voyages exchanged as one of the UK’s most characterful ships set sail for the final time. Scillonian III, also known as the “vomit…",
-   "link": "https://www.theguardian.com/uk-news/2026/nov/08/scillonian-iii-ship-final-voyage-isles-of-scilly-penzance-cornwall",
-   "source": "The Guardian World",
-   "published": "2026-11-08T14:56:59Z",
-   "region": "Europe",
-   "category": "news"
-  },
-  {
-   "title": "Palestinian journalist Abed Abou Shhadeh released after 5 days in detention",
-   "summary": "Palestinian journalist Abed Abou Shhadeh released after 5 days detention",
-   "link": "https://www.aljazeera.com/video/newsfeed/2026/11/8/palestinian-journalist-abed-abou-shhadeh-released-after-5-days-in-detention?traffic_source=rss",
-   "source": "Al Jazeera",
-   "published": "2026-11-08T14:53:29Z",
-   "region": "Middle East",
-   "category": "news"
-  },
-  {
-   "title": "Two police officers hailed as heroes for confronting Kraków gunman",
-   "summary": "Jakub Kulik critically injured and Artur Morański also wounded after actions that ‘prevented further casualties’ Two Polish police officers who were injured as they pursued and detained the gunman in Kraków on Saturday have been hailed as heroes. One of them is Jakub Kulik, a former paratrooper and…",
-   "link": "https://www.theguardian.com/world/2026/nov/08/two-police-officers-heroes-confronting-krakow-gunman-poland",
-   "source": "The Guardian World",
-   "published": "2026-11-08T14:49:16Z",
-   "region": "Europe",
+   "title": "Homes and temples glow across India to mark Diwali",
+   "summary": "Millions of Indians are marking the festival of lights with glowing lamps, fireworks and traditional sweets.",
+   "link": "https://www.bbc.co.uk/news/articles/cm70pdwz122ro?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "published": "2026-11-08T14:42:09Z",
+   "region": "Asia-Pacific",
    "category": "news"
   },
   {
@@ -148,24 +355,6 @@
    "source": "France 24",
    "published": "2026-11-08T14:36:25Z",
    "region": "Americas",
-   "category": "news"
-  },
-  {
-   "title": "What we know so far after Krakow gun attack",
-   "summary": "Six people were killed in a random shooting in Krakow's main square, and three bodies were later found at the home of the attacker.",
-   "link": "https://www.bbc.co.uk/news/articles/cmd7q15drwgeo?at_medium=RSS&at_campaign=rss",
-   "source": "BBC World",
-   "published": "2026-11-08T14:32:52Z",
-   "region": "Global",
-   "category": "conflict"
-  },
-  {
-   "title": "Israel’s president picks Yashar leader Gadi Eisenkot to form government",
-   "summary": "Knesset has been deadlocked since the election last month when Benjamin Netanyahu’s coalition lost its majority Israel’s president has ⁠chosen Gadi Eisenkot, the prime minister Benjamin Netanyahu’s ⁠strongest rival, to ⁠try to ​form a new government, after a deadlocked election that left neither…",
-   "link": "https://www.theguardian.com/world/2026/nov/07/israel-president-gadi-eisenkot-form-government",
-   "source": "The Guardian World",
-   "published": "2026-11-08T14:26:14Z",
-   "region": "Middle East",
    "category": "news"
   },
   {
@@ -196,111 +385,12 @@
    "category": "news"
   },
   {
-   "title": "Tearful Alex Eala loses Hong Kong Open final to Claire Liu in straight sets",
-   "summary": "Philippine tennis star Eala stunned after 6-3, 6-0 loss to the 102nd-ranked American in Hong Kong.",
-   "link": "https://www.aljazeera.com/sports/2026/11/8/tearful-alex-eala-loses-hong-kong-open-final-to-claire-liu-in-straight-sets?traffic_source=rss",
-   "source": "Al Jazeera",
-   "published": "2026-11-08T14:19:17Z",
-   "region": "Asia-Pacific",
-   "category": "news"
-  },
-  {
-   "title": "Mourning in Poland after mass shooting",
-   "summary": "Poland has launched a terrorism investigation after a deadly shooting left six people dead and 16 injured. The 24-year-old Polish suspect was reportedly fascinated by far-right ideologies. Authorities are investigating the possible extremist motive as Krakow's main square remains sealed. Two days…",
-   "link": "https://www.france24.com/en/mourning-in-poland-after-mass-shooting",
-   "source": "France 24",
-   "published": "2026-11-08T14:18:48Z",
-   "region": "Europe",
-   "category": "news"
-  },
-  {
-   "title": "Europe will take part in US-mediated Ukraine talks in Abu Dhabi, French FM says",
-   "summary": "France will participate in the upcoming Abu Dhabi peace talks on ending the Ukraine war, Foreign Minister Jean-Noël Barrot said Sunday, adding that Europeans will be represented at the summit. The talks will take place under US mediation on Tuesday and Wednesday.",
-   "link": "https://www.france24.com/en/europe/20261108-europe-will-take-part-us-mediated-ukraine-peace-talks-abu-dhabi-french-fm-says",
-   "source": "France 24",
-   "published": "2026-11-08T14:16:31Z",
-   "region": "Europe",
-   "category": "conflict"
-  },
-  {
-   "title": "Pope Leo urges men to respect wives amid Latin American femicide crisis",
-   "summary": "Pope Leo XIV urged men to respect their wives as he wrapped up the first leg of his 12-day tour of Latin America. The region recorded nearly 20,000 instances of women being killed over the past five years alone, most of them murdered by a current or former partner.",
-   "link": "https://www.france24.com/en/americas/20261108-pope-leo-urges-husbands-to-respect-wives-amid-femicide-crisis-across-latin-america",
-   "source": "France 24",
-   "published": "2026-11-08T14:15:54Z",
-   "region": "Americas",
-   "category": "conflict"
-  },
-  {
-   "title": "US task force to cut off Iran’s transport of advanced weapons: What we know",
-   "summary": "As fears of an escalation grow, Washington announces 'Task Force Iron Gate'.",
-   "link": "https://www.aljazeera.com/news/2026/11/8/us-task-force-to-cut-off-irans-transport-of-advanced-weapons-what-we-know?traffic_source=rss",
-   "source": "Al Jazeera",
-   "published": "2026-11-08T14:06:19Z",
-   "region": "Americas",
-   "category": "conflict"
-  },
-  {
-   "title": "Spain win Padel World Cup in Qatar as sport’s popularity soars",
-   "summary": "Spain has beaten Argentina at another world cup. The Spanish men’s and women’s team swept the Padel World Championships",
-   "link": "https://www.aljazeera.com/video/newsfeed/2026/11/8/spain-win-padel-world-cup-in-qatar-as-sports-popularity-soars-2?traffic_source=rss",
-   "source": "Al Jazeera",
-   "published": "2026-11-08T14:02:35Z",
-   "region": "Europe",
-   "category": "news"
-  },
-  {
-   "title": "Weakening AI copyright law will spell ‘disaster for creativity’, global music body warns Albanese",
-   "summary": "Exclusive: Head of IFPI says allowing AI companies access to online content would be a ‘huge mistake’ and damage Australia’s reputation Get our breaking news email , free app or daily news podcast Australia weakening copyright protections for AI companies would be “ridiculous and dangerous”, the…",
-   "link": "https://www.theguardian.com/technology/2026/nov/09/weakening-ai-copyright-law-will-spell-disaster-for-creativity-australia",
-   "source": "The Guardian World",
-   "published": "2026-11-08T14:00:43Z",
-   "region": "Asia-Pacific",
-   "category": "news"
-  },
-  {
-   "title": "UK spent £100m on zombie Brexit border inspection posts",
-   "summary": "Five of seven facilities in England and Wales never reached operational stage as Tories vacillated over plans to check goods The UK wasted at least £100m in taxpayers’ money to set up zombie Brexit border inspection posts that were never used, it has been revealed. The overall cost of Brexit was…",
-   "link": "https://www.theguardian.com/politics/2026/nov/08/uk-zombie-brexit-border-inspection-posts-check-goods",
-   "source": "The Guardian World",
-   "published": "2026-11-08T13:32:58Z",
-   "region": "Europe",
-   "category": "news"
-  },
-  {
-   "title": "At least 21 dead as small boat sinks off Senegal",
-   "summary": "Senegalese Interior Ministry says one person rescued as search operation continues after migrant vessel capsized.",
-   "link": "https://www.aljazeera.com/news/2026/11/8/at-least-21-dead-as-small-boat-sinks-off-senegal?traffic_source=rss",
-   "source": "Al Jazeera",
-   "published": "2026-11-08T13:32:17Z",
-   "region": "Africa",
-   "category": "news"
-  },
-  {
-   "title": "Egypt’s reopening of its embassy in Tripoli signals regional shift on Libya",
-   "summary": "Former rivals in Libya are pushing for a unity government to end years of conflict.",
-   "link": "https://www.aljazeera.com/news/2026/11/8/egypts-reopening-of-its-embassy-in-tripoli-signals-regional-shift-on-libya?traffic_source=rss",
-   "source": "Al Jazeera",
-   "published": "2026-11-08T13:27:57Z",
-   "region": "Africa",
-   "category": "conflict"
-  },
-  {
-   "title": "Cop31 must deliver climate progress that people can see is real, host says",
-   "summary": "High-stakes talks involving 190 countries begin on Monday as world grapples with El Niño supercharged by fossil fuels The Cop31 summit must produce progress, “a tangible outcome ... that people can see is real”, its host has said as scores of world leaders and representatives of close to 190…",
-   "link": "https://www.theguardian.com/environment/2026/nov/08/cop31-climate-summit-deliver-progress-real-host-says",
-   "source": "The Guardian World",
-   "published": "2026-11-08T13:24:00Z",
-   "region": "Global",
-   "category": "news"
-  },
-  {
-   "title": "Women in media alleging abuse too often not protected, Lisa Nandy says",
-   "summary": "Culture secretary says there is still a problem in the industry and public life after Russell Brand conviction The culture secretary, Lisa Nandy, has said there is still a problem with exploitation and abuse in the media industry and a failure to properly deal with allegations after Russell Brand’s…",
-   "link": "https://www.theguardian.com/media/2026/nov/08/women-abuse-media-industry-lisa-nandy-russell-brand",
-   "source": "The Guardian World",
-   "published": "2026-11-08T13:18:50Z",
-   "region": "Global",
+   "title": "Iran executes three men for 'armed unrest' after January protests",
+   "summary": "It is claimed Hassan Dioband, Hamid Kazemi and Reza Zanganeh were part of anti-government protests earlier this year.",
+   "link": "https://www.bbc.co.uk/news/articles/ckly0ex633ydo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "published": "2026-11-08T13:37:50Z",
+   "region": "Middle East",
    "category": "news"
   },
   {
@@ -329,15 +419,6 @@
    "published": "2026-11-08T12:05:58Z",
    "region": "Europe",
    "category": "economy"
-  },
-  {
-   "title": "‘10 times more painful’: Menstrual disorders fuel calls to ban tear gas at French protests",
-   "summary": "French police have made extensive use of tear gas during protests that have roiled France in recent weeks, sometimes causing grievous injuries. Thousands of accounts of women experiencing acutely painful periods and increased bleeding are further challenging assumptions that the chemical irritant…",
-   "link": "https://www.france24.com/en/france/20261108-abnormal-menstraution-periods-fuel-calls-ban-tear-gas-french-protests-police",
-   "source": "France 24",
-   "published": "2026-11-08T11:53:14Z",
-   "region": "Europe",
-   "category": "news"
   },
   {
    "title": "Top Wall Street analysts like these 3 dividend stocks for consistent income",
@@ -421,15 +502,6 @@
    "category": "news"
   },
   {
-   "title": "Trump offers UFC chief Dana White press secretary job",
-   "summary": "President Donald Trump offered the job of press secretary to UFC president and CEO Dana White on Saturday.",
-   "link": "https://www.cnbc.com/2026/11/07/trump-ufc-dana-white-press-secretary-offer.html",
-   "source": "CNBC World",
-   "published": "2026-11-07T23:13:38Z",
-   "region": "Americas",
-   "category": "economy"
-  },
-  {
    "title": "He spent $50,000 on Labubus but now the craze is dying",
    "summary": "Parent company Pop Mart's revenue has fallen as appetite for the quirky collectible monsters wanes.",
    "link": "https://www.bbc.co.uk/news/articles/cmvg652l927lo?at_medium=RSS&at_campaign=rss",
@@ -437,24 +509,6 @@
    "published": "2026-11-07T23:02:35Z",
    "region": "Global",
    "category": "economy"
-  },
-  {
-   "title": "Israel's president tasks opposition leader Eisenkot with forming government",
-   "summary": "Neither PM Benjamin Netanyahu's bloc nor that of his rival secured a majority in last week's election.",
-   "link": "https://www.bbc.co.uk/news/articles/cmy8367lj5xlo?at_medium=RSS&at_campaign=rss",
-   "source": "BBC World",
-   "published": "2026-11-07T22:19:59Z",
-   "region": "Middle East",
-   "category": "news"
-  },
-  {
-   "title": "Risk of Iran war escalation remains high despite Democratic sweep in U.S. midterm elections",
-   "summary": "The U.S. and Iran are on a collision course as tensions in the Middle East simmer.",
-   "link": "https://www.cnbc.com/2026/11/07/iran-war-midterm-election-oil-price-trump.html",
-   "source": "CNBC World",
-   "published": "2026-11-07T22:17:52Z",
-   "region": "Middle East",
-   "category": "conflict"
   },
   {
    "title": "Israeli president invites Netanyahu's opposition leader to broker new government",
@@ -487,10 +541,10 @@
    "title": "'Flat', 'tired', 'cynical': Unusually gloomy Kiwis deliver New Zealand's tightest election in years",
    "summary": "The national mood is low, and faith in politics even lower - with voters deserting the major parties at the polls.",
    "link": "https://www.bbc.co.uk/news/articles/cxr5yyg2nj9eo?at_medium=RSS&at_campaign=rss",
-   "source": "BBC World",
+   "source": "BBC Business",
    "published": "2026-11-07T21:36:16Z",
    "region": "Asia-Pacific",
-   "category": "news"
+   "category": "economy"
   },
   {
    "title": "Ebola: Why is there still no vaccine?",
@@ -520,39 +574,12 @@
    "category": "conflict"
   },
   {
-   "title": "Paraguay's former president charged after bank collapse",
-   "summary": "Santiago Peña was ousted due to a banking crisis which left millions of people unable to access their money.",
-   "link": "https://www.bbc.co.uk/news/articles/c68jzzvjgdy9o?at_medium=RSS&at_campaign=rss",
-   "source": "BBC World",
-   "published": "2026-11-07T19:17:22Z",
-   "region": "Americas",
-   "category": "economy"
-  },
-  {
    "title": "Armenia's selective prosecution: A threat to EU relations?",
    "summary": "While Brussels has refrained from harsh criticism, Armenian civil society has warned of selective justice against opposition figures. Could the EU's pragmatic stance risk repeating past mistakes?",
    "link": "https://www.dw.com/en/armenia-s-selective-prosecution-a-threat-to-eu-relations/a-79878159?maca=en-rss-en-world-4025-rdf",
    "source": "DW World",
    "published": "2026-11-07T18:36:00Z",
    "region": "Europe",
-   "category": "news"
-  },
-  {
-   "title": "US offers $20m reward for information about Iran's nuclear programme",
-   "summary": "Donald Trump has repeatedly raised the prospect of renewing strikes against Iran's nuclear facilities.",
-   "link": "https://www.bbc.co.uk/news/articles/c6d091ev3p0jo?at_medium=RSS&at_campaign=rss",
-   "source": "BBC World",
-   "published": "2026-11-07T18:14:38Z",
-   "region": "Middle East",
-   "category": "conflict"
-  },
-  {
-   "title": "South Africa's ANC facing worst-ever performance in local elections",
-   "summary": "Near-final results show South Africa's once dominant ANC will see its lowest-ever vote percentage. The party is taking the blame for shoddy municipal services, including water and electricity shortages.",
-   "link": "https://www.dw.com/en/south-africa-s-anc-facing-worst-ever-performance-in-local-elections/a-79887482?maca=en-rss-en-world-4025-rdf",
-   "source": "DW World",
-   "published": "2026-11-07T18:07:00Z",
-   "region": "Africa",
    "category": "news"
   },
   {
@@ -646,24 +673,6 @@
    "category": "economy"
   },
   {
-   "title": "Israel's Arab-led parties in spotlight after inconclusive election",
-   "summary": "Israel's center-right opposition has a chance to unseat Netanyahu — but backing of Arab-led parties will be key.",
-   "link": "https://www.npr.org/2026/11/06/g-s1-152138/israel-election-palestinian-arab-parties",
-   "source": "NPR World",
-   "published": "2026-11-06T20:42:51Z",
-   "region": "Middle East",
-   "category": "news"
-  },
-  {
-   "title": "Pope Leo begins a 12-day, 3-country South America tour after his cancer surgery",
-   "summary": "Pope Leo begins his first South American tour since lung cancer surgery. The 12-day journey takes him to Uruguay, Argentina and Peru, where he spent two decades.",
-   "link": "https://www.npr.org/2026/11/06/nx-s1-6026702/pope-leo-begins-12-day-3-country-tour-after-cancer-surgery",
-   "source": "NPR World",
-   "published": "2026-11-06T19:13:06Z",
-   "region": "Americas",
-   "category": "news"
-  },
-  {
    "title": "US tech stocks post modest recovery on Wall Street after worst day in 19 months – as it happened",
    "summary": "European and Asia-Pacific markets slide after Wall Street rout, while latest US jobs report beats forecasts Could the AI bubble burst after Democrats’ midterms sweep? - The Latest Despite the sharp losses suffered on global stock markets around the world, most indices are still up for the year. The…",
    "link": "https://www.theguardian.com/business/live/2026/nov/06/global-stocks-tumble-ai-panic-markets-democrats-midterms-success-jobs-oil-dollar-latest-news-updates",
@@ -706,24 +715,6 @@
    "source": "DW Business",
    "published": "2026-11-06T09:29:00Z",
    "region": "Americas",
-   "category": "economy"
-  },
-  {
-   "title": "Bank of England raises interest rates to 4%, the first increase for more than three years",
-   "summary": "Base rate increases from 3.75% and Bank governor signals another rise in near future to combat rising inflation Analysis: Interest rate rise in midst of cost of living crisis will leave many incredulous The Bank of England has raised interest rates for the first time in three years and warned of…",
-   "link": "https://www.theguardian.com/business/2026/nov/05/bank-of-england-raises-interest-rates-first-increase-for-more-than-three-years",
-   "source": "The Guardian Economics",
-   "published": "2026-11-05T18:00:28Z",
-   "region": "Europe",
-   "category": "economy"
-  },
-  {
-   "title": "Today’s UK interest rate rise unlikely to be the last unless Iran war ends; Wall Street slides on AI fears as ‘panic sets in’ – as it happened",
-   "summary": "UK hit by first interest rate rise in three years, as Bank predicts inflation will approach 5% by middle of 2027 Could the AI bubble burst after Democrats’ midterms sweep? - The Latest Interest rate rise in midst of cost of living crisis will leave many incredulous UK government bond prices are…",
-   "link": "https://www.theguardian.com/business/live/2026/nov/05/bank-of-england-interest-rate-decision-pound-inflation-oil-iran-stock-markets-latest-news-updates",
-   "source": "The Guardian Economics",
-   "published": "2026-11-05T17:24:07Z",
-   "region": "Europe",
    "category": "economy"
   }
  ]
