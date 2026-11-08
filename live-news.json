@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-08T02:26:19Z",
+ "updatedAt": "2026-11-08T10:13:38Z",
  "sources": [
   "BBC World",
   "BBC Business",
@@ -16,66 +16,282 @@
  "count": 80,
  "items": [
   {
-   "title": "What we know so far after Krakow gun attack",
-   "summary": "Six people were killed in a random shooting in the city's main square, and three bodies were later found at the home of the attacker.",
-   "link": "https://www.bbc.co.uk/news/articles/cmd7q15drwgeo?at_medium=RSS&at_campaign=rss",
-   "source": "BBC World",
-   "published": "2026-11-08T01:47:41Z",
-   "region": "Global",
+   "title": "Middle East live: Riyadh's financial district targeted following deadly Saudi strikes in Yemen",
+   "summary": "Riyadh’s Aramco Tower was damaged by falling debris on Sunday after the Saudi-led coalition fighting Yemen’s Houthi rebels intercepted two ballistic missiles headed for the capital’s financial district. The attack comes a day after Saudi ​air strikes killed at least 33 people near Sanaa. Follow our…",
+   "link": "https://www.france24.com/en/middle-east/20261108-middle-east-live-riyadh-financial-district-targeted-deadly-strikes-yemen-israel-eisenkot-netanyahu-coalition-government-elections",
+   "source": "France 24",
+   "published": "2026-11-08T09:47:36Z",
+   "region": "Middle East",
    "category": "conflict"
   },
   {
-   "title": "Canary Islands’ El Hierro declares emergency amid migrant, refugee influx",
-   "summary": "El Hierro asks Spanish government for help after more than 3,300 people arrived on boats since start of November.",
-   "link": "https://www.aljazeera.com/news/2026/11/8/canary-islands-el-hierro-declares-emergency-amid-migrant-refugee-influx?traffic_source=rss",
-   "source": "Al Jazeera",
-   "published": "2026-11-08T01:37:55Z",
-   "region": "Europe",
+   "title": "Donald Trump wants UFC fighters as assistants",
+   "summary": "After a series of combative press briefings between the Trump administration and journalists, the US president surprised many by reportedly offering Dana White, the head of the Ultimate Fighting Championship (UFC) and a longtime friend, the role of White House press secretary. Trump praised White…",
+   "link": "https://www.france24.com/en/donald-trump-wants-ufc-fighters-as-assistants",
+   "source": "France 24",
+   "published": "2026-11-08T09:44:28Z",
+   "region": "Americas",
+   "category": "conflict"
+  },
+  {
+   "title": "Israel's Arab-led parties gain influence",
+   "summary": "Arab-led parties have endorsed Gadi Eisenkot despite his ruling out a coalition with them. Their support is driven by a shared goal: removing Benjamin Netanyahu from power. But could these parties ultimately hold the balance of power in forming Israel's next government? Antonia Kerrigan reports.",
+   "link": "https://www.france24.com/en/israel-s-arab-led-parties-gain-influence",
+   "source": "France 24",
+   "published": "2026-11-08T09:43:26Z",
+   "region": "Middle East",
    "category": "news"
   },
   {
-   "title": "NZ election 2026: New Zealand faces weeks of uncertainty with results ‘too close to call’",
-   "summary": "National party will be largest in parliament but ultimate shape of next government won’t be settled for some time New Zealand could be facing a weeks-long wait to know the shape of its next government, after its nail-biting election failed to hand a decisive victory to either the incumbent…",
-   "link": "https://www.theguardian.com/world/2026/nov/07/new-zealand-election-too-close-to-call-vote-count",
+   "title": "Gaza: Heavy rain inundates thousands of tents",
+   "summary": "Heavy rainfall has flooded thousands of tents sheltering displaced Palestinians across the Gaza Strip, including in Deir al-Balah. Residents say overflowing sewage has mixed with the floodwater, further worsening already dire living conditions. Families are struggling to salvage their belongings…",
+   "link": "https://www.france24.com/en/gaza-heavy-rain-inundates-thousands-of-tents",
+   "source": "France 24",
+   "published": "2026-11-08T09:42:03Z",
+   "region": "Middle East",
+   "category": "news"
+  },
+  {
+   "title": "Briton among six dead after gunman opens fire in Kraków market square",
+   "summary": "Three more people found dead at home of suspect, who minister says held ‘ultra-nationalistic’ views Six people were killed and 16 wounded after a gunman opened fire in a busy market square in Kraków, authorities said, in what Poland’s defence minister called an “act of terror” on the people of the…",
+   "link": "https://www.theguardian.com/world/2026/nov/07/krakow-poland-shooting-market-square-deaths-gunman",
    "source": "The Guardian World",
-   "published": "2026-11-08T01:00:48Z",
+   "published": "2026-11-08T09:30:22Z",
+   "region": "Europe",
+   "category": "economy"
+  },
+  {
+   "title": "Democrats’ congressional win could strengthen Ukraine’s hand against Russia",
+   "summary": "Ukraine hopes for more US support but faces uncertainty over Trump’s peace efforts and continued military aid.",
+   "link": "https://www.aljazeera.com/news/2026/11/8/democrats-congressional-win-could-strengthen-ukraines-hand-against-russia?traffic_source=rss",
+   "source": "Al Jazeera",
+   "published": "2026-11-08T09:30:17Z",
+   "region": "Europe",
+   "category": "conflict"
+  },
+  {
+   "title": "How the deadly shooting in Krakow unfolded",
+   "summary": "Video authenticated by BBC Verify shows the moment gunshots rang out in Krakow's main market square.",
+   "link": "https://www.bbc.co.uk/news/videos/cq74p2zpwyjmo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "published": "2026-11-08T09:29:24Z",
+   "region": "Global",
+   "category": "news"
+  },
+  {
+   "title": "In pictures: France protests draw 146,000 as clashes erupt for fourth straight weekend",
+   "summary": "France's Interior Ministry counted 146,000 protesters Saturday as demonstrations over living costs public services entered a fourth consecutive weekend.",
+   "link": "https://www.cnbc.com/2026/11/08/france-protests-clashes-arrests.html",
+   "source": "CNBC World",
+   "published": "2026-11-08T09:29:04Z",
+   "region": "Europe",
+   "category": "conflict"
+  },
+  {
+   "title": "Floods in Gaza leave tens of thousands without shelter",
+   "summary": "Civil Defence reports over 1,500 emergency calls as thousands of tents and shelters destroyed after heavy rains.",
+   "link": "https://www.aljazeera.com/news/2026/11/8/floods-in-gaza-leave-tens-of-thousands-without-shelter?traffic_source=rss",
+   "source": "Al Jazeera",
+   "published": "2026-11-08T09:28:52Z",
+   "region": "Middle East",
+   "category": "news"
+  },
+  {
+   "title": "Former Palestinian detainees at mercy of Israel amid perpetual detention",
+   "summary": "Former Palestinian detainees in the West Bank are being repeatedly detained by Israeli forces, affecting their families.",
+   "link": "https://www.aljazeera.com/features/2026/11/8/former-palestinian-detainees-at-mercy-of-israel-amid-perpetual-detention?traffic_source=rss",
+   "source": "Al Jazeera",
+   "published": "2026-11-08T09:09:59Z",
+   "region": "Middle East",
+   "category": "news"
+  },
+  {
+   "title": "Pope’s visit to Argentina sets up showdown with ‘hyper-capitalist’ Milei",
+   "summary": "President has opposing views on many issues, and once called Leo’s predecessor the ‘representative of the Evil One’ Trees are being planted in the garden. The brightly coloured buildings are getting another coat of paint. The choir rehearses. Hundreds of other residents, several of them using…",
+   "link": "https://www.theguardian.com/world/2026/nov/08/popes-visit-to-argentina-sets-up-showdown-with-hyper-capitalist-milei",
+   "source": "The Guardian World",
+   "published": "2026-11-08T09:00:35Z",
+   "region": "Americas",
+   "category": "news"
+  },
+  {
+   "title": "Psychiatrists and paediatricians among specialists most likely to charge ‘extreme’ fees, thinktank finds",
+   "summary": "Grattan Institute finds some doctors charge up to triple the fees of their peers – well beyond what can be justified by business running costs Get our breaking news email , free app or daily news podcast More than 2.2 million Australians paid an “extreme” fee to see a specialist last year, with…",
+   "link": "https://www.theguardian.com/australia-news/2026/nov/08/psychiatrists-paediatricians-extreme-specialist-fees-health-australia",
+   "source": "The Guardian World",
+   "published": "2026-11-08T09:00:35Z",
    "region": "Asia-Pacific",
    "category": "news"
   },
   {
-   "title": "Polish PM calls deadly Krakow shooting an act of ‘terrorism’",
-   "summary": "Polish Prime Minister Donald Tusk describes a deadly shooting in Krakow that killed six people as an act of ‘terrorism’.",
-   "link": "https://www.aljazeera.com/video/newsfeed/2026/11/8/polish-pm-calls-deadly-krakow-shooting-an-act-of?traffic_source=rss",
+   "title": "Rent-a-grandchild: Businesses offering companions to elderly grow in India",
+   "summary": "A small but growing number of firms selling what families once took for granted: someone to take care of the seniors.",
+   "link": "https://www.aljazeera.com/news/2026/11/8/rent-a-grandchild-businesses-offering-companions-to-elderly-grow-in-india?traffic_source=rss",
    "source": "Al Jazeera",
-   "published": "2026-11-08T00:50:28Z",
-   "region": "Europe",
-   "category": "conflict"
+   "published": "2026-11-08T08:57:49Z",
+   "region": "Asia-Pacific",
+   "category": "news"
   },
   {
-   "title": "Victoria Barracks in Sydney and Melbourne to remain in public hands after partial backtrack on defence property selloff",
-   "summary": "Four heritage-listed defence properties to be preserved for community use after backlash from veterans and former PMs Get our daily political email , free app or daily news podcast Four heritage-listed defence sites, including Sydney’s Victoria Barracks, will remain in public hands after the…",
-   "link": "https://www.theguardian.com/australia-news/2026/nov/08/victoria-barracks-sydney-and-melbourne-remain-in-public-hands-backtrack-defence-property-sale-albanese-marles",
-   "source": "The Guardian World",
-   "published": "2026-11-08T00:17:28Z",
+   "title": "Khawaja denies throwing ‘anyone under the bus’ over Sandpapergate scandal",
+   "summary": "Australian cricketer defends waiting so long to place blame, denying it was a marketing ploy to sell his book.",
+   "link": "https://www.aljazeera.com/sports/2026/11/8/khawaja-denies-throwing-anyone-under-the-bus-over-sandpapergate-scandal?traffic_source=rss",
+   "source": "Al Jazeera",
+   "published": "2026-11-08T08:57:45Z",
+   "region": "Asia-Pacific",
+   "category": "news"
+  },
+  {
+   "title": "‘Don’t bring your camera’: Filmmakers face extortion in Lagos",
+   "summary": "Filmmakers and journalists say threats on Lagos streets is making it harder to tell the city’s stories.",
+   "link": "https://www.aljazeera.com/news/2026/11/8/dont-bring-your-camera-filmmakers-face-extortion-in-lagos?traffic_source=rss",
+   "source": "Al Jazeera",
+   "published": "2026-11-08T08:56:04Z",
    "region": "Global",
    "category": "news"
   },
   {
-   "title": "Iran war live: Blasts heard in Qeshm; US moves to block land supply routes",
-   "summary": "Iranian state media report blasts on Qeshm Island in Strait of Hormuz and the cities of Jask, Sirik and Bandar Abbas.",
-   "link": "https://www.aljazeera.com/news/liveblog/2026/11/8/iran-war-live-explosions-hit-qeshm-us-moves-to-block-land-supply-routes?traffic_source=rss",
+   "title": "The anti-Netanyahu: Can Gadi Eisenkot give the world a different Israel?",
+   "summary": "Unpolished and understated, Eisenkot offers a stark contrast to Netanyahu but risks continuing his legacy",
+   "link": "https://www.aljazeera.com/news/2026/11/8/the-anti-netanyahu-can-gadi-eisenkot-give-the-world-a-different-israel?traffic_source=rss",
    "source": "Al Jazeera",
-   "published": "2026-11-08T00:00:56Z",
+   "published": "2026-11-08T08:47:36Z",
+   "region": "Middle East",
+   "category": "news"
+  },
+  {
+   "title": "Hossam Hassan sacked as Egypt head coach over ex-wife scandal",
+   "summary": "A series of controversies surrounding Hassan's marital life left a 'negative impact' on the team, Egyptian FA says.",
+   "link": "https://www.aljazeera.com/sports/2026/11/8/hossam-hassan-sacked-as-egypt-head-coach-over-ex-wife-scandal?traffic_source=rss",
+   "source": "Al Jazeera",
+   "published": "2026-11-08T08:42:16Z",
+   "region": "Middle East",
+   "category": "news"
+  },
+  {
+   "title": "US military attacks cargo ship in the Gulf of Oman",
+   "summary": "The US military says it has fired on and disabled a St. Kitts-flagged cargo ship in the Gulf of Oman.",
+   "link": "https://www.aljazeera.com/video/newsfeed/2026/11/8/us-military-attacks-cargo-ship-in-the-gulf-of-oman?traffic_source=rss",
+   "source": "Al Jazeera",
+   "published": "2026-11-08T08:24:37Z",
    "region": "Middle East",
    "category": "conflict"
   },
   {
-   "title": "Eisenkot chosen over Netanyahu to form Israel’s next government",
-   "summary": "Israel's president asked opposition leader Gadi Eisenkot to form the next gov't over Prime Minister Benjamin Netanyahu.",
-   "link": "https://www.aljazeera.com/video/newsfeed/2026/11/7/eisenkot-chosen-over-netanyahu-to-form-israels-next-government?traffic_source=rss",
-   "source": "Al Jazeera",
-   "published": "2026-11-07T23:45:45Z",
+   "title": "‘AI clog’: UK public bodies battle onslaught of chatbot-generated complaints",
+   "summary": "MPs, local authorities, lawyers, schools and more are receiving floods of grievances, requests and legal challenges, often complex to read and respond to “It started as a trickle in 2024 and now it’s an onslaught.” Hollie Wickens, a senior caseworker in a Labour MP’s office, is explaining the daily…",
+   "link": "https://www.theguardian.com/technology/2026/nov/08/ai-clog-public-bodies-local-authorities-onslaught-chatbot-generated-correspondence",
+   "source": "The Guardian World",
+   "published": "2026-11-08T08:00:36Z",
+   "region": "Europe",
+   "category": "news"
+  },
+  {
+   "title": "From the overblown to the ordinary? Met Gala 2027 to celebrate ‘poetics of everyday’",
+   "summary": "Event regarded as Oscars of fashion industry replaces John Galliano retrospective with homage to the ‘extra ordinary’ A few months after the planned John Galliano Met Gala retrospective was cancelled amid a backlash focused on the designer’s past, a more commonplace theme has been announced: “…",
+   "link": "https://www.theguardian.com/fashion/2026/nov/08/met-gala-2027-theme-poetics-everyday",
+   "source": "The Guardian World",
+   "published": "2026-11-08T08:00:36Z",
+   "region": "Global",
+   "category": "news"
+  },
+  {
+   "title": "Reintroduction of white-tailed eagles puts seabird colonies at risk of wipeout, say experts",
+   "summary": "Naturalists divided over potential impact of proposals to increase number of wild raptors in England and Wales White-tailed eagles reintroduced into England and Wales imperil endangered seabird populations and risk wiping out some colonies, ecologists and conservationists are warning. Puffins…",
+   "link": "https://www.theguardian.com/environment/2026/nov/08/reintroduction-white-tailed-eagles-seabird-colonies-risk-england-wales",
+   "source": "The Guardian World",
+   "published": "2026-11-08T08:00:35Z",
+   "region": "Europe",
+   "category": "news"
+  },
+  {
+   "title": "What we know so far after Krakow gun attack",
+   "summary": "Six people were killed in a random shooting in Krakow's main square, and three bodies were later found at the home of the attacker.",
+   "link": "https://www.bbc.co.uk/news/articles/cmd7q15drwgeo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "published": "2026-11-08T07:52:33Z",
+   "region": "Global",
+   "category": "conflict"
+  },
+  {
+   "title": "Traders 'priced out' of £12,000 Christmas market pitches",
+   "summary": "Stall holders said they'd met the council leader to express their concerns at high costs since a new operator took over.",
+   "link": "https://www.bbc.co.uk/news/articles/ckn8wew92xw1o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC Business",
+   "published": "2026-11-08T07:11:02Z",
+   "region": "Global",
+   "category": "economy"
+  },
+  {
+   "title": "Tenerife honour teammate Jesus De Miguel with tearful tribute",
+   "summary": "Tenerife’s stadium filled up with thousands of mourners on Saturday where they held a tearful tribute to striker Jesus De Miguel, who passed away after colliding with a goalkeeper during a match, subsequently suffering a cardiac arrest. \"To speak of you in the past tense ​is tremendously unfair,\"…",
+   "link": "https://www.france24.com/en/sport/20261108-tenerife-tribute-football-striker-jesus-de-miguel-collision-death-cardiac-arrest-spain",
+   "source": "France 24",
+   "published": "2026-11-08T07:08:28Z",
+   "region": "Global",
+   "category": "news"
+  },
+  {
+   "title": "Banana producers in Latin America want better pay to cope with effects of climate crisis",
+   "summary": "Farmers face big drop in production from extreme weather during this year’s super El Niño event Banana producers in Latin America are calling for better pay to help cope with the impact of the climate crisis, as they face big drops in production resulting from extreme weather during this year’s…",
+   "link": "https://www.theguardian.com/business/2026/nov/08/banana-producers-in-latin-america-want-better-pay-to-cope-with-effects-of-climate-crisis",
+   "source": "The Guardian World",
+   "published": "2026-11-08T07:00:34Z",
+   "region": "Americas",
+   "category": "news"
+  },
+  {
+   "title": "Trump’s shattered ‘mirror world’: American voters roundly reject president’s alternate reality",
+   "summary": "President claimed to have ushered in a ‘golden age’ even as prices soared and war dragged on – and midterm voters did not buy his looking-glass narrative A new “golden age of America” is under way, Donald Trump repeatedly declared in his final pitch to voters before the US midterm elections. The…",
+   "link": "https://www.theguardian.com/us-news/ng-interactive/2026/nov/08/trump-midterms-voters-mirror-world",
+   "source": "The Guardian World",
+   "published": "2026-11-08T07:00:34Z",
+   "region": "Americas",
+   "category": "conflict"
+  },
+  {
+   "title": "‘Windrush’ accusations over sharp rise in Turkish nationals facing removal from UK",
+   "summary": "David Lammy among those raising concerns after errors found in rejected applications for indefinite leave to remain Concerns have been raised over the sudden rise in number of Turkish nationals facing removal from the UK as a result of mistakes, prompting accusations that the Home Office has failed…",
+   "link": "https://www.theguardian.com/politics/2026/nov/08/turkish-nationals-uk-indefinite-leave-to-remain-home-office-windrush",
+   "source": "The Guardian World",
+   "published": "2026-11-08T07:00:33Z",
    "region": "Middle East",
+   "category": "news"
+  },
+  {
+   "title": "Cathie Wood 'always feels better when the market is worried' — here's why",
+   "summary": "The Ark Invest CEO said there was a \"wall of worry\" gripping markets right now.",
+   "link": "https://www.cnbc.com/2026/11/08/cathie-wood-ai-selloff.html",
+   "source": "CNBC World",
+   "published": "2026-11-08T06:00:01Z",
+   "region": "Global",
+   "category": "economy"
+  },
+  {
+   "title": "Houthis say at least 33 killed in Saudi air strike",
+   "summary": "Saudi Arabia, which leads a coalition fighting the Houthis in Yemen, has not commented.",
+   "link": "https://www.bbc.co.uk/news/articles/c65yn1v99ypmo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "published": "2026-11-08T04:03:12Z",
+   "region": "Middle East",
+   "category": "conflict"
+  },
+  {
+   "title": "The Trump coalition is shattered - what will Republicans do now?",
+   "summary": "Republicans can stick with Trumpism or chart a new path, writes BBC Washington correspondent Daniel Bush.",
+   "link": "https://www.bbc.co.uk/news/articles/cm3r5gnxqz3jo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "published": "2026-11-08T00:52:39Z",
+   "region": "Americas",
+   "category": "news"
+  },
+  {
+   "title": "Germans wrestle with what to do with Hitler's destroyed Eagle's Nest retreat",
+   "summary": "While some believe the site should be partially or completely rebuilt, others want it abandoned and all memory of its Nazi past forgotten.",
+   "link": "https://www.bbc.co.uk/news/articles/cm74pk1g51nko?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "published": "2026-11-08T00:48:59Z",
+   "region": "Europe",
    "category": "news"
   },
   {
@@ -97,31 +313,13 @@
    "category": "economy"
   },
   {
-   "title": "Gunmen kills six in Krakow, three more bodies found at his house",
+   "title": "Gunman kills six in Krakow, three more bodies found at his house",
    "summary": "A chilling new discovery in Poland, where three bodies have reportedly been found inside the Krakow gunman's home. That's in addition to six people killed and sixteen wounded when the attacker opened fire in the city's historic square. Prime Minister Donald Tusk has now declared the shooting an act…",
    "link": "https://www.france24.com/en/gunmen-kills-six-in-krakow-three-more-bodies-found-at-his-house",
    "source": "France 24",
    "published": "2026-11-07T22:47:06Z",
    "region": "Europe",
    "category": "conflict"
-  },
-  {
-   "title": "Kraków shooting latest updates: six killed and more than a dozen injured – as it happened",
-   "summary": "Polish Prime Minister Donald Tusk heads to the city after four women and two men are killed and more than a dozen people injured Tom Rose, the US ambassador to Poland, wrote on X: We are just learning details of the horrific mass shooting in Kraków, a savage and murderous attack that’s shattered…",
-   "link": "https://www.theguardian.com/world/live/2026/nov/07/krakow-shooting-poland-latest-news-updates",
-   "source": "The Guardian World",
-   "published": "2026-11-07T22:32:41Z",
-   "region": "Europe",
-   "category": "conflict"
-  },
-  {
-   "title": "Real Madrid beat Valencia 3-0 to draw level with La Liga leaders Barcelona",
-   "summary": "Valverde and Guler's first-half goals put Madrid in the driving seat, and Mbappe added a third in the second half.",
-   "link": "https://www.aljazeera.com/sports/2026/11/7/real-madrid-beat-valencia-3-0-to-draw-level-with-la-liga-leaders-barcelona?traffic_source=rss",
-   "source": "Al Jazeera",
-   "published": "2026-11-07T22:21:58Z",
-   "region": "Europe",
-   "category": "news"
   },
   {
    "title": "Israel's president tasks opposition leader Eisenkot with forming government",
@@ -160,6 +358,15 @@
    "category": "news"
   },
   {
+   "title": "France beat Fiji to reclaim top spot in Nations Championship",
+   "summary": "France trashed Fiji 54-17 on Saturday to return to the top of the northern hemisphere Nations Championship standings.",
+   "link": "https://www.france24.com/en/sport/20261107-france-beat-fiji-to-reclaim-top-spot-in-nations-championship",
+   "source": "France 24",
+   "published": "2026-11-07T22:05:54Z",
+   "region": "Europe",
+   "category": "news"
+  },
+  {
    "title": "Ipswich Town's new club shop 'here to stay'",
    "summary": "Fans and players are delighted at the new \"activation space\" in the town centre.",
    "link": "https://www.bbc.co.uk/news/videos/cxnv0455zq5jo?at_medium=RSS&at_campaign=rss",
@@ -172,28 +379,10 @@
    "title": "'Flat', 'tired', 'cynical': Unusually gloomy Kiwis deliver New Zealand's tightest election in years",
    "summary": "The national mood is low, and faith in politics even lower - with voters deserting the major parties at the polls.",
    "link": "https://www.bbc.co.uk/news/articles/cxr5yyg2nj9eo?at_medium=RSS&at_campaign=rss",
-   "source": "BBC Business",
+   "source": "BBC World",
    "published": "2026-11-07T21:36:16Z",
    "region": "Asia-Pacific",
-   "category": "economy"
-  },
-  {
-   "title": "Police clash with protesters as anti-government rallies sweep France",
-   "summary": "Police have clashed with protesters in Paris as Yellow Vests defied a ban on their rally, leading to arrests.",
-   "link": "https://www.aljazeera.com/video/newsfeed/2026/11/7/police-clash-with-protesters-as-anti-government-rallies-sweep-france?traffic_source=rss",
-   "source": "Al Jazeera",
-   "published": "2026-11-07T21:24:10Z",
-   "region": "Europe",
-   "category": "conflict"
-  },
-  {
-   "title": "Six dead after gunman opens fire in Kraków market square, with three more victims found at suspect’s home",
-   "summary": "Suspect was influenced by far-right ideology and held ‘ultra-nationalistic’ views, says Polish interior minister Six people have been killed and 16 wounded after a gunman opened fire in a busy market square in Kraków, authorities said, in what Poland’s defence minister called an “act of terror” on…",
-   "link": "https://www.theguardian.com/world/2026/nov/07/krakow-poland-shooting-market-square-deaths-gunman",
-   "source": "The Guardian World",
-   "published": "2026-11-07T21:19:01Z",
-   "region": "Europe",
-   "category": "economy"
+   "category": "news"
   },
   {
    "title": "Ebola: Why is there still no vaccine?",
@@ -205,38 +394,11 @@
    "category": "news"
   },
   {
-   "title": "Mélenchon promises action against Israeli annexation if elected President",
-   "summary": "Mélenchon promises action against Israeli annexation if elected President",
-   "link": "https://www.aljazeera.com/video/newsfeed/2026/11/7/melenchon-promises-action-against-israeli-annexation-if-elected-president?traffic_source=rss",
-   "source": "Al Jazeera",
-   "published": "2026-11-07T20:53:47Z",
-   "region": "Middle East",
-   "category": "news"
-  },
-  {
-   "title": "Who is behind Europe’s suspected hybrid attacks?",
-   "summary": "Bomb hoaxes and supermarket cyberattacks are heightening security fears.",
-   "link": "https://www.aljazeera.com/video/inside-story/2026/11/7/who-is-behind-europes-suspected-hybrid-attacks?traffic_source=rss",
-   "source": "Al Jazeera",
-   "published": "2026-11-07T20:48:58Z",
-   "region": "Europe",
-   "category": "conflict"
-  },
-  {
    "title": "'A violent fighter and warrior': Trump offers press secretary role to UFC chief Dana White",
    "summary": "US President Donald Trump on Saturday said he was asking mixed martial arts promoter Dana White to be the new White House press secretary. Trump has repeatedly tried to hitch his MAGA brand of politics to White's enormously successful Ultimate Fighting Championship.",
    "link": "https://www.france24.com/en/americas/20261107-a-violent-fighter-and-warrior-trump-offers-press-secretary-role-to-ufc-chief-dana-white",
    "source": "France 24",
    "published": "2026-11-07T20:45:45Z",
-   "region": "Americas",
-   "category": "conflict"
-  },
-  {
-   "title": "Abdul El-Sayed slams Trump’s tariff war with Canada",
-   "summary": "Michigan Senator-elect Abdul El-Sayed has criticised Trump’s trade war with Canada.",
-   "link": "https://www.aljazeera.com/video/newsfeed/2026/11/7/abdul-el-sayed-slams-trumps-tariff-war-with-canada?traffic_source=rss",
-   "source": "Al Jazeera",
-   "published": "2026-11-07T20:44:34Z",
    "region": "Americas",
    "category": "conflict"
   },
@@ -250,24 +412,6 @@
    "category": "news"
   },
   {
-   "title": "Richard Lloyd, founding member and guitarist of punk band Television, dies aged 75",
-   "summary": "Known for sophisticated musical style in band that played significant role in emerging 1970s punk rock movement Richard Lloyd, known for his sophisticated musical style as a founding member and guitarist for the influential punk band Television , has died at the age of 75. His family confirmed that…",
-   "link": "https://www.theguardian.com/music/2026/nov/07/richard-lloyd-punk-band-television-dies-aged-75",
-   "source": "The Guardian World",
-   "published": "2026-11-07T20:06:25Z",
-   "region": "Global",
-   "category": "news"
-  },
-  {
-   "title": "FAA announces first US digital air traffic control towers in Florida and Alaska",
-   "summary": "Systems provide 360-degree view of airport operations, but concerns have been raised about the technology The Federal Aviation Administration (FAA) has announced that the first digital air traffic control towers in the US are officially operational, bringing new technology first to smaller airports…",
-   "link": "https://www.theguardian.com/us-news/2026/nov/07/faa-digital-air-traffic-control-tower-technology",
-   "source": "The Guardian World",
-   "published": "2026-11-07T20:03:23Z",
-   "region": "Americas",
-   "category": "news"
-  },
-  {
    "title": "France Unbowed’s Mélenchon unveils ‘A Shared Future’ manifesto ahead of 2027 presidential race",
    "summary": "“We are facing a crisis of human civilisation. And we are going to win.” A defiant Jean-Luc Mélenchon was in fighting mood today as he presented his presidential manifesto at Le Bourget, north of Paris. It is his fourth bid for the French presidency, and he has chosen a venue steeped in left-wing…",
    "link": "https://www.france24.com/en/tv-shows/spotlight/20261107-france-unbowed-s-m%C3%A9lenchon-unveils-a-shared-future-manifesto-ahead-of-2027-presidential-race",
@@ -277,24 +421,6 @@
    "category": "conflict"
   },
   {
-   "title": "Israel’s president picks Yashar leader Gadi Eisenkot to form government",
-   "summary": "Knesset has been deadlocked since the election last month when Benjamin Netanyahu’s coalition lost its majority Israel’s president has ⁠chosen Gadi Eisenkot, prime minister Benjamin Netanyahu’s ⁠strongest rival, to ⁠try to ​form a new government, after a deadlocked election that left neither man…",
-   "link": "https://www.theguardian.com/world/2026/nov/07/israel-president-gadi-eisenkot-form-government",
-   "source": "The Guardian World",
-   "published": "2026-11-07T19:49:39Z",
-   "region": "Middle East",
-   "category": "news"
-  },
-  {
-   "title": "🔴 Israeli president picks Netanyahu's rival Eisenkot to try to form government",
-   "summary": "",
-   "link": "https://www.france24.com/en/middle-east/20261107-israeli-president-picks-netanyahu-s-rival-eisenkot-to-try-to-form-government",
-   "source": "France 24",
-   "published": "2026-11-07T19:38:24Z",
-   "region": "Middle East",
-   "category": "news"
-  },
-  {
    "title": "Paraguay's former president charged after bank collapse",
    "summary": "Santiago Peña was ousted due to a banking crisis which left millions of people unable to access their money.",
    "link": "https://www.bbc.co.uk/news/articles/c68jzzvjgdy9o?at_medium=RSS&at_campaign=rss",
@@ -302,24 +428,6 @@
    "published": "2026-11-07T19:17:22Z",
    "region": "Americas",
    "category": "economy"
-  },
-  {
-   "title": "How do you broker UN climate talks when your own country is a big coal and gas exporter? Chris Bowen is about to find out",
-   "summary": "Ahead of Cop31, climate change minister dismisses concerns about whether Australia as a major producer can keep the world moving away from fossil fuels Listen to the podcast: Chris Bowen on how he’ll reach consensus at Cop31 Sign up for climate and environment editor Adam Morton’s free Clear Air…",
-   "link": "https://www.theguardian.com/environment/2026/nov/08/chris-bowen-cop31-experts-condemn-australia-coal-gas-approvals",
-   "source": "The Guardian World",
-   "published": "2026-11-07T19:00:20Z",
-   "region": "Asia-Pacific",
-   "category": "news"
-  },
-  {
-   "title": "A Big Build royal commission helped Ben Carroll become premier. Will it be his downfall?",
-   "summary": "Two weeks of public hearings will begin on Monday morning, right in the middle of the state election campaign Get our daily political email , free app or daily news podcast The commitment that made Ben Carroll premier may ultimately cost him the election. On Monday morning, right in the middle of a…",
-   "link": "https://www.theguardian.com/australia-news/2026/nov/08/big-build-royal-commission-victorian-election-ben-carroll-labor-ntwnfb",
-   "source": "The Guardian World",
-   "published": "2026-11-07T19:00:19Z",
-   "region": "Global",
-   "category": "news"
   },
   {
    "title": "Armenia's selective prosecution: A threat to EU relations?",
@@ -349,24 +457,6 @@
    "category": "news"
   },
   {
-   "title": "Gaza wedding festival sees 250 couples married at the same time",
-   "summary": "A mass wedding for Palestinian brides and grooms has taken place in the rubble-strewn streets of Gaza.",
-   "link": "https://www.bbc.co.uk/news/videos/ckr5ygm78j76o?at_medium=RSS&at_campaign=rss",
-   "source": "BBC World",
-   "published": "2026-11-07T17:58:41Z",
-   "region": "Middle East",
-   "category": "news"
-  },
-  {
-   "title": "'We must change everything': French far-left leader Mélenchon launches presidential programme",
-   "summary": "Veteran leftist Jean-Luc Mélenchon formally announced his plan to raise France's minimum wage, cap prices for essential foods and restore the country's retirement age to 60 in a speech launching his 2027 presidential election programme on Saturday. Polls currently indicate that he is the left…",
-   "link": "https://www.france24.com/en/video/20261107-we-must-change-everything-french-far-left-leader-m%C3%A9lenchon-launches-presidential-programme",
-   "source": "France 24",
-   "published": "2026-11-07T17:30:04Z",
-   "region": "Europe",
-   "category": "economy"
-  },
-  {
    "title": "Ousted Paraguayan president appears before prosecutors",
    "summary": "Paraguayan President Santiago Peña was removed from office and placed under house arrest Friday. The Senate voted on his impeachment after the collapse of a state-affiliated bank.",
    "link": "https://www.npr.org/2026/11/07/nx-s1-6033373/paraguay-president-ousted-bank-collapse",
@@ -374,33 +464,6 @@
    "published": "2026-11-07T17:14:36Z",
    "region": "Americas",
    "category": "news"
-  },
-  {
-   "title": "Houthis say at least 25 killed in Saudi air strike",
-   "summary": "Saudi Arabia, which leads a coalition fighting the Houthis in Yemen, has not commented.",
-   "link": "https://www.bbc.co.uk/news/articles/c65yn1v99ypmo?at_medium=RSS&at_campaign=rss",
-   "source": "BBC World",
-   "published": "2026-11-07T17:09:24Z",
-   "region": "Middle East",
-   "category": "conflict"
-  },
-  {
-   "title": "Italian foreign minister says hackers leaked his personal data",
-   "summary": "Prime Minister Giorgia Meloni has blamed pro-Russian hackers for publishing the details online.",
-   "link": "https://www.bbc.co.uk/news/articles/cr20wvge32j3o?at_medium=RSS&at_campaign=rss",
-   "source": "BBC World",
-   "published": "2026-11-07T16:50:06Z",
-   "region": "Europe",
-   "category": "news"
-  },
-  {
-   "title": "France investigating if bogus bomb threats against airlines linked to 'foreign powers'",
-   "summary": "French prosecutors are investigating a series of fake bomb threats that targeted commercial flights in Europe this week, including trying to establish whether foreign powers may be involved. Those responsible for the bogus threats have not been identified.",
-   "link": "https://www.france24.com/en/france/20261107-france-investigating-if-bogus-bomb-threats-against-airlines-linked-to-foreign-powers",
-   "source": "France 24",
-   "published": "2026-11-07T16:33:53Z",
-   "region": "Europe",
-   "category": "conflict"
   },
   {
    "title": "Why the prognosis for healthcare stocks is uncertain ahead of Congress’ new makeup",
@@ -412,39 +475,12 @@
    "category": "economy"
   },
   {
-   "title": "No clear winner after tight New Zealand general election",
-   "summary": "Weeks of coalition talks could follow after preliminary results pointed to a highly divided national parliament.",
-   "link": "https://www.bbc.co.uk/news/articles/c3ewev11g1e0o?at_medium=RSS&at_campaign=rss",
-   "source": "BBC World",
-   "published": "2026-11-07T15:56:28Z",
-   "region": "Asia-Pacific",
-   "category": "news"
-  },
-  {
-   "title": "🔴 At least five people killed in shooting in Krakow, Polish police say ⤵️",
-   "summary": "",
-   "link": "https://www.france24.com/en/europe/20261107-at-least-three-people-killed-shooting-in-polish-city-of-krakow-police-say",
-   "source": "France 24",
-   "published": "2026-11-07T15:26:49Z",
-   "region": "Europe",
-   "category": "conflict"
-  },
-  {
    "title": "Berkshire Hathaway more than doubles buybacks in third quarter as earnings decline",
    "summary": "Berkshire Hathaway said Saturday it accelerated its share repurchases during the third quarter, as operating and overall profits took a hit.",
    "link": "https://www.cnbc.com/2026/11/07/berkshire-hathaway-q3-2026-earnings-buybacks.html",
    "source": "CNBC World",
    "published": "2026-11-07T15:23:46Z",
    "region": "Global",
-   "category": "economy"
-  },
-  {
-   "title": "UK cannot 'cherry pick' EU single market deal, Barnier tells BBC",
-   "summary": "The former Brexit negotiator says EU countries would reject any British attempts to follow economic rules \"a la carte\".",
-   "link": "https://www.bbc.co.uk/news/articles/c9kgjj206nzpo?at_medium=RSS&at_campaign=rss",
-   "source": "BBC World",
-   "published": "2026-11-07T15:19:35Z",
-   "region": "Europe",
    "category": "economy"
   },
   {
@@ -502,15 +538,6 @@
    "category": "economy"
   },
   {
-   "title": "Cosm rides premium moviegoing wave with more immersive screenings and a wider library",
-   "summary": "Cosm tickets cost anywhere from $18 for a matinee to around $70 for prime seats or in-demand showings.",
-   "link": "https://www.cnbc.com/2026/11/07/cosm-immersive-movie-screenings.html",
-   "source": "CNBC World",
-   "published": "2026-11-07T13:00:01Z",
-   "region": "Global",
-   "category": "economy"
-  },
-  {
    "title": "Trump may have lost but don’t bet Democrats can fix the economy",
    "summary": "There’s not much they can do over the next couple of years to alleviate angry voters’ stress over prices It was the economy, again. Although Donald Trump largely ignored it, voters’ acute concerns over the rising cost of living fuelled a political upheaval for the ages that is likely to deliver the…",
    "link": "https://www.theguardian.com/business/2026/nov/07/democrats-economy-affordability-crisis",
@@ -525,15 +552,6 @@
    "link": "https://www.dw.com/en/ukraine-russia-hits-kyiv-with-airstrikes-ahead-of-trilateral-talks/a-79883851?maca=en-rss-en-world-4025-rdf",
    "source": "DW World",
    "published": "2026-11-07T09:21:00Z",
-   "region": "Europe",
-   "category": "conflict"
-  },
-  {
-   "title": "Why a wave of bomb threats is proving so difficult for Europe's aviation authorities to contain",
-   "summary": "The \"weakest point of aviation is targeting it in-flight,\" analysts say — but any change to procedures will be a lengthy process.",
-   "link": "https://www.cnbc.com/2026/11/07/hoax-bomb-threats-flights-europe.html",
-   "source": "CNBC World",
-   "published": "2026-11-07T09:01:57Z",
    "region": "Europe",
    "category": "conflict"
   },
@@ -655,15 +673,6 @@
    "category": "economy"
   },
   {
-   "title": "Food bank to close amid rising costs",
-   "summary": "A food bank in Goole annouces it will close in January as costs rise and donations drop.",
-   "link": "https://www.bbc.co.uk/news/articles/cqrkyyj6rx7ro?at_medium=RSS&at_campaign=rss",
-   "source": "BBC Business",
-   "published": "2026-11-06T16:42:23Z",
-   "region": "Global",
-   "category": "economy"
-  },
-  {
    "title": "European flights and broadcasters are targeted with another wave of bomb threats",
    "summary": "Officials across Europe reported a slew of bomb threats against multiple flights, following a string of hoaxes that caused flight diversions this week. Three broadcasters also received threats.",
    "link": "https://www.npr.org/2026/11/06/nx-s1-6032612/europe-flights-hoaxes",
@@ -723,15 +732,6 @@
    "link": "https://www.theguardian.com/business/2026/nov/05/developing-country-debt-record-94tn-high-world-bank-data",
    "source": "The Guardian Economics",
    "published": "2026-11-05T14:30:25Z",
-   "region": "Europe",
-   "category": "economy"
-  },
-  {
-   "title": "Interest rate rise in midst of cost of living crisis will leave many incredulous",
-   "summary": "Bank’s decision goes contrary to analysis from Office for Budget Responsibility that predicts lower inflation and little impetus for wage growth Bank of England raises interest rates to 4% Business live – latest updates An interest rate rise by the Bank of England to 4% is a big call when…",
-   "link": "https://www.theguardian.com/business/2026/nov/05/interest-rate-rise-in-midst-of-cost-of-living-crisis-will-leave-many-incredulous",
-   "source": "The Guardian Economics",
-   "published": "2026-11-05T13:10:44Z",
    "region": "Europe",
    "category": "economy"
   }
