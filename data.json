@@ -1,10 +1,59 @@
 {
   "title": "Global Intelligence Monitor",
-  "snapshot": "Monday 9 November 2026, 18:30 (Europe/Rome)",
+  "snapshot": "Monday 9 November 2026, 19:30 (Europe/Rome)",
   "snapshotDate": "2026-11-09",
-  "lastUpdated": "2026-11-09T18:30:00+01:00",
-  "summary": "A one-page briefing on world news, conflicts, politics and the economy in the week to 9 November 2026 (Monday ~18:30 Europe/Rome), with country profiles and a timeline since 1945.",
+  "lastUpdated": "2026-11-09T19:30:00+01:00",
+  "summary": "A one-page briefing on world news, conflicts, politics and the economy in the week to 9 November 2026 (Monday ~19:30 Europe/Rome), with country profiles and a timeline since 1945.",
   "news": [
+    {
+      "headline": "France blames Iran's Revolutionary Guards for October cyberattacks on supermarket fridges",
+      "summary": "FM Barrot said after the G7 meeting that the IRGC was behind the 11-12 Oct attacks on refrigeration units at more than 700 French stores (Carrefour, Monoprix, Intermarché, U); Iran's ambassador will be summoned and France will seek EU sanctions. The ministry cites fires and losses of tens of millions of euros; the investigation is still under way.",
+      "date": "9 Nov 2026",
+      "region": "Europe",
+      "countries": [
+        "FR",
+        "IR"
+      ],
+      "source": "Euronews",
+      "url": "https://www.euronews.com/2026/11/09/france-says-iran-behind-cyberattacks-on-supermarket-fridges"
+    },
+    {
+      "headline": "Merz: no extra Ukraine aid, no EU budget deal",
+      "summary": "In a letter to Council President Costa, the German chancellor tied agreement on the EU budget to approving an additional €45 billion for Kyiv, calling support for Ukraine a matter of 'indivisible European security'.",
+      "date": "9 Nov 2026",
+      "region": "Europe",
+      "countries": [
+        "DE",
+        "UA"
+      ],
+      "source": "Euronews",
+      "url": "https://www.euronews.com/2026/11/09/no-deal-on-ukraine-aid-then-no-deal-on-eu-budget-merz-says"
+    },
+    {
+      "headline": "Ukraine hits Russia's second-largest refinery as fuel rationing spreads",
+      "summary": "Three main processing units at the KINEF plant (about 7% of Russian refining capacity, supplier of St Petersburg's Pulkovo airport) were damaged. Rosneft separately capped fuel sales in six regions, limiting drivers to 30 litres per transaction in cities.",
+      "date": "9 Nov 2026",
+      "region": "Europe",
+      "countries": [
+        "UA",
+        "RU"
+      ],
+      "source": "Euronews",
+      "url": "https://www.euronews.com/2026/11/09/ukraine-hits-russias-second-largest-refinery-as-fuel-rationing-spreads"
+    },
+    {
+      "headline": "European stocks rally on bank deals; Crédit Agricole proposes merger with Banco BPM",
+      "summary": "Stoxx 600 +1.26% to 656.52, FTSE MIB +2.7%. Crédit Agricole proposed merging its Italian unit with Banco BPM (20% premium, €1bn special dividend), creating Italy's third-largest bank; Banco BPM +10.7%. UniCredit +6.3% after a 24% Q3 profit rise and higher guidance. Brent fell about 4.5% after Trump played down new Iran strikes.",
+      "date": "9 Nov 2026",
+      "region": "Europe",
+      "countries": [
+        "IT",
+        "FR",
+        "DE"
+      ],
+      "source": "Reuters (MarketScreener) / Sharecast",
+      "url": "https://ca.marketscreener.com/news/european-shares-climb-as-banks-defence-stocks-lead-broad-based-rally-ce785fd3de88f726"
+    },
     {
       "headline": "Ukraine, Russia and US resume talks in Abu Dhabi on 10-11 Nov; EU sends a joint team",
       "summary": "First trilateral round since February, led for the US by Witkoff and Kushner. Agenda: post-war security guarantees, de-escalation and humanitarian issues; NYT (via RBC-Ukraine) says a ceasefire is not on the agenda. The Commission and Council send a joint team, with France, Germany, the UK, Italy and NATO also present; analysts expect no breakthrough.",
@@ -828,7 +877,7 @@
         "label": "Threats and diplomacy",
         "tone": "danger"
       },
-      "latest": "Trump told CNN (8 Nov) that renewed strikes are 'highly unlikely' if Iran signs a strong deal on its nuclear programme and Hormuz, but said three carriers are 'locked and loaded' and 38 bridges are targeted. Saxo: he confirmed limited strikes on an air-defence site on Qeshm Island; an Iranian official said there was no damage to vital infrastructure. Rubio called Iran's demands unrealistic; Iran's FM warned of 'hell' if the US chooses war. Ships reported hit near Hormuz; US blockade continues.",
+      "latest": "Trump told CNN (8 Nov) that renewed strikes are 'highly unlikely' if Iran signs a strong deal on its nuclear programme and Hormuz, but said three carriers are 'locked and loaded' and 38 bridges are targeted. Saxo: he confirmed limited strikes on an air-defence site on Qeshm Island; an Iranian official said there was no damage to vital infrastructure. Rubio called Iran's demands unrealistic; Iran's FM warned of 'hell' if the US chooses war. Ships reported hit near Hormuz; US blockade continues. On 9 Nov Iran said Washington must end sanctions, the blockade and the war before any talks; Araghchi said mediation paused after the US midterms.",
       "date": "9 Nov 2026",
       "source": "CNBC / Reuters / Saxo / Anadolu Agency",
       "url": "https://www.cnbc.com/2026/11/08/trump-iran-strikes-unlikely-talks-hormuz.html"
@@ -1252,22 +1301,6 @@
       "url": "https://www.regeringen.se/pressmeddelanden/2026/11/aterinford-granskontroll-vid-inre-grans/"
     },
     {
-      "date": "9 Nov",
-      "event": "US House: Massie aims to force Hegseth impeachment vote (lame-duck week)",
-      "place": "Washington",
-      "kind": "Politics",
-      "source": "USA Today / Roll Call",
-      "url": "https://www.usatoday.com/story/news/politics/2026/11/05/pete-hegseth-impeachment-fight/92630898007/"
-    },
-    {
-      "date": "9 Nov",
-      "event": "France: Lecornu's 'social conference' with unions and employers",
-      "place": "Paris",
-      "kind": "Politics",
-      "source": "BBC",
-      "url": "https://www.bbc.co.uk/news/articles/ckx2qzv835pgo"
-    },
-    {
       "date": "9-20 Nov",
       "event": "COP31 climate conference (leaders' summit 11-12 Nov)",
       "place": "Antalya, Turkey",
@@ -1330,6 +1363,14 @@
       "kind": "Economy",
       "source": "BLS",
       "url": "https://www.bls.gov/schedule/2026/11_sched.htm"
+    },
+    {
+      "date": "16 Nov",
+      "event": "EU Foreign Affairs Council (cyberattacks in Europe on the agenda, per Kallas)",
+      "place": "Brussels",
+      "kind": "Politics",
+      "source": "Euronews",
+      "url": "https://www.euronews.com/2026/11/09/france-says-iran-behind-cyberattacks-on-supermarket-fridges"
     },
     {
       "date": "18 Nov",
@@ -1511,11 +1552,11 @@
     },
     {
       "item": "Brent crude oil",
-      "figure": "~$96.80 (-1.5%, Mon)",
-      "detail": "Saxo: January Brent fell ~16% last week, its steepest weekly drop since the pandemic, and slipped further Monday after Trump called new Iran strikes 'highly unlikely'.",
+      "figure": "~$93.77 (-4.6%, Mon)",
+      "detail": "Front-month Brent was on track to settle at its lowest since early September after Trump said further US attacks on Iran were unlikely if talks progress; it fell ~16% last week (Saxo).",
       "date": "9 Nov 2026",
-      "source": "Saxo",
-      "url": "https://www.home.saxo/en-gb/content/articles/macro/market-quick-take---asian-chipmakers-rebound-and-brent-holds-below-usd-100---9-november-2026-09112026"
+      "source": "Sharecast",
+      "url": "https://www.sharecast.com/news/market-report-europe-close/europe-close-stocks-bounce-back-on-banking-ma-oil-price-slump--24090646.html"
     },
     {
       "item": "US stocks",
@@ -1524,6 +1565,14 @@
       "date": "6 Nov 2026",
       "source": "Saxo",
       "url": "https://www.home.saxo/en-gb/content/articles/macro/market-quick-take---asian-chipmakers-rebound-and-brent-holds-below-usd-100---9-november-2026-09112026"
+    },
+    {
+      "item": "European stocks",
+      "figure": "Stoxx 600 656.52 (+1.26%, Mon)",
+      "detail": "DAX +1.89% to 26,282.55, CAC 40 +1.16% to 8,233.30, FTSE MIB +2.69%, FTSE 100 ~+1%. Defence +4.2%, banks +3.1%. Markets price an ECB hike of at least 25bp early next year (LSEG); Sentix fell to 2.4.",
+      "date": "9 Nov 2026",
+      "source": "Reuters (MarketScreener) / Radiocor",
+      "url": "https://ca.marketscreener.com/news/european-shares-climb-as-banks-defence-stocks-lead-broad-based-rally-ce785fd3de88f726"
     },
     {
       "item": "Asia stocks",
@@ -1737,7 +1786,7 @@
       "headOfGov": "Prime Minister Anwar Ibrahim"
     }
   ],
-  "profilesNote": "Leaders checked against news of 9 November 2026 (~18:30 Rome). Israel: Netanyahu remains caretaker PM; Herzog tasked Gadi Eisenkot with forming a government on 8 Nov (28 days, extendable by 14). Paraguay: Pedro Alliana assumed the presidency after Peña resigned and the lower house impeached him over Ueno Bank (AS/COA / Latin Times); Deposit Guarantee payouts started — Paraguay is not listed in country profiles. Japan: PM Sanae Takaichi; government considering an explicit emergency exception to the non-nuclear principles in the National Security Strategy (Kyodo; claim/proposal, not yet adopted).",
+  "profilesNote": "Leaders checked against news of 9 November 2026 (~19:30 Rome). Israel: Netanyahu remains caretaker PM; Herzog tasked Gadi Eisenkot with forming a government on 8 Nov (28 days, extendable by 14). Paraguay: Pedro Alliana assumed the presidency after Peña resigned and the lower house impeached him over Ueno Bank (AS/COA / Latin Times); Deposit Guarantee payouts started — Paraguay is not listed in country profiles. Japan: PM Sanae Takaichi; government considering an explicit emergency exception to the non-nuclear principles in the National Security Strategy (Kyodo; claim/proposal, not yet adopted).",
   "profileSource": "https://www.imf.org/external/datamapper/NGDPD@WEO",
   "history": [
     {
