@@ -1,10 +1,61 @@
 {
   "title": "Global Intelligence Monitor",
-  "snapshot": "Monday 9 November 2026, 20:15 (Europe/Rome)",
+  "snapshot": "Monday 9 November 2026, 21:15 (Europe/Rome)",
   "snapshotDate": "2026-11-09",
-  "lastUpdated": "2026-11-09T20:15:00+01:00",
-  "summary": "A one-page briefing on world news, conflicts, politics and the economy in the week to 9 November 2026 (Monday ~20:15 Europe/Rome), with country profiles and a timeline since 1945.",
+  "lastUpdated": "2026-11-09T21:15:00+01:00",
+  "summary": "A one-page briefing on world news, conflicts, politics and the economy in the week to 9 November 2026 (Monday ~21:15 Europe/Rome), with country profiles and a timeline since 1945.",
   "news": [
+    {
+      "headline": "Wall Street posts best day in months as oil slides; Nvidia falls",
+      "summary": "S&P 500 +2.41% to 7,554.67, Dow +2.21% to 52,417.54, Nasdaq +2.67% to 25,235.49, rebounding from last week's post-midterm AI sell-off. Philadelphia chip index +6% (AMD ~+13%, Broadcom ~+9%) while Nvidia was the only decliner after its board opened an investigation into CEO Jensen Huang. All 11 S&P sectors rose.",
+      "date": "9 Nov 2026",
+      "region": "Americas",
+      "countries": [
+        "US"
+      ],
+      "source": "Reuters (via Financial Newsletter)",
+      "url": "https://financialnewsletter.com/wall-st-jumps-back/"
+    },
+    {
+      "headline": "Bank of England's Bailey warns AI payoff may take longer than markets expect",
+      "summary": "Speaking in Switzerland, Governor Andrew Bailey said the returns from AI 'take longer to be realised than predicted', citing Edison and electricity, and flagged the risk of an AI bubble. Brent fell 4.4% to about $93 after Trump said fresh Iran strikes were 'highly unlikely'.",
+      "date": "9 Nov 2026",
+      "region": "Europe",
+      "countries": [
+        "GB"
+      ],
+      "source": "The Telegraph (via Yahoo Finance UK)",
+      "url": "https://uk.finance.yahoo.com/news/wall-street-rallies-1tn-even-194911782.html"
+    },
+    {
+      "headline": "Pope Leo XIV urges Milei's government to protect the most vulnerable",
+      "summary": "Visiting the Cottolengo Don Orione home in Claypole near Buenos Aires, which cares for over 400 people and has been hit by spending cuts, the Pope said a nation's progress should be judged by how it treats those most in need. Part of a 12-day South American tour.",
+      "date": "9 Nov 2026",
+      "region": "Americas",
+      "countries": [],
+      "source": "Euronews",
+      "url": "https://www.euronews.com/2026/11/09"
+    },
+    {
+      "headline": "Storm Charles to bring torrential rain and 120 km/h winds to Portugal and Spain",
+      "summary": "The depression is expected to worsen the weather from Wednesday with heavy rain, gusts above 120 km/h and rough seas; Madeira will feel the effects from Tuesday.",
+      "date": "9 Nov 2026",
+      "region": "Europe",
+      "countries": [],
+      "source": "Euronews",
+      "url": "https://www.euronews.com/2026/11/09"
+    },
+    {
+      "headline": "FDA orders vision-loss warnings on GLP-1 weight-loss drugs",
+      "summary": "The US Food and Drug Administration is requiring makers of GLP-1 medicines to update safety labels to warn of a potential increased risk of a rare but serious eye condition that can cause permanent vision loss.",
+      "date": "9 Nov 2026",
+      "region": "Americas",
+      "countries": [
+        "US"
+      ],
+      "source": "Euronews",
+      "url": "https://www.euronews.com/2026/11/09"
+    },
     {
       "headline": "Steel plant blast in Turkey's Izmir province kills 3, leaves 10 missing",
       "summary": "An explosion around noon (0900 GMT) at the Habas iron and steel plant in Aliaga district killed three people, left 10 missing and injured 14, the local governor's office said.",
@@ -1580,11 +1631,11 @@
     },
     {
       "item": "US stocks",
-      "figure": "S&P 500 7,376.86 (+0.3%, Fri)",
-      "detail": "Saxo: Friday rebound after Thursday's AI sell-off; Nasdaq 100 +1.4% to 26,989.99, Dow -0.5% to 51,285.73, chip stocks +4.2%. US 10-year yield ~4.86%, VIX 25.64.",
-      "date": "6 Nov 2026",
-      "source": "Saxo",
-      "url": "https://www.home.saxo/en-gb/content/articles/macro/market-quick-take---asian-chipmakers-rebound-and-brent-holds-below-usd-100---9-november-2026-09112026"
+      "figure": "S&P 500 7,554.67 (+2.41%, Mon)",
+      "detail": "Reuters: biggest gain since April as oil slid; Dow +2.21% to 52,417.54, Nasdaq +2.67% to 25,235.49, Philadelphia chip index +6%; Nvidia fell about 5% amid the board probe into CEO Jensen Huang. Brent ~$93 (-4.4%).",
+      "date": "9 Nov 2026",
+      "source": "Reuters (via Financial Newsletter)",
+      "url": "https://financialnewsletter.com/wall-st-jumps-back/"
     },
     {
       "item": "European stocks",
@@ -1806,7 +1857,7 @@
       "headOfGov": "Prime Minister Anwar Ibrahim"
     }
   ],
-  "profilesNote": "Leaders checked against news of 9 November 2026 (~20:15 Rome). Israel: Netanyahu remains caretaker PM; Herzog tasked Gadi Eisenkot with forming a government on 8 Nov (28 days, extendable by 14). Paraguay: Pedro Alliana assumed the presidency after Peña resigned and the lower house impeached him over Ueno Bank (AS/COA / Latin Times); Deposit Guarantee payouts started — Paraguay is not listed in country profiles. Japan: PM Sanae Takaichi; government considering an explicit emergency exception to the non-nuclear principles in the National Security Strategy (Kyodo; claim/proposal, not yet adopted).",
+  "profilesNote": "Leaders checked against news of 9 November 2026 (~21:15 Rome). Israel: Netanyahu remains caretaker PM; Herzog tasked Gadi Eisenkot with forming a government on 8 Nov (28 days, extendable by 14). Paraguay: Pedro Alliana assumed the presidency after Peña resigned and the lower house impeached him over Ueno Bank (AS/COA / Latin Times); Deposit Guarantee payouts started — Paraguay is not listed in country profiles. Japan: PM Sanae Takaichi; government considering an explicit emergency exception to the non-nuclear principles in the National Security Strategy (Kyodo; claim/proposal, not yet adopted).",
   "profileSource": "https://www.imf.org/external/datamapper/NGDPD@WEO",
   "history": [
     {
