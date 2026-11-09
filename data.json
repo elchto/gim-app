@@ -1,10 +1,181 @@
 {
   "title": "Global Intelligence Monitor",
-  "snapshot": "Friday 6 November 2026, 05:15 (Europe/Rome)",
-  "snapshotDate": "2026-11-06",
-  "lastUpdated": "2026-11-06T05:15:00+01:00",
-  "summary": "A one-page briefing on world news, conflicts, politics and the economy in the week to 6 November 2026 (Friday morning ~05:15 Europe/Rome), with country profiles and a timeline since 1945.",
+  "snapshot": "Monday 9 November 2026, 18:30 (Europe/Rome)",
+  "snapshotDate": "2026-11-09",
+  "lastUpdated": "2026-11-09T18:30:00+01:00",
+  "summary": "A one-page briefing on world news, conflicts, politics and the economy in the week to 9 November 2026 (Monday ~18:30 Europe/Rome), with country profiles and a timeline since 1945.",
   "news": [
+    {
+      "headline": "Ukraine, Russia and US resume talks in Abu Dhabi on 10-11 Nov; EU sends a joint team",
+      "summary": "First trilateral round since February, led for the US by Witkoff and Kushner. Agenda: post-war security guarantees, de-escalation and humanitarian issues; NYT (via RBC-Ukraine) says a ceasefire is not on the agenda. The Commission and Council send a joint team, with France, Germany, the UK, Italy and NATO also present; analysts expect no breakthrough.",
+      "date": "9 Nov 2026",
+      "region": "Europe",
+      "countries": [
+        "UA",
+        "RU",
+        "US",
+        "FR",
+        "DE",
+        "GB"
+      ],
+      "source": "Euronews / AP / RBC-Ukraine",
+      "url": "https://www.euronews.com/2026/11/09/eu-to-send-joint-team-to-ukraine-russia-peace-talks-in-abu-dhabi"
+    },
+    {
+      "headline": "Beijing 'in communication' on a possible Trump-Xi-Putin meeting at APEC in Shenzhen",
+      "summary": "Trump said he will likely meet Xi and Putin in a rare three-way meeting on the sidelines of APEC (18-19 Nov); China said on Monday it was in contact with the relevant parties and did not rule it out. Not confirmed.",
+      "date": "9 Nov 2026",
+      "region": "Asia-Pacific",
+      "countries": [
+        "CN",
+        "US",
+        "RU"
+      ],
+      "source": "AP / The Hindu",
+      "url": "https://apnews.com/article/putin-trump-xi-shenzhen-summit-685503bde099612212fb9d6f716422e4"
+    },
+    {
+      "headline": "G7 foreign ministers meet in Paris and press Rubio on Iran and Ukraine",
+      "summary": "Two-day meeting (9-10 Nov). European ministers want Ukraine and Europe included in any US-Russia settlement and favour diplomacy with Iran; Rubio's first trip since the midterms.",
+      "date": "9 Nov 2026",
+      "region": "Europe",
+      "countries": [
+        "US",
+        "FR",
+        "DE",
+        "GB",
+        "IT",
+        "JP"
+      ],
+      "source": "AP / AFP",
+      "url": "https://apnews.com/article/rubio-trump-g7-france-iran-ukraine-6cbc723412d6e7a1766537fa4bad8c86"
+    },
+    {
+      "headline": "COP31 climate conference opens in Antalya",
+      "summary": "UN climate talks run 9-20 Nov in Turkey with more than 100,000 people expected; financial constraints and geopolitical tensions complicate cooperation.",
+      "date": "9 Nov 2026",
+      "region": "Europe",
+      "countries": [],
+      "source": "The Hindu / Anadolu Agency",
+      "url": "https://www.thehindu.com/news/top-news-of-the-day-november-9-2026/article71682319.ece"
+    },
+    {
+      "headline": "Russell Brand jailed for 10 years and six months",
+      "summary": "Sentenced at Southwark Crown Court for one rape and three sexual assaults.",
+      "date": "9 Nov 2026",
+      "region": "Europe",
+      "countries": [
+        "GB"
+      ],
+      "source": "AP / BBC",
+      "url": "https://apnews.com/article/russell-brand-sentenced-convicted-rape-sexual-assault-b1a4d27cbe73ed8b447947fdf9f05d59"
+    },
+    {
+      "headline": "Asian stocks rebound on chipmakers; Brent slips below $100",
+      "summary": "Saxo: Taiex about +5%, Nikkei about +2.5% in Monday afternoon trade, TSMC +5.6%. Brent about $96.80 (-1.5%) after a ~16% weekly fall, gold ~$4,122. US October CPI is due Tuesday.",
+      "date": "9 Nov 2026",
+      "region": "Asia-Pacific",
+      "countries": [
+        "JP",
+        "US"
+      ],
+      "source": "Saxo",
+      "url": "https://www.home.saxo/en-gb/content/articles/macro/market-quick-take---asian-chipmakers-rebound-and-brent-holds-below-usd-100---9-november-2026-09112026"
+    },
+    {
+      "headline": "Trump: Ukraine may end up 'a little bit different shape'",
+      "summary": "In a CBS '60 Minutes' interview Trump said the war would end soon and suggested altered borders; Rubio said some progress has been made on post-war security arrangements.",
+      "date": "9 Nov 2026",
+      "region": "Europe",
+      "countries": [
+        "US",
+        "UA",
+        "RU"
+      ],
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/nov/09/ukraine-war-briefing-post-war-security-guarantees-a-key-focus-in-upcoming-abu-dhabi-talks-says-rubio"
+    },
+    {
+      "headline": "Trump says new Iran strikes 'highly unlikely' if talks progress",
+      "summary": "Told CNN it 'depends on whether or not they sign a very strong agreement' on the nuclear programme and Hormuz, while saying three carriers are in the region and 38 bridges are in US sights. Both sides reported ships hit near Hormuz; Iran's foreign minister warned Tehran would 'rain down hell' if the US chooses war.",
+      "date": "8 Nov 2026",
+      "region": "Middle East",
+      "countries": [
+        "US",
+        "IR"
+      ],
+      "source": "CNBC / Reuters / Fox News",
+      "url": "https://www.cnbc.com/2026/11/08/trump-iran-strikes-unlikely-talks-hormuz.html"
+    },
+    {
+      "headline": "Herzog tasks Gadi Eisenkot with forming Israel's next government",
+      "summary": "Eisenkot (Yashar) had 67 recommendations against 46 for Netanyahu and has 28 days, extendable by 14. He pledged a 'national emergency government'.",
+      "date": "8 Nov 2026",
+      "region": "Middle East",
+      "countries": [
+        "IL"
+      ],
+      "source": "DW / JTA",
+      "url": "https://www.dw.com/en/israel-eisenkot-officially-tasked-with-forming-a-government/a-79891422"
+    },
+    {
+      "headline": "Houthi missiles intercepted over Riyadh; debris damages Aramco tower",
+      "summary": "Saudi air defences intercepted missiles; falling debris caused limited damage to Aramco's building in the King Abdullah Financial District, no injuries reported. The Houthis claimed hits on King Khalid airport and oil facilities (claim).",
+      "date": "8 Nov 2026",
+      "region": "Middle East",
+      "countries": [
+        "SA"
+      ],
+      "source": "Al Jazeera / Reuters",
+      "url": "https://www.aljazeera.com/news/2026/11/8/saudi-arabia-intercepts-houthi-missiles-targeting-riyadh-eastern-province"
+    },
+    {
+      "headline": "Egypt train collision in Giza kills seven",
+      "summary": "A Giza-Fayoum train hit the rear of a stationary Cairo-Aswan train in al-Ayyat; 114-125 injured according to different counts. Investigation opened.",
+      "date": "8 Nov 2026",
+      "region": "Africa",
+      "countries": [],
+      "source": "BBC / AP",
+      "url": "https://www.bbc.com/news/articles/cwvgr20mmmevo"
+    },
+    {
+      "headline": "South Africa local elections: ANC 30.76%, DA 24.64%",
+      "summary": "IEC results: the ANC stays the largest party but falls more than 14 points from 2021; Zuma's MK party takes 9.76% in its first local contest.",
+      "date": "8 Nov 2026",
+      "region": "Africa",
+      "countries": [],
+      "source": "Xinhua / IEC",
+      "url": "https://english.news.cn/20261109/e1d906afa36f4aa7b8e1eed37bad74d3/c.html"
+    },
+    {
+      "headline": "Gunman kills six in Krakow's Main Market Square",
+      "summary": "A 24-year-old man opened fire on 7 Nov, killing six and wounding 15; his parents and sister were found dead at home. He died in hospital on 9 Nov; prosecutors say it is too early to judge any political motive.",
+      "date": "7 Nov 2026",
+      "region": "Europe",
+      "countries": [],
+      "source": "AP / The Guardian",
+      "url": "https://apnews.com/article/poland-krakow-shooting-489bc2e25a2684b96b59682d0faee3e8"
+    },
+    {
+      "headline": "New Zealand election too close to call",
+      "summary": "Preliminary count: National 42, Labour 36, Greens 16, ACT 13, NZ First 12, Opportunity 7, Te Pati Maori 5 seats. National-ACT-NZ First projected at 67 of 131, a one-seat majority; ~14% special votes remain and final results are due 27 Nov.",
+      "date": "7 Nov 2026",
+      "region": "Asia-Pacific",
+      "countries": [],
+      "source": "BBC / Reuters",
+      "url": "https://www.bbc.com/news/articles/c3ewev11g1e0o"
+    },
+    {
+      "headline": "US added 165,000 jobs in October; unemployment 4.1%",
+      "summary": "Far above forecasts of ~65,000; August and September revised up by 84,000 combined. Fed officials backed further hikes and futures moved toward a December increase.",
+      "date": "6 Nov 2026",
+      "region": "Americas",
+      "countries": [
+        "US"
+      ],
+      "source": "CNBC / Saxo",
+      "url": "https://www.cnbc.com/2026/11/06/jobs-report-october-2026.html"
+    },
     {
       "headline": "Nikkei 225 plunges more than 7% Friday morning after Wall Street AI sell-off",
       "summary": "Japan Times: By 10:25 a.m. Tokyo the Nikkei was down 7.09%, falling below 60,000 for the first time since May, tracking Thursday's Nasdaq (−5.5%) and S&P 500 (−4.4%) drop on AI/data-centre regulation fears after the Democratic midterm sweep. Rohm −20%, SoftBank −11%; Topix also down >6% (intraday).",
@@ -479,7 +650,7 @@
     },
     {
       "headline": "Putin puts Japan Tobacco's Russian assets under temporary state management",
-      "summary": "A presidential decree transfers JTI stakes in four Russian factories (about 4,000 staff and roughly 40% of the cigarette market) to Industrial Assets / Promyshlennye Aktivy. JTI said it is assessing options; the move follows earlier seizures of Nestlé, Auchan, Metro and others.",
+      "summary": "A presidential decree transfers JTI stakes in four Russian factories (about 4,000 staff and roughly 40% of the cigarette market) to Industrial Assets / Promyshlennye Aktivy. JTI said it is assessing options; the move follows earlier seizures of Nestle, Auchan, Metro and others.",
       "date": "5 Nov 2026",
       "region": "Europe",
       "countries": [
@@ -503,7 +674,7 @@
     },
     {
       "headline": "Poland detains six over military-parts smuggling to Russia",
-      "summary": "ABW and prosecutors say five Poles and a Russian woman ran a group that moved ammunition and weapons components to Kaliningrad (worth over 2 million zloty). Four face espionage charges and pretrial detention; the group operated at least June 2023–December 2025.",
+      "summary": "ABW and prosecutors say five Poles and a Russian woman ran a group that moved ammunition and weapons components to Kaliningrad (worth over 2 million zloty). Four face espionage charges and pretrial detention; the group operated at least June 2023-December 2025.",
       "date": "5 Nov 2026",
       "region": "Europe",
       "countries": [
@@ -514,7 +685,7 @@
     },
     {
       "headline": "Meloni urges EU to appoint a single Ukraine peace envoy",
-      "summary": "In a letter to European Council President António Costa, Italy's PM said overlapping Miami, Oslo, Brussels and other formats make Europe look 'all over the place' and asked for the issue to go on the 13 Nov Dublin informal summit agenda, with a formal decision by December.",
+      "summary": "In a letter to European Council President Antonio Costa, Italy's PM said overlapping Miami, Oslo, Brussels and other formats make Europe look all over the place and asked for the issue to go on the 13 Nov Dublin informal summit agenda, with a formal decision by December.",
       "date": "5 Nov 2026",
       "region": "Europe",
       "countries": [
@@ -526,7 +697,7 @@
     },
     {
       "headline": "Nasdaq closes down 5.17% as AI and chip stocks plunge",
-      "summary": "Investing.com historical data put the Nasdaq Composite close at 24,405.73 (−5.17%). Afternoon reporting had the S&P 500 off about 3.7% and the Dow about 2.8–2.9% as chipmakers and data-centre names led a post-midterm AI sell-off.",
+      "summary": "Investing.com historical data put the Nasdaq Composite close at 24,405.73 (-5.17%). Afternoon reporting had the S&P 500 off about 3.7% and the Dow about 2.8-2.9% as chipmakers and data-centre names led a post-midterm AI sell-off.",
       "date": "5 Nov 2026",
       "region": "Americas",
       "countries": [
@@ -625,19 +796,6 @@
       "url": "https://english.kyodonews.net/articles/-/90209"
     },
     {
-      "headline": "US to host Ukraine-Russia talks in Abu Dhabi on 10-11 November",
-      "summary": "US envoy Steve Witkoff said the working-level talks will cover post-war security, de-escalation, humanitarian steps and ending the war. They are the first three-way talks since February.",
-      "date": "2 Nov 2026",
-      "region": "Europe",
-      "countries": [
-        "UA",
-        "RU",
-        "US"
-      ],
-      "source": "Reuters",
-      "url": "https://www.reuters.com/5f374b32b07b/world/europe/us-hold-trilateral-talks-with-ukraine-russia-abu-dhabi-next-week-us-official-2026-11-02/"
-    },
-    {
       "headline": "US strikes Iran's Qeshm Island in the Strait of Hormuz",
       "summary": "US officials called the strikes limited and defensive, after Iranian forces fired on US assets. It was the first US attack on the island since June, while Qatari mediation continues.",
       "date": "3 Nov 2026",
@@ -658,10 +816,10 @@
         "label": "Talks amid fighting",
         "tone": "danger"
       },
-      "latest": "Guardian: In Madrid (5 Nov), Zelenskyy said every Ukrainian power plant has been damaged and appealed for Spanish/Latin American grid equipment. Al Jazeera/AP: After meeting Kirill Dmitriev, Trump again claimed a major deal is 'very close' and could involve 'all of Europe' — no terms (claim). Abu Dhabi US-mediated talks still 10–11 Nov. Komyshuvakha toll earlier reported at 43; fighting and overnight exchanges continue.",
-      "date": "6 Nov 2026",
-      "source": "The Guardian / Al Jazeera / AP",
-      "url": "https://www.theguardian.com/world/2026/nov/06/ukraine-war-briefing-zelenskyy-says-russia-has-damaged-every-power-plant-as-he-seeks-latin-american-help"
+      "latest": "US-mediated trilateral talks resume in Abu Dhabi on 10-11 Nov (first since February), focused on post-war security guarantees; a ceasefire is reportedly not on the agenda. EU joint team, E3, Italy and NATO attend. Trump (60 Minutes) expects the war to end soon with 'a little bit different shape' for Ukraine. Russia keeps striking the power grid while Ukraine hits Russian refineries.",
+      "date": "9 Nov 2026",
+      "source": "Euronews / The Guardian / Xinhua",
+      "url": "https://www.euronews.com/2026/11/09/eu-to-send-joint-team-to-ukraine-russia-peace-talks-in-abu-dhabi"
     },
     {
       "name": "US/Israel-Iran war",
@@ -670,10 +828,10 @@
         "label": "Threats and diplomacy",
         "tone": "danger"
       },
-      "latest": "Axios: After a Thursday NSC meeting Trump said he will decide 'soon' among new strikes, economic pressure or a deal with concessions; Qatar mediators float a claimed two-day confidence sequence. USS Theodore Roosevelt begins a Singapore port call Friday (not expected in CENTCOM AOR before mid-Nov). AA/Al Jazeera: Trump also warned he may have to 'destroy the rest' of Iran (claim; no strike ordered). Iran's nuclear proposal via Qatar and seven preconditions still under review; Hormuz tanker incidents continue. Brent ~$99.86 early Friday (WTI ~$91.62).",
-      "date": "6 Nov 2026",
-      "source": "Axios / Anadolu Agency / Reuters",
-      "url": "https://www.axios.com/2026/11/05/trump-iran-war-national-security-team-decision"
+      "latest": "Trump told CNN (8 Nov) that renewed strikes are 'highly unlikely' if Iran signs a strong deal on its nuclear programme and Hormuz, but said three carriers are 'locked and loaded' and 38 bridges are targeted. Saxo: he confirmed limited strikes on an air-defence site on Qeshm Island; an Iranian official said there was no damage to vital infrastructure. Rubio called Iran's demands unrealistic; Iran's FM warned of 'hell' if the US chooses war. Ships reported hit near Hormuz; US blockade continues.",
+      "date": "9 Nov 2026",
+      "source": "CNBC / Reuters / Saxo / Anadolu Agency",
+      "url": "https://www.cnbc.com/2026/11/08/trump-iran-strikes-unlikely-talks-hormuz.html"
     },
     {
       "name": "Houthis vs Saudi-led coalition (Yemen)",
@@ -682,10 +840,10 @@
         "label": "Widening",
         "tone": "danger"
       },
-      "latest": "Xinhua (6 Nov): Houthis claimed a drone strike on King Fahd International Airport in Dammam — unverified; no immediate Saudi confirmation. Coalition said it intercepted a ballistic missile toward Medina and a drone over the Eastern Province. Yanbu Red Sea oil-hub alerts continue.",
-      "date": "6 Nov 2026",
-      "source": "Xinhua / Al Jazeera / Reuters",
-      "url": "https://english.news.cn/20261106/72ee29c823a547c99f3303a3f31eade0/c.html"
+      "latest": "8 Nov: Saudi defences intercepted Houthi missiles over Riyadh; debris caused limited damage to Aramco's tower in the financial district, no injuries. Houthis claimed strikes on King Khalid airport, Aramco storage tanks and a financial centre (claims). Yemen's army reported heavy fighting against Houthi forces.",
+      "date": "8 Nov 2026",
+      "source": "Al Jazeera / Reuters / Xinhua",
+      "url": "https://www.aljazeera.com/news/2026/11/8/saudi-arabia-intercepts-houthi-missiles-targeting-riyadh-eastern-province"
     },
     {
       "name": "Gaza",
@@ -694,10 +852,10 @@
         "label": "Fragile ceasefire",
         "tone": "warning"
       },
-      "latest": "AFP: Civil defence said Israeli strikes/gunfire on 5 Nov killed five in Gaza, including a 12-year-old near Al-Bureij and a woman near Khan Yunis; IDF said it hit 'terrorists' in Al-Zawayda and west of Gaza City and was looking into the Khan Yunis report. October 2025 ceasefire remains fragile; Hamas still presses mediators in Cairo on next-phase implementation (claims).",
-      "date": "6 Nov 2026",
-      "source": "AFP / Dawn",
-      "url": "https://www.dawn.com/news/2042440"
+      "latest": "Axios: Trump asked Netanyahu in a post-election call to move ahead on the Gaza peace plan. Gaza's health ministry says flooding left 350,000 displaced people sleeping in the open; Hamas blamed Israel for a landslide that killed a woman and four children in tents (claim). IDF says it killed two armed men approaching troops.",
+      "date": "8 Nov 2026",
+      "source": "Axios / Anadolu Agency / IDF",
+      "url": "https://www.axios.com/2026/11/08/trump-netanyahu-implement-gaza-peace-plan"
     },
     {
       "name": "Israel-Hezbollah (Lebanon)",
@@ -706,10 +864,10 @@
         "label": "Low-level clashes",
         "tone": "warning"
       },
-      "latest": "Naharnet / NNA: Overnight Israeli strikes hit Tallousa, Aita al-Jabal and Hadatha-Harees (5 Nov), hours after a drone strike in Qabrikha killed one motorcyclist and wounded another — the first such death since September. Implementation of the June US-brokered framework still lags; Israel continues to press Beirut to keep Hezbollah out of any renewed Iran war.",
-      "date": "5 Nov 2026",
-      "source": "Naharnet / NNA",
-      "url": "https://www.naharnet.com/stories/en/323567-israeli-strikes-target-tallousa-aita-al-jabal-and-hadatha-harees"
+      "latest": "Israeli shelling, raids and demolitions continued in southern Lebanon despite the ceasefire; Hezbollah claimed drone and missile attacks on Israeli Merkava tanks in response (claims). Herzog says Lebanon talks are among the next government's tasks.",
+      "date": "8 Nov 2026",
+      "source": "Ilke News Agency / Conflict Tracker",
+      "url": "https://www.ilkha.com/english/world/hezbollah-targets-israeli-merkava-tanks-in-response-to-ceasefire-violations-536221"
     },
     {
       "name": "Sudan civil war",
@@ -718,13 +876,75 @@
         "label": "Escalating",
         "tone": "danger"
       },
-      "latest": "UN and AP warn drone strikes on power/fuel sites are deepening outages and hunger. Sudan and Ethiopia expelled each other's diplomats (Assosa/Qadaref) over alleged RSF backing. UN-backed talks with RSF bloc still expected before 25 Dec.",
-      "date": "5 Nov 2026",
-      "source": "AP / Al Jazeera / The Soufan Center",
-      "url": "https://apnews.com/article/ethiopia-sudan-egypt-eritrea-diplomats-expulsions-drone-attacks-5e963c304cde91158a39218209a477cb"
+      "latest": "IOM: about 2,510 people fled five villages in North Darfur amid worsening insecurity, most into Chad. El Fasher, a year under RSF control, has fewer than 70,000 residents left; RSF drone strikes on power stations deepen outages. Sudan-Ethiopia diplomatic row continues; UN-backed talks with RSF bloc still expected before 25 Dec.",
+      "date": "9 Nov 2026",
+      "source": "Anadolu Agency / IOM / AP",
+      "url": "https://www.aa.com.tr/en/world/morning-briefing-nov-9/4116449"
     }
   ],
   "politics": [
+    {
+      "date": "9 Nov",
+      "title": "G7 foreign ministers meet in Paris (9-10 Nov)",
+      "detail": "Europeans press Rubio to keep Ukraine and Europe in any settlement and to favour diplomacy with Iran; AI safety and maritime security also on the agenda.",
+      "status": {
+        "label": "In session",
+        "tone": "warning"
+      },
+      "source": "AP / AFP",
+      "url": "https://apnews.com/article/rubio-trump-g7-france-iran-ukraine-6cbc723412d6e7a1766537fa4bad8c86"
+    },
+    {
+      "date": "9 Nov",
+      "title": "China: 'in communication' on Trump-Xi-Putin meeting at APEC",
+      "detail": "Trump says a three-way meeting in Shenzhen (18-19 Nov) is likely; Beijing did not rule it out. Not confirmed.",
+      "status": {
+        "label": "Possible",
+        "tone": "warning"
+      },
+      "source": "AP",
+      "url": "https://apnews.com/article/putin-trump-xi-shenzhen-summit-685503bde099612212fb9d6f716422e4"
+    },
+    {
+      "date": "9 Nov",
+      "title": "UK: Russell Brand sentenced to 10 years 6 months",
+      "detail": "For one rape and three sexual assaults; likely to serve two-thirds in custody.",
+      "source": "AP / BBC",
+      "url": "https://apnews.com/article/russell-brand-sentenced-convicted-rape-sexual-assault-b1a4d27cbe73ed8b447947fdf9f05d59"
+    },
+    {
+      "date": "8 Nov",
+      "title": "Israel: Eisenkot formally tasked with forming a government",
+      "detail": "67 recommendations vs 46 for Netanyahu; 28 days plus a possible 14-day extension. He seeks a 'national emergency government'; Netanyahu stays caretaker PM.",
+      "status": {
+        "label": "Coalition talks",
+        "tone": "warning"
+      },
+      "source": "DW / JTA",
+      "url": "https://www.dw.com/en/israel-eisenkot-officially-tasked-with-forming-a-government/a-79891422"
+    },
+    {
+      "date": "8 Nov",
+      "title": "South Africa: ANC 30.76%, DA 24.64%, MK 9.76%",
+      "detail": "IEC local election results: ANC still largest but down more than 14 points from 2021.",
+      "status": {
+        "label": "Results in",
+        "tone": "success"
+      },
+      "source": "Xinhua / IEC",
+      "url": "https://english.news.cn/20261109/e1d906afa36f4aa7b8e1eed37bad74d3/c.html"
+    },
+    {
+      "date": "7 Nov",
+      "title": "New Zealand: hung result, final count 27 Nov",
+      "detail": "National 42, Labour 36, Greens 16, ACT 13, NZ First 12, Opportunity 7, Te Pati Maori 5 (preliminary). Luxon runs a caretaker government until final results.",
+      "status": {
+        "label": "Too close to call",
+        "tone": "warning"
+      },
+      "source": "BBC / Reuters",
+      "url": "https://www.bbc.com/news/articles/c3ewev11g1e0o"
+    },
     {
       "date": "6 Nov",
       "title": "US/Iran: Trump weighs strikes, pressure or deal after NSC meeting",
@@ -768,17 +988,6 @@
       },
       "source": "Global Times / CCTV",
       "url": "https://www.globaltimes.cn/page/202611/1373745.shtml"
-    },
-    {
-      "date": "6 Nov",
-      "title": "New Zealand: final Freshwater poll has Labour ahead; vote tomorrow",
-      "detail": "Spinoff/The Post: Four final polls show tiny margins. Freshwater has Labour 30.7% / National 26.4% / Opportunity 5.1% (possible kingmaker; ~6,000 votes either side of 5%). Other late polls (Curia, Verian) are closer with National slightly ahead. Polls close 19:00 NZDT Saturday 7 Nov.",
-      "status": {
-        "label": "Election eve",
-        "tone": "warning"
-      },
-      "source": "The Spinoff / RNZ / The Post",
-      "url": "https://thespinoff.co.nz/politics/06-11-2026/four-final-polls-and-the-tiny-margins-that-could-decide-the-result"
     },
     {
       "date": "6 Nov",
@@ -845,17 +1054,6 @@
       },
       "source": "AS/COA / Latin Times",
       "url": "https://www.as-coa.org/articles/paraguays-president-resigns-why-and-what-comes-next"
-    },
-    {
-      "date": "6 Nov",
-      "title": "South Africa: ANC 31.8% / DA 24.9% with ~71% counted",
-      "detail": "Outlier/IEC provisional: many hung councils (73 of 104 decided). ANC 21 outright wins, DA 6, MK 3. Full results still expected ~8 Nov.",
-      "status": {
-        "label": "Counting",
-        "tone": "warning"
-      },
-      "source": "The Outlier / IEC",
-      "url": "https://www.theoutlier.co.za/results"
     },
     {
       "date": "6 Nov",
@@ -969,19 +1167,8 @@
     },
     {
       "date": "5 Nov",
-      "title": "Israel: Herzog will name mandate-holder on Sunday",
-      "detail": "Eisenkot 67 recommendations vs Netanyahu 46; Herzog cites mutual vetoes and will talk to party leaders privately before Sunday's decision.",
-      "status": {
-        "label": "Decision Sunday",
-        "tone": "warning"
-      },
-      "source": "Ynet / Reuters",
-      "url": "https://www.ynetnews.com/article/rjj1td9pfx"
-    },
-    {
-      "date": "5 Nov",
       "title": "Italy: Meloni presses EU for a Ukraine peace envoy",
-      "detail": "Letter to Costa calls overlapping formats 'all over the place' and seeks a Dublin (13 Nov) agenda item plus a December decision.",
+      "detail": "Letter to Costa calls overlapping formats all over the place and seeks a Dublin (13 Nov) agenda item plus a December decision.",
       "status": {
         "label": "Diplomacy",
         "tone": "warning"
@@ -1049,62 +1236,6 @@
   ],
   "upcoming": [
     {
-      "date": "6 Nov",
-      "event": "US jobs report for October (due 08:30 ET / 14:30 Rome — not yet released at ~05:15 Rome)",
-      "place": "Washington",
-      "kind": "Economy",
-      "source": "BLS / CNBC preview",
-      "url": "https://www.cnbc.com/2026/11/05/october-jobs-report-preview.html"
-    },
-    {
-      "date": "7 Nov",
-      "event": "New Zealand general election (four final polls: Freshwater Labour 30.7%/National 26.4%; Opportunity 5.1% cliffhanger; other polls closer — polls close 19:00 NZDT)",
-      "place": "New Zealand",
-      "kind": "Politics",
-      "source": "The Spinoff / RNZ",
-      "url": "https://thespinoff.co.nz/politics/06-11-2026/four-final-polls-and-the-tiny-margins-that-could-decide-the-result"
-    },
-    {
-      "date": "8 Nov",
-      "event": "Israel: Herzog to announce who is tasked with forming the next government",
-      "place": "Jerusalem",
-      "kind": "Politics",
-      "source": "Ynet / Reuters",
-      "url": "https://www.ynetnews.com/article/rjj1td9pfx"
-    },
-    {
-      "date": "8 Nov",
-      "event": "South Africa: full local election results expected (ANC 31.8% / DA 24.9% at ~71% count)",
-      "place": "Pretoria",
-      "kind": "Politics",
-      "source": "The Outlier / IEC",
-      "url": "https://www.theoutlier.co.za/results"
-    },
-    {
-      "date": "9 Nov",
-      "event": "UK: Russell Brand sentencing at Southwark Crown Court",
-      "place": "London",
-      "kind": "Politics",
-      "source": "BBC",
-      "url": "https://www.bbc.com/news/articles/ckyvrze96y70o"
-    },
-    {
-      "date": "9 Nov",
-      "event": "France: Lecornu's 'social conference' with unions and employers",
-      "place": "Paris",
-      "kind": "Politics",
-      "source": "BBC",
-      "url": "https://www.bbc.co.uk/news/articles/ckx2qzv835pgo"
-    },
-    {
-      "date": "9 Nov",
-      "event": "US House: Massie aims to force Hegseth impeachment vote (lame-duck week)",
-      "place": "Washington",
-      "kind": "Politics",
-      "source": "USA Today / Roll Call",
-      "url": "https://www.usatoday.com/story/news/politics/2026/11/05/pete-hegseth-impeachment-fight/92630898007/"
-    },
-    {
       "date": "10 Nov",
       "event": "Italy: Crosetto briefs COPASIR on 13th Ukraine military aid package",
       "place": "Rome",
@@ -1121,12 +1252,52 @@
       "url": "https://www.regeringen.se/pressmeddelanden/2026/11/aterinford-granskontroll-vid-inre-grans/"
     },
     {
+      "date": "9 Nov",
+      "event": "US House: Massie aims to force Hegseth impeachment vote (lame-duck week)",
+      "place": "Washington",
+      "kind": "Politics",
+      "source": "USA Today / Roll Call",
+      "url": "https://www.usatoday.com/story/news/politics/2026/11/05/pete-hegseth-impeachment-fight/92630898007/"
+    },
+    {
+      "date": "9 Nov",
+      "event": "France: Lecornu's 'social conference' with unions and employers",
+      "place": "Paris",
+      "kind": "Politics",
+      "source": "BBC",
+      "url": "https://www.bbc.co.uk/news/articles/ckx2qzv835pgo"
+    },
+    {
       "date": "9-20 Nov",
       "event": "COP31 climate conference (leaders' summit 11-12 Nov)",
       "place": "Antalya, Turkey",
       "kind": "Politics",
       "source": "UNFCCC",
       "url": "https://unfccc.int/sites/default/files/resource/notification_to_un_cop31.pdf"
+    },
+    {
+      "date": "9-10 Nov",
+      "event": "G7 foreign ministers' meeting",
+      "place": "Paris",
+      "kind": "Politics",
+      "source": "France Diplomatie",
+      "url": "https://www.diplomatie.gouv.fr/en/presse-et-ressources/decouvrir-et-informer/actualites/quelles-priorites-pour-la-reunion-des-ministres-des-affaires-etrangeres-du-g7-a-paris"
+    },
+    {
+      "date": "10 Nov",
+      "event": "China October trade data",
+      "place": "Beijing",
+      "kind": "Economy",
+      "source": "Saxo",
+      "url": "https://www.home.saxo/en-gb/content/articles/macro/market-quick-take---asian-chipmakers-rebound-and-brent-holds-below-usd-100---9-november-2026-09112026"
+    },
+    {
+      "date": "12 Nov",
+      "event": "UK third-quarter GDP",
+      "place": "London",
+      "kind": "Economy",
+      "source": "Saxo",
+      "url": "https://www.home.saxo/en-gb/content/articles/macro/market-quick-take---asian-chipmakers-rebound-and-brent-holds-below-usd-100---9-november-2026-09112026"
     },
     {
       "date": "10 Nov",
@@ -1177,6 +1348,22 @@
       "url": "https://english.www.gov.cn/news/202512/12/content_WS693c1432c6d00ca5f9a080e6.html"
     },
     {
+      "date": "18-19 Nov",
+      "event": "Possible Trump-Xi-Putin meeting on APEC sidelines (not confirmed)",
+      "place": "Shenzhen, China",
+      "kind": "Politics",
+      "source": "AP",
+      "url": "https://apnews.com/article/putin-trump-xi-shenzhen-summit-685503bde099612212fb9d6f716422e4"
+    },
+    {
+      "date": "27 Nov",
+      "event": "New Zealand official election results",
+      "place": "Wellington",
+      "kind": "Politics",
+      "source": "NZ Electoral Commission",
+      "url": "https://electionresults.govt.nz/"
+    },
+    {
       "date": "29 Nov",
       "event": "Spain snap general election",
       "place": "Spain",
@@ -1193,6 +1380,14 @@
       "url": "https://www.bls.gov/schedule/2026/11_sched.htm"
     },
     {
+      "date": "8-9 Dec",
+      "event": "US Federal Reserve rate decision (markets lean toward a hike)",
+      "place": "Washington",
+      "kind": "Economy",
+      "source": "Saxo",
+      "url": "https://www.home.saxo/en-gb/content/articles/macro/market-quick-take---asian-chipmakers-rebound-and-brent-holds-below-usd-100---9-november-2026-09112026"
+    },
+    {
       "date": "14-15 Dec",
       "event": "G20 Leaders' Summit",
       "place": "Miami, US",
@@ -1201,20 +1396,20 @@
       "url": "https://www.g20.utoronto.ca/summits/2026miami.html"
     },
     {
-      "date": "Before 25 Dec",
-      "event": "UN-backed talks with Sudan's RSF bloc (expected)",
-      "place": "Possibly Addis Ababa",
-      "kind": "Politics",
-      "source": "The Soufan Center",
-      "url": "https://thesoufancenter.org/intelbrief-2026-november-4/"
-    },
-    {
       "date": "17 Dec",
       "event": "Bank of England next rate decision",
       "place": "London",
       "kind": "Economy",
       "source": "Bank of England",
       "url": "https://www.bankofengland.co.uk/monetary-policy/the-interest-rate-bank-rate"
+    },
+    {
+      "date": "Before 25 Dec",
+      "event": "UN-backed talks with Sudan's RSF bloc (expected)",
+      "place": "Possibly Addis Ababa",
+      "kind": "Politics",
+      "source": "The Soufan Center",
+      "url": "https://thesoufancenter.org/intelbrief-2026-november-4/"
     },
     {
       "date": "16 Jan 2027",
@@ -1226,6 +1421,30 @@
     }
   ],
   "economy": [
+    {
+      "item": "US jobs (October)",
+      "figure": "+165,000; unemployment 4.1%",
+      "detail": "Forecasts were ~65,000; Aug-Sep revised up 84,000. Average hourly earnings +0.4% m/m. Fed officials backed more hikes.",
+      "date": "6 Nov 2026",
+      "source": "CNBC / Saxo",
+      "url": "https://www.cnbc.com/2026/11/06/jobs-report-october-2026.html"
+    },
+    {
+      "item": "China prices (October)",
+      "figure": "PPI +5.7% y/y; CPI 0.7%",
+      "detail": "Producer prices beat the 5.3% forecast, the fastest pace in more than four years; consumer inflation slowed.",
+      "date": "9 Nov 2026",
+      "source": "Saxo",
+      "url": "https://www.home.saxo/en-gb/content/articles/macro/market-quick-take---asian-chipmakers-rebound-and-brent-holds-below-usd-100---9-november-2026-09112026"
+    },
+    {
+      "item": "Gold",
+      "figure": "~$4,122/oz (+1.25%)",
+      "detail": "Rebounded Monday as the dollar and oil eased; central banks bought 321 tonnes in Q3. Silver ~$52.75.",
+      "date": "9 Nov 2026",
+      "source": "Saxo",
+      "url": "https://www.home.saxo/en-gb/content/articles/macro/market-quick-take---asian-chipmakers-rebound-and-brent-holds-below-usd-100---9-november-2026-09112026"
+    },
     {
       "item": "Japan real wages",
       "figure": "+2.2% y/y (Sep)",
@@ -1292,27 +1511,27 @@
     },
     {
       "item": "Brent crude oil",
-      "figure": "~$99.86 (Fri early) / WTI ~$91.62",
-      "detail": "Reuters: Brent January +1.6% to about $99.86 as of 0222 GMT Friday; WTI ~$91.62. Still heading for ~12% weekly losses after midterm de-escalation bets, but Hormuz tanker attacks supported a rebound.",
-      "date": "6 Nov 2026",
-      "source": "Reuters / Business Recorder",
-      "url": "https://www.brecorder.com/news/40447719/oil-set-for-sharp-weekly-drop-but-middle-east-supply-concerns-provide-floor"
+      "figure": "~$96.80 (-1.5%, Mon)",
+      "detail": "Saxo: January Brent fell ~16% last week, its steepest weekly drop since the pandemic, and slipped further Monday after Trump called new Iran strikes 'highly unlikely'.",
+      "date": "9 Nov 2026",
+      "source": "Saxo",
+      "url": "https://www.home.saxo/en-gb/content/articles/macro/market-quick-take---asian-chipmakers-rebound-and-brent-holds-below-usd-100---9-november-2026-09112026"
     },
     {
       "item": "US stocks",
-      "figure": "Nasdaq −5.5% (Thu close)",
-      "detail": "Japan Times / CNBC: Nasdaq Composite −5.5% Thursday (worst since Apr 2025) on AI-regulation fears after the Democratic sweep; S&P 500 −4.4%; Philadelphia Semiconductor Index −12.3%. Tesla and SpaceX together lost over $420bn in market value; Nvidia/Qualcomm fell >9%.",
-      "date": "5 Nov 2026",
-      "source": "The Japan Times / CNBC",
-      "url": "https://www.japantimes.co.jp/business/2026/11/06/markets/market-nov-6/"
+      "figure": "S&P 500 7,376.86 (+0.3%, Fri)",
+      "detail": "Saxo: Friday rebound after Thursday's AI sell-off; Nasdaq 100 +1.4% to 26,989.99, Dow -0.5% to 51,285.73, chip stocks +4.2%. US 10-year yield ~4.86%, VIX 25.64.",
+      "date": "6 Nov 2026",
+      "source": "Saxo",
+      "url": "https://www.home.saxo/en-gb/content/articles/macro/market-quick-take---asian-chipmakers-rebound-and-brent-holds-below-usd-100---9-november-2026-09112026"
     },
     {
-      "item": "Japan stocks",
-      "figure": "Nikkei −7.09% (Fri a.m. intraday)",
-      "detail": "Japan Times: Nikkei down 7.09% by 10:25 a.m. Friday, below 60,000 first time since May after Nasdaq −5.5% / S&P −4.4% Thursday on AI fears. SoftBank −11%, Rohm −20%; Thursday close had been 61,077.90 (−1.8%).",
-      "date": "6 Nov 2026",
-      "source": "The Japan Times",
-      "url": "https://www.japantimes.co.jp/business/2026/11/06/markets/market-nov-6/"
+      "item": "Asia stocks",
+      "figure": "Nikkei ~+2.5%, Taiex ~+5% (Mon)",
+      "detail": "Saxo: chipmakers led a rebound after Friday's heavy losses; TSMC +5.6%, Tokyo Electron nearly +3%. Europe's Stoxx 600 fell 1% Friday.",
+      "date": "9 Nov 2026",
+      "source": "Saxo",
+      "url": "https://www.home.saxo/en-gb/content/articles/macro/market-quick-take---asian-chipmakers-rebound-and-brent-holds-below-usd-100---9-november-2026-09112026"
     },
     {
       "item": "US-China trade",
@@ -1331,7 +1550,7 @@
       "url": "https://vocemundi.com/the-week-2026-11-01/"
     }
   ],
-  "economyNote": "The Bank of England raised Bank Rate to 4% on 5 November, its first hike in over three years. Japan real wages rose 2.2% y/y in September (ninth straight gain). Asia opened sharply lower Friday: Nikkei −7.09% by mid-morning (Japan Times) after Nasdaq −5.5%. Energy from the Iran war remains the main European inflation driver; Brent traded near $99.86 early Friday Beijing time (WTI ~$91.62) after Hormuz tanker incidents (Reuters). US October jobs report is still due later today (6 Nov, 08:30 ET / 14:30 Rome).",
+  "economyNote": "The Bank of England raised Bank Rate to 4% on 5 November, its first hike in over three years. Japan real wages rose 2.2% y/y in September (ninth straight gain). US payrolls rose 165,000 in October and unemployment fell to 4.1% (CNBC), lifting bets on a December Fed hike. Asian stocks rebounded Monday after last week's AI sell-off, and Brent slipped to about $96.80 after a ~16% weekly fall as Trump called new Iran strikes 'highly unlikely' (Saxo). US October CPI is due Tuesday 10 Nov.",
   "policyRates": [
     {
       "label": "US Fed",
@@ -1518,7 +1737,7 @@
       "headOfGov": "Prime Minister Anwar Ibrahim"
     }
   ],
-  "profilesNote": "Leaders checked against news of 6 November 2026 (~05:15 Rome). Israel: Netanyahu remains caretaker PM; Herzog to name mandate-holder Sunday 8 Nov (Eisenkot 67 vs Netanyahu 46). Paraguay: Pedro Alliana assumed the presidency after Peña resigned and the lower house impeached him over Ueno Bank (AS/COA / Latin Times); Deposit Guarantee payouts started — Paraguay is not listed in country profiles. Japan: PM Sanae Takaichi; government considering an explicit emergency exception to the non-nuclear principles in the National Security Strategy (Kyodo; claim/proposal, not yet adopted).",
+  "profilesNote": "Leaders checked against news of 9 November 2026 (~18:30 Rome). Israel: Netanyahu remains caretaker PM; Herzog tasked Gadi Eisenkot with forming a government on 8 Nov (28 days, extendable by 14). Paraguay: Pedro Alliana assumed the presidency after Peña resigned and the lower house impeached him over Ueno Bank (AS/COA / Latin Times); Deposit Guarantee payouts started — Paraguay is not listed in country profiles. Japan: PM Sanae Takaichi; government considering an explicit emergency exception to the non-nuclear principles in the National Security Strategy (Kyodo; claim/proposal, not yet adopted).",
   "profileSource": "https://www.imf.org/external/datamapper/NGDPD@WEO",
   "history": [
     {
@@ -1816,9 +2035,53 @@
       "detail": "Friday morning: Nikkei plunged >7% (Japan Times) after Nasdaq's AI sell-off; Axios said Trump is weighing new Iran strikes, economic pressure or a deal after an NSC meeting, with USS Theodore Roosevelt stopping in Singapore. AFP reported five killed in Gaza including a child amid the fragile ceasefire. Earlier Friday: Kyodo said Japan may write an emergency exception to its non-nuclear principles into the NSS; CCTV said China's DF-61 entered Rocket Force routine training; Trump floated tariffs up to 300%; Brent ~$99.86; Zelenskyy said every Ukrainian power plant has been damaged; Delhi winter smog returned (BBC).",
       "url": "https://www.japantimes.co.jp/business/2026/11/06/markets/market-nov-6/",
       "source": "Japan Times / Axios / AFP / Kyodo"
+    },
+    {
+      "year": 2026,
+      "date": "7-9 Nov 2026",
+      "title": "Eisenkot tasked in Israel; NZ hung result; Krakow shooting",
+      "detail": "Herzog asked Gadi Eisenkot to form a government (8 Nov); New Zealand's election left no clear winner; a gunman killed six in Krakow. Trump called new Iran strikes 'highly unlikely' if talks progress, and Ukraine-Russia-US talks were set for Abu Dhabi on 10-11 Nov.",
+      "url": "https://www.dw.com/en/israel-eisenkot-officially-tasked-with-forming-a-government/a-79891422",
+      "source": "DW / BBC / AP / CNBC"
     }
   ],
   "sources": [
+    {
+      "title": "Euronews — EU joint team at Abu Dhabi talks",
+      "site": "Euronews",
+      "url": "https://www.euronews.com/2026/11/09/eu-to-send-joint-team-to-ukraine-russia-peace-talks-in-abu-dhabi",
+      "date": "9 Nov 2026"
+    },
+    {
+      "title": "CNBC — Trump: Iran strikes 'highly unlikely'",
+      "site": "CNBC",
+      "url": "https://www.cnbc.com/2026/11/08/trump-iran-strikes-unlikely-talks-hormuz.html",
+      "date": "8 Nov 2026"
+    },
+    {
+      "title": "DW — Eisenkot tasked with forming government",
+      "site": "DW",
+      "url": "https://www.dw.com/en/israel-eisenkot-officially-tasked-with-forming-a-government/a-79891422",
+      "date": "8 Nov 2026"
+    },
+    {
+      "title": "BBC — New Zealand election too close to call",
+      "site": "BBC",
+      "url": "https://www.bbc.com/news/articles/c3ewev11g1e0o",
+      "date": "8 Nov 2026"
+    },
+    {
+      "title": "Saxo — Market Quick Take 9 November 2026",
+      "site": "Saxo",
+      "url": "https://www.home.saxo/en-gb/content/articles/macro/market-quick-take---asian-chipmakers-rebound-and-brent-holds-below-usd-100---9-november-2026-09112026",
+      "date": "9 Nov 2026"
+    },
+    {
+      "title": "CNBC — October 2026 jobs report",
+      "site": "CNBC",
+      "url": "https://www.cnbc.com/2026/11/06/jobs-report-october-2026.html",
+      "date": "6 Nov 2026"
+    },
     {
       "title": "Japan Times — Nikkei Friday plunge",
       "site": "The Japan Times",
