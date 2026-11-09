@@ -1,10 +1,51 @@
 {
   "title": "Global Intelligence Monitor",
-  "snapshot": "Monday 9 November 2026, 21:15 (Europe/Rome)",
+  "snapshot": "Monday 9 November 2026, 22:15 (Europe/Rome)",
   "snapshotDate": "2026-11-09",
-  "lastUpdated": "2026-11-09T21:15:00+01:00",
-  "summary": "A one-page briefing on world news, conflicts, politics and the economy in the week to 9 November 2026 (Monday ~21:15 Europe/Rome), with country profiles and a timeline since 1945.",
+  "lastUpdated": "2026-11-09T22:15:00+01:00",
+  "summary": "A one-page briefing on world news, conflicts, politics and the economy in the week to 9 November 2026 (Monday ~22:15 Europe/Rome), with country profiles and a timeline since 1945.",
   "news": [
+    {
+      "headline": "At least 20 migrants dead, 133 rescued in boat incidents south of Crete",
+      "summary": "Greek broadcaster ERT reported a series of incidents; in the latest, a container ship spotted a boat about 15 nautical miles southeast of Kaloi Limenes and the coast guard rescued 18 survivors and recovered 12 bodies.",
+      "date": "9 Nov 2026",
+      "region": "Europe",
+      "countries": [],
+      "source": "Xinhua (citing ERT)",
+      "url": "https://english.news.cn/20261109/7c9bc1b8ab4c4c918b1f6ed94b9d898f/c.html"
+    },
+    {
+      "headline": "White House briefly locked down after car crashes near Lafayette Square barrier",
+      "summary": "The Secret Service said the driver, who crashed onto the sidewalk near 16th and H streets NW around 10 a.m. local time, was 'combative with law enforcement' and was quickly arrested.",
+      "date": "9 Nov 2026",
+      "region": "Americas",
+      "countries": [
+        "US"
+      ],
+      "source": "Indian Express (citing Fox News / Secret Service)",
+      "url": "https://indianexpress.com/article/world/world-news-today-live-updates-us-iran-war-donald-trump-qatar-pm-talks-marco-rubio-israel-saudi-arabia-houthis-aramco-riyadh-10955940/"
+    },
+    {
+      "headline": "Iran defends two-day talks offer as Trump meets Qatar's PM",
+      "summary": "Spokesman Baghaei said demands that US sanctions and the naval blockade be lifted first are reasonable, after Rubio called some conditions 'outrageous and ridiculous'. Trump was due to meet mediator Sheikh Mohammed bin Abdulrahman Al Thani; US and Gulf officials see no imminent deal.",
+      "date": "9 Nov 2026",
+      "region": "Middle East",
+      "countries": [
+        "IR",
+        "US"
+      ],
+      "source": "Reuters (via Indian Express)",
+      "url": "https://indianexpress.com/article/world/world-news-today-live-updates-us-iran-war-donald-trump-qatar-pm-talks-marco-rubio-israel-saudi-arabia-houthis-aramco-riyadh-10955940/"
+    },
+    {
+      "headline": "Drone attack hits Iraq's Khor Mor gas field",
+      "summary": "The attack on the Kurdistan-region field came at 23:10 local time on Sunday; no casualties were reported and PM Ali al-Zaidi ordered a joint investigation.",
+      "date": "9 Nov 2026",
+      "region": "Middle East",
+      "countries": [],
+      "source": "Xinhua",
+      "url": "https://english.news.cn/20261109/7c9bc1b8ab4c4c918b1f6ed94b9d898f/c.html"
+    },
     {
       "headline": "Wall Street posts best day in months as oil slides; Nvidia falls",
       "summary": "S&P 500 +2.41% to 7,554.67, Dow +2.21% to 52,417.54, Nasdaq +2.67% to 25,235.49, rebounding from last week's post-midterm AI sell-off. Philadelphia chip index +6% (AMD ~+13%, Broadcom ~+9%) while Nvidia was the only decliner after its board opened an investigation into CEO Jensen Huang. All 11 S&P sectors rose.",
@@ -1857,7 +1898,7 @@
       "headOfGov": "Prime Minister Anwar Ibrahim"
     }
   ],
-  "profilesNote": "Leaders checked against news of 9 November 2026 (~21:15 Rome). Israel: Netanyahu remains caretaker PM; Herzog tasked Gadi Eisenkot with forming a government on 8 Nov (28 days, extendable by 14). Paraguay: Pedro Alliana assumed the presidency after Peña resigned and the lower house impeached him over Ueno Bank (AS/COA / Latin Times); Deposit Guarantee payouts started — Paraguay is not listed in country profiles. Japan: PM Sanae Takaichi; government considering an explicit emergency exception to the non-nuclear principles in the National Security Strategy (Kyodo; claim/proposal, not yet adopted).",
+  "profilesNote": "Leaders checked against news of 9 November 2026 (~22:15 Rome). Israel: Netanyahu remains caretaker PM; Herzog tasked Gadi Eisenkot with forming a government on 8 Nov (28 days, extendable by 14). Paraguay: Pedro Alliana assumed the presidency after Peña resigned and the lower house impeached him over Ueno Bank (AS/COA / Latin Times); Deposit Guarantee payouts started — Paraguay is not listed in country profiles. Japan: PM Sanae Takaichi; government considering an explicit emergency exception to the non-nuclear principles in the National Security Strategy (Kyodo; claim/proposal, not yet adopted).",
   "profileSource": "https://www.imf.org/external/datamapper/NGDPD@WEO",
   "history": [
     {
