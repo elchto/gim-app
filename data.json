@@ -1,10 +1,34 @@
 {
   "title": "Global Intelligence Monitor",
-  "snapshot": "Monday 9 November 2026, 23:15 (Europe/Rome)",
-  "snapshotDate": "2026-11-09",
-  "lastUpdated": "2026-11-09T23:15:00+01:00",
-  "summary": "A one-page briefing on world news, conflicts, politics and the economy in the week to 9 November 2026 (Monday ~23:15 Europe/Rome), with country profiles and a timeline since 1945.",
+  "snapshot": "Tuesday 10 November 2026, 00:20 (Europe/Rome)",
+  "snapshotDate": "2026-11-10",
+  "lastUpdated": "2026-11-10T00:20:00+01:00",
+  "summary": "A one-page briefing on world news, conflicts, politics and the economy in the week to 10 November 2026 (Tuesday ~00:20 Europe/Rome), with country profiles and a timeline since 1945.",
   "news": [
+    {
+      "headline": "Trump says no new US offensive on Iran for now, sees 'good chance' of a deal",
+      "summary": "On Truth Social after meeting Qatar's prime minister, Trump said the US will not launch a renewed offensive for the time being, citing 'positive momentum' and Gulf allies' preference for the status quo; at the White House he said Iran is 'talking very politely'. Iran's security council chief Mohsen Rezaei told the US to stop 'manufacturing fake news about imaginary talks'.",
+      "date": "9 Nov 2026",
+      "region": "Middle East",
+      "countries": [
+        "US",
+        "IR"
+      ],
+      "source": "The Times of Israel",
+      "url": "https://www.timesofisrael.com/liveblog-november-10-2026/"
+    },
+    {
+      "headline": "Honda to build $3 billion hybrid-focused auto plant in Ohio",
+      "summary": "Its first new US mass-production assembly plant since 2008: capacity of 240,000 vehicles a year, more than 2,000 jobs and production from 2029, lifting Honda's US capacity to about 1.3 million vehicles.",
+      "date": "9 Nov 2026",
+      "region": "Americas",
+      "countries": [
+        "US",
+        "JP"
+      ],
+      "source": "CNBC / Honda",
+      "url": "https://www.cnbc.com/2026/11/09/honda-to-invest-3-billion-in-new-vehicle-assembly-plant-in-ohio.html"
+    },
     {
       "headline": "Trump tells Reuters Qatar and Saudi Arabia want a peaceful Iran deal; US 'ready to go' with strikes",
       "summary": "In a brief phone interview after meeting Qatar's prime minister, Trump said both Gulf states would rather see a peaceful solution but the US is ready to resume strikes 'anytime we want'; he signalled no rush, saying he is content with the US naval blockade in the Strait of Hormuz.",
@@ -1720,11 +1744,11 @@
     },
     {
       "item": "Brent crude oil",
-      "figure": "~$93.77 (-4.6%, Mon)",
-      "detail": "Front-month Brent was on track to settle at its lowest since early September after Trump said further US attacks on Iran were unlikely if talks progress; it fell ~16% last week (Saxo).",
+      "figure": "$92.57 settle (-5.85%, Mon)",
+      "detail": "Reuters via ABC: kept falling after settlement, down more than $7 at one point, its lowest since late August, after Trump played down renewed strikes on Iran. WTI settled at $86.85 (-4.38%).",
       "date": "9 Nov 2026",
-      "source": "Sharecast",
-      "url": "https://www.sharecast.com/news/market-report-europe-close/europe-close-stocks-bounce-back-on-banking-ma-oil-price-slump--24090646.html"
+      "source": "ABC News (Reuters)",
+      "url": "https://www.abc.net.au/news/2026-11-10/asx-markets-business-live-news-november-10-2026/107363300"
     },
     {
       "item": "US stocks",
@@ -1767,7 +1791,7 @@
       "url": "https://vocemundi.com/the-week-2026-11-01/"
     }
   ],
-  "economyNote": "The Bank of England raised Bank Rate to 4% on 5 November, its first hike in over three years. Japan real wages rose 2.2% y/y in September (ninth straight gain). US payrolls rose 165,000 in October and unemployment fell to 4.1% (CNBC), lifting bets on a December Fed hike. Asian stocks rebounded Monday after last week's AI sell-off, and Brent slipped to about $96.80 after a ~16% weekly fall as Trump called new Iran strikes 'highly unlikely' (Saxo). US October CPI is due Tuesday 10 Nov.",
+  "economyNote": "The Bank of England raised Bank Rate to 4% on 5 November, its first hike in over three years. Japan real wages rose 2.2% y/y in September (ninth straight gain). US payrolls rose 165,000 in October and unemployment fell to 4.1% (CNBC), lifting bets on a December Fed hike. Asian stocks rebounded Monday after last week's AI sell-off, and Brent settled 5.85% lower at $92.57 on Monday and kept falling after hours as Trump played down renewed strikes on Iran (ABC News, citing Reuters). US October CPI is due Tuesday 10 Nov.",
   "policyRates": [
     {
       "label": "US Fed",
@@ -1954,7 +1978,7 @@
       "headOfGov": "Prime Minister Anwar Ibrahim"
     }
   ],
-  "profilesNote": "Leaders checked against news of 9 November 2026 (~23:15 Rome). Israel: Netanyahu remains caretaker PM; Herzog tasked Gadi Eisenkot with forming a government on 8 Nov (28 days, extendable by 14). Paraguay: Pedro Alliana assumed the presidency after Peña resigned and the lower house impeached him over Ueno Bank (AS/COA / Latin Times); Deposit Guarantee payouts started — Paraguay is not listed in country profiles. Japan: PM Sanae Takaichi; government considering an explicit emergency exception to the non-nuclear principles in the National Security Strategy (Kyodo; claim/proposal, not yet adopted).",
+  "profilesNote": "Leaders checked against news of 10 November 2026 (~00:20 Rome). Israel: Netanyahu remains caretaker PM; Herzog tasked Gadi Eisenkot with forming a government on 8 Nov (28 days, extendable by 14). Paraguay: Pedro Alliana assumed the presidency after Peña resigned and the lower house impeached him over Ueno Bank (AS/COA / Latin Times); Deposit Guarantee payouts started — Paraguay is not listed in country profiles. Japan: PM Sanae Takaichi; government considering an explicit emergency exception to the non-nuclear principles in the National Security Strategy (Kyodo; claim/proposal, not yet adopted).",
   "profileSource": "https://www.imf.org/external/datamapper/NGDPD@WEO",
   "history": [
     {
