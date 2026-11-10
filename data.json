@@ -1,10 +1,39 @@
 {
   "title": "Global Intelligence Monitor",
-  "snapshot": "Tuesday 10 November 2026, 20:10 (Europe/Rome)",
+  "snapshot": "Tuesday 10 November 2026, 21:15 (Europe/Rome)",
   "snapshotDate": "2026-11-10",
-  "lastUpdated": "2026-11-10T20:10:00+01:00",
+  "lastUpdated": "2026-11-10T21:15:00+01:00",
   "summary": "A one-page briefing on world news, conflicts, politics and the economy in the week to 10 November 2026 (Tuesday ~19:10 Europe/Rome), with country profiles and a timeline since 1945.",
   "news": [
+    {
+      "headline": "Fed's Logan says FOMC needs 'at least two more' quarter-point hikes, possibly faster this winter",
+      "summary": "Dallas Fed President Lorie Logan said in prepared remarks to a Dallas/Kansas City Fed energy conference that the Fed must deliver at least two more 25bp increases and that 'it may be possible to move more rapidly this winter than the FOMC has moved so far this fall.' She said 'excess inflation is unacceptable' and that pressures are broader than wartime energy disruptions or tariffs. The Fed's next meeting is 8-9 December.",
+      "date": "10 Nov 2026",
+      "region": "Americas",
+      "countries": [
+        "US"
+      ],
+      "source": "Reuters (via Investing.com)",
+      "url": "https://www.investing.com/news/economy-news/feds-logan-calls-for-two-more-rate-hikes-possibly-rapidly-5016235"
+    },
+    {
+      "headline": "UNICEF: long-range drones hit up to 15 Sudanese power stations in October",
+      "summary": "UNICEF spokesperson James Elder, back from El Obeid in North Kordofan, said 'not a single day passed without a drone strike on a power station in Sudan' in the last week of October, with drones travelling up to 1,500 km. UNICEF said two in three children killed in Sudan this year were killed by armed drones.",
+      "date": "10 Nov 2026",
+      "region": "Africa",
+      "countries": [],
+      "source": "UN News",
+      "url": "https://news.un.org/en/audio/2026/11/1168777"
+    },
+    {
+      "headline": "UNHCR: nearly 64,000 people fled Boko Haram violence in northern Nigeria to Niger this year",
+      "summary": "The UN refugee agency warned of a deepening emergency across Niger, Nigeria and Benin, saying refugees report Boko Haram burning displacement camps in Nigeria. Niger already hosts more than half a million refugees and asylum-seekers, including at least 327,000 from Nigeria; about 700 of 1,000 villages in Diffa could not produce grain.",
+      "date": "10 Nov 2026",
+      "region": "Africa",
+      "countries": [],
+      "source": "UN News",
+      "url": "https://news.un.org/en/audio/2026/11/1168777"
+    },
     {
       "headline": "Costa tells Merz EU leaders will tackle Ukraine financing at 26-27 Nov special summit",
       "summary": "Replying to Chancellor Merz's letter tying the 2028-2034 EU budget to fresh Ukraine aid, European Council President Antonio Costa said the special European Council on 26-27 November will have two agenda items, the next MFF and Ukraine's 2027 financing needs, after the Commission presents a proposal. He also said he will 'make time for a broad discussion on Ukraine' at this week's informal Dublin summit. Slovakia, Czechia, Hungary and Bulgaria want to opt out of any new loan to Kyiv.",
@@ -2660,11 +2689,11 @@
     },
     {
       "item": "US stocks",
-      "figure": "S&P 500 -0.6%, Nasdaq -1% (Tue, early)",
-      "detail": "Fell after the hot October CPI, giving back part of Monday's rally (S&P 500 closed at 7,554.67, +2.41%). Fed funds futures price a December hike at 100%.",
+      "figure": "S&P 500 -0.64%, Nasdaq -1.15% (Tue, afternoon)",
+      "detail": "Reuters: S&P 500 7,501.88, Nasdaq 24,962.44, Dow 52,166.63 (-0.43%) as hot October CPI and hawkish Fed comments (Waller, Logan) fuelled rate-hike worries; Nvidia fell more than 6%. Monday the S&P 500 closed +2.35% at 7,549.94.",
       "date": "10 Nov 2026",
-      "source": "Reuters (via MarketScreener)",
-      "url": "https://www.marketscreener.com/news/hot-october-inflation-report-rattles-markets-ce785edadf89f42d"
+      "source": "Reuters (via StreetInsider)",
+      "url": "https://www.streetinsider.com/General+News/Wall+St+falls+as+hot+inflation+data+fuels+rate-hike+jitters/27317417.html"
     },
     {
       "item": "European stocks",
