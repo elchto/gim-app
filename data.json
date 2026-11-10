@@ -1,10 +1,54 @@
 {
   "title": "Global Intelligence Monitor",
-  "snapshot": "Tuesday 10 November 2026, 19:10 (Europe/Rome)",
+  "snapshot": "Tuesday 10 November 2026, 20:10 (Europe/Rome)",
   "snapshotDate": "2026-11-10",
-  "lastUpdated": "2026-11-10T19:10:00+01:00",
+  "lastUpdated": "2026-11-10T20:10:00+01:00",
   "summary": "A one-page briefing on world news, conflicts, politics and the economy in the week to 10 November 2026 (Tuesday ~19:10 Europe/Rome), with country profiles and a timeline since 1945.",
   "news": [
+    {
+      "headline": "Costa tells Merz EU leaders will tackle Ukraine financing at 26-27 Nov special summit",
+      "summary": "Replying to Chancellor Merz's letter tying the 2028-2034 EU budget to fresh Ukraine aid, European Council President Antonio Costa said the special European Council on 26-27 November will have two agenda items, the next MFF and Ukraine's 2027 financing needs, after the Commission presents a proposal. He also said he will 'make time for a broad discussion on Ukraine' at this week's informal Dublin summit. Slovakia, Czechia, Hungary and Bulgaria want to opt out of any new loan to Kyiv.",
+      "date": "10 Nov 2026",
+      "region": "Europe",
+      "countries": [
+        "DE",
+        "UA"
+      ],
+      "source": "Euronews / Reuters",
+      "url": "https://www.euronews.com/2026/11/10/costa-seeks-to-reassure-merz-after-eu-budget-ultimatum"
+    },
+    {
+      "headline": "Rubio tells G7 there is 'no need' for major US military operations against Iran",
+      "summary": "At a press conference after the G7 foreign ministers' meeting in Paris, Secretary of State Marco Rubio said US economic sanctions and the naval blockade were working 'so well' that President Trump had no need to launch major combat operations against Iran. Oil prices fell on the remarks.",
+      "date": "10 Nov 2026",
+      "region": "Middle East",
+      "countries": [
+        "US",
+        "IR"
+      ],
+      "source": "Xinhua / Investor's Business Daily",
+      "url": "https://english.news.cn/20261110/a79b76f97dc9490e9855b857634cb206/c.html"
+    },
+    {
+      "headline": "Portugal on alert as storms Bruna and Charles raise 'sting jet' risk of 160 km/h gusts",
+      "summary": "Portugal faces a high weather-risk scenario as depression Charles passes; forecasters warn a rare, destructive 'sting jet' could form, bringing wind gusts above 160 km/h, especially across Greater Lisbon.",
+      "date": "10 Nov 2026",
+      "region": "Europe",
+      "countries": [],
+      "source": "Euronews",
+      "url": "https://www.euronews.com/2026/11/10"
+    },
+    {
+      "headline": "US midterm projections: Democrats 254 House seats, Republicans 165, 16 undecided",
+      "summary": "Euronews reports that as of Tuesday, projections gave Democrats 254 seats and Republicans 165 in the House, with 16 races still undecided, after Democrats won both chambers of Congress in the 3 November midterms.",
+      "date": "10 Nov 2026",
+      "region": "Americas",
+      "countries": [
+        "US"
+      ],
+      "source": "Euronews",
+      "url": "https://www.euronews.com/2026/11/10"
+    },
     {
       "headline": "Malaysia's Anthony Loke resigns as transport minister after Najib house arrest ruling",
       "summary": "DAP secretary-general Anthony Loke Siew Fook stepped down as Transport Minister with immediate effect after the Kuala Lumpur High Court allowed former PM Najib Razak to serve the rest of his SRC International sentence under house arrest; Loke had pledged to quit if Najib began house arrest, in protest at the conditional royal pardon. Najib has arrived home to begin the sentence.",
@@ -2341,14 +2385,6 @@
   ],
   "upcoming": [
     {
-      "date": "10 Nov",
-      "event": "Italy: Crosetto briefs COPASIR on 13th Ukraine military aid package",
-      "place": "Rome",
-      "kind": "Politics",
-      "source": "Reuters / ANSA",
-      "url": "https://www.ansa.it/english/news/2026/11/05/new-aid-decree-for-kyiv-on-the-way-policy-remains-unchanged_fd51694e-3da7-4ebb-9340-955bc10db57f.html"
-    },
-    {
       "date": "12 Nov",
       "event": "Sweden: renewed internal Schengen border controls take effect (to 11 May 2027)",
       "place": "Sweden",
@@ -2363,14 +2399,6 @@
       "kind": "Politics",
       "source": "UNFCCC",
       "url": "https://unfccc.int/sites/default/files/resource/notification_to_un_cop31.pdf"
-    },
-    {
-      "date": "9-10 Nov",
-      "event": "G7 foreign ministers' meeting",
-      "place": "Paris",
-      "kind": "Politics",
-      "source": "France Diplomatie",
-      "url": "https://www.diplomatie.gouv.fr/en/presse-et-ressources/decouvrir-et-informer/actualites/quelles-priorites-pour-la-reunion-des-ministres-des-affaires-etrangeres-du-g7-a-paris"
     },
     {
       "date": "12 Nov",
@@ -2443,6 +2471,14 @@
       "kind": "Politics",
       "source": "AP",
       "url": "https://apnews.com/article/putin-trump-xi-shenzhen-summit-685503bde099612212fb9d6f716422e4"
+    },
+    {
+      "date": "26-27 Nov",
+      "event": "Special European Council: next EU budget (MFF) and Ukraine's 2027 financing needs",
+      "place": "Brussels",
+      "kind": "Politics",
+      "source": "Euronews / Reuters",
+      "url": "https://www.euronews.com/2026/11/10/costa-seeks-to-reassure-merz-after-eu-budget-ultimatum"
     },
     {
       "date": "27 Nov",
