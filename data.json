@@ -1,10 +1,35 @@
 {
   "title": "Global Intelligence Monitor",
-  "snapshot": "Tuesday 10 November 2026, 04:15 (Europe/Rome)",
+  "snapshot": "Tuesday 10 November 2026, 05:15 (Europe/Rome)",
   "snapshotDate": "2026-11-10",
-  "lastUpdated": "2026-11-10T04:15:00+01:00",
+  "lastUpdated": "2026-11-10T05:15:00+01:00",
   "summary": "A one-page briefing on world news, conflicts, politics and the economy in the week to 10 November 2026 (Tuesday ~04:15 Europe/Rome), with country profiles and a timeline since 1945.",
   "news": [
+    {
+      "headline": "US officials say Moscow and Kyiv show 'a little flexibility' privately on Donetsk as Abu Dhabi talks open",
+      "summary": "On the eve of the talks a US official said both sides' public positions on Donetsk had not moved but they had shown some private flexibility, and that territory would not be settled before a postwar security architecture. The proposed framework includes security consultations, crisis hotlines, reciprocal de-escalation and possibly reactivating the NATO-Russia Council. Kushner said the talks could at most 'build momentum toward the next phase'.",
+      "date": "10 Nov 2026",
+      "region": "Europe",
+      "countries": [
+        "UA",
+        "RU",
+        "US"
+      ],
+      "source": "BBC",
+      "url": "https://www.bbc.com/news/articles/cqpvgvrpjvv8o"
+    },
+    {
+      "headline": "France blames Iran's Revolutionary Guards for October supermarket refrigerator hacks, vows consequences",
+      "summary": "French officials said the IRGC was responsible for cyberattacks that knocked out commercial refrigerators and freezers in hundreds of French supermarkets in early October, among the most disruptive cyber incidents of the Iran war that began in February.",
+      "date": "9 Nov 2026",
+      "region": "Europe",
+      "countries": [
+        "FR",
+        "IR"
+      ],
+      "source": "Reuters via The Straits Times",
+      "url": "https://www.straitstimes.com/world/while-you-were-sleeping-5-stories-you-might-have-missed-nov-10-2026"
+    },
     {
       "headline": "China's October exports jump 35.2% and imports 41.6%; trade surplus narrows to $105.3bn",
       "summary": "Customs data showed exports beat the ~33.5% forecast (September: 36.3%) on demand for chips and AI hardware, while imports surged far more than expected. The surplus fell to its lowest since April, though the year-to-date surplus topped $1 trillion.",
@@ -97,15 +122,16 @@
       "url": "https://www.straitstimes.com/world/while-you-were-sleeping-5-stories-you-might-have-missed-nov-10-2026"
     },
     {
-      "headline": "Asian stocks rally after Wall Street's best day in seven months; Kospi jumps over 5%",
-      "summary": "South Korea's Kospi jumped more than 5% in early Tuesday trading and Japan's Nikkei 225 rose nearly 3%, tracking a US tech rally and a slump in oil; Brent settled below $93 a barrel after falling almost 6% on Monday. US October CPI data is due Tuesday.",
+      "headline": "Asian stocks close higher: Kospi +4.0% to 5,221, Nikkei +2.7% to 60,381",
+      "summary": "Tracking Wall Street's best day since April and lower oil, the Kospi closed up 4.03% at 5,221.20, Taiwan's index rose 3.10% to 42,951.66 and the Nikkei 225 gained 2.73% to 60,380.50; the Hang Seng added 0.70% and Shanghai 0.32%. SoftBank jumped about 14-15% ahead of earnings; Brent traded around $92 a barrel.",
       "date": "10 Nov 2026",
       "region": "Asia-Pacific",
       "countries": [
-        "JP"
+        "JP",
+        "CN"
       ],
-      "source": "The Economic Times (Bloomberg)",
-      "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-today-asian-stocks-rally-after-us-tech-surge-oil-slump/articleshow/135696042.cms"
+      "source": "Business Upturn / AP",
+      "url": "https://businessupturn.com/asia/east-asia/east-asia-markets-roundup-seoul-and-taipei-lead-regional-rally-on-tuesday/"
     },
     {
       "headline": "Trump revives election fraud claims after midterm defeat",
