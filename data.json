@@ -1,10 +1,88 @@
 {
   "title": "Global Intelligence Monitor",
-  "snapshot": "Tuesday 10 November 2026, 07:10 (Europe/Rome)",
+  "snapshot": "Tuesday 10 November 2026, 08:10 (Europe/Rome)",
   "snapshotDate": "2026-11-10",
-  "lastUpdated": "2026-11-10T07:10:00+01:00",
-  "summary": "A one-page briefing on world news, conflicts, politics and the economy in the week to 10 November 2026 (Tuesday ~07:10 Europe/Rome), with country profiles and a timeline since 1945.",
+  "lastUpdated": "2026-11-10T08:10:00+01:00",
+  "summary": "A one-page briefing on world news, conflicts, politics and the economy in the week to 10 November 2026 (Tuesday ~08:10 Europe/Rome), with country profiles and a timeline since 1945.",
   "news": [
+    {
+      "headline": "Saudi-led coalition intercepts Houthi missiles aimed at Riyadh and a drone over Eastern Province",
+      "summary": "The coalition said on Tuesday its air defences shot down a ballistic and a cruise missile targeting the Saudi capital and another ballistic missile fired towards southern Saudi Arabia, and destroyed a drone over the oil-rich Eastern Province; civil-defence alerts in Riyadh, Abha and Khamis Mushait were later lifted.",
+      "date": "10 Nov 2026",
+      "region": "Middle East",
+      "countries": [
+        "SA"
+      ],
+      "source": "Reuters via Geo News",
+      "url": "https://www.geo.tv/liveblog/israeliran-war-live-updates?12345="
+    },
+    {
+      "headline": "SoftBank posts ¥1.1 trillion ($7bn) quarterly net loss",
+      "summary": "SoftBank Group reported a net loss for July-September, compared with a ¥2.5 trillion profit a year earlier when it booked a large gain on its OpenAI stake.",
+      "date": "10 Nov 2026",
+      "region": "Asia-Pacific",
+      "countries": [
+        "JP"
+      ],
+      "source": "Reuters via StreetInsider",
+      "url": "https://www.streetinsider.com/Reuters/Morning%2BBid"
+    },
+    {
+      "headline": "Kim Yo Jong accuses UN chief Guterres of siding with South Korea after border landmine blast",
+      "summary": "North Korean state media said Kim Jong Un's sister called Guterres's call for dialogue between the two Koreas 'prejudiced and irresponsible'.",
+      "date": "10 Nov 2026",
+      "region": "Asia-Pacific",
+      "countries": [],
+      "source": "Reuters via StreetInsider",
+      "url": "https://www.streetinsider.com/Reuters/Morning%2BBid"
+    },
+    {
+      "headline": "Bangladesh rejects passport request from ousted PM Sheikh Hasina",
+      "summary": "Hasina, 78, who fled to India in August 2024, plans to return home in December from self-imposed exile.",
+      "date": "10 Nov 2026",
+      "region": "Asia-Pacific",
+      "countries": [
+        "IN"
+      ],
+      "source": "Reuters via StreetInsider",
+      "url": "https://www.streetinsider.com/Reuters/Morning%2BBid"
+    },
+    {
+      "headline": "Australia's eSafety regulator rejects tech giants' censorship warnings over Digital Duty of Care bill",
+      "summary": "The regulator argued platforms' business models push them to maximise engagement; the proposed law would force internet companies to proactively prevent user harms or face fines.",
+      "date": "10 Nov 2026",
+      "region": "Asia-Pacific",
+      "countries": [],
+      "source": "Reuters via StreetInsider",
+      "url": "https://www.streetinsider.com/Reuters/Morning%2BBid"
+    },
+    {
+      "headline": "Paraguay prosecutors raid ousted president Peña's home in Ueno Bank probe",
+      "summary": "Prosecutors searched the home on Monday and sought international help to trace missing funds; Peña is in pretrial detention, while the new president looks to reshuffle his cabinet.",
+      "date": "9 Nov 2026",
+      "region": "Americas",
+      "countries": [],
+      "source": "AFP",
+      "url": "https://www.afp.com/en/home-ousted-paraguayan-president-raided-probe-bank-collapse"
+    },
+    {
+      "headline": "Record 2.5 million attend Pope Leo's Mass in Buenos Aires",
+      "summary": "On the first papal trip to Argentina in 39 years, Leo urged President Milei not to target the poorest and warned about unregulated automation; he travels to Peru on Wednesday and returns to Rome on 17 Nov.",
+      "date": "9 Nov 2026",
+      "region": "Americas",
+      "countries": [],
+      "source": "Reuters via RTHK",
+      "url": "https://news.rthk.hk/rthk/en/component/k2/1877175-20261110.htm"
+    },
+    {
+      "headline": "Death toll from migrant boat sinking off Senegal rises to 39",
+      "summary": "The pirogue left Saint-Louis for Spain's Canary Islands and capsized near Kébémer on 8 Nov; only one person was rescued. President Faye vowed to crack down on smuggling networks.",
+      "date": "9 Nov 2026",
+      "region": "Africa",
+      "countries": [],
+      "source": "AP / BBC",
+      "url": "https://www.bbc.com/news/articles/cv2d6dpge65go"
+    },
     {
       "headline": "Iraq reopens Sheeb border crossing with Iran",
       "summary": "Iraq's Border Ports Authority said the Sheeb crossing with Iran would reopen on Tuesday morning after technical work, while the Mandali crossing will close temporarily from Friday, state news agency INA reported.",
@@ -1325,10 +1403,10 @@
         "label": "Widening",
         "tone": "danger"
       },
-      "latest": "8 Nov: Saudi defences intercepted Houthi missiles over Riyadh; debris caused limited damage to Aramco's tower in the financial district, no injuries. Houthis claimed strikes on King Khalid airport, Aramco storage tanks and a financial centre (claims). Yemen's army reported heavy fighting against Houthi forces.",
-      "date": "8 Nov 2026",
-      "source": "Al Jazeera / Reuters / Xinhua",
-      "url": "https://www.aljazeera.com/news/2026/11/8/saudi-arabia-intercepts-houthi-missiles-targeting-riyadh-eastern-province"
+      "latest": "10 Nov: the coalition said it intercepted two missiles aimed at Riyadh, one towards southern Saudi Arabia and a drone over the Eastern Province. 8 Nov: Saudi defences intercepted Houthi missiles over Riyadh; debris caused limited damage to Aramco's tower in the financial district, no injuries. Houthis claimed strikes on King Khalid airport, Aramco storage tanks and a financial centre (claims). Yemen's army reported heavy fighting against Houthi forces.",
+      "date": "10 Nov 2026",
+      "source": "Reuters via Geo News / Al Jazeera / Xinhua",
+      "url": "https://www.geo.tv/liveblog/israeliran-war-live-updates?12345="
     },
     {
       "name": "Gaza",
@@ -2023,11 +2101,11 @@
     },
     {
       "item": "Asia stocks",
-      "figure": "Nikkei ~+2.5%, Taiex ~+5% (Mon)",
-      "detail": "Saxo: chipmakers led a rebound after Friday's heavy losses; TSMC +5.6%, Tokyo Electron nearly +3%. Europe's Stoxx 600 fell 1% Friday.",
-      "date": "9 Nov 2026",
-      "source": "Saxo",
-      "url": "https://www.home.saxo/en-gb/content/articles/macro/market-quick-take---asian-chipmakers-rebound-and-brent-holds-below-usd-100---9-november-2026-09112026"
+      "figure": "Nikkei 60,380.50 (+2.73%, Tue)",
+      "detail": "Kospi +4.03% to 5,221.20, Taiwan +3.10% to 42,951.66, Hang Seng +0.70%, Shanghai +0.32%, tracking Wall Street's rally and lower oil; SoftBank jumped ahead of results.",
+      "date": "10 Nov 2026",
+      "source": "Business Upturn / AP",
+      "url": "https://businessupturn.com/asia/east-asia/east-asia-markets-roundup-seoul-and-taipei-lead-regional-rally-on-tuesday/"
     },
     {
       "item": "US-China trade",
@@ -2240,305 +2318,229 @@
       "year": 1945,
       "date": "24 Oct 1945",
       "title": "United Nations founded",
-      "detail": "The UN Charter enters into force after the Second World War.",
-      "url": null,
-      "source": null
+      "detail": "The UN Charter enters into force after the Second World War."
     },
     {
       "year": 1947,
       "date": "1947",
       "title": "Cold War begins; India and Pakistan independent",
-      "detail": "The Truman Doctrine sets US containment policy; British India is partitioned.",
-      "url": null,
-      "source": null
+      "detail": "The Truman Doctrine sets US containment policy; British India is partitioned."
     },
     {
       "year": 1948,
       "date": "1948",
       "title": "State of Israel founded; Berlin Blockade",
-      "detail": "Israel declares independence and the first Arab-Israeli war follows; the Soviets blockade West Berlin.",
-      "url": null,
-      "source": null
+      "detail": "Israel declares independence and the first Arab-Israeli war follows; the Soviets blockade West Berlin."
     },
     {
       "year": 1949,
       "date": "1949",
       "title": "NATO formed; People's Republic of China founded",
-      "detail": "Mao Zedong proclaims the PRC; the USSR tests its first atomic bomb.",
-      "url": null,
-      "source": null
+      "detail": "Mao Zedong proclaims the PRC; the USSR tests its first atomic bomb."
     },
     {
       "year": 1950,
       "date": "1950-1953",
       "title": "Korean War",
-      "detail": "Ends in an armistice that still divides the peninsula.",
-      "url": null,
-      "source": null
+      "detail": "Ends in an armistice that still divides the peninsula."
     },
     {
       "year": 1955,
       "date": "1955",
       "title": "Warsaw Pact and Bandung Conference",
-      "detail": "Soviet bloc alliance formed; Asian and African states meet in Bandung, Indonesia.",
-      "url": null,
-      "source": null
+      "detail": "Soviet bloc alliance formed; Asian and African states meet in Bandung, Indonesia."
     },
     {
       "year": 1957,
       "date": "1957",
       "title": "Sputnik; Malaya independent; Treaty of Rome",
-      "detail": "Space race starts; the European Economic Community is founded.",
-      "url": null,
-      "source": null
+      "detail": "Space race starts; the European Economic Community is founded."
     },
     {
       "year": 1960,
       "date": "1960",
       "title": "Year of Africa",
-      "detail": "Seventeen African countries gain independence as decolonisation peaks.",
-      "url": null,
-      "source": null
+      "detail": "Seventeen African countries gain independence as decolonisation peaks."
     },
     {
       "year": 1962,
       "date": "Oct 1962",
       "title": "Cuban Missile Crisis",
-      "detail": "The closest the superpowers came to nuclear war.",
-      "url": null,
-      "source": null
+      "detail": "The closest the superpowers came to nuclear war."
     },
     {
       "year": 1967,
       "date": "Jun 1967",
       "title": "Six-Day War; ASEAN founded",
-      "detail": "Israel takes the West Bank, Gaza, Sinai and Golan Heights; five states found ASEAN.",
-      "url": null,
-      "source": null
+      "detail": "Israel takes the West Bank, Gaza, Sinai and Golan Heights; five states found ASEAN."
     },
     {
       "year": 1973,
       "date": "1973",
       "title": "Yom Kippur War and oil crisis",
-      "detail": "Arab oil embargo quadruples oil prices.",
-      "url": null,
-      "source": null
+      "detail": "Arab oil embargo quadruples oil prices."
     },
     {
       "year": 1975,
       "date": "1975",
       "title": "Fall of Saigon",
-      "detail": "The Vietnam War ends with the country unified under the North.",
-      "url": null,
-      "source": null
+      "detail": "The Vietnam War ends with the country unified under the North."
     },
     {
       "year": 1979,
       "date": "1979",
       "title": "Iranian Revolution; Soviet invasion of Afghanistan",
-      "detail": "The Islamic Republic is founded; China begins market reforms under Deng Xiaoping.",
-      "url": null,
-      "source": null
+      "detail": "The Islamic Republic is founded; China begins market reforms under Deng Xiaoping."
     },
     {
       "year": 1989,
       "date": "9 Nov 1989",
       "title": "Fall of the Berlin Wall",
-      "detail": "Revolutions sweep Eastern Europe; Tiananmen Square crackdown in China.",
-      "url": null,
-      "source": null
+      "detail": "Revolutions sweep Eastern Europe; Tiananmen Square crackdown in China."
     },
     {
       "year": 1990,
       "date": "3 Oct 1990",
       "title": "German reunification",
-      "detail": "Iraq invades Kuwait in August; the Gulf War follows in 1991.",
-      "url": null,
-      "source": null
+      "detail": "Iraq invades Kuwait in August; the Gulf War follows in 1991."
     },
     {
       "year": 1991,
       "date": "26 Dec 1991",
       "title": "Soviet Union dissolves",
-      "detail": "Fifteen independent states, including Russia and Ukraine, emerge; the Cold War ends.",
-      "url": null,
-      "source": null
+      "detail": "Fifteen independent states, including Russia and Ukraine, emerge; the Cold War ends."
     },
     {
       "year": 1994,
       "date": "1994",
       "title": "End of apartheid; Rwandan genocide",
-      "detail": "Nelson Mandela becomes South Africa's president.",
-      "url": null,
-      "source": null
+      "detail": "Nelson Mandela becomes South Africa's president."
     },
     {
       "year": 1997,
       "date": "1997",
       "title": "Asian financial crisis; Hong Kong handover",
-      "detail": "Currency crashes hit Thailand, Indonesia, Malaysia and South Korea.",
-      "url": null,
-      "source": null
+      "detail": "Currency crashes hit Thailand, Indonesia, Malaysia and South Korea."
     },
     {
       "year": 2001,
       "date": "11 Sep 2001",
       "title": "9/11 attacks",
-      "detail": "The US launches the war in Afghanistan; China joins the WTO.",
-      "url": null,
-      "source": null
+      "detail": "The US launches the war in Afghanistan; China joins the WTO."
     },
     {
       "year": 2003,
       "date": "Mar 2003",
       "title": "US-led invasion of Iraq",
-      "detail": "Saddam Hussein is overthrown.",
-      "url": null,
-      "source": null
+      "detail": "Saddam Hussein is overthrown."
     },
     {
       "year": 2008,
       "date": "Sep 2008",
       "title": "Global financial crisis",
-      "detail": "Lehman Brothers collapses; the G20 becomes the main economic forum.",
-      "url": null,
-      "source": null
+      "detail": "Lehman Brothers collapses; the G20 becomes the main economic forum."
     },
     {
       "year": 2011,
       "date": "2010-2011",
       "title": "Arab Spring",
-      "detail": "Uprisings topple leaders in Tunisia, Egypt and Libya; Syria's civil war begins.",
-      "url": null,
-      "source": null
+      "detail": "Uprisings topple leaders in Tunisia, Egypt and Libya; Syria's civil war begins."
     },
     {
       "year": 2014,
       "date": "Mar 2014",
       "title": "Russia annexes Crimea",
-      "detail": "War starts in eastern Ukraine; ISIS declares a caliphate.",
-      "url": null,
-      "source": null
+      "detail": "War starts in eastern Ukraine; ISIS declares a caliphate."
     },
     {
       "year": 2016,
       "date": "2016",
       "title": "Brexit vote and Trump elected",
-      "detail": "The UK votes to leave the EU (exit in 2020).",
-      "url": null,
-      "source": null
+      "detail": "The UK votes to leave the EU (exit in 2020)."
     },
     {
       "year": 2020,
       "date": "Mar 2020",
       "title": "COVID-19 pandemic",
-      "detail": "WHO declares a pandemic; the global economy contracts.",
-      "url": null,
-      "source": null
+      "detail": "WHO declares a pandemic; the global economy contracts."
     },
     {
       "year": 2021,
       "date": "Aug 2021",
       "title": "Taliban retake Afghanistan",
-      "detail": "US withdrawal completed.",
-      "url": null,
-      "source": null
+      "detail": "US withdrawal completed."
     },
     {
       "year": 2022,
       "date": "24 Feb 2022",
       "title": "Russia's full-scale invasion of Ukraine",
-      "detail": "Largest war in Europe since 1945.",
-      "url": null,
-      "source": null
+      "detail": "Largest war in Europe since 1945."
     },
     {
       "year": 2023,
       "date": "7 Oct 2023",
       "title": "Hamas attack on Israel; Gaza war",
-      "detail": "Israel launches a war in Gaza.",
-      "url": null,
-      "source": null
+      "detail": "Israel launches a war in Gaza."
     },
     {
       "year": 2024,
       "date": "Dec 2024",
       "title": "Assad falls in Syria",
-      "detail": "Trump wins the US presidential election in November.",
-      "url": null,
-      "source": null
+      "detail": "Trump wins the US presidential election in November."
     },
     {
       "year": 2025,
       "date": "Oct 2025",
       "title": "Gaza ceasefire",
-      "detail": "A ceasefire begins in Gaza; second-phase talks are still under way in Nov 2026.",
-      "url": "https://ilkha.com/english/world/hamas-delegation-arrives-in-cairo-for-new-round-of-gaza-ceasefire-talks-550914",
-      "source": "Ilke News Agency"
+      "detail": "A ceasefire begins in Gaza; second-phase talks are still under way in Nov 2026."
     },
     {
       "year": 2026,
       "date": "28 Feb 2026",
       "title": "US and Israel launch war on Iran",
-      "detail": "Supreme Leader Ali Khamenei is killed; the Strait of Hormuz is effectively closed.",
-      "url": null,
-      "source": null
+      "detail": "Supreme Leader Ali Khamenei is killed; the Strait of Hormuz is effectively closed."
     },
     {
       "year": 2026,
       "date": "Jun 2026",
       "title": "US-Iran memorandum briefly pauses the war",
-      "detail": "It collapses within weeks after renewed attacks on shipping.",
-      "url": null,
-      "source": null
+      "detail": "It collapses within weeks after renewed attacks on shipping."
     },
     {
       "year": 2026,
       "date": "Jul 2026",
       "title": "New leaders in Ukraine and the UK",
-      "detail": "Serhii Koretskyi becomes Ukraine's PM (16 Jul); Andy Burnham becomes UK PM (20 Jul).",
-      "url": null,
-      "source": null
+      "detail": "Serhii Koretskyi becomes Ukraine's PM (16 Jul); Andy Burnham becomes UK PM (20 Jul)."
     },
     {
       "year": 2026,
       "date": "25-27 Oct 2026",
       "title": "Lula re-elected; Israel's election ends in deadlock",
-      "detail": "Neither Israeli bloc reaches 61 seats.",
-      "url": null,
-      "source": null
+      "detail": "Neither Israeli bloc reaches 61 seats."
     },
     {
       "year": 2026,
       "date": "3 Nov 2026",
       "title": "Democrats win both houses of the US Congress",
-      "detail": "A rebuke of Trump halfway through his second term.",
-      "url": null,
-      "source": null
+      "detail": "A rebuke of Trump halfway through his second term."
     },
     {
       "year": 2026,
       "date": "5 Nov 2026",
       "title": "BoE hike, Paraguay crisis, Europe flight hoaxes, Nasdaq plunge, Trump Ukraine-deal claim",
-      "detail": "BoE lifts Bank Rate to 4%; Peña resigns/impeached over Ueno Bank and Alliana is spared then assumes the presidency; ≥25–27 Europe flights hit by hoax bomb threats (Male State claim unverified); Nasdaq closes −5.17% / Brent settles $98.29; Herzog sets Sunday mandate decision; Melania hosts RU/UA at White House and Trump later claims a major Ukraine deal is near after meeting Dmitriev; Hegseth vows to fight impeachment (Massie aims for a House vote around 9 Nov); North Korea tests new air defence; Russell Brand convicted of rape and sexual assaults; Iranian tankers reported damaged in Hormuz; Putin hosts Iran's Rezaei. A Nigerian court voids Atiku's candidacy.",
-      "url": "https://www.aljazeera.com/news/2026/11/6/trump-met-russian-envoy-after-he-appeared-with-melania-trump-and-ukrainians",
-      "source": "Al Jazeera / AA / Reuters / Euronews / CNBC / Outlier"
+      "detail": "BoE lifts Bank Rate to 4%; Peña resigns/impeached over Ueno Bank and Alliana is spared then assumes the presidency; ≥25–27 Europe flights hit by hoax bomb threats (Male State claim unverified); Nasdaq closes −5.17% / Brent settles $98.29; Herzog sets Sunday mandate decision; Melania hosts RU/UA at White House and Trump later claims a major Ukraine deal is near after meeting Dmitriev; Hegseth vows to fight impeachment (Massie aims for a House vote around 9 Nov); North Korea tests new air defence; Russell Brand convicted of rape and sexual assaults; Iranian tankers reported damaged in Hormuz; Putin hosts Iran's Rezaei. A Nigerian court voids Atiku's candidacy."
     },
     {
       "year": 2026,
       "date": "6 Nov 2026",
       "title": "Nikkei −7%; Trump Iran decision pending; Gaza ceasefire deaths; Japan nuclear-exception debate",
-      "detail": "Friday morning: Nikkei plunged >7% (Japan Times) after Nasdaq's AI sell-off; Axios said Trump is weighing new Iran strikes, economic pressure or a deal after an NSC meeting, with USS Theodore Roosevelt stopping in Singapore. AFP reported five killed in Gaza including a child amid the fragile ceasefire. Earlier Friday: Kyodo said Japan may write an emergency exception to its non-nuclear principles into the NSS; CCTV said China's DF-61 entered Rocket Force routine training; Trump floated tariffs up to 300%; Brent ~$99.86; Zelenskyy said every Ukrainian power plant has been damaged; Delhi winter smog returned (BBC).",
-      "url": "https://www.japantimes.co.jp/business/2026/11/06/markets/market-nov-6/",
-      "source": "Japan Times / Axios / AFP / Kyodo"
+      "detail": "Friday morning: Nikkei plunged >7% (Japan Times) after Nasdaq's AI sell-off; Axios said Trump is weighing new Iran strikes, economic pressure or a deal after an NSC meeting, with USS Theodore Roosevelt stopping in Singapore. AFP reported five killed in Gaza including a child amid the fragile ceasefire. Earlier Friday: Kyodo said Japan may write an emergency exception to its non-nuclear principles into the NSS; CCTV said China's DF-61 entered Rocket Force routine training; Trump floated tariffs up to 300%; Brent ~$99.86; Zelenskyy said every Ukrainian power plant has been damaged; Delhi winter smog returned (BBC)."
     },
     {
       "year": 2026,
       "date": "7-9 Nov 2026",
       "title": "Eisenkot tasked in Israel; NZ hung result; Krakow shooting",
-      "detail": "Herzog asked Gadi Eisenkot to form a government (8 Nov); New Zealand's election left no clear winner; a gunman killed six in Krakow. Trump called new Iran strikes 'highly unlikely' if talks progress, and Ukraine-Russia-US talks were set for Abu Dhabi on 10-11 Nov.",
-      "url": "https://www.dw.com/en/israel-eisenkot-officially-tasked-with-forming-a-government/a-79891422",
-      "source": "DW / BBC / AP / CNBC"
+      "detail": "Herzog asked Gadi Eisenkot to form a government (8 Nov); New Zealand's election left no clear winner; a gunman killed six in Krakow. Trump called new Iran strikes 'highly unlikely' if talks progress, and Ukraine-Russia-US talks were set for Abu Dhabi on 10-11 Nov."
     }
   ],
   "sources": [
