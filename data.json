@@ -1,10 +1,55 @@
 {
   "title": "Global Intelligence Monitor",
-  "snapshot": "Tuesday 10 November 2026, 18:15 (Europe/Rome)",
+  "snapshot": "Tuesday 10 November 2026, 19:10 (Europe/Rome)",
   "snapshotDate": "2026-11-10",
-  "lastUpdated": "2026-11-10T18:15:00+01:00",
-  "summary": "A one-page briefing on world news, conflicts, politics and the economy in the week to 10 November 2026 (Tuesday ~18:15 Europe/Rome), with country profiles and a timeline since 1945.",
+  "lastUpdated": "2026-11-10T19:10:00+01:00",
+  "summary": "A one-page briefing on world news, conflicts, politics and the economy in the week to 10 November 2026 (Tuesday ~19:10 Europe/Rome), with country profiles and a timeline since 1945.",
   "news": [
+    {
+      "headline": "Malaysia's Anthony Loke resigns as transport minister after Najib house arrest ruling",
+      "summary": "DAP secretary-general Anthony Loke Siew Fook stepped down as Transport Minister with immediate effect after the Kuala Lumpur High Court allowed former PM Najib Razak to serve the rest of his SRC International sentence under house arrest; Loke had pledged to quit if Najib began house arrest, in protest at the conditional royal pardon. Najib has arrived home to begin the sentence.",
+      "date": "10 Nov 2026",
+      "region": "Asia-Pacific",
+      "countries": [
+        "MY"
+      ],
+      "source": "Malay Mail / CNA / The Star",
+      "url": "https://www.malaymail.com/news/malaysia/2026/11/10/anthony-loke-officially-resigns-as-transport-minister-following-court-decision-on-najib/242738"
+    },
+    {
+      "headline": "Fico calls Merz's EU budget-Ukraine aid link 'blackmail' as four states push back",
+      "summary": "Slovakia, Czechia, Hungary and Bulgaria resisted Chancellor Merz's demand, set out in a letter to Antonio Costa, to make the 2028-2034 EU budget conditional on fresh joint support for Ukraine, which faces a ~EUR70bn gap next year (EU to cover ~EUR45bn). Fico threatened his own veto; Hungary's Peter Magyar, meeting Merz in Berlin, opposed the link but said 'we will find a solution'. Leaders meet informally in Dublin on 12-13 Nov.",
+      "date": "10 Nov 2026",
+      "region": "Europe",
+      "countries": [
+        "DE"
+      ],
+      "source": "Euronews / POLITICO / TASR",
+      "url": "https://www.euronews.com/2026/11/10/eu-budget-battle-erupts-as-four-countries-defy-merz-over-ukraine-aid"
+    },
+    {
+      "headline": "Italy's 13th Ukraine aid package exposes coalition tension as Giorgetti has yet to sign",
+      "summary": "Defence Minister Crosetto presented the classified 13th package to COPASIR, but League Economy Minister Giancarlo Giorgetti has not yet signed it; Meloni and Tajani say he was in Brussels for Ecofin and will sign in person on his return, while League senator Claudio Borghi called it a decree that 'does not exist'. Crosetto said Italy has no spare Aster missiles to send.",
+      "date": "10 Nov 2026",
+      "region": "Europe",
+      "countries": [
+        "IT",
+        "UA"
+      ],
+      "source": "Euronews / ANSA / la Repubblica",
+      "url": "https://www.euronews.com/2026/11/10/italian-government-debates-aid-to-kyiv-while-abu-dhabi-holds-talks-on-ukraines-future"
+    },
+    {
+      "headline": "Hegseth calls impeachment push 'sabotage' at rare Pentagon news conference",
+      "summary": "Facing a House vote on Rep. Thomas Massie's impeachment articles, Defence Secretary Pete Hegseth defended his record and the Iran war, calling the effort 'sabotage', a 'farce' and a 'political spectacle'; Trump said he backs him. The first vote is expected to be procedural, on whether to table or refer the measure.",
+      "date": "10 Nov 2026",
+      "region": "Americas",
+      "countries": [
+        "US"
+      ],
+      "source": "Washington Post / NBC News / AP",
+      "url": "https://www.washingtonpost.com/national-security/2026/11/10/hegseth-defends-his-record-iran-war-impeachment-vote-looms/"
+    },
     {
       "headline": "ADNOC vessel damaged in attack in UAE waters; GCC approves military command HQ in Kuwait",
       "summary": "ADNOC Logistics and Services confirmed one of its vessels sustained damage following an attack in UAE territorial waters in the Arabian Gulf. Gulf News also reports GCC states approved an advanced military command headquarters in Kuwait, and UAE airlines are adjusting selected flights over regional security concerns.",
@@ -1910,6 +1955,28 @@
     }
   ],
   "politics": [
+    {
+      "date": "10 Nov",
+      "title": "Malaysia: Anthony Loke quits as transport minister",
+      "detail": "Resigned with immediate effect after the High Court granted Najib house arrest, keeping his pledge to protest the conditional pardon.",
+      "status": {
+        "label": "Resigned",
+        "tone": "warning"
+      },
+      "source": "Malay Mail / CNA",
+      "url": "https://www.malaymail.com/news/malaysia/2026/11/10/anthony-loke-officially-resigns-as-transport-minister-following-court-decision-on-najib/242738"
+    },
+    {
+      "date": "10 Nov",
+      "title": "EU: four states defy Merz over budget-Ukraine aid link",
+      "detail": "Slovakia, Czechia, Hungary and Bulgaria reject making the 2028-2034 budget conditional on new Ukraine aid; Fico calls it blackmail and threatens a veto ahead of Dublin (12-13 Nov).",
+      "status": {
+        "label": "Dispute",
+        "tone": "warning"
+      },
+      "source": "Euronews / POLITICO",
+      "url": "https://www.euronews.com/2026/11/10/eu-budget-battle-erupts-as-four-countries-defy-merz-over-ukraine-aid"
+    },
     {
       "date": "9 Nov",
       "title": "US: Massie introduces Hegseth impeachment articles",
