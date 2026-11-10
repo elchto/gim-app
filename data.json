@@ -1,10 +1,54 @@
 {
   "title": "Global Intelligence Monitor",
-  "snapshot": "Tuesday 10 November 2026, 10:15 (Europe/Rome)",
+  "snapshot": "Tuesday 10 November 2026, 11:15 (Europe/Rome)",
   "snapshotDate": "2026-11-10",
-  "lastUpdated": "2026-11-10T10:15:00+01:00",
-  "summary": "A one-page briefing on world news, conflicts, politics and the economy in the week to 10 November 2026 (Tuesday ~10:15 Europe/Rome), with country profiles and a timeline since 1945.",
+  "lastUpdated": "2026-11-10T11:15:00+01:00",
+  "summary": "A one-page briefing on world news, conflicts, politics and the economy in the week to 10 November 2026 (Tuesday ~11:15 Europe/Rome), with country profiles and a timeline since 1945.",
   "news": [
+    {
+      "headline": "Malaysian court orders Najib to begin house arrest immediately",
+      "summary": "High Court judge Aslam Zainuddin set aside the 6 November order and issued a new one letting former PM Najib Razak, 73, serve the rest of his SRC International sentence under house arrest at his Kuala Lumpur residence until 23 August 2028, in line with the King's conditional pardon of 18 September, after the Attorney-General's Chambers had delayed his transfer.",
+      "date": "10 Nov 2026",
+      "region": "Asia-Pacific",
+      "countries": [
+        "MY"
+      ],
+      "source": "The Star (Bernama)",
+      "url": "https://www.thestar.com.my/news/nation/2026/11/10/high-court-orders-najib-to-serve-house-arrest-immediately"
+    },
+    {
+      "headline": "At least 10 killed in fog-bound motorway pile-ups in Bulgaria",
+      "summary": "About 50 cars and trucks crashed on both carriageways of the Trakia motorway near Yambol in dense fog on Tuesday morning, killing at least 10 people and injuring about 27, the Yambol regional governor told BTA; the motorway was closed in both directions.",
+      "date": "10 Nov 2026",
+      "region": "Europe",
+      "countries": [],
+      "source": "Reuters via The Straits Times",
+      "url": "https://www.straitstimes.com/world/europe/at-least-10-die-in-bulgarian-motorway-pile-up"
+    },
+    {
+      "headline": "France summons Iran's ambassador over supermarket fridge cyberattack",
+      "summary": "France summoned Iran's envoy after blaming the Revolutionary Guards for the October hack that disabled refrigerators in hundreds of supermarkets; Foreign Minister Jean-Noel Barrot warned Paris could respond with cyber measures of its own.",
+      "date": "10 Nov 2026",
+      "region": "Europe",
+      "countries": [
+        "FR",
+        "IR"
+      ],
+      "source": "Reuters via StreetInsider",
+      "url": "https://www.streetinsider.com/Reuters/Morning%2BBid"
+    },
+    {
+      "headline": "Poland arrests two Ukrainians suspected of spying and sabotage for Russia",
+      "summary": "Poland's Internal Security Agency (ABW) said it had arrested two Ukrainian men suspected of espionage and sabotage on behalf of Russian intelligence; Warsaw accuses Russia and Belarus of a hybrid campaign, which Moscow denies.",
+      "date": "10 Nov 2026",
+      "region": "Europe",
+      "countries": [
+        "UA",
+        "RU"
+      ],
+      "source": "Reuters via StreetInsider",
+      "url": "https://www.streetinsider.com/Reuters/Morning%2BBid"
+    },
     {
       "headline": "European shares open near record high as oil slides below $91",
       "summary": "The STOXX 600 rose 0.9% to 662.54 by 0805 GMT, within 1% of its August record, with Germany, France and Italy up about 1% each, as Brent fell more than 2% to about $90 after Trump downplayed the need for military action against Iran; Infineon gained 3.1% on a 2027 growth forecast. Markets await US October CPI at 13:30 GMT.",
