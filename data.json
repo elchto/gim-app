@@ -1,10 +1,42 @@
 {
   "title": "Global Intelligence Monitor",
-  "snapshot": "Tuesday 10 November 2026, 09:15 (Europe/Rome)",
+  "snapshot": "Tuesday 10 November 2026, 10:15 (Europe/Rome)",
   "snapshotDate": "2026-11-10",
-  "lastUpdated": "2026-11-10T09:15:00+01:00",
-  "summary": "A one-page briefing on world news, conflicts, politics and the economy in the week to 10 November 2026 (Tuesday ~09:15 Europe/Rome), with country profiles and a timeline since 1945.",
+  "lastUpdated": "2026-11-10T10:15:00+01:00",
+  "summary": "A one-page briefing on world news, conflicts, politics and the economy in the week to 10 November 2026 (Tuesday ~10:15 Europe/Rome), with country profiles and a timeline since 1945.",
   "news": [
+    {
+      "headline": "European shares open near record high as oil slides below $91",
+      "summary": "The STOXX 600 rose 0.9% to 662.54 by 0805 GMT, within 1% of its August record, with Germany, France and Italy up about 1% each, as Brent fell more than 2% to about $90 after Trump downplayed the need for military action against Iran; Infineon gained 3.1% on a 2027 growth forecast. Markets await US October CPI at 13:30 GMT.",
+      "date": "10 Nov 2026",
+      "region": "Europe",
+      "countries": [
+        "DE",
+        "FR",
+        "IT",
+        "GB"
+      ],
+      "source": "Reuters via US News",
+      "url": "https://money.usnews.com/investing/news/articles/2026-11-10/european-shares-near-record-high-as-lower-oil-prices-boost-sentiment"
+    },
+    {
+      "headline": "Board of Peace warns of escalating humanitarian emergency after Gaza floods",
+      "summary": "Severe seasonal flooding over two days inundated tens of thousands of tents and makeshift shelters in the Gaza Strip, leaving displaced families exposed to cold and unsafe conditions, the Board of Peace said; WHO chief Tedros urged leaders to prioritise political solutions in Gaza.",
+      "date": "10 Nov 2026",
+      "region": "Middle East",
+      "countries": [],
+      "source": "Anadolu Agency",
+      "url": "https://aa.com.tr/en/world/morning-briefing-nov-10/4118200"
+    },
+    {
+      "headline": "TPLF claims it killed 482 Ethiopian soldiers in renewed Tigray clashes",
+      "summary": "The Tigray People's Liberation Front claimed (unverified) that its fighters killed 482 government soldiers and wounded 764 in renewed fighting in northern Tigray, contradicting the Ethiopian military's claims of victories.",
+      "date": "10 Nov 2026",
+      "region": "Africa",
+      "countries": [],
+      "source": "Anadolu Agency",
+      "url": "https://aa.com.tr/en/world/morning-briefing-nov-10/4118200"
+    },
     {
       "headline": "Europeans will be 'in the room' as Abu Dhabi talks open, says France's Barrot",
       "summary": "French Foreign Minister Jean-Noel Barrot told Franceinfo that the UK, Germany and France will be in the meeting room for the Ukraine-Russia talks, and that there can be no discussion with Russia on European security before a ceasefire and peace; a Russian delegation source told Reuters Moscow sees a new European security framework as the main thrust of the talks.",
