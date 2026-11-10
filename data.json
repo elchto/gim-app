@@ -1,10 +1,46 @@
 {
   "title": "Global Intelligence Monitor",
-  "snapshot": "Tuesday 10 November 2026, 16:15 (Europe/Rome)",
+  "snapshot": "Tuesday 10 November 2026, 17:15 (Europe/Rome)",
   "snapshotDate": "2026-11-10",
-  "lastUpdated": "2026-11-10T16:15:00+01:00",
-  "summary": "A one-page briefing on world news, conflicts, politics and the economy in the week to 10 November 2026 (Tuesday ~16:15 Europe/Rome), with country profiles and a timeline since 1945.",
+  "lastUpdated": "2026-11-10T17:15:00+01:00",
+  "summary": "A one-page briefing on world news, conflicts, politics and the economy in the week to 10 November 2026 (Tuesday ~17:15 Europe/Rome), with country profiles and a timeline since 1945.",
   "news": [
+    {
+      "headline": "Anthropic launches IPO roadshow at $70-78 a share, implying up to $1.4 trillion valuation",
+      "summary": "Anthropic's amended S-1 offers 825 million Class A shares at $70-78 on Nasdaq under the ticker 'ANT', raising up to $64.35bn; at the top of the range the fully diluted valuation is about $1.4 trillion (up from $965bn in May, below the ~$2tn reportedly targeted earlier). It also agreed a $26bn private placement with AMD, Broadcom, Google, Micron, Microsoft, Nvidia and TSMC. CNBC's sources say pricing is planned for 18 Nov and trading for 19 Nov.",
+      "date": "10 Nov 2026",
+      "region": "Americas",
+      "countries": [
+        "US"
+      ],
+      "source": "Anthropic / CNBC / TechCrunch",
+      "url": "https://www.cnbc.com/2026/11/10/anthropic-sets-price-range-of-70-to-78-in-upcoming-ipo.html"
+    },
+    {
+      "headline": "Iran says Hormuz security could be restored 'in as little as two days' if US meets its demands",
+      "summary": "Foreign Ministry spokesman Esmail Baghaei said the situation could shift positively within two days if Washington accepts Tehran's demands. The IRGC claims two more ships, including a supertanker, are on fire near the strait after using an 'unauthorized route' (Iran claims 11 ship strikes in 10 days; claims not independently verified). Trump said there was 'positive momentum' after speaking with Qatar's prime minister.",
+      "date": "10 Nov 2026",
+      "region": "Middle East",
+      "countries": [
+        "IR",
+        "US"
+      ],
+      "source": "Democracy Now!",
+      "url": "https://www.democracynow.org/2026/11/10/headlines"
+    },
+    {
+      "headline": "WSJ: Pentagon moves tanker aircraft out of RAF Mildenhall over alleged Iranian threat",
+      "summary": "The Wall Street Journal reports US refuelling tankers were moved from Mildenhall in the UK on Monday, the second British base the Pentagon has pulled aircraft from over an alleged Iranian threat, after B-1 bombers were moved from another base last month.",
+      "date": "10 Nov 2026",
+      "region": "Europe",
+      "countries": [
+        "US",
+        "GB",
+        "IR"
+      ],
+      "source": "Democracy Now! (citing WSJ)",
+      "url": "https://www.democracynow.org/2026/11/10/headlines"
+    },
     {
       "headline": "Wall Street falls after hot CPI; two-year Treasury yield jumps 15bp",
       "summary": "Reuters: after October CPI beat forecasts, the Nasdaq fell about 1% and the S&P 500 0.6% in early trading. The two-year Treasury yield rose 15 basis points to 4.69% and the 10-year 9bp to 4.96%; the dollar index rose 0.3% to 102.01 and gold fell 2% to $4,057/oz. Fed funds futures priced a December hike at 100%, with more than 10% of that pointing to a 50bp move.",
@@ -2256,14 +2292,6 @@
       "url": "https://www.home.saxo/en-gb/content/articles/macro/market-quick-take---asian-chipmakers-rebound-and-brent-holds-below-usd-100---9-november-2026-09112026"
     },
     {
-      "date": "10 Nov",
-      "event": "US consumer prices (CPI) for October",
-      "place": "Washington",
-      "kind": "Economy",
-      "source": "BLS",
-      "url": "https://www.bls.gov/schedule/2026/11_sched.htm"
-    },
-    {
       "date": "10-11 Nov",
       "event": "US-mediated Ukraine-Russia talks",
       "place": "Abu Dhabi",
@@ -2302,6 +2330,14 @@
       "kind": "Economy",
       "source": "Eurostat",
       "url": "https://ec.europa.eu/eurostat/en/web/products-euro-indicators/w/2-04112026-ap"
+    },
+    {
+      "date": "18-19 Nov",
+      "event": "Anthropic IPO: pricing planned 18 Nov, Nasdaq trading 19 Nov (ticker ANT, per CNBC sources)",
+      "place": "New York",
+      "kind": "Economy",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/11/10/anthropic-sets-price-range-of-70-to-78-in-upcoming-ipo.html"
     },
     {
       "date": "18-19 Nov",
@@ -2958,6 +2994,24 @@
     }
   ],
   "sources": [
+    {
+      "title": "Anthropic sets price range of $70 to $78 in upcoming IPO",
+      "site": "CNBC",
+      "url": "https://www.cnbc.com/2026/11/10/anthropic-sets-price-range-of-70-to-78-in-upcoming-ipo.html",
+      "date": "10 Nov 2026"
+    },
+    {
+      "title": "Anthropic launches roadshow for proposed initial public offering",
+      "site": "Anthropic",
+      "url": "https://www.anthropic.com/news/roadshow-launch",
+      "date": "10 Nov 2026"
+    },
+    {
+      "title": "Headlines for November 10, 2026",
+      "site": "Democracy Now!",
+      "url": "https://www.democracynow.org/2026/11/10/headlines",
+      "date": "10 Nov 2026"
+    },
     {
       "title": "Hot October inflation report rattles markets",
       "site": "MarketScreener (Reuters)",
