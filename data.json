@@ -1,10 +1,57 @@
 {
   "title": "Global Intelligence Monitor",
-  "snapshot": "Tuesday 10 November 2026, 02:15 (Europe/Rome)",
+  "snapshot": "Tuesday 10 November 2026, 03:10 (Europe/Rome)",
   "snapshotDate": "2026-11-10",
-  "lastUpdated": "2026-11-10T02:15:00+01:00",
-  "summary": "A one-page briefing on world news, conflicts, politics and the economy in the week to 10 November 2026 (Tuesday ~02:15 Europe/Rome), with country profiles and a timeline since 1945.",
+  "lastUpdated": "2026-11-10T03:10:00+01:00",
+  "summary": "A one-page briefing on world news, conflicts, politics and the economy in the week to 10 November 2026 (Tuesday ~03:10 Europe/Rome), with country profiles and a timeline since 1945.",
   "news": [
+    {
+      "headline": "Russia and Ukraine open US-brokered talks in Abu Dhabi, first since February",
+      "summary": "Two days of talks were set to begin around 0630 GMT on 10 Nov. Kremlin aide Vladimir Medinsky leads Russia's team, which includes Deputy FM Sergei Ryabkov for the first time; Rustem Umerov leads Ukraine's. Zelenskiy says battlefield gains strengthen Kyiv's hand; a US official says both sides may cede some territory, which a senior Ukrainian official denied.",
+      "date": "10 Nov 2026",
+      "region": "Europe",
+      "countries": [
+        "UA",
+        "RU",
+        "US"
+      ],
+      "source": "Reuters via The Star",
+      "url": "https://www.thestar.com.my/news/world/2026/11/10/russia-ukraine-to-meet-for-us-backed-talks-after-trump-says-broad-deal-possible"
+    },
+    {
+      "headline": "Massie files eight articles of impeachment against Defence Secretary Hegseth",
+      "summary": "Republican Rep. Thomas Massie introduced eight articles accusing Pete Hegseth of illegally waging the Iran war without congressional authorisation and abusing his powers; the House could vote as early as 11 Nov, and some Republicans signal they may back the charges. Rubio defended Hegseth in Paris.",
+      "date": "9 Nov 2026",
+      "region": "Americas",
+      "countries": [
+        "US"
+      ],
+      "source": "The Straits Times (AFP)",
+      "url": "https://www.straitstimes.com/world/while-you-were-sleeping-5-stories-you-might-have-missed-nov-10-2026"
+    },
+    {
+      "headline": "IAEA: drone strikes kill Zaporizhzhia nuclear plant worker and a thermal plant employee",
+      "summary": "The IAEA said a worker at the Russian-occupied Zaporizhzhia nuclear plant and an employee of the nearby thermal power plant were killed in separate drone attacks on 9 Nov, the second nuclear plant worker killed in under two weeks; Rafael Grossi called the attacks unacceptable. The Russian-installed management blamed Ukraine.",
+      "date": "9 Nov 2026",
+      "region": "Europe",
+      "countries": [
+        "UA",
+        "RU"
+      ],
+      "source": "Anadolu Agency",
+      "url": "https://www.aa.com.tr/en/world/un-nuclear-watchdog-condemns-drone-attacks-killing-2-power-plant-workers-in-ukraine/4117555"
+    },
+    {
+      "headline": "Netanyahu again calls for a unity government after Eisenkot gets mandate",
+      "summary": "A day after President Herzog gave opposition rival Gadi Eisenkot the first chance to form a coalition, caretaker PM Netanyahu said in a video that 'a unity government is, simply, a necessity'. Eisenkot's bloc won 48 seats and Netanyahu's 53 of the 61 needed in the 27 Oct election.",
+      "date": "9 Nov 2026",
+      "region": "Middle East",
+      "countries": [
+        "IL"
+      ],
+      "source": "The Straits Times (Bloomberg)",
+      "url": "https://www.straitstimes.com/world/while-you-were-sleeping-5-stories-you-might-have-missed-nov-10-2026"
+    },
     {
       "headline": "Asian stocks rally after Wall Street's best day in seven months; Kospi jumps over 5%",
       "summary": "South Korea's Kospi jumped more than 5% in early Tuesday trading and Japan's Nikkei 225 rose nearly 3%, tracking a US tech rally and a slump in oil; Brent settled below $93 a barrel after falling almost 6% on Monday. US October CPI data is due Tuesday.",
@@ -1182,6 +1229,17 @@
   "politics": [
     {
       "date": "9 Nov",
+      "title": "US: Massie introduces Hegseth impeachment articles",
+      "detail": "Eight articles over the Iran war and abuse of power; a House vote could come as early as 11 Nov, with some Republicans signalling support.",
+      "status": {
+        "label": "Vote pending",
+        "tone": "warning"
+      },
+      "source": "The Straits Times (AFP)",
+      "url": "https://www.straitstimes.com/world/while-you-were-sleeping-5-stories-you-might-have-missed-nov-10-2026"
+    },
+    {
+      "date": "9 Nov",
       "title": "G7 foreign ministers meet in Paris (9-10 Nov)",
       "detail": "Europeans press Rubio to keep Ukraine and Europe in any settlement and to favour diplomacy with Iran; AI safety and maritime security also on the agenda.",
       "status": {
@@ -2034,7 +2092,7 @@
       "headOfGov": "Prime Minister Anwar Ibrahim"
     }
   ],
-  "profilesNote": "Leaders checked against news of 10 November 2026 (~02:15 Rome). Israel: Netanyahu remains caretaker PM; Herzog tasked Gadi Eisenkot with forming a government on 8 Nov (28 days, extendable by 14). Paraguay: Pedro Alliana assumed the presidency after Peña resigned and the lower house impeached him over Ueno Bank (AS/COA / Latin Times); Deposit Guarantee payouts started — Paraguay is not listed in country profiles. Japan: PM Sanae Takaichi; government considering an explicit emergency exception to the non-nuclear principles in the National Security Strategy (Kyodo; claim/proposal, not yet adopted).",
+  "profilesNote": "Leaders checked against news of 10 November 2026 (~03:10 Rome). Israel: Netanyahu remains caretaker PM; Herzog tasked Gadi Eisenkot with forming a government on 8 Nov (28 days, extendable by 14). Paraguay: Pedro Alliana assumed the presidency after Peña resigned and the lower house impeached him over Ueno Bank (AS/COA / Latin Times); Deposit Guarantee payouts started — Paraguay is not listed in country profiles. Japan: PM Sanae Takaichi; government considering an explicit emergency exception to the non-nuclear principles in the National Security Strategy (Kyodo; claim/proposal, not yet adopted).",
   "profileSource": "https://www.imf.org/external/datamapper/NGDPD@WEO",
   "history": [
     {
