@@ -1,10 +1,42 @@
 {
   "title": "Global Intelligence Monitor",
-  "snapshot": "Tuesday 10 November 2026, 05:15 (Europe/Rome)",
+  "snapshot": "Tuesday 10 November 2026, 06:15 (Europe/Rome)",
   "snapshotDate": "2026-11-10",
-  "lastUpdated": "2026-11-10T05:15:00+01:00",
-  "summary": "A one-page briefing on world news, conflicts, politics and the economy in the week to 10 November 2026 (Tuesday ~04:15 Europe/Rome), with country profiles and a timeline since 1945.",
+  "lastUpdated": "2026-11-10T06:15:00+01:00",
+  "summary": "A one-page briefing on world news, conflicts, politics and the economy in the week to 10 November 2026 (Tuesday ~06:15 Europe/Rome), with country profiles and a timeline since 1945.",
   "news": [
+    {
+      "headline": "Trump says Iran war 'militarily effectively over' as Iran's Rezaei demands the US accept its seven conditions",
+      "summary": "After meeting Qatar's PM, Trump said the war was 'effectively over' and renewed strikes 'quite unlikely', while the naval blockade and the new land-route operation Iron Gate stay in place. Iran's Mohsen Rezaei dismissed reports of bilateral talks as 'imaginary' and said the US must 'surrender' to Tehran's seven conditions.",
+      "date": "10 Nov 2026",
+      "region": "Middle East",
+      "countries": [
+        "US",
+        "IR"
+      ],
+      "source": "The Indian Express / Xinhua",
+      "url": "https://indianexpress.com/article/world/world-news-live-updates-iran-war-donald-trump-hegseth-10957104/"
+    },
+    {
+      "headline": "Merz nominates Ilse Aigner for German president",
+      "summary": "Chancellor Friedrich Merz announced that the CDU federal executive backed his proposal to nominate Ilse Aigner for the presidency, which could make her Germany's first female head of state.",
+      "date": "9 Nov 2026",
+      "region": "Europe",
+      "countries": [
+        "DE"
+      ],
+      "source": "Xinhua",
+      "url": "https://english.news.cn/20261110/eee10e4fe129421394627f7e1015fc4e/c.html"
+    },
+    {
+      "headline": "At least 21 killed in bus-truck collision in Tanzania's Iringa Region",
+      "summary": "Police said a bus collided with a cargo truck in southern Tanzania on Monday, killing 10 men, nine women and two children and injuring five others.",
+      "date": "9 Nov 2026",
+      "region": "Africa",
+      "countries": [],
+      "source": "Xinhua",
+      "url": "https://english.news.cn/20261110/eee10e4fe129421394627f7e1015fc4e/c.html"
+    },
     {
       "headline": "US officials say Moscow and Kyiv show 'a little flexibility' privately on Donetsk as Abu Dhabi talks open",
       "summary": "On the eve of the talks a US official said both sides' public positions on Donetsk had not moved but they had shown some private flexibility, and that territory would not be settled before a postwar security architecture. The proposed framework includes security consultations, crisis hotlines, reciprocal de-escalation and possibly reactivating the NATO-Russia Council. Kushner said the talks could at most 'build momentum toward the next phase'.",
