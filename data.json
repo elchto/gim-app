@@ -1,10 +1,50 @@
 {
   "title": "Global Intelligence Monitor",
-  "snapshot": "Tuesday 10 November 2026, 11:15 (Europe/Rome)",
+  "snapshot": "Tuesday 10 November 2026, 12:15 (Europe/Rome)",
   "snapshotDate": "2026-11-10",
-  "lastUpdated": "2026-11-10T11:15:00+01:00",
+  "lastUpdated": "2026-11-10T12:15:00+01:00",
   "summary": "A one-page briefing on world news, conflicts, politics and the economy in the week to 10 November 2026 (Tuesday ~11:15 Europe/Rome), with country profiles and a timeline since 1945.",
   "news": [
+    {
+      "headline": "Russia-Ukraine-US talks open in Abu Dhabi as Kushner calls for a 'new framework' for Europe",
+      "summary": "Russian and Ukrainian negotiators sat facing each other with Jared Kushner and Steve Witkoff at the head of the table. Kushner said the US hoped to create security relationships between Ukraine, Russia and Europe so as to end the war and build 'a new framework'; beforehand the Europeans, Ukraine, the US and NATO issued a joint statement reaffirming their commitment to a strong post-war European security architecture. The two-day round runs to 11 Nov.",
+      "date": "10 Nov 2026",
+      "region": "Europe",
+      "countries": [
+        "UA",
+        "RU",
+        "US"
+      ],
+      "source": "AFP",
+      "url": "https://www.afp.com/en/us-calls-new-europe-security-framework-russia-ukraine-talks-open"
+    },
+    {
+      "headline": "G7 foreign ministers reaffirm opposition to changing the status quo by force in Asian waters",
+      "summary": "At their Paris meeting the G7 ministers restated their opposition to unilateral attempts to change the status quo by force or coercion in the East and South China Seas and the Taiwan Strait, agreed to counter market-distorting practices, arbitrary export restrictions and economic coercion, and condemned North Korea's nuclear and missile programmes. On Tuesday Ukraine's FM Andrii Sybiha met Rubio before joining a G7 session on Ukraine.",
+      "date": "10 Nov 2026",
+      "region": "Europe",
+      "countries": [
+        "JP",
+        "US",
+        "FR",
+        "DE",
+        "GB",
+        "IT",
+        "CN",
+        "UA"
+      ],
+      "source": "NHK World / AP",
+      "url": "https://www3.nhk.or.jp/nhkworld/news/20261110de73238/"
+    },
+    {
+      "headline": "Spain clears Ceuta port migrant camp; over 300 Moroccans return home in two days",
+      "summary": "National Police resumed clearing the temporary camp in Ceuta's port, moving residents to other facilities or the El Tarajal CATE centre; local paper El Faro de Ceuta reports more than 300 Moroccans went home in two days. About 5,800 people still live in emergency facilities set up after an estimated 80,000 arrivals in late July; 14,818 have returned to Morocco since, 638 of them deported.",
+      "date": "10 Nov 2026",
+      "region": "Europe",
+      "countries": [],
+      "source": "Euronews",
+      "url": "https://www.euronews.com/2026/11/10/spain-clears-ceuta-port-migrant-camp-as-300-return-to-morocco"
+    },
     {
       "headline": "Malaysian court orders Najib to begin house arrest immediately",
       "summary": "High Court judge Aslam Zainuddin set aside the 6 November order and issued a new one letting former PM Najib Razak, 73, serve the rest of his SRC International sentence under house arrest at his Kuala Lumpur residence until 23 August 2028, in line with the King's conditional pardon of 18 September, after the Attorney-General's Chambers had delayed his transfer.",
@@ -127,6 +167,17 @@
       ],
       "source": "Anadolu Agency (citing Yedioth Ahronoth)",
       "url": "https://aa.com.tr/en/world/morning-briefing-nov-10/4118200"
+    },
+    {
+      "headline": "Japan to give the Philippines coastal radar and surveillance drones in $27m deal",
+      "summary": "Under a 4.3 billion yen Official Security Assistance grant signed in Manila, Japan will provide a coastal radar to the Philippine Navy and surveillance drones to the Air Force, its largest OSA project so far and the first transfer of defence equipment under the programme; quantities and delivery dates were not disclosed.",
+      "date": "9 Nov 2026",
+      "region": "Asia-Pacific",
+      "countries": [
+        "JP"
+      ],
+      "source": "AP / NHK World",
+      "url": "https://apnews.com/article/japan-philippines-vietnam-military-assistance-fe32ef6b4c11bb348bb4d5df253a8378"
     },
     {
       "headline": "EU report: covert Russian network exploited October riots in France",
