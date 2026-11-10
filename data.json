@@ -1,10 +1,54 @@
 {
   "title": "Global Intelligence Monitor",
-  "snapshot": "Tuesday 10 November 2026, 03:10 (Europe/Rome)",
+  "snapshot": "Tuesday 10 November 2026, 04:15 (Europe/Rome)",
   "snapshotDate": "2026-11-10",
-  "lastUpdated": "2026-11-10T03:10:00+01:00",
-  "summary": "A one-page briefing on world news, conflicts, politics and the economy in the week to 10 November 2026 (Tuesday ~03:10 Europe/Rome), with country profiles and a timeline since 1945.",
+  "lastUpdated": "2026-11-10T04:15:00+01:00",
+  "summary": "A one-page briefing on world news, conflicts, politics and the economy in the week to 10 November 2026 (Tuesday ~04:15 Europe/Rome), with country profiles and a timeline since 1945.",
   "news": [
+    {
+      "headline": "China's October exports jump 35.2% and imports 41.6%; trade surplus narrows to $105.3bn",
+      "summary": "Customs data showed exports beat the ~33.5% forecast (September: 36.3%) on demand for chips and AI hardware, while imports surged far more than expected. The surplus fell to its lowest since April, though the year-to-date surplus topped $1 trillion.",
+      "date": "10 Nov 2026",
+      "region": "Asia-Pacific",
+      "countries": [
+        "CN"
+      ],
+      "source": "CNBC / SCMP",
+      "url": "https://www.cnbc.com/2026/11/10/china-trade-october-exports-imports-surplus-.html"
+    },
+    {
+      "headline": "Paraguay: 93.1% of covered Ueno Bank depositors have now been repaid",
+      "summary": "The central bank said 1,738,804 accounts covered by the deposit guarantee fund have received about 2.126 trillion guaraníes (~$340m); some 128,000 accounts remain. The fate of balances above the ~$38,600 cap, including about $800m in state and pension funds, is still unclear.",
+      "date": "10 Nov 2026",
+      "region": "Americas",
+      "countries": [],
+      "source": "EFE / AFP",
+      "url": "https://efe.com/economia/2026-11-10/clientes-ueno-bank-reciben-devoluciones-ahorros/"
+    },
+    {
+      "headline": "Zelenskyy welcomes India's offer to mediate Black Sea 'food corridors'",
+      "summary": "After a call with PM Narendra Modi on the eve of the Abu Dhabi talks, Zelenskyy said India is ready to help mediate between Russia and Ukraine to establish food corridors.",
+      "date": "9 Nov 2026",
+      "region": "Asia-Pacific",
+      "countries": [
+        "IN",
+        "UA",
+        "RU"
+      ],
+      "source": "The Hindu",
+      "url": "https://www.thehindu.com/news/morning-digest-on-november-10-2026/article71684764.ece"
+    },
+    {
+      "headline": "Japan's real household spending falls 6.8% in September",
+      "summary": "Government data on Tuesday showed spending by households of two or more fell a real 6.8% year on year; separately Japan posted a September current account surplus of ¥2.37 trillion.",
+      "date": "10 Nov 2026",
+      "region": "Asia-Pacific",
+      "countries": [
+        "JP"
+      ],
+      "source": "Kyodo News",
+      "url": "https://english.kyodonews.net/articles/-/90869"
+    },
     {
       "headline": "Russia and Ukraine open US-brokered talks in Abu Dhabi, first since February",
       "summary": "Two days of talks were set to begin around 0630 GMT on 10 Nov. Kremlin aide Vladimir Medinsky leads Russia's team, which includes Deputy FM Sergei Ryabkov for the first time; Rustem Umerov leads Ukraine's. Zelenskiy says battlefield gains strengthen Kyiv's hand; a US official says both sides may cede some territory, which a senior Ukrainian official denied.",
@@ -1138,18 +1182,6 @@
       ],
       "source": "Kyodo News / Democracy Now",
       "url": "https://english.kyodonews.net/articles/-/90209"
-    },
-    {
-      "headline": "US strikes Iran's Qeshm Island in the Strait of Hormuz",
-      "summary": "US officials called the strikes limited and defensive, after Iranian forces fired on US assets. It was the first US attack on the island since June, while Qatari mediation continues.",
-      "date": "3 Nov 2026",
-      "region": "Middle East",
-      "countries": [
-        "US",
-        "IR"
-      ],
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/11/3/us-hits-qeshm-island-pezeshkian-signals-more-diplomacy-iran-war-latest"
     }
   ],
   "conflicts": [
@@ -1160,10 +1192,10 @@
         "label": "Talks amid fighting",
         "tone": "danger"
       },
-      "latest": "US-mediated trilateral talks resume in Abu Dhabi on 10-11 Nov (first since February), focused on post-war security guarantees; a ceasefire is reportedly not on the agenda. EU joint team, E3, Italy and NATO attend. Trump (60 Minutes) expects the war to end soon with 'a little bit different shape' for Ukraine. Russia keeps striking the power grid while Ukraine hits Russian refineries.",
-      "date": "9 Nov 2026",
-      "source": "Euronews / The Guardian / Xinhua",
-      "url": "https://www.euronews.com/2026/11/09/eu-to-send-joint-team-to-ukraine-russia-peace-talks-in-abu-dhabi"
+      "latest": "First US-mediated trilateral talks since February open in Abu Dhabi on 10-11 Nov (Witkoff, Kushner; Medinsky for Russia, Umerov for Ukraine), centred on post-war security architecture; a US official says both sides privately show 'a little bit of flexibility' on territory, which Kyiv publicly denies. Trump sees a 'very strong inclination' to end the war. Russia keeps striking the power grid while Ukraine hits Russian refineries.",
+      "date": "10 Nov 2026",
+      "source": "Reuters / BBC / Jerusalem Post",
+      "url": "https://www.bbc.com/news/articles/cqpvgvrpjvv8o"
     },
     {
       "name": "US/Israel-Iran war",
@@ -1623,14 +1655,6 @@
       "url": "https://www.diplomatie.gouv.fr/en/presse-et-ressources/decouvrir-et-informer/actualites/quelles-priorites-pour-la-reunion-des-ministres-des-affaires-etrangeres-du-g7-a-paris"
     },
     {
-      "date": "10 Nov",
-      "event": "China October trade data",
-      "place": "Beijing",
-      "kind": "Economy",
-      "source": "Saxo",
-      "url": "https://www.home.saxo/en-gb/content/articles/macro/market-quick-take---asian-chipmakers-rebound-and-brent-holds-below-usd-100---9-november-2026-09112026"
-    },
-    {
       "date": "12 Nov",
       "event": "UK third-quarter GDP",
       "place": "London",
@@ -1768,6 +1792,14 @@
     }
   ],
   "economy": [
+    {
+      "item": "China trade (October)",
+      "figure": "Exports +35.2% y/y; imports +41.6%",
+      "detail": "Surplus $105.3bn, lowest since April; year-to-date surplus $1.04 trillion.",
+      "date": "10 Nov 2026",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/11/10/china-trade-october-exports-imports-surplus-.html"
+    },
     {
       "item": "US jobs (October)",
       "figure": "+165,000; unemployment 4.1%",
