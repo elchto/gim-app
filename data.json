@@ -1,10 +1,41 @@
 {
   "title": "Global Intelligence Monitor",
-  "snapshot": "Tuesday 10 November 2026, 21:15 (Europe/Rome)",
+  "snapshot": "Tuesday 10 November 2026, 22:15 (Europe/Rome)",
   "snapshotDate": "2026-11-10",
-  "lastUpdated": "2026-11-10T21:15:00+01:00",
-  "summary": "A one-page briefing on world news, conflicts, politics and the economy in the week to 10 November 2026 (Tuesday ~19:10 Europe/Rome), with country profiles and a timeline since 1945.",
+  "lastUpdated": "2026-11-10T22:15:00+01:00",
+  "summary": "A one-page briefing on world news, conflicts, politics and the economy in the week to 10 November 2026 (Tuesday ~22:15 Europe/Rome), with country profiles and a timeline since 1945.",
   "news": [
+    {
+      "headline": "Iran's Revolutionary Guards claim three oil tankers on fire in Hormuz (claim)",
+      "summary": "The IRGC said two tankers on an 'unauthorized route' were halted by massive explosions and a third exploded after striking a naval mine; it did not name the ships and the claims are not independently verified. Separately ADNOC said one of its vessels was damaged in an attack in UAE waters and UKMTO reported a tanker struck by an unknown projectile off Oman. The US military recently said all mines had been cleared.",
+      "date": "10 Nov 2026",
+      "region": "Middle East",
+      "countries": [
+        "IR"
+      ],
+      "source": "Arab News (Reuters/AFP)",
+      "url": "https://www.arabnews.com/middle-east/iran-says-three-oil-tankers-on-fire-in-hormuz-3010988"
+    },
+    {
+      "headline": "Wall Street closes lower after hot CPI: S&P 500 -0.38%, Nasdaq -0.74%",
+      "summary": "Reuters preliminary data: the S&P 500 fell 28.46 points to 7,521.48, the Nasdaq 185.90 to 25,067.23 and the Dow 161.95 to 52,227.80. Tech was the worst sector as Nvidia fell nearly 6%. CME FedWatch fully priced at least a 25bp December hike, with 11.8% odds of 50bp.",
+      "date": "10 Nov 2026",
+      "region": "Americas",
+      "countries": [
+        "US"
+      ],
+      "source": "Reuters (via MarketScreener)",
+      "url": "https://ca.marketscreener.com/news/wall-st-ends-lower-as-hot-inflation-data-fed-comments-heighten-rate-worries-ce785edad18ef422"
+    },
+    {
+      "headline": "Web Summit Lisbon cancels its second day because of Storm Charles",
+      "summary": "Euronews reports the technology conference closed its doors on day two as Storm Charles hit Portugal, where authorities had warned of a possible 'sting jet' with gusts above 160 km/h around Greater Lisbon.",
+      "date": "10 Nov 2026",
+      "region": "Europe",
+      "countries": [],
+      "source": "Euronews",
+      "url": "https://www.euronews.com/2026/11/10"
+    },
     {
       "headline": "Fed's Logan says FOMC needs 'at least two more' quarter-point hikes, possibly faster this winter",
       "summary": "Dallas Fed President Lorie Logan said in prepared remarks to a Dallas/Kansas City Fed energy conference that the Fed must deliver at least two more 25bp increases and that 'it may be possible to move more rapidly this winter than the FOMC has moved so far this fall.' She said 'excess inflation is unacceptable' and that pressures are broader than wartime energy disruptions or tariffs. The Fed's next meeting is 8-9 December.",
@@ -2689,11 +2720,11 @@
     },
     {
       "item": "US stocks",
-      "figure": "S&P 500 -0.64%, Nasdaq -1.15% (Tue, afternoon)",
-      "detail": "Reuters: S&P 500 7,501.88, Nasdaq 24,962.44, Dow 52,166.63 (-0.43%) as hot October CPI and hawkish Fed comments (Waller, Logan) fuelled rate-hike worries; Nvidia fell more than 6%. Monday the S&P 500 closed +2.35% at 7,549.94.",
+      "figure": "S&P 500 -0.38%, Nasdaq -0.74% (Tue close)",
+      "detail": "Reuters preliminary: S&P 500 7,521.48, Nasdaq 25,067.23, Dow 52,227.80 (-0.31%) as hot October CPI and hawkish Fed comments (Waller, Logan) fuelled rate-hike worries; Nvidia fell nearly 6%. Monday the S&P 500 closed +2.35% at 7,549.94.",
       "date": "10 Nov 2026",
-      "source": "Reuters (via StreetInsider)",
-      "url": "https://www.streetinsider.com/General+News/Wall+St+falls+as+hot+inflation+data+fuels+rate-hike+jitters/27317417.html"
+      "source": "Reuters (via MarketScreener)",
+      "url": "https://ca.marketscreener.com/news/wall-st-ends-lower-as-hot-inflation-data-fed-comments-heighten-rate-worries-ce785edad18ef422"
     },
     {
       "item": "European stocks",
