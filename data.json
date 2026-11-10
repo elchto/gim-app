@@ -1,10 +1,32 @@
 {
   "title": "Global Intelligence Monitor",
-  "snapshot": "Tuesday 10 November 2026, 17:15 (Europe/Rome)",
+  "snapshot": "Tuesday 10 November 2026, 18:15 (Europe/Rome)",
   "snapshotDate": "2026-11-10",
-  "lastUpdated": "2026-11-10T17:15:00+01:00",
-  "summary": "A one-page briefing on world news, conflicts, politics and the economy in the week to 10 November 2026 (Tuesday ~17:15 Europe/Rome), with country profiles and a timeline since 1945.",
+  "lastUpdated": "2026-11-10T18:15:00+01:00",
+  "summary": "A one-page briefing on world news, conflicts, politics and the economy in the week to 10 November 2026 (Tuesday ~18:15 Europe/Rome), with country profiles and a timeline since 1945.",
   "news": [
+    {
+      "headline": "ADNOC vessel damaged in attack in UAE waters; GCC approves military command HQ in Kuwait",
+      "summary": "ADNOC Logistics and Services confirmed one of its vessels sustained damage following an attack in UAE territorial waters in the Arabian Gulf. Gulf News also reports GCC states approved an advanced military command headquarters in Kuwait, and UAE airlines are adjusting selected flights over regional security concerns.",
+      "date": "10 Nov 2026",
+      "region": "Middle East",
+      "countries": [],
+      "source": "Gulf News",
+      "url": "https://gulfnews.com/uae/middle-east-war-9-things-uae-residents-need-to-know-tonight-november-10-1.500742737"
+    },
+    {
+      "headline": "Abu Dhabi talks also covered security guarantees for Russia, source says",
+      "summary": "A source close to the Ukrainian delegation told Ukrainska Pravda the opening round focused mainly on security guarantees for Ukraine and Europe, with Moscow's demands for its own guarantees considered separately; no agreement was announced. Kushner and Witkoff said there were 'some good ideas how to bridge' differences; talks resume Wednesday morning.",
+      "date": "10 Nov 2026",
+      "region": "Europe",
+      "countries": [
+        "UA",
+        "RU",
+        "US"
+      ],
+      "source": "Kyiv Post / DW",
+      "url": "https://www.kyivpost.com/post/89691"
+    },
     {
       "headline": "Anthropic launches IPO roadshow at $70-78 a share, implying up to $1.4 trillion valuation",
       "summary": "Anthropic's amended S-1 offers 825 million Class A shares at $70-78 on Nasdaq under the ticker 'ANT', raising up to $64.35bn; at the top of the range the fully diluted valuation is about $1.4 trillion (up from $965bn in May, below the ~$2tn reportedly targeted earlier). It also agreed a $26bn private placement with AMD, Broadcom, Google, Micron, Microsoft, Nvidia and TSMC. CNBC's sources say pricing is planned for 18 Nov and trading for 19 Nov.",
@@ -302,13 +324,13 @@
       "url": "https://www.thestar.com.my/news/nation/2026/11/10/high-court-orders-najib-to-serve-house-arrest-immediately"
     },
     {
-      "headline": "At least 10 killed in fog-bound motorway pile-ups in Bulgaria",
-      "summary": "About 50 cars and trucks crashed on both carriageways of the Trakia motorway near Yambol in dense fog on Tuesday morning, killing at least 10 people and injuring about 27, the Yambol regional governor told BTA; the motorway was closed in both directions.",
+      "headline": "At least 12 killed in fog-bound motorway pile-ups in Bulgaria",
+      "summary": "Dense fog on the Trakia motorway linking Sofia and Burgas, near Yambol, caused two pile-ups on Tuesday. Health Minister Katya Ivkova said 10 people died at the scene and two more on the way to hospital, and 46 were taken for treatment; the road was closed in both directions.",
       "date": "10 Nov 2026",
       "region": "Europe",
       "countries": [],
-      "source": "Reuters via The Straits Times",
-      "url": "https://www.straitstimes.com/world/europe/at-least-10-die-in-bulgarian-motorway-pile-up"
+      "source": "AP via The Times of India",
+      "url": "https://timesofindia.indiatimes.com/india/breaking-news-live-updates-november-10/liveblog/135695497.cms"
     },
     {
       "headline": "France summons Iran's ambassador over supermarket fridge cyberattack",
@@ -2543,11 +2565,11 @@
     },
     {
       "item": "European stocks",
-      "figure": "Stoxx 600 656.52 (+1.26%, Mon)",
-      "detail": "DAX +1.89% to 26,282.55, CAC 40 +1.16% to 8,233.30, FTSE MIB +2.69%, FTSE 100 ~+1%. Defence +4.2%, banks +3.1%. Markets price an ECB hike of at least 25bp early next year (LSEG); Sentix fell to 2.4.",
-      "date": "9 Nov 2026",
-      "source": "Reuters (MarketScreener) / Radiocor",
-      "url": "https://ca.marketscreener.com/news/european-shares-climb-as-banks-defence-stocks-lead-broad-based-rally-ce785fd3de88f726"
+      "figure": "Stoxx 600 660.31 (+0.58%, Tue)",
+      "detail": "Euro Stoxx 50 +0.59% to 6,327.87, a two-month intraday high, as falling oil prices supported shares; CAC 40 +0.55%. Monday: Stoxx 600 +1.26% to 656.52, FTSE MIB +2.69%.",
+      "date": "10 Nov 2026",
+      "source": "Yahoo Finance / dpa-AFX / Borse.it",
+      "url": "https://www.ad-hoc-news.de/boerse/news/marktberichte/aktien-europa-schluss-kurse-legen-weiter-zu-rueckgang-der-oelpreise-treibt-an/70487642"
     },
     {
       "item": "Asia stocks",
