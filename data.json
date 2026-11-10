@@ -1,10 +1,67 @@
 {
   "title": "Global Intelligence Monitor",
-  "snapshot": "Tuesday 10 November 2026, 14:15 (Europe/Rome)",
+  "snapshot": "Tuesday 10 November 2026, 15:15 (Europe/Rome)",
   "snapshotDate": "2026-11-10",
-  "lastUpdated": "2026-11-10T14:15:00+01:00",
-  "summary": "A one-page briefing on world news, conflicts, politics and the economy in the week to 10 November 2026 (Tuesday ~11:15 Europe/Rome), with country profiles and a timeline since 1945.",
+  "lastUpdated": "2026-11-10T15:15:00+01:00",
+  "summary": "A one-page briefing on world news, conflicts, politics and the economy in the week to 10 November 2026 (Tuesday ~15:15 Europe/Rome), with country profiles and a timeline since 1945.",
   "news": [
+    {
+      "headline": "US consumer prices rise 0.4% in October, more than expected",
+      "summary": "The consumer price index rose a seasonally adjusted 0.4% in October (forecast 0.3%), down from 0.6% in September; core CPI rose 0.3% (forecast 0.2%). The BLS published no annual rate because last year's shutdown prevented October 2025 data collection. Shelter accounted for more than 30% of the rise; energy +0.7%, food +0.5%. The data strengthens the case for a Fed hike in December.",
+      "date": "10 Nov 2026",
+      "region": "Americas",
+      "countries": [
+        "US"
+      ],
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/11/10/cpi-inflation-report-october-2026.html"
+    },
+    {
+      "headline": "First day of Abu Dhabi talks ends after about four hours; Rubio calls them 'very productive'",
+      "summary": "Day one of the US-mediated Russia-Ukraine-US talks ended after roughly four to four and a half hours with no outcome announced; Ukraine's Foreign Intelligence Service said they resume on Wednesday morning. Rubio said there was still a lot of work to do and that a goal is to eventually bring other European voices into the trilateral format.",
+      "date": "10 Nov 2026",
+      "region": "Europe",
+      "countries": [
+        "UA",
+        "RU",
+        "US"
+      ],
+      "source": "The Guardian / Anadolu Agency / Ukrinform",
+      "url": "https://www.aa.com.tr/en/eurasia/1st-day-of-us-mediated-russia-ukraine-peace-talks-in-abu-dhabi-ends/4118929"
+    },
+    {
+      "headline": "Qatar sees 'progress' in US-Iran talks but cannot say how close a deal is",
+      "summary": "A day after PM Sheikh Mohammed bin Abdulrahman Al Thani met Trump at the White House, Qatar's foreign ministry spokesman Ibrahim Al Hashmi said both sides were responding positively to mediation, but 'we cannot say how close or how far away an agreement is'. He said the continued closure of the Strait of Hormuz is multiplying the cost of the crisis as winter approaches. Iran's FM Araghchi said Tehran's two-day proposal remains on the table.",
+      "date": "10 Nov 2026",
+      "region": "Middle East",
+      "countries": [
+        "US",
+        "IR"
+      ],
+      "source": "Euronews / Türkiye Today",
+      "url": "https://www.euronews.com/2026/11/10/qatar-sees-progress-in-us-iran-talks-after-white-house-meeting"
+    },
+    {
+      "headline": "Brent dips below $90 for the first time since August",
+      "summary": "Reuters: Brent fell $2.39 (2.58%) to $90.18 by 09:30 GMT after briefly trading below $90 for the first time since 31 August, as Trump downplayed further strikes on Iran; WTI fell to $84.74. Brent is about 23% below its 30 October six-month high of $118. JPMorgan estimated a 1.4m barrels-per-day global surplus in October.",
+      "date": "10 Nov 2026",
+      "region": "Middle East",
+      "countries": [
+        "US",
+        "IR"
+      ],
+      "source": "Reuters (via Euronext)",
+      "url": "https://live.euronext.com/en/financial-news/oil-falls-below-90-trump-downplays-prospect-escalation-iran"
+    },
+    {
+      "headline": "EU pledges €10m for Black Sea search and rescue in Bulgaria",
+      "summary": "Commission President Ursula von der Leyen, in Varna, announced €10 million to strengthen Bulgaria's search and rescue operations in the Black Sea, which Euronews says is becoming one of the world's most dangerous transport routes because of continued drone attacks.",
+      "date": "10 Nov 2026",
+      "region": "Europe",
+      "countries": [],
+      "source": "Euronews",
+      "url": "https://www.euronews.com/2026/11/10/eu-pledges-10-million-for-bulgarian-black-sea-search-rescue-operations"
+    },
     {
       "headline": "Denmark pledges €643m military aid package as Zelenskyy meets Nordic leaders in Copenhagen",
       "summary": "Foreign Minister Lars Løkke Rasmussen announced Denmark's 32nd aid package for Ukraine, 4.8bn kroner (about €643m), mostly for air defence, plus 150m kroner (about €20m) for Ukraine's energy sector. Zelenskyy held security talks with Nordic leaders on the same day the Abu Dhabi talks opened; Copenhagen banned drones over the capital until 12 Nov.",
@@ -1685,10 +1742,10 @@
         "label": "Talks amid fighting",
         "tone": "danger"
       },
-      "latest": "US-mediated trilateral talks, the first since February, opened in Abu Dhabi on 10 Nov and run to 11 Nov (Witkoff, Kushner; Medinsky for Russia, Umerov for Ukraine), centred on post-war security architecture; France's Barrot says the UK, Germany and France will be in the room, while a Russian delegation source says a new European security framework is Moscow's main aim. A US official says both sides privately show 'a little bit of flexibility' on territory, which Kyiv publicly denies. Russia keeps striking the power grid while Ukraine hits Russian refineries.",
+      "latest": "US-mediated trilateral talks, the first since February, opened in Abu Dhabi on 10 Nov (Witkoff, Kushner; Medinsky for Russia, Umerov for Ukraine), centred on post-war security architecture. Day one ended after about four hours with no outcome announced and resumes on 11 Nov; Rubio called it 'very productive' but said much work remains and wants other European voices included eventually. A US official says both sides privately show 'a little bit of flexibility' on territory, which Kyiv publicly denies. Russia hit five major substations overnight while Ukraine hits Russian refineries.",
       "date": "10 Nov 2026",
-      "source": "Reuters / BBC / DW",
-      "url": "https://www.bbc.com/news/articles/cqpvgvrpjvv8o"
+      "source": "Reuters / BBC / The Guardian / Anadolu Agency",
+      "url": "https://www.aa.com.tr/en/eurasia/1st-day-of-us-mediated-russia-ukraine-peace-talks-in-abu-dhabi-ends/4118929"
     },
     {
       "name": "US/Israel-Iran war",
@@ -2286,6 +2343,14 @@
   ],
   "economy": [
     {
+      "item": "US CPI (October)",
+      "figure": "+0.4% m/m; core +0.3%",
+      "detail": "Above forecasts of 0.3% and 0.2%; September was +0.6%. No year-on-year rate published because October 2025 data was not collected during the shutdown. Shelter was over 30% of the increase.",
+      "date": "10 Nov 2026",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/11/10/cpi-inflation-report-october-2026.html"
+    },
+    {
       "item": "China trade (October)",
       "figure": "Exports +35.2% y/y; imports +41.6%",
       "detail": "Surplus $105.3bn, lowest since April; year-to-date surplus $1.04 trillion.",
@@ -2383,11 +2448,11 @@
     },
     {
       "item": "Brent crude oil",
-      "figure": "~$91.63 (-1.0%, Tue)",
-      "detail": "AFP: extending Monday's slide (settled $92.57, -5.85%) after Trump held off new strikes on Iran; WTI ~$85.87 (-1.1%).",
+      "figure": "~$90.18 (-2.6%, Tue)",
+      "detail": "Reuters: briefly below $90 for the first time since 31 Aug after Trump held off new strikes on Iran; Monday settled -5.85%. WTI ~$84.74 (-2.4%). Down about 23% from the 30 Oct high of $118.",
       "date": "10 Nov 2026",
-      "source": "AFP",
-      "url": "https://www.afp.com/en/tech-leads-asian-stock-rally-traders-track-wall-st-rebound"
+      "source": "Reuters (via Euronext)",
+      "url": "https://live.euronext.com/en/financial-news/oil-falls-below-90-trump-downplays-prospect-escalation-iran"
     },
     {
       "item": "US stocks",
