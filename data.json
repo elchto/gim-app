@@ -1,10 +1,61 @@
 {
   "title": "Global Intelligence Monitor",
-  "snapshot": "Tuesday 10 November 2026, 06:15 (Europe/Rome)",
+  "snapshot": "Tuesday 10 November 2026, 07:10 (Europe/Rome)",
   "snapshotDate": "2026-11-10",
-  "lastUpdated": "2026-11-10T06:15:00+01:00",
-  "summary": "A one-page briefing on world news, conflicts, politics and the economy in the week to 10 November 2026 (Tuesday ~06:15 Europe/Rome), with country profiles and a timeline since 1945.",
+  "lastUpdated": "2026-11-10T07:10:00+01:00",
+  "summary": "A one-page briefing on world news, conflicts, politics and the economy in the week to 10 November 2026 (Tuesday ~07:10 Europe/Rome), with country profiles and a timeline since 1945.",
   "news": [
+    {
+      "headline": "Iraq reopens Sheeb border crossing with Iran",
+      "summary": "Iraq's Border Ports Authority said the Sheeb crossing with Iran would reopen on Tuesday morning after technical work, while the Mandali crossing will close temporarily from Friday, state news agency INA reported.",
+      "date": "10 Nov 2026",
+      "region": "Middle East",
+      "countries": [
+        "IR"
+      ],
+      "source": "Reuters / INA via Geo News",
+      "url": "https://www.geo.tv/liveblog/israeliran-war-live-updates?12345="
+    },
+    {
+      "headline": "Private plane carrying six foreign nationals crashes in southern Philippines",
+      "summary": "A disaster official in Digos, Davao del Sur, said rescue operations were under way and it was not yet known whether the passengers and crew had been killed.",
+      "date": "10 Nov 2026",
+      "region": "Asia-Pacific",
+      "countries": [],
+      "source": "Reuters via StreetInsider",
+      "url": "https://www.streetinsider.com/Reuters/Morning%2BBid"
+    },
+    {
+      "headline": "Three contract workers die of asphyxiation at Tata Electronics iPhone-parts plant in Hosur",
+      "summary": "The deaths at the Tamil Nadu factory, which makes parts for Apple iPhones, triggered investigations by the companies and the state government, the latest incident in Apple's Indian supply chain.",
+      "date": "10 Nov 2026",
+      "region": "Asia-Pacific",
+      "countries": [
+        "IN"
+      ],
+      "source": "Reuters via StreetInsider",
+      "url": "https://www.streetinsider.com/Reuters/Morning%2BBid"
+    },
+    {
+      "headline": "Japanese investors turn net buyers of foreign bonds for first time in three months",
+      "summary": "Finance Ministry data showed net purchases of 493.9 billion yen ($3.13bn) of foreign bonds in October, as Treasury yields eased from early-October highs and AI-stock selloffs boosted safe-haven demand.",
+      "date": "10 Nov 2026",
+      "region": "Asia-Pacific",
+      "countries": [
+        "JP"
+      ],
+      "source": "Reuters via StreetInsider",
+      "url": "https://www.streetinsider.com/Reuters/Morning%2BBid"
+    },
+    {
+      "headline": "Rights group claims Houthi attacks killed 33 civilians in Taiz over 73 hours",
+      "summary": "The Yemeni Network for Rights and Freedoms (aligned with the government side) claimed shelling killed 33 and wounded 58, including about 30 dead at Al-Hadara market in Al-Wazi'iyah; the Houthis and local authorities traded blame. Figures not independently verified.",
+      "date": "9 Nov 2026",
+      "region": "Middle East",
+      "countries": [],
+      "source": "Jarayid / Indian Express live blog",
+      "url": "https://jarayid.com/en/world-news/2049568/133-houthi-abuses-in-taiz"
+    },
     {
       "headline": "Trump says Iran war 'militarily effectively over' as Iran's Rezaei demands the US accept its seven conditions",
       "summary": "After meeting Qatar's PM, Trump said the war was 'effectively over' and renewed strikes 'quite unlikely', while the naval blockade and the new land-route operation Iron Gate stay in place. Iran's Mohsen Rezaei dismissed reports of bilateral talks as 'imaginary' and said the US must 'surrender' to Tehran's seven conditions.",
