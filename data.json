@@ -1,10 +1,51 @@
 {
   "title": "Global Intelligence Monitor",
-  "snapshot": "Tuesday 10 November 2026, 12:15 (Europe/Rome)",
+  "snapshot": "Tuesday 10 November 2026, 13:15 (Europe/Rome)",
   "snapshotDate": "2026-11-10",
-  "lastUpdated": "2026-11-10T12:15:00+01:00",
+  "lastUpdated": "2026-11-10T13:15:00+01:00",
   "summary": "A one-page briefing on world news, conflicts, politics and the economy in the week to 10 November 2026 (Tuesday ~11:15 Europe/Rome), with country profiles and a timeline since 1945.",
   "news": [
+    {
+      "headline": "Five EU countries demand UK pays for access to EU electricity market",
+      "summary": "In a letter to von der Leyen and Costa, the leaders of Belgium, Germany, Denmark, Luxembourg and the Netherlands asked that Britain's integration into the EU electricity market be linked to an 'appropriate financial contribution' to EU regional development funds, while urging both sides to agree a path to concluding talks at the 20 Nov EU-UK summit. UK energy minister Martin McCluskey has said no amount has been agreed; Norway pays about €391m a year in comparable grants.",
+      "date": "10 Nov 2026",
+      "region": "Europe",
+      "countries": [
+        "GB",
+        "DE"
+      ],
+      "source": "Euronews",
+      "url": "https://www.euronews.com/2026/11/10/five-eu-countries-demand-uk-pays-for-electricity-market-access"
+    },
+    {
+      "headline": "Storm Charles: red warning for Madeira, Portugal declares alert and closes schools",
+      "summary": "Portugal's weather service IPMA put Madeira's mountains and south coast under a red warning from 21:00 Tuesday to 06:00 Wednesday, with gusts up to 130 km/h on high ground, and raised eight mainland districts to red for wind on Wednesday. The government declared a state of alert and said schools and non-essential public services will close nationwide on Wednesday.",
+      "date": "10 Nov 2026",
+      "region": "Europe",
+      "countries": [],
+      "source": "Euronews",
+      "url": "https://www.euronews.com/2026/11/10/depression-charles-to-hit-madeira-and-portugal-as-government-urges-maximum-caution"
+    },
+    {
+      "headline": "UNHCR: nearly 64,000 have fled northern Nigeria for Niger this year",
+      "summary": "The UN refugee agency said attacks by Islamist militants and armed gangs have driven nearly 64,000 people into Niger since January, mostly to the Diffa and Tahoua border regions, with several hundred more reaching Benin. Niger already hosts over 500,000 refugees and asylum-seekers; only about 5% of this year's arrivals are registered. UNHCR is seeking $11.4m.",
+      "date": "10 Nov 2026",
+      "region": "Africa",
+      "countries": [],
+      "source": "UNHCR / Reuters",
+      "url": "https://www.unhcr.org/news/briefing-notes/tens-thousands-flee-violence-nigeria-and-face-growing-crisis-niger"
+    },
+    {
+      "headline": "Israeli fire kills father and son in Gaza City shelter, medics say",
+      "summary": "Local health officials said Israeli forces killed at least three Palestinians on Tuesday: Fadi Rajab and his 13-year-old son Abubakr in an airstrike on the roof of a displacement shelter in Zeitoun, Gaza City, and a third person by gunfire in Khan Younis.",
+      "date": "10 Nov 2026",
+      "region": "Middle East",
+      "countries": [
+        "IL"
+      ],
+      "source": "Reuters / Arab News",
+      "url": "https://www.arabnews.com/middle-east/israeli-fire-kills-father-and-son-in-gaza-medics-say-3010957"
+    },
     {
       "headline": "Russia-Ukraine-US talks open in Abu Dhabi as Kushner calls for a 'new framework' for Europe",
       "summary": "Russian and Ukrainian negotiators sat facing each other with Jared Kushner and Steve Witkoff at the head of the table. Kushner said the US hoped to create security relationships between Ukraine, Russia and Europe so as to end the war and build 'a new framework'; beforehand the Europeans, Ukraine, the US and NATO issued a joint statement reaffirming their commitment to a strong post-war European security architecture. The two-day round runs to 11 Nov.",
