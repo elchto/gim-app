@@ -1,10 +1,43 @@
 {
   "title": "Global Intelligence Monitor",
-  "snapshot": "Tuesday 10 November 2026, 22:15 (Europe/Rome)",
+  "snapshot": "Tuesday 10 November 2026, 23:15 (Europe/Rome)",
   "snapshotDate": "2026-11-10",
-  "lastUpdated": "2026-11-10T22:15:00+01:00",
-  "summary": "A one-page briefing on world news, conflicts, politics and the economy in the week to 10 November 2026 (Tuesday ~22:15 Europe/Rome), with country profiles and a timeline since 1945.",
+  "lastUpdated": "2026-11-10T23:15:00+01:00",
+  "summary": "A one-page briefing on world news, conflicts, politics and the economy in the week to 10 November 2026 (Tuesday ~23:15 Europe/Rome), with country profiles and a timeline since 1945.",
   "news": [
+    {
+      "headline": "US unseals indictment over foiled Iran-backed plot against RAF Fairford",
+      "summary": "The Justice Department charged Mohammad Baqer Saad Dawood al-Saadi, Mohsen Mohajeri and Mohammad Ali al-Hassani with terrorism offences in support of the IRGC and Kata'ib Hizballah, including a September 2026 plot to drive fuel-laden vans at RAF Fairford in England, where US aircraft were based. Prosecutors allege al-Saadi coordinated from a New York jail via coded calls; British authorities stopped the vans and arrested the occupants. These are allegations in an indictment.",
+      "date": "10 Nov 2026",
+      "region": "Europe",
+      "countries": [
+        "US",
+        "GB",
+        "IR"
+      ],
+      "source": "US Department of Justice",
+      "url": "https://www.justice.gov/opa/pr/three-iranian-backed-operatives-indicted-their-roles-nearly-20-terrorist-attacks-and"
+    },
+    {
+      "headline": "Fire on Iran's South Pars gas platform contained",
+      "summary": "A fire on the SPD14D platform in Phase 14 of the South Pars field, the world's largest offshore gas field, was contained on Tuesday, Fars reported citing the deputy oil minister. Personnel were evacuated and no casualties were reported; the cause, possibly a gas leak, is under investigation.",
+      "date": "10 Nov 2026",
+      "region": "Middle East",
+      "countries": [
+        "IR"
+      ],
+      "source": "The Straits Times (Reuters)",
+      "url": "https://www.straitstimes.com/world/middle-east/fire-contained-at-irans-south-pars-gas-platform-fars-says"
+    },
+    {
+      "headline": "Deadly road crashes in Cambodia and Sri Lanka",
+      "summary": "Five students died and 21 were injured when a school vehicle overturned into a pond in Cambodia's Kandal province, and at least five people were killed and more than 50 injured in a three-bus collision on the A9 highway in Sri Lanka's Anuradhapura district.",
+      "date": "10 Nov 2026",
+      "region": "Asia-Pacific",
+      "countries": [],
+      "source": "Xinhua",
+      "url": "https://english.news.cn/20261111/48270ff8844e4d2589e79b44b63b9db6/c.html"
+    },
     {
       "headline": "Iran's Revolutionary Guards claim three oil tankers on fire in Hormuz (claim)",
       "summary": "The IRGC said two tankers on an 'unauthorized route' were halted by massive explosions and a third exploded after striking a naval mine; it did not name the ships and the claims are not independently verified. Separately ADNOC said one of its vessels was damaged in an attack in UAE waters and UKMTO reported a tanker struck by an unknown projectile off Oman. The US military recently said all mines had been cleared.",
