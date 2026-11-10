@@ -1,10 +1,80 @@
 {
   "title": "Global Intelligence Monitor",
-  "snapshot": "Tuesday 10 November 2026, 08:10 (Europe/Rome)",
+  "snapshot": "Tuesday 10 November 2026, 09:15 (Europe/Rome)",
   "snapshotDate": "2026-11-10",
-  "lastUpdated": "2026-11-10T08:10:00+01:00",
-  "summary": "A one-page briefing on world news, conflicts, politics and the economy in the week to 10 November 2026 (Tuesday ~08:10 Europe/Rome), with country profiles and a timeline since 1945.",
+  "lastUpdated": "2026-11-10T09:15:00+01:00",
+  "summary": "A one-page briefing on world news, conflicts, politics and the economy in the week to 10 November 2026 (Tuesday ~09:15 Europe/Rome), with country profiles and a timeline since 1945.",
   "news": [
+    {
+      "headline": "Europeans will be 'in the room' as Abu Dhabi talks open, says France's Barrot",
+      "summary": "French Foreign Minister Jean-Noel Barrot told Franceinfo that the UK, Germany and France will be in the meeting room for the Ukraine-Russia talks, and that there can be no discussion with Russia on European security before a ceasefire and peace; a Russian delegation source told Reuters Moscow sees a new European security framework as the main thrust of the talks.",
+      "date": "10 Nov 2026",
+      "region": "Europe",
+      "countries": [
+        "FR",
+        "UA",
+        "RU"
+      ],
+      "source": "Reuters via Devdiscourse / Internazionale",
+      "url": "https://www.devdiscourse.com/article/international/4004324-europeans-to-be-in-the-room-for-ukraine-russia-talksin-abu-dhabi"
+    },
+    {
+      "headline": "Israel issues tender for 732 settlement units in Gvaot, west of Bethlehem",
+      "summary": "A Palestinian government body said Israeli authorities issued a construction tender for 732 housing units in the Gvaot settlement in the southern West Bank.",
+      "date": "10 Nov 2026",
+      "region": "Middle East",
+      "countries": [
+        "IL"
+      ],
+      "source": "Anadolu Agency",
+      "url": "https://aa.com.tr/en/world/morning-briefing-nov-10/4118200"
+    },
+    {
+      "headline": "Syria says it has not sent troops to Yemen",
+      "summary": "Foreign Minister Asaad al-Shaibani said Syria has no immediate plans to deploy forces to Yemen and that its military cooperation agreement with Saudi Arabia does not include sending Syrian troops.",
+      "date": "10 Nov 2026",
+      "region": "Middle East",
+      "countries": [
+        "SA"
+      ],
+      "source": "Anadolu Agency",
+      "url": "https://aa.com.tr/en/world/morning-briefing-nov-10/4118200"
+    },
+    {
+      "headline": "Report: Israel and US negotiating a new multiyear military aid deal",
+      "summary": "Israel's Yedioth Ahronoth reported that the two countries are negotiating a new multiyear military aid agreement; this is a press report, not officially confirmed.",
+      "date": "10 Nov 2026",
+      "region": "Middle East",
+      "countries": [
+        "IL",
+        "US"
+      ],
+      "source": "Anadolu Agency (citing Yedioth Ahronoth)",
+      "url": "https://aa.com.tr/en/world/morning-briefing-nov-10/4118200"
+    },
+    {
+      "headline": "EU report: covert Russian network exploited October riots in France",
+      "summary": "An internal EU assessment seen by Reuters says a covert Russian network used social media to blame the riots on uncontrolled immigration; a separate French foreign ministry assessment found accounts linked to Israel and the US MAGA movement also pushed 'hostile narratives'.",
+      "date": "9 Nov 2026",
+      "region": "Europe",
+      "countries": [
+        "FR",
+        "RU"
+      ],
+      "source": "Reuters via Devdiscourse",
+      "url": "https://www.devdiscourse.com/article/international/4004171-reuters-world-news-summary"
+    },
+    {
+      "headline": "Judo champion Teddy Riner enters France's 2027 presidential race",
+      "summary": "President Emmanuel Macron welcomed the bid, telling France 5 it 'can only benefit the country'.",
+      "date": "9 Nov 2026",
+      "region": "Europe",
+      "countries": [
+        "FR"
+      ],
+      "source": "Reuters via Devdiscourse",
+      "url": "https://www.devdiscourse.com/article/international/4004171-reuters-world-news-summary"
+    },
     {
       "headline": "Saudi-led coalition intercepts Houthi missiles aimed at Riyadh and a drone over Eastern Province",
       "summary": "The coalition said on Tuesday its air defences shot down a ballistic and a cruise missile targeting the Saudi capital and another ballistic missile fired towards southern Saudi Arabia, and destroyed a drone over the oil-rich Eastern Province; civil-defence alerts in Riyadh, Abha and Khamis Mushait were later lifted.",
@@ -1379,9 +1449,9 @@
         "label": "Talks amid fighting",
         "tone": "danger"
       },
-      "latest": "First US-mediated trilateral talks since February open in Abu Dhabi on 10-11 Nov (Witkoff, Kushner; Medinsky for Russia, Umerov for Ukraine), centred on post-war security architecture; a US official says both sides privately show 'a little bit of flexibility' on territory, which Kyiv publicly denies. Trump sees a 'very strong inclination' to end the war. Russia keeps striking the power grid while Ukraine hits Russian refineries.",
+      "latest": "US-mediated trilateral talks, the first since February, opened in Abu Dhabi on 10 Nov and run to 11 Nov (Witkoff, Kushner; Medinsky for Russia, Umerov for Ukraine), centred on post-war security architecture; France's Barrot says the UK, Germany and France will be in the room, while a Russian delegation source says a new European security framework is Moscow's main aim. A US official says both sides privately show 'a little bit of flexibility' on territory, which Kyiv publicly denies. Russia keeps striking the power grid while Ukraine hits Russian refineries.",
       "date": "10 Nov 2026",
-      "source": "Reuters / BBC / Jerusalem Post",
+      "source": "Reuters / BBC / DW",
       "url": "https://www.bbc.com/news/articles/cqpvgvrpjvv8o"
     },
     {
@@ -2077,11 +2147,11 @@
     },
     {
       "item": "Brent crude oil",
-      "figure": "$92.57 settle (-5.85%, Mon)",
-      "detail": "Reuters via ABC: kept falling after settlement, down more than $7 at one point, its lowest since late August, after Trump played down renewed strikes on Iran. WTI settled at $86.85 (-4.38%).",
-      "date": "9 Nov 2026",
-      "source": "ABC News (Reuters)",
-      "url": "https://www.abc.net.au/news/2026-11-10/asx-markets-business-live-news-november-10-2026/107363300"
+      "figure": "~$91.63 (-1.0%, Tue)",
+      "detail": "AFP: extending Monday's slide (settled $92.57, -5.85%) after Trump held off new strikes on Iran; WTI ~$85.87 (-1.1%).",
+      "date": "10 Nov 2026",
+      "source": "AFP",
+      "url": "https://www.afp.com/en/tech-leads-asian-stock-rally-traders-track-wall-st-rebound"
     },
     {
       "item": "US stocks",
@@ -2101,11 +2171,11 @@
     },
     {
       "item": "Asia stocks",
-      "figure": "Nikkei 60,380.50 (+2.73%, Tue)",
-      "detail": "Kospi +4.03% to 5,221.20, Taiwan +3.10% to 42,951.66, Hang Seng +0.70%, Shanghai +0.32%, tracking Wall Street's rally and lower oil; SoftBank jumped ahead of results.",
+      "figure": "Nikkei 60,459.58 close (+2.87%, Tue)",
+      "detail": "Back above 60,000 at the close for the first time in three sessions, led by SoftBank, Advantest and Tokyo Electron; AFP had Kospi +4.1% to 5,223.87, Hang Seng +0.4%, Shanghai +0.3% around the break, tracking Wall Street's rally and lower oil.",
       "date": "10 Nov 2026",
-      "source": "Business Upturn / AP",
-      "url": "https://businessupturn.com/asia/east-asia/east-asia-markets-roundup-seoul-and-taipei-lead-regional-rally-on-tuesday/"
+      "source": "Nikkei / AFP",
+      "url": "https://www.nikkei.com/article/DGXZQOFL100ES0Q6A111C2000000/"
     },
     {
       "item": "US-China trade",
@@ -2544,6 +2614,12 @@
     }
   ],
   "sources": [
+    {
+      "title": "Morning Briefing: Nov. 10",
+      "site": "Anadolu Agency",
+      "url": "https://aa.com.tr/en/world/morning-briefing-nov-10/4118200",
+      "date": "10 Nov 2026"
+    },
     {
       "title": "Reuters World News Summary (9 Nov)",
       "site": "Devdiscourse",
