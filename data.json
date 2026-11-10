@@ -1,10 +1,78 @@
 {
   "title": "Global Intelligence Monitor",
-  "snapshot": "Tuesday 10 November 2026, 13:15 (Europe/Rome)",
+  "snapshot": "Tuesday 10 November 2026, 14:15 (Europe/Rome)",
   "snapshotDate": "2026-11-10",
-  "lastUpdated": "2026-11-10T13:15:00+01:00",
+  "lastUpdated": "2026-11-10T14:15:00+01:00",
   "summary": "A one-page briefing on world news, conflicts, politics and the economy in the week to 10 November 2026 (Tuesday ~11:15 Europe/Rome), with country profiles and a timeline since 1945.",
   "news": [
+    {
+      "headline": "Denmark pledges €643m military aid package as Zelenskyy meets Nordic leaders in Copenhagen",
+      "summary": "Foreign Minister Lars Løkke Rasmussen announced Denmark's 32nd aid package for Ukraine, 4.8bn kroner (about €643m), mostly for air defence, plus 150m kroner (about €20m) for Ukraine's energy sector. Zelenskyy held security talks with Nordic leaders on the same day the Abu Dhabi talks opened; Copenhagen banned drones over the capital until 12 Nov.",
+      "date": "10 Nov 2026",
+      "region": "Europe",
+      "countries": [
+        "UA"
+      ],
+      "source": "Euronews",
+      "url": "https://www.euronews.com/2026/11/10/denmark-pledges-643-million-in-military-aid-as-zelenskyy-meets-nordic-leaders"
+    },
+    {
+      "headline": "Russia strikes five major Ukrainian substations as Abu Dhabi talks open",
+      "summary": "Russian forces hit 10 Ukrainian regions overnight in air attacks targeting five major electrical substations, causing widespread power outages and killing two people, officials said, as Russian, Ukrainian and US negotiators began two days of talks in Abu Dhabi.",
+      "date": "10 Nov 2026",
+      "region": "Europe",
+      "countries": [
+        "RU",
+        "UA"
+      ],
+      "source": "Reuters (via Devdiscourse)",
+      "url": "https://www.devdiscourse.com/article/international/4004567-reuters-world-news-summary"
+    },
+    {
+      "headline": "Spanish train drivers strike after two deadly crashes on Madrid-Seville line",
+      "summary": "Train drivers walked out to demand more investment in maintenance and safety after Spain's second fatal rail crash this year, causing widespread disruption. The two crashes on the same high-speed line killed 115 people; Transport Minister Oscar Puente resigned and deputy PM Carlos Cuerpo is provisionally running the ministry.",
+      "date": "10 Nov 2026",
+      "region": "Europe",
+      "countries": [],
+      "source": "Reuters (via Devdiscourse)",
+      "url": "https://www.devdiscourse.com/article/international/4004567-reuters-world-news-summary"
+    },
+    {
+      "headline": "Reuters/Ipsos: 71% of Americans want Congress to pass a law ending the Iran war",
+      "summary": "A four-day poll completed on Monday found 71% of Americans, including 93% of Democrats and 51% of Republicans, want the newly elected Democratic-majority Congress to pass legislation ending the conflict with Iran; majorities also want Trump's tariffs repealed.",
+      "date": "10 Nov 2026",
+      "region": "Americas",
+      "countries": [
+        "US",
+        "IR"
+      ],
+      "source": "Reuters (via Devdiscourse)",
+      "url": "https://www.devdiscourse.com/article/international/4004567-reuters-world-news-summary"
+    },
+    {
+      "headline": "UK to spend £90m on drones and sensors to counter Russian undersea threats",
+      "summary": "Britain said it will invest £90m ($121m) in drones, sensors and AI systems to help the Royal Navy detect and monitor submarine activity in the North Atlantic and protect critical undersea infrastructure.",
+      "date": "10 Nov 2026",
+      "region": "Europe",
+      "countries": [
+        "GB",
+        "RU"
+      ],
+      "source": "Reuters (via Devdiscourse)",
+      "url": "https://www.devdiscourse.com/article/international/4004567-reuters-world-news-summary"
+    },
+    {
+      "headline": "Vodafone swings to first-half loss on €4.85bn Germany writedown but raises guidance",
+      "summary": "Vodafone booked a €4.85bn impairment on its German unit, mainly reflecting higher interest rates, pushing it to a net loss, while revenue rose 11.4% to €21.9bn. It raised full-year adjusted EBITDAaL guidance to €13.2-13.4bn and free cash flow to €2.8-3.0bn, and has announced 2,300 more job cuts in Germany.",
+      "date": "10 Nov 2026",
+      "region": "Europe",
+      "countries": [
+        "GB",
+        "DE"
+      ],
+      "source": "Euronews / Telecoms.com",
+      "url": "https://www.euronews.com/2026/11/10/vodafone-suffers-huge-net-loss-on-germany-hit-but-raises-full-year-outlook"
+    },
     {
       "headline": "Five EU countries demand UK pays for access to EU electricity market",
       "summary": "In a letter to von der Leyen and Costa, the leaders of Belgium, Germany, Denmark, Luxembourg and the Netherlands asked that Britain's integration into the EU electricity market be linked to an 'appropriate financial contribution' to EU regional development funds, while urging both sides to agree a path to concluding talks at the 20 Nov EU-UK summit. UK energy minister Martin McCluskey has said no amount has been agreed; Norway pays about €391m a year in comparable grants.",
