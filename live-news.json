@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-10T17:46:43Z",
+ "updatedAt": "2026-11-10T23:15:28Z",
  "sources": [
   "BBC World",
   "BBC Business",
@@ -16,84 +16,471 @@
  "count": 80,
  "items": [
   {
-   "title": "Pete Hegseth decries impeachment push, defends Iran war handling",
+   "title": "Hegseth impeachment effort torpedoed in House",
    "summary": "GOP Rep. Thomas Massie, who has clashed with President Donald Trump, kicked off the Hegseth impeachment fight days after a blue wave midterm election.",
    "link": "https://www.cnbc.com/2026/11/10/pete-hegseth-impeachment-massie-iran.html",
    "source": "CNBC World",
-   "published": "2026-11-10T17:46:21Z",
-   "region": "Middle East",
-   "category": "conflict"
-  },
-  {
-   "title": "Pete Hegseth dismisses Republican’s impeachment effort against him as ‘a political spectacle’ – US politics live",
-   "summary": "Trump’s defense secretary calls impeachment effort from congressman Thomas Massie ‘a personal manifesto driven by ego’ as he faces scrutiny for prolonged Iran war Sign up for the US Breaking News email During his press conference, Hegseth was resolute that the articles of impeachment are baseless…",
-   "link": "https://www.theguardian.com/us-news/live/2026/nov/10/donald-trump-pete-hegseth-thomas-massie-republicans-iran-war-impeachment-midterms-latest-news-updates",
-   "source": "The Guardian World",
-   "published": "2026-11-10T17:39:02Z",
+   "published": "2026-11-10T23:14:09Z",
    "region": "Americas",
    "category": "conflict"
   },
   {
-   "title": "French police search Ritz, glitzy Al Fayed properties in women-trafficking probe",
-   "summary": "French police have searched several properties, including the Ritz hotel in Paris, in relation to an investigation into a suspected international network trafficking women for Mohamed Al Fayed, prosecutors told AFP on Tuesday. The Ritz is just one of the late tycoon's high-end ventures where…",
-   "link": "https://www.france24.com/en/france/20261110-french-police-search-ritz-glitzy-al-fayed-properties-in-women-trafficking-probe",
+   "title": "House blocks effort from Republican lawmaker to impeach Pete Hegseth – US politics live",
+   "summary": "Republicans secure majority of votes to send articles introduced by Thomas Massie to committee, meaning it won’t face a full vote on chamber floor Sign up for the US Breaking News email During his press conference, Hegseth was resolute that the articles of impeachment are baseless, and that all…",
+   "link": "https://www.theguardian.com/us-news/live/2026/nov/10/donald-trump-pete-hegseth-thomas-massie-republicans-iran-war-impeachment-midterms-latest-news-updates",
+   "source": "The Guardian World",
+   "published": "2026-11-10T23:09:07Z",
+   "region": "Americas",
+   "category": "news"
+  },
+  {
+   "title": "House Republicans block effort to impeach Pentagon chief Pete Hegseth",
+   "summary": "Trump ally, accused of an array of illegal acts, had earlier condemned impeachment push as ‘a farce and a stunt’ House Republicans on Tuesday blocked an effort to impeach Pete Hegseth, rejecting allegations that the defense secretary had repeatedly violated the constitution through his handling of…",
+   "link": "https://www.theguardian.com/us-news/2026/nov/10/pete-hegseth-impeachment-effort",
+   "source": "The Guardian World",
+   "published": "2026-11-10T23:08:57Z",
+   "region": "Americas",
+   "category": "news"
+  },
+  {
+   "title": "CoreWeave beats on revenue and lifts guidance, easing AI slowdown concerns",
+   "summary": "CoreWeave's stock has been hammered heading into the neocloud's Q3 earnings report.",
+   "link": "https://www.cnbc.com/2026/11/10/coreweave-crwv-q3-earnings-report-2026.html",
+   "source": "CNBC World",
+   "published": "2026-11-10T23:08:40Z",
+   "region": "Global",
+   "category": "economy"
+  },
+  {
+   "title": "Schumer accuses Trump of defending Nvidia CEO Jensen Huang at cost of national security",
+   "summary": "Rep. John Moolenaar, R-Mich., the Republican chairman of the Select Committee on China, told CNBC he expects answers about Jensen Huang's relationship.",
+   "link": "https://www.cnbc.com/2026/11/10/moolenaar-nvidia-jensen-huang-affair-chinese-spy.html",
+   "source": "CNBC World",
+   "published": "2026-11-10T23:06:44Z",
+   "region": "Asia-Pacific",
+   "category": "economy"
+  },
+  {
+   "title": "FDA warns of vision loss risk linked to popular GLP-1 drugs like Wegovy, Zepbound",
+   "summary": "The agency has found evidence of a potential increased risk of a rare eye condition linked to the use of GLP-1 drugs used for weight management and diabetes.",
+   "link": "https://www.cnbc.com/2026/11/10/fda-warning-vision-loss-glp1-wegovy-zepbound.html",
+   "source": "CNBC World",
+   "published": "2026-11-10T23:03:11Z",
+   "region": "Global",
+   "category": "economy"
+  },
+  {
+   "title": "Nvidia hires major US law firm to investigate alleged Chinese spy affair",
+   "summary": "The appointment was made after it emerged Jensen Huang had an affair with a woman believed to be a spy for China.",
+   "link": "https://www.bbc.co.uk/news/articles/ck1wvwwl3x0go?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "published": "2026-11-10T22:52:15Z",
+   "region": "Asia-Pacific",
+   "category": "news"
+  },
+  {
+   "title": "Republicans elect Jim Jordan as House minority leader after midterm defeats",
+   "summary": "Republicans pick Jordan as House leader and John Thune as Senate leader for last two years of Trump’s presidency US politics – live updates Republicans have elected veteran congressman Jim Jordan as their new leader in the House of Representatives, putting a strident defender of Donald Trump at the…",
+   "link": "https://www.theguardian.com/us-news/2026/nov/10/jim-jordan-house-republican-leader",
+   "source": "The Guardian World",
+   "published": "2026-11-10T22:42:43Z",
+   "region": "Americas",
+   "category": "news"
+  },
+  {
+   "title": "Trump ally Jim Jordan elected House Republican leader after midterm defeat",
+   "summary": "Jim Jordan, a hardline ally of President Donald Trump, was elected US House Republican leader on Tuesday, defeating Steve Scalise 106-73 in a secret ballot, US media reported. He replaces Mike Johnson after Republicans lost both chambers of Congress in last week’s midterm elections and will lead…",
+   "link": "https://www.france24.com/en/americas/20261110-trump-jim-jordan-elected-house-republican-leader-midterm-defeat",
    "source": "France 24",
-   "published": "2026-11-10T17:37:35Z",
+   "published": "2026-11-10T22:42:42Z",
+   "region": "Americas",
+   "category": "news"
+  },
+  {
+   "title": "Russia expels Moldovan diplomat in tit-for-tat move",
+   "summary": "Relations between Moscow and Chisinau have worsened since Russia's full-scale invasion of Ukraine in 2022.",
+   "link": "https://www.aljazeera.com/news/2026/11/10/russia-expels-moldovan-diplomat-in-tit-for-tat-move?traffic_source=rss",
+   "source": "Al Jazeera",
+   "published": "2026-11-10T22:41:07Z",
+   "region": "Europe",
+   "category": "conflict"
+  },
+  {
+   "title": "Thomas Markle, Meghan’s father, jailed after cutting off ankle monitor, DoJ says",
+   "summary": "Estranged father of Duchess of Sussex was arrested for keeping child sexual abuse material, authorities say The estranged father of Meghan Markle, the Duchess of Sussex, has been jailed after US authorities said he cut an electronic monitoring device off his ankle, days after his arrest for keeping…",
+   "link": "https://www.theguardian.com/us-news/2026/nov/10/thomas-markle-ankle-monitor",
+   "source": "The Guardian World",
+   "published": "2026-11-10T22:37:13Z",
+   "region": "Americas",
+   "category": "news"
+  },
+  {
+   "title": "US House begins vote on motion to advance impeachment of Pete Hegseth",
+   "summary": "Hegseth has been accused of spearheading war on Iran without required congressional approval.",
+   "link": "https://www.aljazeera.com/news/2026/11/10/us-house-begins-vote-on-motion-to-advance-impeachment-of-pete-hegseth?traffic_source=rss",
+   "source": "Al Jazeera",
+   "published": "2026-11-10T22:36:14Z",
+   "region": "Middle East",
+   "category": "conflict"
+  },
+  {
+   "title": "US charges three 'Iranian operatives' over RAF Fairford terror plot",
+   "summary": "The US Justice Department on Tuesday charged three men it described as Iranian operatives over an alleged September terrorist plot at Britain's RAF Fairford airbase in England. Prosecutors said one suspect directed individuals to drive vans, some carrying fuel barrels, to the base, which housed US…",
+   "link": "https://www.france24.com/en/americas/20261110-us-iranian-operatives-raf-fairford-terror-plot",
+   "source": "France 24",
+   "published": "2026-11-10T22:26:36Z",
+   "region": "Americas",
+   "category": "news"
+  },
+  {
+   "title": "West Bank: Population and healthcare actors, such as MSF, 'still facing movement restrictions'",
+   "summary": "Eve Irvine is pleased to welcome Frederica Venturi of Doctors Without Borders (MSF). The withdrawal of Israeli forces from Hebron has not brought an end to the humanitarian crisis. According to Venturi, some 3,300 Palestinians were forcibly displaced, 15 houses were reportedly demolished, and…",
+   "link": "https://www.france24.com/en/video/20261110-west-bank-population-and-healthcare-actors-such-as-msf-still-facing-movement-restrictions",
+   "source": "France 24",
+   "published": "2026-11-10T22:25:48Z",
+   "region": "Middle East",
+   "category": "news"
+  },
+  {
+   "title": "Meghan's father Thomas Markle back in federal custody after allegedly removing ankle monitor",
+   "summary": "The 82-year-old was placed under house detention in Florida last week after being charged over possession of child sex abuse material.",
+   "link": "https://www.bbc.co.uk/news/articles/c9j3433zy4vro?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "published": "2026-11-10T22:17:45Z",
+   "region": "Global",
+   "category": "news"
+  },
+  {
+   "title": "Bernie Sanders says he will not back Schumer for Senate Democratic leader",
+   "summary": "Progressive senator says ‘I like Chuck … but the time is now for change’ as calls grow for new Democratic leadership Bernie Sanders, a progressive senator from Vermont, said on Tuesday he would not support Chuck Schumer ’s bid to serve as the Democratic leader in the US Senate, joining a growing…",
+   "link": "https://www.theguardian.com/us-news/2026/nov/10/bernie-sanders-chuck-schumer-senate-democrats",
+   "source": "The Guardian World",
+   "published": "2026-11-10T22:16:32Z",
+   "region": "Americas",
+   "category": "news"
+  },
+  {
+   "title": "Nvidia sells off for second day in fallout from Jensen Huang’s affair with alleged spy",
+   "summary": "Investors continue to weigh the potential fallout from CEO Jensen Huang's affair with an alleged Chinese spy.",
+   "link": "https://www.cnbc.com/2026/11/10/nvidia-nvda-jensen-huang-affair-chinese-spy.html",
+   "source": "CNBC World",
+   "published": "2026-11-10T22:08:25Z",
+   "region": "Asia-Pacific",
+   "category": "economy"
+  },
+  {
+   "title": "UNIFIL patrol comes under fire in southern Lebanon",
+   "summary": "UNIFIL said on Tuesday that 'about a dozen rounds' were fired at one of its patrols, without identifying the assailants.",
+   "link": "https://www.aljazeera.com/news/2026/11/10/unifil-patrol-comes-under-fire-in-southern-lebanon?traffic_source=rss",
+   "source": "Al Jazeera",
+   "published": "2026-11-10T22:03:50Z",
+   "region": "Middle East",
+   "category": "news"
+  },
+  {
+   "title": "US poll shows death penalty lost majority support for first time since 1971",
+   "summary": "Support for capital punishment has been declining in the US for years over concerns about fairness and racial bias.",
+   "link": "https://www.aljazeera.com/news/2026/11/10/us-poll-shows-death-penalty-lost-majority-support-for-first-time-since-1971?traffic_source=rss",
+   "source": "Al Jazeera",
+   "published": "2026-11-10T22:03:20Z",
+   "region": "Americas",
+   "category": "news"
+  },
+  {
+   "title": "US prosecutors charge Iranian operative allegedly responsible for UK air force base attack",
+   "summary": "New indictment claims Mohammad Dawood al-Saadi, a dual Iranian and Iraqi national, plotted while in US custody US federal prosecutors have said that an Iranian operative jailed in New York was responsible for the foiled attack on a UK air force base where American B-1 bombers were stationed. A new…",
+   "link": "https://www.theguardian.com/us-news/2026/nov/10/prosecutors-charge-iranian-operative-uk-air-force-attack",
+   "source": "The Guardian World",
+   "published": "2026-11-10T21:57:57Z",
+   "region": "Middle East",
+   "category": "conflict"
+  },
+  {
+   "title": "'Europe not going anywhere': G7 summit a 'signal to Russians' that Europe is standing behind Ukraine",
+   "summary": "As the US Midterms reshape Ukraine diplomacy, Annette Young is pleased to welcome James Townsend, Atlantic Council's Senior Advisor at the Scowcroft Center's for Transatlantic Security Initiative. \"Europe is not going anywhere.\" With this unequivocal assessment, Townsend, taking place alongside…",
+   "link": "https://www.france24.com/en/europe-not-going-anywhere-g7-summit-a-signal-to-russians-that-europe-is-standing-behind-ukraine",
+   "source": "France 24",
+   "published": "2026-11-10T21:57:47Z",
    "region": "Europe",
    "category": "news"
   },
   {
-   "title": "UK social media ban expansion for under-16s could cover YouTube Kids",
-   "summary": "Regulations under consideration could affect up to 150 platforms, including LegoPlay, Spotify and eBay, sources say A substantial expansion of the social media ban for under-16s could inadvertently lead to a ban on YouTube Kids and other sites that had been thought exempt, sources briefed on the…",
-   "link": "https://www.theguardian.com/uk-news/2026/nov/10/uk-social-media-ban-expansion-for-under-16s-could-cover-youtube-kids",
-   "source": "The Guardian World",
-   "published": "2026-11-10T17:30:15Z",
-   "region": "Europe",
+   "title": "IBM’s biggest division ends most US foreign worker sponsorships",
+   "summary": "Announcement follows Trump administration crackdown on visa programmes for skilled foreign workers.",
+   "link": "https://www.aljazeera.com/news/2026/11/10/ibms-biggest-division-ends-most-us-foreign-worker-sponsorships?traffic_source=rss",
+   "source": "Al Jazeera",
+   "published": "2026-11-10T21:55:49Z",
+   "region": "Americas",
    "category": "news"
+  },
+  {
+   "title": "Eisenkot pushes October 7 inquiry as Netanyahu targets Arab parties in tense new parliament",
+   "summary": "Gadi Eisenkot, the politician tasked with forming a new Israeli government, pledged on Tuesday to launch an official inquiry into Hamas's October 7, 2023 attacks and reverse many of Prime Minister Benjamin Netanyahu's policies as the new parliament was sworn in a tense opening session that saw…",
+   "link": "https://www.france24.com/en/middle-east/20261110-eisenkot-pushes-october-7-inquiry-as-netanyahu-targets-arab-parties-in-tense-new-parliament",
+   "source": "France 24",
+   "published": "2026-11-10T21:53:40Z",
+   "region": "Middle East",
+   "category": "conflict"
+  },
+  {
+   "title": "White House vows to press ahead with tariffs despite midterm backlash over rising prices",
+   "summary": "Business executives warned at a Washington summit of rising costs and shifting supply chains as polls showed growing opposition to Trump's tariffs.",
+   "link": "https://www.cnbc.com/2026/11/10/trump-tariffs-midterms-gary-cohn-inflation.html",
+   "source": "CNBC World",
+   "published": "2026-11-10T21:45:46Z",
+   "region": "Americas",
+   "category": "economy"
+  },
+  {
+   "title": "'Central role in ecosystem: If something happens to Nvidia, it's going to be a catastrophe'",
+   "summary": "Erin Ogunkeye is pleased to welcome Raphaëlle d’Ornano, Founder and Managing Partner of D’Ornano + Co. “Nvidia has an absolutely central role in the ecosystem,” she explains, “If something happens to Nvidia, it's going to be a catastrophe.” When the discussion turns to geopolitics, she warns…",
+   "link": "https://www.france24.com/en/central-role-in-ecosystem-if-something-happens-to-nvidia-it-s-going-to-be-a-catastrophe",
+   "source": "France 24",
+   "published": "2026-11-10T21:40:18Z",
+   "region": "Global",
+   "category": "news"
+  },
+  {
+   "title": "Anthropic eyes $1.4 trillion valuation in blockbuster IPO",
+   "summary": "US firm Anthropic, the company behind the Claude AI chatbot, has announced it will offer 825 million shares at a price between $70 and $78 apiece during its planned IPO. This will give the firm a valuation of around 1.4 trillion dollars. The blockbuster IPO will come at a time investors are…",
+   "link": "https://www.france24.com/en/tv-shows/business/20261110-anthropic-eyes-1-4-trillion-valuation-in-blockbuster-ipo",
+   "source": "France 24",
+   "published": "2026-11-10T21:39:05Z",
+   "region": "Americas",
+   "category": "economy"
+  },
+  {
+   "title": "Asymmetric cyberwarfare: 'States increasingly use cyberattacks in support of their other objectives'",
+   "summary": "Erin Ogunkeye is pleased to welcome Rafe Pilling, Director of Threat Intelligence in the Sophos Counter Threat Unit (CTU). How can a minor cyber intrusion disrupt food supplies, expose the weaknesses of industrial infrastructure and become an instrument of geopolitical confrontation? The…",
+   "link": "https://www.france24.com/en/asymmetric-cyberwarfare-states-increasingly-use-cyberattacks-in-support-of-their-other-objectives",
+   "source": "France 24",
+   "published": "2026-11-10T21:25:45Z",
+   "region": "Global",
+   "category": "news"
+  },
+  {
+   "title": "Law on 'holiday hunger' passed by Stormont assembly",
+   "summary": "A majority of 49 to 24 assembly members backed the legislation, which was proposed by Sinn Féin's Danny Baker and welcomed by some parents and charities.",
+   "link": "https://www.bbc.co.uk/news/articles/cmewewgvrwpqo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC Business",
+   "published": "2026-11-10T21:24:06Z",
+   "region": "Global",
+   "category": "economy"
+  },
+  {
+   "title": "What we know so far about Jensen Huang's affair with suspected Chinese spy",
+   "summary": "The billionaire tech executive finds himself mired in a personal and national security scandal.",
+   "link": "https://www.bbc.co.uk/news/articles/ckgel338xql3o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC Business",
+   "published": "2026-11-10T21:22:36Z",
+   "region": "Asia-Pacific",
+   "category": "economy"
   },
   {
    "title": "First day of Ukraine peace talks constructive, Zelensky says",
    "summary": "Delegations from Kyiv, Washington and Moscow are in the United Arab Emirates for the first trilateral talks since February.",
    "link": "https://www.bbc.co.uk/news/articles/cqpvgvrpjvv8o?at_medium=RSS&at_campaign=rss",
    "source": "BBC World",
-   "published": "2026-11-10T17:29:36Z",
+   "published": "2026-11-10T21:21:55Z",
    "region": "Europe",
    "category": "news"
   },
   {
-   "title": "Russian naval aggression prompts new defensive initiative with ‘beer-drinking nations’",
-   "summary": "New alliance with the Netherlands and Baltic and Nordic countries comes in response to 41% increase in Russian naval activity around UK Russian naval activity around the UK has increased by 41% in the first nine months of the year, a British defence minister said, as the Royal Navy announced plans…",
-   "link": "https://www.theguardian.com/uk-news/2026/nov/10/russian-naval-aggression-defensive-initiative-beer-drinking-nations",
-   "source": "The Guardian World",
-   "published": "2026-11-10T17:26:59Z",
-   "region": "Europe",
+   "title": "Why does Australia want Brits to swap Sydney for the outback?",
+   "summary": "Australia wants changes to UK deal that would push backpackers out of Bondi and into remote regions.",
+   "link": "https://www.bbc.co.uk/news/articles/cm1j3jdp7w54o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "published": "2026-11-10T21:17:00Z",
+   "region": "Asia-Pacific",
    "category": "news"
   },
   {
-   "title": "Planned Tory welfare cuts ‘a charter for human misery,’ says Labour – as it happened",
-   "summary": "Conservative leader launches Welfare That Works policy document outlining benefit reductions of £36bn Badenoch and Whately are now taking questions. Q: [From Rob Powell from Sky News] We are running a report on the Netherlands, where youth unemployment is much lower than in the UK, but the amount…",
-   "link": "https://www.theguardian.com/politics/live/2026/nov/10/badenoch-conservative-welfare-cuts-disability-benefits-burnham-politics-latest-news-updates",
-   "source": "The Guardian World",
-   "published": "2026-11-10T17:23:02Z",
-   "region": "Europe",
-   "category": "news"
-  },
-  {
-   "title": "Anthropic targets $1.4 trillion valuation in massive stock market debut",
-   "summary": "The maker of Claude is looking to raise up to $64.4bn in one of the largest IPOs in history next week.",
-   "link": "https://www.aljazeera.com/economy/2026/11/10/anthropic-targets-1-4-trillion-valuation-in-massive-stock-market-debut?traffic_source=rss",
-   "source": "Al Jazeera",
-   "published": "2026-11-10T17:21:58Z",
+   "title": "10-year Treasury yield races back to 5% as inflation data, Waller comments drive rate hike expectations",
+   "summary": "Treasury yields moved higher after a hotter-than-expected CPI report.",
+   "link": "https://www.cnbc.com/2026/11/10/us-bonds-treasurys-yields.html",
+   "source": "CNBC World",
+   "published": "2026-11-10T21:06:07Z",
    "region": "Global",
    "category": "economy"
   },
   {
-   "title": "Israeli president warns against repeat election in new Knesset session",
-   "summary": "Herzog calls for an inquiry into the October 7 attacks during a Knesset session amid political gridlock following elections.",
-   "link": "https://www.aljazeera.com/news/2026/11/10/israeli-president-warns-against-repeat-election-in-new-knesset-session?traffic_source=rss",
+   "title": "2026 Midterms: Blue wave or anti-establishment backlash?",
+   "summary": "Emma Vigeland and Olivia Troye join Josh Rushing to discuss the fallout of the 2026 midterm elections.",
+   "link": "https://www.aljazeera.com/video/lets-focus/2026/11/10/2026-midterms-blue-wave-or-anti-establishment-backlash?traffic_source=rss",
    "source": "Al Jazeera",
-   "published": "2026-11-10T17:16:15Z",
+   "published": "2026-11-10T21:00:55Z",
+   "region": "Global",
+   "category": "news"
+  },
+  {
+   "title": "White House announces funds for law enforcement programme in several cities",
+   "summary": "Trump administration awarded more than $60m each to St Louis, Missouri, and Jackson, Mississippi, in crime push.",
+   "link": "https://www.aljazeera.com/news/2026/11/10/white-house-announces-funds-for-law-enforcement-programme-in-several-cities?traffic_source=rss",
+   "source": "Al Jazeera",
+   "published": "2026-11-10T21:00:01Z",
+   "region": "Americas",
+   "category": "news"
+  },
+  {
+   "title": "Spain's king and queen attend memorial service for rail crash victims",
+   "summary": "Sixty-nine people died in the collision near Toledo two weeks ago and 28 are still in hospital.",
+   "link": "https://www.bbc.co.uk/news/articles/ckjwew54yd4wo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "published": "2026-11-10T20:46:40Z",
+   "region": "Europe",
+   "category": "news"
+  },
+  {
+   "title": "US soldier arrested in UK on suspicion of spying for Russia",
+   "summary": "London Metropolitan Police says its 'counterterror' forces worked closely with the FBI and US military to make arrest.",
+   "link": "https://www.aljazeera.com/news/2026/11/10/us-soldier-arrested-in-uk-over-alleged-russian-espionage?traffic_source=rss",
+   "source": "Al Jazeera",
+   "published": "2026-11-10T20:41:53Z",
+   "region": "Europe",
+   "category": "conflict"
+  },
+  {
+   "title": "Netanyahu and Eisenkot push for new government after election deadlock",
+   "summary": "Netanyahu and Eisenkot push for new government after election deadlock",
+   "link": "https://www.aljazeera.com/video/newsfeed/2026/11/10/netanyahu-and-eisenkot-push-for-new-government-after-election-deadlock?traffic_source=rss",
+   "source": "Al Jazeera",
+   "published": "2026-11-10T20:39:46Z",
    "region": "Middle East",
+   "category": "news"
+  },
+  {
+   "title": "US federal authorities could have prevented Epstein crimes, report finds",
+   "summary": "The report by a Republican-led congressional committee follows a 15-month investigation into the handling of the late disgraced financier's case.",
+   "link": "https://www.bbc.co.uk/news/articles/cq5ynyn8zyr8o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "published": "2026-11-10T20:36:58Z",
+   "region": "Americas",
+   "category": "news"
+  },
+  {
+   "title": "Watch: E-bike battery explodes into massive fireball inside Oregon home",
+   "summary": "Surveillance footage from inside the home shows a mother and son noticing smoke coming from the battery before it suddenly bursts into flames.",
+   "link": "https://www.bbc.co.uk/news/videos/cr0qkqqkn3j7o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "published": "2026-11-10T20:31:17Z",
+   "region": "Global",
+   "category": "news"
+  },
+  {
+   "title": "Emmanuel and Brigitte Macron file new defamation lawsuit against Candace Owens",
+   "summary": "Legal battle escalates as far-right US podcaster continues to spread false claims that France’s first lady was born a man Emmanuel and Brigitte Macron have brought a fresh defamation lawsuit against Candace Owens in her home state of Tennessee, in an escalation of a transatlantic legal battle as…",
+   "link": "https://www.theguardian.com/world/2026/nov/10/emmanuel-brigitte-macron-defamation-lawsuit-candace-owens",
+   "source": "The Guardian World",
+   "published": "2026-11-10T20:28:47Z",
+   "region": "Europe",
+   "category": "news"
+  },
+  {
+   "title": "Brent crude briefly dips below $90 for first time since August on Iran hopes",
+   "summary": "President Trump said Monday he thought the conflict was \"going to be ending fairly soon,\" but some analysts still see little chance of a lasting peace deal.",
+   "link": "https://www.cnbc.com/2026/11/10/oil-prices-trump-iran.html",
+   "source": "CNBC World",
+   "published": "2026-11-10T20:27:02Z",
+   "region": "Middle East",
+   "category": "economy"
+  },
+  {
+   "title": "US soldier arrested in Britain on suspicion of assisting Russian intelligence",
+   "summary": "UK police arrested a senior member of the US Army on Tuesday on suspicion of assisting Russian intelligence, adding that the arrest was not related to other counter-terror investigations. The 41-year-old man was detained near the city of Gloucester, west England, and remains in custody.",
+   "link": "https://www.france24.com/en/europe/20261110-us-soldier-arrested-in-britain-on-suspicion-of-assisting-russian-intelligence",
+   "source": "France 24",
+   "published": "2026-11-10T20:23:04Z",
+   "region": "Europe",
+   "category": "conflict"
+  },
+  {
+   "title": "Nvidia board member Stephen Neal could play big role in probe of CEO Jensen Huang",
+   "summary": "Stephen Neal is the lead independent director on the Nvidia board of directors. His past clients include Theranos fraudster Elizabeth Holmes.",
+   "link": "https://www.cnbc.com/2026/11/09/nvidia-jensen-huang-investigation.html",
+   "source": "CNBC World",
+   "published": "2026-11-10T20:22:57Z",
+   "region": "Global",
+   "category": "economy"
+  },
+  {
+   "title": "UK counter-terrorism police arrest senior US soldier with alleged links to Russia",
+   "summary": "Man, 41, arrested near Gloucester by police working with US authorities in investigation involving ‘allegations of espionage’, according to FBI director A US soldier with alleged links to Russia has been arrested by British counter-terrorism police. The man, 41, was arrested as part of an…",
+   "link": "https://www.theguardian.com/uk-news/2026/nov/10/uk-counter-terrorism-police-arrest-member-of-us-army-in-gloucestershire",
+   "source": "The Guardian World",
+   "published": "2026-11-10T20:12:11Z",
+   "region": "Europe",
+   "category": "conflict"
+  },
+  {
+   "title": "French police raid Ritz hotel in Mohamed Al Fayed sexual abuse investigation",
+   "summary": "Arrests made after three properties were searched in relation to inquiry into late businessman French police have made arrests after raiding three properties, including the Ritz hotel in Paris , in relation to an investigation into sexual abuse and trafficking by Mohamed Al Fayed. Several…",
+   "link": "https://www.theguardian.com/world/2026/nov/10/french-police-raid-ritz-hotel-in-mohamed-al-fayed-sexual-abuse-investigation",
+   "source": "The Guardian World",
+   "published": "2026-11-10T20:00:43Z",
+   "region": "Europe",
+   "category": "news"
+  },
+  {
+   "title": "British counterterrorism police arrest US soldier accused of spying on behalf of Russia",
+   "summary": "A member of the US Army has been arrested near Gloucester in England. Police said he was suspected of espionage activity in connection with Russia. Investigators from the US and UK are involved in the probe.",
+   "link": "https://www.dw.com/en/british-counterterrorism-police-arrest-us-soldier-accused-of-spying-on-behalf-of-russia/a-79913240?maca=en-rss-en-world-4025-rdf",
+   "source": "DW World",
+   "published": "2026-11-10T19:35:00Z",
+   "region": "Europe",
+   "category": "conflict"
+  },
+  {
+   "title": "Violence erupts in Bangladesh as ousted PM's supporters stage protest",
+   "summary": "Supporters of Sheikh Hasina want her to return from exile in India.",
+   "link": "https://www.bbc.co.uk/news/articles/cwkg5g5pjpyko?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "published": "2026-11-10T19:26:42Z",
+   "region": "Asia-Pacific",
+   "category": "news"
+  },
+  {
+   "title": "UK Privy Council overrules Trinidad and Tobago gay sex law",
+   "summary": "A London court has overturned a Trinidad and Tobago law criminalizing consensual sexual relations between male same-sex couples. As a result of the colonial legacy, it is the independent country's last court of appeal.",
+   "link": "https://www.dw.com/en/uk-privy-council-overrules-trinidad-and-tobago-gay-sex-law/a-79912163?maca=en-rss-en-world-4025-rdf",
+   "source": "DW World",
+   "published": "2026-11-10T19:21:00Z",
+   "region": "Europe",
+   "category": "news"
+  },
+  {
+   "title": "U.S. boycotts U.N. human rights review for second year running",
+   "summary": "The U.S. has skipped a key U.N. human rights review for the second year running. Rights groups warn the absence risks undermining global accountability.",
+   "link": "https://www.npr.org/2026/11/10/nx-s1-6034998/un-human-rights-us-geneva",
+   "source": "NPR World",
+   "published": "2026-11-10T18:53:34Z",
+   "region": "Global",
+   "category": "news"
+  },
+  {
+   "title": "Makers of GLP-1 drugs ordered to add warnings about rare eye condition that can lead to blindness",
+   "summary": "The US Food and Drug Administration says Ozempic, Wegovy, and other weight-loss drugs must have labels about the condition, known as NAION.",
+   "link": "https://www.bbc.co.uk/news/articles/crwydyde0lp3o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "published": "2026-11-10T18:43:04Z",
+   "region": "Americas",
+   "category": "news"
+  },
+  {
+   "title": "Claude chatbot maker set for $1.3tn stock market debut despite 'catastrophic' AI warning",
+   "summary": "The AI company behind the Claude chatbot will offer its shares at between $70 and $78, which is lower than what was expected.",
+   "link": "https://www.bbc.co.uk/news/articles/crpdgd723x2zo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC Business",
+   "published": "2026-11-10T17:56:12Z",
+   "region": "Global",
+   "category": "economy"
+  },
+  {
+   "title": "Victims of Nazi war in Poland call on Germany for support",
+   "summary": "More than 80 years after the end of World War II, Polish victims of the Nazi regime are still waiting for a \"humanitarian gesture\" from Germany. The 2027 draft budget hasn't left them much hope for possible reparations.",
+   "link": "https://www.dw.com/en/victims-of-nazi-war-in-poland-call-on-germany-for-support/a-79909311?maca=en-rss-en-world-4025-rdf",
+   "source": "DW World",
+   "published": "2026-11-10T17:53:00Z",
+   "region": "Europe",
    "category": "conflict"
   },
   {
@@ -106,24 +493,6 @@
    "category": "economy"
   },
   {
-   "title": "Nvidia falls for second day as investors weigh fallout of CEO’s affair with alleged spy",
-   "summary": "Investors continue to weigh the potential fallout from CEO Jensen Huang's affair with an alleged Chinese spy.",
-   "link": "https://www.cnbc.com/2026/11/10/nvidia-nvda-jensen-huang-affair-chinese-spy.html",
-   "source": "CNBC World",
-   "published": "2026-11-10T17:05:43Z",
-   "region": "Asia-Pacific",
-   "category": "economy"
-  },
-  {
-   "title": "Russia-Ukraine talks ‘very productive,’ says US’s Rubio – as it happened",
-   "summary": "US-led talks in Abu Dhabi break up after four hours but are expected to resume tomorrow as Zelenskyy says humanitarian issues were discussed US officials seek ‘final end’ to Russia-Ukraine war as talks begin The EU has said it stands ready “to come with a swift and united response” after France…",
-   "link": "https://www.theguardian.com/world/live/2026/nov/10/ukraine-russia-war-us-talks-abu-dhabi-europe-latest-news-updates",
-   "source": "The Guardian World",
-   "published": "2026-11-10T17:05:05Z",
-   "region": "Europe",
-   "category": "conflict"
-  },
-  {
    "title": "Kim Kardashian's Skims offers refunds for $148 advent calendar after backlash",
    "summary": "The contents of the calendar, including hair clips and keychains, have been widely criticised on social media.",
    "link": "https://www.bbc.co.uk/news/articles/cqp8g8p53x6ko?at_medium=RSS&at_campaign=rss",
@@ -133,69 +502,6 @@
    "category": "economy"
   },
   {
-   "title": "Israel's new parliament sworn in as leaders compete to form government",
-   "summary": "Benjamin Netanyahu's main political rival, Gadi Eisenkot, has first chance to build a new government and oust the prime minister.",
-   "link": "https://www.bbc.co.uk/news/articles/crd939lpzjp9o?at_medium=RSS&at_campaign=rss",
-   "source": "BBC World",
-   "published": "2026-11-10T17:03:16Z",
-   "region": "Middle East",
-   "category": "news"
-  },
-  {
-   "title": "Security forces seized top court, Somalia’s ex-chief justice says",
-   "summary": "Somalia’s former Chief Justice said more than 300 security forces had ‘militarily occupied’ the Supreme Court.",
-   "link": "https://www.aljazeera.com/video/newsfeed/2026/11/10/security-forces-seized-top-court-somalias-ex-chief-justice-says?traffic_source=rss",
-   "source": "Al Jazeera",
-   "published": "2026-11-10T17:02:23Z",
-   "region": "Africa",
-   "category": "news"
-  },
-  {
-   "title": "Inside devastated front-line city that Russia wants Ukraine to give up",
-   "summary": "The BBC gains rare access to a specialist drone unit defending the eastern city of Slovyansk from heavy Russian fire.",
-   "link": "https://www.bbc.co.uk/news/articles/cq0memrywvzro?at_medium=RSS&at_campaign=rss",
-   "source": "BBC World",
-   "published": "2026-11-10T17:00:11Z",
-   "region": "Europe",
-   "category": "conflict"
-  },
-  {
-   "title": "US officials seek ‘final end’ to Russia-Ukraine war, as Abu Dhabi talks set to continue",
-   "summary": "First substantive peace talks since February include US proposal for ‘long-term security architecture’ between Moscow and Europe Europe live – latest updates US officials have said they are seeking a “final end” to the war between Russia and Ukraine as trilateral talks got under way in Abu Dhabi…",
-   "link": "https://www.theguardian.com/world/2026/nov/10/us-officials-russia-ukraine-war-abu-dhabi-talks",
-   "source": "The Guardian World",
-   "published": "2026-11-10T16:59:04Z",
-   "region": "Europe",
-   "category": "conflict"
-  },
-  {
-   "title": "Sports legends whose political fortunes may be a lesson to Riner ahead of presidential bid",
-   "summary": "French judo star Teddy Riner may have announced his bid for the 2027 French presidential campaign on Monday, but he is not the only sports star to transition from stadium to bully pulpit. Read about some of his most famous predecessors.",
-   "link": "https://www.france24.com/en/sport/20261110-sports-legends-whose-political-fortunes-may-be-a-lesson-to-riner-ahead-of-presidential-bid",
-   "source": "France 24",
-   "published": "2026-11-10T16:59:00Z",
-   "region": "Europe",
-   "category": "news"
-  },
-  {
-   "title": "Texas man charged with murder of woman aboard MSC cruise ship",
-   "summary": "Jason Leon Watford said he ‘snapped’ after verbal dispute with the woman, before allegedly killing her in a cabin A passenger of a Texas -based cruise ship has been charged with murdering a woman in their cabin on Sunday on the first day of their voyage. Crew members aboard the MSC Seascape found…",
-   "link": "https://www.theguardian.com/us-news/2026/nov/10/msc-seascape-homicide-cruise-ship",
-   "source": "The Guardian World",
-   "published": "2026-11-10T16:53:05Z",
-   "region": "Global",
-   "category": "news"
-  },
-  {
-   "title": "Kristallnacht' 88th anniversary: Merz says Germany faces historic test over antisemitism",
-   "summary": "It has been 88 years since \"Kristallnacht\", the \"Night of Broken Glass\" in Europe, a violent pogrom against the Jewish population across Nazi Germany and Austria, marking a critical escalation toward the Holocaust. Friedrich Merz, Federal Chancellor of Germany, said that Germany currently faces a…",
-   "link": "https://www.france24.com/en/video/20261110-kristallnacht-88th-anniversary-merz-says-germany-faces-historic-test-over-antisemitism",
-   "source": "France 24",
-   "published": "2026-11-10T16:47:50Z",
-   "region": "Europe",
-   "category": "news"
-  },
-  {
    "title": "Some pupils 'struggling just to get a hot meal'",
    "summary": "Students speak out as school dinner prices are set to increase for the second time in a year.",
    "link": "https://www.bbc.co.uk/news/articles/c9m262yv6yx8o?at_medium=RSS&at_campaign=rss",
@@ -203,177 +509,6 @@
    "published": "2026-11-10T16:46:21Z",
    "region": "Global",
    "category": "economy"
-  },
-  {
-   "title": "Merz accused of ‘blackmail’ by Slovak PM after demand for Ukraine aid in EU budget",
-   "summary": "German chancellor has signalled he will block budget with no aid deal, complaining that burden is ‘carried mostly by only a few member states’ Friedrich Merz has signalled he will block the EU’s seven-year budget unless there is a deal on financial aid for Ukraine, triggering accusations of…",
-   "link": "https://www.theguardian.com/world/2026/nov/10/friedrich-merz-accused-blackmail-ukraine-aid-eu-budget",
-   "source": "The Guardian World",
-   "published": "2026-11-10T16:44:27Z",
-   "region": "Europe",
-   "category": "economy"
-  },
-  {
-   "title": "Our Nvidia downgrade — plus, Cramer is looking to add to this position",
-   "summary": "The Investing Club holds its \"Morning Meeting\" every weekday at 10:20 a.m. ET.",
-   "link": "https://www.cnbc.com/investingclub/2026/11/10/our-nvidia-downgrade-plus-cramer-is-looking-to-add-to-this-position.html",
-   "source": "CNBC World",
-   "published": "2026-11-10T16:44:13Z",
-   "region": "Global",
-   "category": "economy"
-  },
-  {
-   "title": "10-year Treasury yield races back to 5% as inflation data, Waller comments drive rate hike expectations",
-   "summary": "Treasury yields moved higher after hotter-than-expected CPI report.",
-   "link": "https://www.cnbc.com/2026/11/10/us-bonds-treasurys-yields.html",
-   "source": "CNBC World",
-   "published": "2026-11-10T16:44:11Z",
-   "region": "Global",
-   "category": "economy"
-  },
-  {
-   "title": "US Pentagon chief Pete Hegseth calls impeachment moves 'a farce'",
-   "summary": "US Defence Secretary Pete Hegseth on Tuesday, November 10, called an effort to impeach him over ​abuse of power in the Iran war a farce and sabotage that plays into the hands of adversaries. FRANCE 24's International Affairs Commentator Douglas Herbert has more.",
-   "link": "https://www.france24.com/en/video/20261110-us-pentagon-chief-pete-hegseth-calls-impeachment-moves-a-farce",
-   "source": "France 24",
-   "published": "2026-11-10T16:43:39Z",
-   "region": "Americas",
-   "category": "conflict"
-  },
-  {
-   "title": "Who exactly is Pete Hegseth, the Pentagon chief facing an impeachment bid?",
-   "summary": "US Defence Secretary Pete Hegseth on Tuesday dismissed the impeachment effort against him as \"a political spectacle\". He made the comments a day after Republican Thomas Massie launched a bid to impeach him over his handling of the unpopular war in Iran and other actions. But who is Pete Hegseth? A…",
-   "link": "https://www.france24.com/en/video/20261110-who-exactly-is-pete-hegseth-the-pentagon-chief-facing-an-impeachment-bid",
-   "source": "France 24",
-   "published": "2026-11-10T16:41:45Z",
-   "region": "Americas",
-   "category": "conflict"
-  },
-  {
-   "title": "French students vow to keep up protest pressure for better learning conditions",
-   "summary": "France has been buffeted for months by street protests. They began in September ​with students ‌demanding the renovation of school buildings, more teachers and ⁠university reforms but then turned into broader cost-of-living protests, drawing in trade unions and political activists, and sometimes…",
-   "link": "https://www.france24.com/en/video/20261110-french-students-vow-to-keep-up-protest-pressure-for-better-learning-conditions",
-   "source": "France 24",
-   "published": "2026-11-10T16:40:39Z",
-   "region": "Europe",
-   "category": "news"
-  },
-  {
-   "title": "Qatari PM’s Washington visit comes amid renewed US–Iran diplomacy",
-   "summary": "Nayef Al-Nabet discusses the Qatari prime minister’s visit to Washington.",
-   "link": "https://www.aljazeera.com/video/newsfeed/2026/11/10/qatari-pms-washington-visit-comes-amid-renewed-us-iran?traffic_source=rss",
-   "source": "Al Jazeera",
-   "published": "2026-11-10T16:39:25Z",
-   "region": "Middle East",
-   "category": "news"
-  },
-  {
-   "title": "Pope Leo XIV visits Argentina in second leg of Latin American tour",
-   "summary": "Pope Leo XIV visited Argentina on the second leg of his South American tour, following a stop in Uruguay. During his visit, he celebrated public Masses, met with the faithful and held talks with religious and government leaders. Peru is the final stop on the pontiff's tour.",
-   "link": "https://www.france24.com/en/video/20261110-pope-leo-xiv-visits-argentina-in-second-leg-of-latin-american-tour",
-   "source": "France 24",
-   "published": "2026-11-10T16:38:00Z",
-   "region": "Americas",
-   "category": "news"
-  },
-  {
-   "title": "Here's the inflation breakdown for October 2026 — in one chart",
-   "summary": "The consumer price index rose 0.4% in October, a reduction from September but a level economists said is still uncomfortably high.",
-   "link": "https://www.cnbc.com/2026/11/10/october-2026-cpi-inflation-breakdown.html",
-   "source": "CNBC World",
-   "published": "2026-11-10T16:36:40Z",
-   "region": "Global",
-   "category": "economy"
-  },
-  {
-   "title": "REPLAY: US Secretary of State Rubio holds press conference after G7 meeting",
-   "summary": "US Secretary of State Marco Rubio talked to the press Tuesday as the G7 meets in Paris. He said he saw no need to resume major combat operations against Iran because economic restrictions were working so effectively. He also hailed US-mediated talks between Russia and Ukraine in Abu Dhabi as \"very…",
-   "link": "https://www.france24.com/en/video/20261110-replay-us-secretary-of-state-rubio-holds-press-conference-after-g7-meeting",
-   "source": "France 24",
-   "published": "2026-11-10T16:30:50Z",
-   "region": "Europe",
-   "category": "news"
-  },
-  {
-   "title": "French far right on track to secure €10 million loan for Le Pen's presidential campaign",
-   "summary": "France's far-right National Rally party on Tuesday reached a preliminary agreement with two European banks for a loan to help fund Marine Le Pen's presidential campaign. The lenders are expected to finalise the €10 million loan by the end of the month.",
-   "link": "https://www.france24.com/en/france/20261110-french-far-right-close-to-secyre-%E2%82%AC10-million-loan-to-fund-le-pen-presidential-campaign",
-   "source": "France 24",
-   "published": "2026-11-10T16:30:41Z",
-   "region": "Europe",
-   "category": "news"
-  },
-  {
-   "title": "Anthropic's trillion-dollar IPO is coming, but retail investors could have owned AI stock much earlier",
-   "summary": "Anthropic is on target for an IPO that could value the AI company at over $1.4 trillion. Investors had multiple ways to buy the stock much earlier.",
-   "link": "https://www.cnbc.com/2026/11/10/anthropic-ipo-shares-invest.html",
-   "source": "CNBC World",
-   "published": "2026-11-10T16:30:23Z",
-   "region": "Global",
-   "category": "economy"
-  },
-  {
-   "title": "U.S. gas prices fall below $4 for the first time since July",
-   "summary": "Americans may finally find some relief at the pump.",
-   "link": "https://www.cnbc.com/2026/11/10/us-gas-prices-below-four-dollars.html",
-   "source": "CNBC World",
-   "published": "2026-11-10T16:29:09Z",
-   "region": "Americas",
-   "category": "economy"
-  },
-  {
-   "title": "Did Fox News’ fixation on Hasan Piker backfire?",
-   "summary": "Did Fox News' fixation on Hasan Piker backfire?",
-   "link": "https://www.aljazeera.com/video/newsfeed/2026/11/10/did-fox-news-fixation-on-hasan-piker-backfire?traffic_source=rss",
-   "source": "Al Jazeera",
-   "published": "2026-11-10T16:26:08Z",
-   "region": "Global",
-   "category": "news"
-  },
-  {
-   "title": "Michigan sports parent allegedly defecates in rival high school’s corridor: ‘definitely a first’",
-   "summary": "The suspect, tracked down from surveillance video, claims to have had a medical emergency An apparently sports-mad parent from a Michigan high school has stunned authorities and triggered a police investigation after allegedly entering a rival school and defecating in a corridor. The bizarre case…",
-   "link": "https://www.theguardian.com/us-news/2026/nov/10/michigan-sports-parent-defecates",
-   "source": "The Guardian World",
-   "published": "2026-11-10T16:23:12Z",
-   "region": "Global",
-   "category": "news"
-  },
-  {
-   "title": "At least 12 people killed in Bulgaria motorway pile-up",
-   "summary": "At least 12 people have been killed and dozens injured in multiple crashes involving around 50 vehicles on a motorway",
-   "link": "https://www.aljazeera.com/video/newsfeed/2026/11/10/at-least-12-people-killed-in-bulgaria-motorway-pile-up?traffic_source=rss",
-   "source": "Al Jazeera",
-   "published": "2026-11-10T16:20:12Z",
-   "region": "Europe",
-   "category": "conflict"
-  },
-  {
-   "title": "Arrests made in Mohamed Al Fayed probe in France, police say",
-   "summary": "The Ritz hotel in Paris, which is still owned by the Al Fayed family, is one of the properties searched by police.",
-   "link": "https://www.bbc.co.uk/news/articles/ck1wvwyrd4ywo?at_medium=RSS&at_campaign=rss",
-   "source": "BBC World",
-   "published": "2026-11-10T16:19:48Z",
-   "region": "Europe",
-   "category": "news"
-  },
-  {
-   "title": "House Oversight calls on DOJ to interview key Epstein witnesses, says govt. ‘failed’ survivors",
-   "summary": "\"The federal government has failed the survivors of Jeffrey Epstein and Ghislaine Maxwell's horrific crimes for decades,\" Rep. James Comer, R-Ky., said.",
-   "link": "https://www.cnbc.com/2026/11/10/jeffrey-epstein-house-oversight-doj.html",
-   "source": "CNBC World",
-   "published": "2026-11-10T16:17:20Z",
-   "region": "Global",
-   "category": "economy"
-  },
-  {
-   "title": "Twelve dead after motorway pile-ups in Bulgaria fog",
-   "summary": "About 50 other people were injured in the pile-ups along a section of the Trakia motorway, officials have said.",
-   "link": "https://www.bbc.co.uk/news/articles/ckx2q2velpjjo?at_medium=RSS&at_campaign=rss",
-   "source": "BBC World",
-   "published": "2026-11-10T16:07:51Z",
-   "region": "Europe",
-   "category": "news"
   },
   {
    "title": "Thousands of 'off-grid' homes eligible for £250 to help with heating bills",
@@ -394,39 +529,12 @@
    "category": "news"
   },
   {
-   "title": "Father, child among six Palestinians killed in Israeli attacks on Gaza",
-   "summary": "Israel has killed more than 1,600 people in Gaza since last year's 'ceasefire', the enclave's Health Ministry says.",
-   "link": "https://www.aljazeera.com/news/2026/11/10/israeli-attacks-kill-at-least-six-in-gaza-including-father-and-son?traffic_source=rss",
-   "source": "Al Jazeera",
-   "published": "2026-11-10T15:49:36Z",
-   "region": "Middle East",
-   "category": "conflict"
-  },
-  {
    "title": "Controversial kinship: From colonial rule to the Holocaust?",
    "summary": "Hitler once called Eastern Europe \"Germany's India.\" A new exhibition examines the links between colonialism and Nazism, and the bitter debate over where comparisons illuminate history and where they fall short.",
    "link": "https://www.dw.com/en/controversial-kinship-from-colonial-rule-to-the-holocaust/a-79902228?maca=en-rss-en-world-4025-rdf",
    "source": "DW World",
    "published": "2026-11-10T15:49:00Z",
    "region": "Europe",
-   "category": "news"
-  },
-  {
-   "title": "Anthropic sets IPO price range of $70 to $78, looks to start trading Nov. 19, sources say",
-   "summary": "Anthropic's IPO is expected to come roughly five months after Elon Musk took SpaceX public in a record offering.",
-   "link": "https://www.cnbc.com/2026/11/10/anthropic-sets-price-range-of-70-to-78-in-upcoming-ipo.html",
-   "source": "CNBC World",
-   "published": "2026-11-10T15:42:00Z",
-   "region": "Global",
-   "category": "economy"
-  },
-  {
-   "title": "'It's a farce': Hegseth's defiant response to impeachment effort",
-   "summary": "The BBC’s Gary O’Donoghue breaks down how the US defence secretary defended his record after a Republican congressman launched an attempt to impeach him.",
-   "link": "https://www.bbc.co.uk/news/videos/cwm24249dezmo?at_medium=RSS&at_campaign=rss",
-   "source": "BBC World",
-   "published": "2026-11-10T15:40:43Z",
-   "region": "Americas",
    "category": "news"
   },
   {
@@ -439,47 +547,11 @@
    "category": "economy"
   },
   {
-   "title": "Poland gunman fascinated by Norway’s neo-Nazi mass killer Breivik",
-   "summary": "Suspect in deadly November 7 Krakow shooting looked up the white supremacist who killed dozens in 2011, a minister says.",
-   "link": "https://www.aljazeera.com/news/2026/11/10/polish-gunman-visited-websites-about-norwegian-neo-nazi-serial-killer?traffic_source=rss",
-   "source": "Al Jazeera",
-   "published": "2026-11-10T15:36:49Z",
-   "region": "Europe",
-   "category": "conflict"
-  },
-  {
-   "title": "Deadly Egypt train crash prompts calls for political accountability",
-   "summary": "A deadly train collision in Egypt's al-Ayyat prompts demands for political accountability and rail upgrade reviews.",
-   "link": "https://www.aljazeera.com/news/2026/11/10/deadly-egypt-train-collision-prompts-calls-for-political-accountability?traffic_source=rss",
-   "source": "Al Jazeera",
-   "published": "2026-11-10T15:22:17Z",
-   "region": "Middle East",
-   "category": "news"
-  },
-  {
-   "title": "Board of Peace says Israel's aid response after Gaza floods 'insufficent'",
-   "summary": "The group, formed by Trump, issues rare criticism of Israel, while also blaming Hamas for the suffering of civilians in Gaza.",
-   "link": "https://www.bbc.co.uk/news/articles/cw4g1g4ll5m1o?at_medium=RSS&at_campaign=rss",
-   "source": "BBC World",
-   "published": "2026-11-10T15:21:18Z",
-   "region": "Middle East",
-   "category": "news"
-  },
-  {
    "title": "Sales of tinned food and bottled water jump after 'Be Ready' campaign launch",
    "summary": "Sales of essential goods such as hand sanitiser soar after the government called on households to be prepared for emergencies.",
    "link": "https://www.bbc.co.uk/news/articles/cqev3vl4ek33o?at_medium=RSS&at_campaign=rss",
    "source": "BBC Business",
    "published": "2026-11-10T15:10:20Z",
-   "region": "Global",
-   "category": "economy"
-  },
-  {
-   "title": "Anthropic heads for lower than expected $1.3 trillion valuation in stock market debut",
-   "summary": "The AI company behind the Claude chatbot will offer its shares at between $70 and $78.",
-   "link": "https://www.bbc.co.uk/news/articles/crpdgd723x2zo?at_medium=RSS&at_campaign=rss",
-   "source": "BBC Business",
-   "published": "2026-11-10T14:46:50Z",
    "region": "Global",
    "category": "economy"
   },
@@ -520,48 +592,12 @@
    "category": "news"
   },
   {
-   "title": "Iran rejects French claims it was behind supermarket fridge hacking",
-   "summary": "Tons of chilled and frozen food was spoiled last month as fridges and freezers in hundreds of supermarkets heated up.",
-   "link": "https://www.bbc.co.uk/news/articles/cmg474vk6dyqo?at_medium=RSS&at_campaign=rss",
-   "source": "BBC World",
-   "published": "2026-11-10T13:45:13Z",
-   "region": "Middle East",
-   "category": "news"
-  },
-  {
-   "title": "New regulation for heating oil market, but no price controls",
-   "summary": "The Competition and Markets Authority has investigated the heating oil market in Northern Ireland and other parts of the UK.",
-   "link": "https://www.bbc.co.uk/news/articles/cv70p0d3d686o?at_medium=RSS&at_campaign=rss",
-   "source": "BBC Business",
-   "published": "2026-11-10T13:42:29Z",
-   "region": "Europe",
-   "category": "economy"
-  },
-  {
-   "title": "Civil servant who secretly held five jobs found guilty of fraud",
-   "summary": "Kashim Chowdhury had secretly held multiple public sector jobs on full-time salaries.",
-   "link": "https://www.bbc.co.uk/news/articles/cm70pgnx891do?at_medium=RSS&at_campaign=rss",
-   "source": "BBC Business",
-   "published": "2026-11-10T13:39:28Z",
-   "region": "Global",
-   "category": "economy"
-  },
-  {
    "title": "Japan watches for signs of change in Trump's foreign policy priorities",
    "summary": "Tokyo fears the drubbing US President Donald Trump suffered in last week's midterm election may push him to pursue a diplomatic quick win at the expense of Washington's allies in the Indo-Pacific.",
    "link": "https://www.dw.com/en/japan-watches-for-signs-of-change-in-trump-s-foreign-policy-priorities/a-79909398?maca=en-rss-en-world-4025-rdf",
    "source": "DW World",
    "published": "2026-11-10T13:31:00Z",
    "region": "Americas",
-   "category": "news"
-  },
-  {
-   "title": "French wartime resistance heroine Solange Alexandre dies aged 104",
-   "summary": "With 30 men under her orders, she organised sabotage operations, sheltered Allied airmen and joined the fight against the occupying German forces.",
-   "link": "https://www.bbc.co.uk/news/articles/cjdx3x7wg941o?at_medium=RSS&at_campaign=rss",
-   "source": "BBC World",
-   "published": "2026-11-10T13:23:54Z",
-   "region": "Europe",
    "category": "news"
   },
   {
@@ -664,48 +700,12 @@
    "category": "news"
   },
   {
-   "title": "Russia: Independent Novaya Gazeta shuts its Moscow newsroom",
-   "summary": "The investigative newspaper is closing its doors after Russian authorities labeled it a \"foreign agent\" and ordered it vacate its Moscow premises.",
-   "link": "https://www.dw.com/en/russia-independent-novaya-gazeta-shuts-its-moscow-newsroom/a-79899827?maca=en-rss-en-world-4025-rdf",
-   "source": "DW World",
-   "published": "2026-11-09T16:22:00Z",
-   "region": "Europe",
-   "category": "news"
-  },
-  {
-   "title": "India's demonetization: 10 years on, economic benefits still disputed",
-   "summary": "A decade after the 2016 currency ban, its impact on India's economy and the fight against black money remains contested.",
-   "link": "https://www.dw.com/en/india-s-demonetization-10-years-on-economic-benefits-still-disputed/a-79903331?maca=en-rss-en-world-4025-rdf",
-   "source": "DW World",
-   "published": "2026-11-09T16:21:00Z",
-   "region": "Asia-Pacific",
-   "category": "economy"
-  },
-  {
-   "title": "Africa's fight against fake news: Who decides what's true?",
-   "summary": "From Ghana to Mozambique, the fight against fake news keeps gaining momentum. But combating disinformation also requires safeguards for free speech, leaving some governments in an inconvenient position.",
-   "link": "https://www.dw.com/en/africa-s-fight-against-fake-news-who-decides-what-s-true/a-79874039?maca=en-rss-en-world-4025-rdf",
-   "source": "DW World",
-   "published": "2026-11-09T15:56:00Z",
-   "region": "Africa",
-   "category": "news"
-  },
-  {
    "title": "Thick smog shrouds New Delhi after Diwali firecrackers add to seasonal pollution",
    "summary": "New Delhi, home to over 30 million people, regularly ranks among the world's most polluted areas during winter, with pollution worsening in late October and November.",
    "link": "https://www.npr.org/2026/11/09/g-s1-152634/thick-smog-shrouds-new-delhi-after-diwali-firecrackers-add-to-seasonal-pollution",
    "source": "NPR World",
    "published": "2026-11-09T15:09:53Z",
    "region": "Asia-Pacific",
-   "category": "news"
-  },
-  {
-   "title": "British comedian Russell Brand sentenced to over 10 years for rape and sexual assault",
-   "summary": "Russell Brand, who became a celebrity darling in the early 2000s, was found guilty on one count of rape and three counts of sexual assault in a case brought by six women.",
-   "link": "https://www.npr.org/2026/11/09/nx-s1-6034335/british-comedian-russell-brand-sentenced",
-   "source": "NPR World",
-   "published": "2026-11-09T14:36:54Z",
-   "region": "Europe",
    "category": "news"
   },
   {
