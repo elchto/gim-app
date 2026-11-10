@@ -1,10 +1,43 @@
 {
   "title": "Global Intelligence Monitor",
-  "snapshot": "Tuesday 10 November 2026, 01:15 (Europe/Rome)",
+  "snapshot": "Tuesday 10 November 2026, 02:15 (Europe/Rome)",
   "snapshotDate": "2026-11-10",
-  "lastUpdated": "2026-11-10T01:15:00+01:00",
-  "summary": "A one-page briefing on world news, conflicts, politics and the economy in the week to 10 November 2026 (Tuesday ~01:15 Europe/Rome), with country profiles and a timeline since 1945.",
+  "lastUpdated": "2026-11-10T02:15:00+01:00",
+  "summary": "A one-page briefing on world news, conflicts, politics and the economy in the week to 10 November 2026 (Tuesday ~02:15 Europe/Rome), with country profiles and a timeline since 1945.",
   "news": [
+    {
+      "headline": "Asian stocks rally after Wall Street's best day in seven months; Kospi jumps over 5%",
+      "summary": "South Korea's Kospi jumped more than 5% in early Tuesday trading and Japan's Nikkei 225 rose nearly 3%, tracking a US tech rally and a slump in oil; Brent settled below $93 a barrel after falling almost 6% on Monday. US October CPI data is due Tuesday.",
+      "date": "10 Nov 2026",
+      "region": "Asia-Pacific",
+      "countries": [
+        "JP"
+      ],
+      "source": "The Economic Times (Bloomberg)",
+      "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-today-asian-stocks-rally-after-us-tech-surge-oil-slump/articleshow/135696042.cms"
+    },
+    {
+      "headline": "Trump revives election fraud claims after midterm defeat",
+      "summary": "President Trump on Monday revived allegations of election fraud, reversing his initial acceptance of last week's midterm results after Democrats swept both chambers of Congress; the allegations are unsubstantiated.",
+      "date": "9 Nov 2026",
+      "region": "Americas",
+      "countries": [
+        "US"
+      ],
+      "source": "The Standard (Reuters)",
+      "url": "https://www.thestandard.com.hk/news/article/348005/Morning-Recap-November-10-2026"
+    },
+    {
+      "headline": "M. John Harrison wins the Booker Prize for 'The End of Everything'",
+      "summary": "British author M. John Harrison, 81, won the Booker Prize for his novel 'The End of Everything', a darkly satirical post-apocalyptic Britain that echoes concerns about AI; he is the oldest winner of the £50,000 award.",
+      "date": "9 Nov 2026",
+      "region": "Europe",
+      "countries": [
+        "GB"
+      ],
+      "source": "The Hindu",
+      "url": "https://www.thehindu.com/news/morning-digest-on-november-10-2026/article71684764.ece"
+    },
     {
       "headline": "Leaked Rosstat data points to over 450,000 Russian war deaths",
       "summary": "A reported data leak from Russia's state statistics agency Rosstat indicates that, by official figures, more than 450,000 Russians have been killed in the war in Ukraine, with the rate accelerating; the war would be the fourth most common cause of death in Russia since 2022 (leak not officially confirmed).",
@@ -2001,7 +2034,7 @@
       "headOfGov": "Prime Minister Anwar Ibrahim"
     }
   ],
-  "profilesNote": "Leaders checked against news of 10 November 2026 (~01:15 Rome). Israel: Netanyahu remains caretaker PM; Herzog tasked Gadi Eisenkot with forming a government on 8 Nov (28 days, extendable by 14). Paraguay: Pedro Alliana assumed the presidency after Peña resigned and the lower house impeached him over Ueno Bank (AS/COA / Latin Times); Deposit Guarantee payouts started — Paraguay is not listed in country profiles. Japan: PM Sanae Takaichi; government considering an explicit emergency exception to the non-nuclear principles in the National Security Strategy (Kyodo; claim/proposal, not yet adopted).",
+  "profilesNote": "Leaders checked against news of 10 November 2026 (~02:15 Rome). Israel: Netanyahu remains caretaker PM; Herzog tasked Gadi Eisenkot with forming a government on 8 Nov (28 days, extendable by 14). Paraguay: Pedro Alliana assumed the presidency after Peña resigned and the lower house impeached him over Ueno Bank (AS/COA / Latin Times); Deposit Guarantee payouts started — Paraguay is not listed in country profiles. Japan: PM Sanae Takaichi; government considering an explicit emergency exception to the non-nuclear principles in the National Security Strategy (Kyodo; claim/proposal, not yet adopted).",
   "profileSource": "https://www.imf.org/external/datamapper/NGDPD@WEO",
   "history": [
     {
