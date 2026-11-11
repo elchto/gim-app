@@ -1,10 +1,183 @@
 {
   "title": "Global Intelligence Monitor",
-  "snapshot": "Tuesday 10 November 2026, 23:15 (Europe/Rome)",
-  "snapshotDate": "2026-11-10",
-  "lastUpdated": "2026-11-10T23:15:00+01:00",
-  "summary": "A one-page briefing on world news, conflicts, politics and the economy in the week to 10 November 2026 (Tuesday ~23:15 Europe/Rome), with country profiles and a timeline since 1945.",
+  "snapshot": "Thursday 12 November 2026, 00:30 (Europe/Rome)",
+  "snapshotDate": "2026-11-12",
+  "lastUpdated": "2026-11-12T00:30:00+01:00",
+  "summary": "A one-page briefing on world news, conflicts, politics and the economy in the week to 12 November 2026 (Thursday ~00:30 Europe/Rome), with country profiles and a timeline since 1945.",
   "news": [
+    {
+      "headline": "Abu Dhabi talks end with deal in principle on a large prisoner swap, no breakthrough on the war",
+      "summary": "Two days of US-mediated Russia-Ukraine talks ended on Wednesday. Russia's Vladimir Medinsky and Ukraine's Rustem Umerov confirmed a large-scale prisoner exchange agreed 'in principle'; TASS said it should happen in two to three weeks. Jared Kushner called the meeting 'very tough' but 'productive', said territory is the hardest issue and that progress was made on a post-war security framework. Witkoff and Kushner go to Moscow on Thursday to meet Putin, then to Dublin to meet Zelensky.",
+      "date": "11 Nov 2026",
+      "region": "Europe",
+      "countries": [
+        "RU",
+        "UA",
+        "US"
+      ],
+      "source": "Al Jazeera / BBC / NBC News",
+      "url": "https://www.aljazeera.com/news/2026/11/11/russia-ukraine-talks-in-abu-dhabi-end-with-prisoner-exchange-agreement"
+    },
+    {
+      "headline": "Iran says Hormuz stays shut until its seven conditions are met",
+      "summary": "Security chief Mohsen Rezaei said Tehran is still waiting for a clear US answer to its seven conditions, which include lifting sanctions and the naval blockade and ending fighting on all fronts, and dismissed talk of negotiations. Parliament speaker Mohammad Bagher Ghalibaf told Al Jazeera the strait will 'never return' to its pre-war status and that Iran and Oman reached an understanding to oversee it.",
+      "date": "11 Nov 2026",
+      "region": "Middle East",
+      "countries": [
+        "IR",
+        "US"
+      ],
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/11/11/iran-denies-talks-with-us-says-hormuz-will-stay-shut-until-demands-are-met"
+    },
+    {
+      "headline": "IRGC claims two more tankers hit mines in Hormuz; at least 10 ships hit so far in November",
+      "summary": "The IRGC said two tankers trying to leave the strait by an 'unauthorized' route struck mines (claim, not independently verified); UKMTO reported another tanker incident. Washington Institute data cited by Reuters counts at least 10 ships hit in the first 10 days of November after 37 attacks in October, and verified video showed oil reaching Oman's shore.",
+      "date": "11 Nov 2026",
+      "region": "Middle East",
+      "countries": [
+        "IR"
+      ],
+      "source": "Reuters (via Investing.com) / CBS News",
+      "url": "https://www.investing.com/news/commodities-news/tankers-burn-in-the-middle-east-despite-hopes-for-deescalation-5019800"
+    },
+    {
+      "headline": "Allianz Trade: Iran war damage to Gulf states above $200bn",
+      "summary": "The credit insurer said physical damage across the region is assessed just above $200 billion and that economic losses could reach nearly four times that amount by 2030.",
+      "date": "11 Nov 2026",
+      "region": "Middle East",
+      "countries": [
+        "SA"
+      ],
+      "source": "CBS News",
+      "url": "https://www.cbsnews.com/live-updates/iran-war-us-nuclear-strait-of-hormuz/"
+    },
+    {
+      "headline": "Wall Street rebounds: S&P 500 +1.31%, Nasdaq +1.60% on CoreWeave results",
+      "summary": "The S&P 500 rose 98.45 points to 7,619.38, the Nasdaq 400.31 to 25,466.19 and the Dow 254.60 to 52,486.49. CoreWeave jumped 24.7% after saying it expects adjusted profitability in the first half of 2028, easing AI-spending worries; tech was the best sector (+2.7%).",
+      "date": "11 Nov 2026",
+      "region": "Americas",
+      "countries": [
+        "US"
+      ],
+      "source": "The Straits Times (Reuters)",
+      "url": "https://www.straitstimes.com/business/companies-markets/us-stocks-end-higher-as-coreweave-results-ease-ai-spending-worries"
+    },
+    {
+      "headline": "Nvidia hires law firm to investigate Jensen Huang; WSJ reports board weighing his removal (report)",
+      "summary": "Nvidia's board retained Wachtell, Lipton, Rosen & Katz and former acting US Attorney Joon Kim to investigate Huang's relationship with a company executive. After the close, the New York Times reported an extramarital relationship and the Wall Street Journal reported the board is preparing to remove him; neither is confirmed by Nvidia. Shares fell about 8% after hours.",
+      "date": "11 Nov 2026",
+      "region": "Americas",
+      "countries": [
+        "US"
+      ],
+      "source": "The Guardian / CNBC",
+      "url": "https://www.theguardian.com/technology/2026/nov/11/nvidia-hires-leading-us-law-firm-to-investigate-jensen-huang-relationship"
+    },
+    {
+      "headline": "COP31 leaders' summit opens in Antalya; Guterres proposes a 'climate justice compact'",
+      "summary": "Around 40 leaders, including Erdogan, Albanese, Lula and von der Leyen, spoke on day one. Guterres called for taxing fossil fuel companies to help vulnerable countries, while leaders warned that wars and trade disputes must not distract from climate action. The US is staying away for a second year; speeches continue on Thursday.",
+      "date": "11 Nov 2026",
+      "region": "Europe",
+      "countries": [],
+      "source": "UN News / Reuters / Climate Home News",
+      "url": "https://news.un.org/en/story/2026/11/1168783"
+    },
+    {
+      "headline": "House votes 211-204 to shelve Hegseth impeachment",
+      "summary": "The House referred Rep. Thomas Massie's impeachment resolution against Defence Secretary Pete Hegseth to committee, effectively ending the effort. Republicans voted 210-1 for referral; Democrats opposed it 203-0. The White House had urged Congress to stall the resolution.",
+      "date": "10 Nov 2026",
+      "region": "Americas",
+      "countries": [
+        "US"
+      ],
+      "source": "NPR / House Clerk",
+      "url": "https://www.npr.org/2026/11/10/nx-s1-6036813/house-votes-to-effectively-end-the-impeachment-effort-against-pete-hegseth"
+    },
+    {
+      "headline": "Brent rebounds 1.39% to settle at $92.76",
+      "summary": "Oil rose from a two-month low as attacks on Hormuz shipping offset hopes for a truce and Iran said no nuclear material will leave the country.",
+      "date": "11 Nov 2026",
+      "region": "Middle East",
+      "countries": [
+        "IR"
+      ],
+      "source": "Dow Jones (Morningstar) / CNBC",
+      "url": "https://www.cnbc.com/2026/11/11/oil-rises-from-two-month-low-as-hormuz-shipping-attacks-offset-iran-truce-hopes.html"
+    },
+    {
+      "headline": "European shares close at a record: Stoxx 600 +0.72% to 663.05",
+      "summary": "Siemens Energy's outlook and CoreWeave's results lifted AI-linked stocks, and the DAX led gains.",
+      "date": "11 Nov 2026",
+      "region": "Europe",
+      "countries": [
+        "DE"
+      ],
+      "source": "Dow Jones (Morningstar) / Yahoo Finance",
+      "url": "https://www.morningstar.com/news/dow-jones/202611116691/stoxx-europe-600-index-ends-072-higher-at-66305-data-talk"
+    },
+    {
+      "headline": "Gaza: Netanyahu rejects blame as rains flood camps; at least seven killed in Israeli attacks",
+      "summary": "Netanyahu denied Israel is delaying winter supplies as heavy rain flooded tents; the UN says more than 150,000 tents and pumps are ready to enter. The National reports at least seven Palestinians, including a father and son, were killed in Israeli attacks.",
+      "date": "11 Nov 2026",
+      "region": "Middle East",
+      "countries": [
+        "IL"
+      ],
+      "source": "AP / The National",
+      "url": "https://apnews.com/article/mideast-news-israel-gaza-iran-november-11-2026-50075bc97e07d41fa3b66fc28858c06b"
+    },
+    {
+      "headline": "Israeli opposition picks Kahana for Knesset speaker, Lieberman for defence committee",
+      "summary": "Opposition parties seeking to replace Netanyahu's government agreed in a joint statement to nominate former minister Matan Kahana as Knesset speaker and Avigdor Lieberman as chair of the Foreign Affairs and Defence Committee.",
+      "date": "10 Nov 2026",
+      "region": "Middle East",
+      "countries": [
+        "IL"
+      ],
+      "source": "Anadolu Agency",
+      "url": "https://www.aa.com.tr/en/world/morning-briefing-nov-11/4119658"
+    },
+    {
+      "headline": "Japan's Supreme Court: 2025 upper-house vote gap in 'state of unconstitutionality'",
+      "summary": "The court said the up to 3.13-fold disparity in vote weight was 'hard to ignore' but declined to void the results. Separately, the Senate began debating PM Sanae Takaichi's food consumption-tax cut, and LDP security lawmakers will discuss nuclear-powered submarines and 'nuclear sharing'.",
+      "date": "11 Nov 2026",
+      "region": "Asia-Pacific",
+      "countries": [
+        "JP"
+      ],
+      "source": "Kyodo News",
+      "url": "https://english.kyodonews.net/articles/-/91000"
+    },
+    {
+      "headline": "ExxonMobil signs MOU with PDVSA to assess seven Venezuelan areas",
+      "summary": "The non-binding memorandum gives Exxon a year to study data and negotiate terms on mature fields, undeveloped fields and an exploration block; Exxon says it is not an investment commitment. Venezuela also approved opening its electricity sector to private investment.",
+      "date": "11 Nov 2026",
+      "region": "Americas",
+      "countries": [],
+      "source": "NPR / Reuters",
+      "url": "https://www.npr.org/2026/11/11/nx-s1-5979080/exxonmobil-oil-mou-venezuela"
+    },
+    {
+      "headline": "Lula meets Venezuela's acting president Delcy Rodriguez at COP31",
+      "summary": "The two discussed trade, car tariffs, oil investment and closer ties on the summit sidelines in Antalya.",
+      "date": "11 Nov 2026",
+      "region": "Americas",
+      "countries": [
+        "BR"
+      ],
+      "source": "Planalto / G1",
+      "url": "https://g1.globo.com/politica/noticia/2026/11/11/lula-se-reune-com-presidente-interina-da-venezuela-na-turquia.ghtml"
+    },
+    {
+      "headline": "Senior RSF commander defects to Sudan's army",
+      "summary": "Local media reported that a senior Rapid Support Forces commander announced his defection after about 13 years with the group. The UN envoy for Sudan, Pekka Haavisto, met the AU Commission chairperson the same day.",
+      "date": "11 Nov 2026",
+      "region": "Africa",
+      "countries": [],
+      "source": "Anadolu Agency / African Union",
+      "url": "https://www.au.int/en/pressreleases/20261111/auc-chairperson-received-un-secretary-generals-personal-envoy-sudan"
+    },
     {
       "headline": "US unseals indictment over foiled Iran-backed plot against RAF Fairford",
       "summary": "The Justice Department charged Mohammad Baqer Saad Dawood al-Saadi, Mohsen Mohajeri and Mohammad Ali al-Hassani with terrorism offences in support of the IRGC and Kata'ib Hizballah, including a September 2026 plot to drive fuel-laden vans at RAF Fairford in England, where US aircraft were based. Prosecutors allege al-Saadi coordinated from a New York jail via coded calls; British authorities stopped the vans and arrested the occupants. These are allegations in an indictment.",
@@ -2004,17 +2177,6 @@
       ],
       "source": "The Guardian",
       "url": "https://www.theguardian.com/business/2026/nov/05/developing-country-debt-record-94tn-high-world-bank-data"
-    },
-    {
-      "headline": "Democrats win control of both houses of the US Congress",
-      "summary": "In the 3 November midterms, Democrats took the House and the Senate in a sharp rebuke of President Trump. Democracy Now reports at least 231 House seats and at least seven Senate pickups, with Mississippi and Alaska still too close to call.",
-      "date": "4 Nov 2026",
-      "region": "Americas",
-      "countries": [
-        "US"
-      ],
-      "source": "Kyodo News / Democracy Now",
-      "url": "https://english.kyodonews.net/articles/-/90209"
     }
   ],
   "conflicts": [
@@ -2025,10 +2187,10 @@
         "label": "Talks amid fighting",
         "tone": "danger"
       },
-      "latest": "US-mediated trilateral talks, the first since February, opened in Abu Dhabi on 10 Nov (Witkoff, Kushner; Medinsky for Russia, Umerov for Ukraine), centred on post-war security architecture. Day one ended after about four hours with no outcome announced and resumes on 11 Nov; Rubio called it 'very productive' but said much work remains and wants other European voices included eventually. A US official says both sides privately show 'a little bit of flexibility' on territory, which Kyiv publicly denies. Russia hit five major substations overnight while Ukraine hits Russian refineries.",
-      "date": "10 Nov 2026",
-      "source": "Reuters / BBC / The Guardian / Anadolu Agency",
-      "url": "https://www.aa.com.tr/en/eurasia/1st-day-of-us-mediated-russia-ukraine-peace-talks-in-abu-dhabi-ends/4118929"
+      "latest": "The two-day US-mediated trilateral talks in Abu Dhabi (10-11 Nov), the first since February, ended with no breakthrough but an agreement in principle on a large prisoner swap (TASS: within two to three weeks). Kushner said territory is the hardest issue and progress was made on a post-war security framework; Witkoff and Kushner meet Putin in Moscow on 12 Nov, then Zelensky in Dublin. Ukraine's Arakhamia wants the next round to be multilateral with Europe; Medinsky was cool on EU participation. Drone attacks continued overnight on both sides.",
+      "date": "11 Nov 2026",
+      "source": "Al Jazeera / BBC / NBC News / RFE/RL",
+      "url": "https://www.aljazeera.com/news/2026/11/11/russia-ukraine-talks-in-abu-dhabi-end-with-prisoner-exchange-agreement"
     },
     {
       "name": "US/Israel-Iran war",
@@ -2037,10 +2199,10 @@
         "label": "Threats and diplomacy",
         "tone": "danger"
       },
-      "latest": "Trump told CNN (8 Nov) that renewed strikes are 'highly unlikely' if Iran signs a strong deal on its nuclear programme and Hormuz, but said three carriers are 'locked and loaded' and 38 bridges are targeted. Saxo: he confirmed limited strikes on an air-defence site on Qeshm Island; an Iranian official said there was no damage to vital infrastructure. Rubio called Iran's demands unrealistic; Iran's FM warned of 'hell' if the US chooses war. Ships reported hit near Hormuz; US blockade continues. On 9 Nov Iran said Washington must end sanctions, the blockade and the war before any talks; Araghchi said mediation paused after the US midterms.",
-      "date": "9 Nov 2026",
-      "source": "CNBC / Reuters / Saxo / Anadolu Agency",
-      "url": "https://www.cnbc.com/2026/11/08/trump-iran-strikes-unlikely-talks-hormuz.html"
+      "latest": "Trump told CNN (8 Nov) that renewed strikes are 'highly unlikely' if Iran signs a strong deal on its nuclear programme and Hormuz, but said three carriers are 'locked and loaded' and 38 bridges are targeted. Saxo: he confirmed limited strikes on an air-defence site on Qeshm Island; an Iranian official said there was no damage to vital infrastructure. Rubio called Iran's demands unrealistic; Iran's FM warned of 'hell' if the US chooses war. Ships reported hit near Hormuz; US blockade continues. On 9 Nov Iran said Washington must end sanctions, the blockade and the war before any talks; Araghchi said mediation paused after the US midterms. 10-11 Nov: Rubio said after the G7 in Paris there is 'no need' for major military operations as sanctions and the blockade work; Iran's Rezaei said Hormuz stays shut until its seven conditions are met, and Ghalibaf said the strait will 'never return' to pre-war status. The IRGC claimed more tankers hit mines (claim); at least 10 ships were hit in the first 10 days of November.",
+      "date": "11 Nov 2026",
+      "source": "Al Jazeera / Reuters / Xinhua / CNBC",
+      "url": "https://www.aljazeera.com/news/2026/11/11/iran-denies-talks-with-us-says-hormuz-will-stay-shut-until-demands-are-met"
     },
     {
       "name": "Houthis vs Saudi-led coalition (Yemen)",
@@ -2049,7 +2211,7 @@
         "label": "Widening",
         "tone": "danger"
       },
-      "latest": "10 Nov: the coalition said it intercepted two missiles aimed at Riyadh, one towards southern Saudi Arabia and a drone over the Eastern Province. 8 Nov: Saudi defences intercepted Houthi missiles over Riyadh; debris caused limited damage to Aramco's tower in the financial district, no injuries. Houthis claimed strikes on King Khalid airport, Aramco storage tanks and a financial centre (claims). Yemen's army reported heavy fighting against Houthi forces.",
+      "latest": "10 Nov: the Houthis claimed four operations with missiles and drones on King Khalid airport, pumping stations on the East-West pipeline and a financial centre (claims, per Xinhua citing al-Masirah). The coalition said it intercepted two missiles aimed at Riyadh, one towards southern Saudi Arabia and a drone over the Eastern Province. 8 Nov: Saudi defences intercepted Houthi missiles over Riyadh; debris caused limited damage to Aramco's tower in the financial district, no injuries. Houthis claimed strikes on King Khalid airport, Aramco storage tanks and a financial centre (claims). Yemen's army reported heavy fighting against Houthi forces.",
       "date": "10 Nov 2026",
       "source": "Reuters via Geo News / Al Jazeera / Xinhua",
       "url": "https://www.geo.tv/liveblog/israeliran-war-live-updates?12345="
@@ -2061,10 +2223,10 @@
         "label": "Fragile ceasefire",
         "tone": "warning"
       },
-      "latest": "Axios: Trump asked Netanyahu in a post-election call to move ahead on the Gaza peace plan. Gaza's health ministry says flooding left 350,000 displaced people sleeping in the open; Hamas blamed Israel for a landslide that killed a woman and four children in tents (claim). IDF says it killed two armed men approaching troops.",
-      "date": "8 Nov 2026",
-      "source": "Axios / Anadolu Agency / IDF",
-      "url": "https://www.axios.com/2026/11/08/trump-netanyahu-implement-gaza-peace-plan"
+      "latest": "Axios: Trump asked Netanyahu in a post-election call to move ahead on the Gaza peace plan. Gaza's health ministry says flooding left 350,000 displaced people sleeping in the open; Hamas blamed Israel for a landslide that killed a woman and four children in tents (claim). IDF says it killed two armed men approaching troops. 11 Nov: Netanyahu denied Israel is delaying winter supplies as rains flooded camps (the UN says more than 150,000 tents and pumps are ready to enter); The National reports at least seven killed in Israeli attacks.",
+      "date": "11 Nov 2026",
+      "source": "AP / The National / Axios",
+      "url": "https://apnews.com/article/mideast-news-israel-gaza-iran-november-11-2026-50075bc97e07d41fa3b66fc28858c06b"
     },
     {
       "name": "Israel-Hezbollah (Lebanon)",
@@ -2092,6 +2254,27 @@
     }
   ],
   "politics": [
+    {
+      "date": "11 Nov",
+      "title": "Japan: top court flags unconstitutional vote gap",
+      "detail": "The Supreme Court said the 3.13-fold vote-weight disparity in the July 2025 upper-house election was in a 'state of unconstitutionality' but kept the results.",
+      "status": {
+        "label": "Ruling",
+        "tone": "warning"
+      },
+      "source": "Kyodo News",
+      "url": "https://english.kyodonews.net/articles/-/91000"
+    },
+    {
+      "date": "10 Nov",
+      "title": "US: House shelves Hegseth impeachment, 211-204",
+      "detail": "Massie's resolution was referred to committee, effectively ending it. Senate Republicans re-elected John Thune, who becomes minority leader when Democrats take over in January.",
+      "status": {
+        "label": "Blocked"
+      },
+      "source": "NPR / Anadolu Agency",
+      "url": "https://www.npr.org/2026/11/10/nx-s1-6036813/house-votes-to-effectively-end-the-impeachment-effort-against-pete-hegseth"
+    },
     {
       "date": "10 Nov",
       "title": "Malaysia: Anthony Loke quits as transport minister",
@@ -2502,12 +2685,12 @@
       "url": "https://www.home.saxo/en-gb/content/articles/macro/market-quick-take---asian-chipmakers-rebound-and-brent-holds-below-usd-100---9-november-2026-09112026"
     },
     {
-      "date": "10-11 Nov",
-      "event": "US-mediated Ukraine-Russia talks",
-      "place": "Abu Dhabi",
+      "date": "12 Nov",
+      "event": "Witkoff and Kushner meet Putin in Moscow, then Zelensky in Dublin",
+      "place": "Moscow / Dublin",
       "kind": "Politics",
-      "source": "Reuters",
-      "url": "https://www.reuters.com/5f374b32b07b/world/europe/us-hold-trilateral-talks-with-ukraine-russia-abu-dhabi-next-week-us-official-2026-11-02/"
+      "source": "RFE/RL",
+      "url": "https://www.rferl.org/a/ukraine-russia-talks-resume-in-abu-dhabi-amid-drone-attacks/33895197.html"
     },
     {
       "date": "12-13 Nov",
@@ -2673,11 +2856,11 @@
     },
     {
       "item": "Gold",
-      "figure": "~$4,057/oz (-2%, Tue)",
-      "detail": "Fell after the hotter-than-expected US CPI as the dollar index rose 0.3% to 102.01 and Treasury yields climbed (2-year 4.69%, 10-year 4.96%).",
-      "date": "10 Nov 2026",
-      "source": "Reuters (via MarketScreener)",
-      "url": "https://www.marketscreener.com/news/hot-october-inflation-report-rattles-markets-ce785edadf89f42d"
+      "figure": "~$3,999/oz (Wed, 13:05 ET)",
+      "detail": "Spot gold traded around $4,055 earlier on Wednesday before slipping below $4,000 as hawkish central-bank signals and Fed hike expectations weighed. Tuesday it fell about 2% after the hot US CPI.",
+      "date": "11 Nov 2026",
+      "source": "USA Today / Kitco",
+      "url": "https://www.usatoday.com/story/money/personalfinance/2026/11/11/gold-price-on-november-11-2026/92722726007/"
     },
     {
       "item": "Japan real wages",
@@ -2745,27 +2928,27 @@
     },
     {
       "item": "Brent crude oil",
-      "figure": "~$90.18 (-2.6%, Tue)",
-      "detail": "Reuters: briefly below $90 for the first time since 31 Aug after Trump held off new strikes on Iran; Monday settled -5.85%. WTI ~$84.74 (-2.4%). Down about 23% from the 30 Oct high of $118.",
-      "date": "10 Nov 2026",
-      "source": "Reuters (via Euronext)",
-      "url": "https://live.euronext.com/en/financial-news/oil-falls-below-90-trump-downplays-prospect-escalation-iran"
+      "figure": "$92.76 settle (+1.39%, Wed)",
+      "detail": "Up $1.27 from a two-month low as Hormuz shipping attacks offset truce hopes. On Tuesday Brent briefly fell below $90 for the first time since 31 Aug.",
+      "date": "11 Nov 2026",
+      "source": "Dow Jones (Morningstar) / CNBC",
+      "url": "https://www.morningstar.com/news/dow-jones/202611117186/front-month-ice-brent-crude-rose-139-to-settle-at-9276-data-talk"
     },
     {
       "item": "US stocks",
-      "figure": "S&P 500 -0.38%, Nasdaq -0.74% (Tue close)",
-      "detail": "Reuters preliminary: S&P 500 7,521.48, Nasdaq 25,067.23, Dow 52,227.80 (-0.31%) as hot October CPI and hawkish Fed comments (Waller, Logan) fuelled rate-hike worries; Nvidia fell nearly 6%. Monday the S&P 500 closed +2.35% at 7,549.94.",
-      "date": "10 Nov 2026",
-      "source": "Reuters (via MarketScreener)",
-      "url": "https://ca.marketscreener.com/news/wall-st-ends-lower-as-hot-inflation-data-fed-comments-heighten-rate-worries-ce785edad18ef422"
+      "figure": "S&P 500 +1.31%, Nasdaq +1.60% (Wed close)",
+      "detail": "S&P 500 7,619.38, Nasdaq 25,466.19, Dow 52,486.49 (+0.49%) as CoreWeave (+24.7%) eased AI-spending worries. After hours Nasdaq-100 futures fell 0.9% and Nvidia about 8% on reports about CEO Jensen Huang. Tuesday the S&P 500 fell 0.38%.",
+      "date": "11 Nov 2026",
+      "source": "The Straits Times (Reuters) / CNBC",
+      "url": "https://www.straitstimes.com/business/companies-markets/us-stocks-end-higher-as-coreweave-results-ease-ai-spending-worries"
     },
     {
       "item": "European stocks",
-      "figure": "Stoxx 600 660.31 (+0.58%, Tue)",
-      "detail": "Euro Stoxx 50 +0.59% to 6,327.87, a two-month intraday high, as falling oil prices supported shares; CAC 40 +0.55%. Monday: Stoxx 600 +1.26% to 656.52, FTSE MIB +2.69%.",
-      "date": "10 Nov 2026",
-      "source": "Yahoo Finance / dpa-AFX / Borse.it",
-      "url": "https://www.ad-hoc-news.de/boerse/news/marktberichte/aktien-europa-schluss-kurse-legen-weiter-zu-rueckgang-der-oelpreise-treibt-an/70487642"
+      "figure": "Stoxx 600 663.05 (+0.72%, Wed, record close)",
+      "detail": "Siemens Energy's outlook and CoreWeave's results lifted AI-linked shares and the DAX led gains. Tuesday: Stoxx 600 +0.58% to 660.31.",
+      "date": "11 Nov 2026",
+      "source": "Dow Jones (Morningstar) / Yahoo Finance",
+      "url": "https://www.morningstar.com/news/dow-jones/202611116691/stoxx-europe-600-index-ends-072-higher-at-66305-data-talk"
     },
     {
       "item": "Asia stocks",
@@ -3212,6 +3395,30 @@
     }
   ],
   "sources": [
+    {
+      "title": "Russia-Ukraine talks in Abu Dhabi end with prisoner exchange agreement",
+      "site": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/11/11/russia-ukraine-talks-in-abu-dhabi-end-with-prisoner-exchange-agreement",
+      "date": "11 Nov 2026"
+    },
+    {
+      "title": "Iran denies talks with US, says Hormuz will stay shut until demands are met",
+      "site": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/11/11/iran-denies-talks-with-us-says-hormuz-will-stay-shut-until-demands-are-met",
+      "date": "11 Nov 2026"
+    },
+    {
+      "title": "US stocks end higher as CoreWeave results ease AI spending worries",
+      "site": "The Straits Times",
+      "url": "https://www.straitstimes.com/business/companies-markets/us-stocks-end-higher-as-coreweave-results-ease-ai-spending-worries",
+      "date": "11 Nov 2026"
+    },
+    {
+      "title": "'Make or bake time': Guterres urges climate justice pact as leaders gather at COP31",
+      "site": "UN News",
+      "url": "https://news.un.org/en/story/2026/11/1168783",
+      "date": "11 Nov 2026"
+    },
     {
       "title": "Anthropic sets price range of $70 to $78 in upcoming IPO",
       "site": "CNBC",
