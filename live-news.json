@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-12T18:15:47Z",
+ "updatedAt": "2026-11-12T23:39:31Z",
  "sources": [
   "BBC World",
   "BBC Business",
@@ -13,114 +13,312 @@
   "CNBC World"
  ],
  "failed": [],
- "count": 80,
+ "count": 79,
  "items": [
   {
-   "title": "Washington DC shooting: suspect confirmed dead after one person is killed and four injured – latest updates",
-   "summary": "Suspect has died after suffering a gunshot wound; one injured person in critical condition Multiple people shot in Washington DC as police warn people to stay inside The incident is shifting from an active shooter response to a barricaded subject response , a federal law enforcement official has…",
-   "link": "https://www.theguardian.com/us-news/live/2026/nov/12/washington-dc-shooting-logan-circle-latest-updates",
-   "source": "The Guardian World",
-   "published": "2026-11-12T17:59:46Z",
-   "region": "Americas",
-   "category": "conflict"
+   "title": "Scandal-hit Nvidia CEO Jensen Huang quits, plunging AI chipmaking giant into turmoil",
+   "summary": "US lawmakers now want to question Huang over whether one of his alleged relationships was with a Chinese spy.",
+   "link": "https://www.bbc.co.uk/news/articles/cmq5vd1wdgz6o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "published": "2026-11-12T23:34:05Z",
+   "region": "Asia-Pacific",
+   "category": "news"
   },
   {
-   "title": "Sadiq Khan joins Labour figures urging PM not to water down electric vehicle targets – UK politics live",
-   "summary": "The mayor of London is the most high-profile figure to weigh into the debate over electric vehicle targets On the Today programme this morning, the Labour MP Bell Ribeiro-Addy , a prominent leftwinger, indicated she might vote against legislation to implement the Alan Milburn proposals. She said…",
-   "link": "https://www.theguardian.com/politics/live/2026/nov/12/milburn-review-neets-young-people-welfare-work-latest-news-updates",
+   "title": "Pat Cummins press conference live updates: Australian cricket captain speaks about Usman Khawaja’s ‘sandpapergate’ claims",
+   "summary": "Cummins speaks about allegations in Usman Khawaja’s book about the 2018 ball-tampering incident Cummins says there’s a ‘proper way to do things’ Cummins says he believes there was a proper way to handle the sandpaper incident, pointing to the Cricket Australia investigation shortly afterwards…",
+   "link": "https://www.theguardian.com/sport/live/2026/nov/13/pat-cummins-press-conference-usman-khawaja-sandpapergate-australia-cricket-captain-statement-ntwnfb",
    "source": "The Guardian World",
-   "published": "2026-11-12T17:58:42Z",
+   "published": "2026-11-12T23:29:11Z",
+   "region": "Asia-Pacific",
+   "category": "news"
+  },
+  {
+   "title": "Russian court jails rights lawyer for 12 years on treason charge",
+   "summary": "Prosecutors say the woman shared security details with Ukraine, while her lawyers argue the information was not secret.",
+   "link": "https://www.aljazeera.com/news/2026/11/12/russian-court-jails-rights-lawyer-for-12-years-on-treason-charge?traffic_source=rss",
+   "source": "Al Jazeera",
+   "published": "2026-11-12T23:18:50Z",
    "region": "Europe",
    "category": "news"
   },
   {
-   "title": "‘I had the courage to believe in Mississippi’ says Scott Colom after historic Senate win – US politics live",
-   "summary": "Colom adds to blue wave of Democrat victories across the US and becomes Mississippi’s first black senator since 1875 after defeating Cindy Hyde-Smith Sign up for the Breaking News US email Perhaps you saw this ad from Scott Colom, who was just elected to serve as Mississippi’s first Democratic…",
+   "title": "Hegseth gives medal to guard who reprimanded him at Arlington national cemetery – US politics live",
+   "summary": "Defense secretary issues commendation to US army sentinel who told him and his aides to be quiet after laughter was heard at Tomb of the Unknown Soldier Pete Hegseth awards medal to soldier who reprimanded him Sign up for the Breaking News US email Perhaps you saw this ad from Scott Colom, who was…",
    "link": "https://www.theguardian.com/us-news/live/2026/nov/12/mississippi-scott-colom-ukraine-donald-trump",
    "source": "The Guardian World",
-   "published": "2026-11-12T17:54:18Z",
-   "region": "Americas",
-   "category": "news"
-  },
-  {
-   "title": "Nvidia’s Jensen Huang to testify to US Congress amid scandal, reports say, as CFO Colette Kress replaces him as interim CEO – follow live",
-   "summary": "Nvidia’s value slumps by $888bn this week as scandal over longtime CEO’s two affairs, including with a suspected Chinese spy, engulfs chip maker Analysis: Jensen Huang built an AI kingdom. What now? Full report: Jensen Huang resigns as Nvidia CEO Too big – and too well-connected – to sack? Huang…",
-   "link": "https://www.theguardian.com/technology/live/2026/nov/12/nvidia-ceo-jensen-huang-affairs-share-price-plunges-live-latest",
-   "source": "The Guardian World",
-   "published": "2026-11-12T17:54:15Z",
-   "region": "Americas",
-   "category": "news"
-  },
-  {
-   "title": "Nebius falls 16% as company expects increased 2026 capex spend, issues weak outlook",
-   "summary": "Nebius' earnings report comes after fellow neoclouds IREN and CoreWeave showed better-than-expected results in the past week.",
-   "link": "https://www.cnbc.com/2026/11/12/nebius-q3-earnings-report-2026.html",
-   "source": "CNBC World",
-   "published": "2026-11-12T17:53:31Z",
-   "region": "Global",
-   "category": "economy"
-  },
-  {
-   "title": "Duran Duran drummer Roger Taylor leaves band due to tinnitus",
-   "summary": "‘I must now listen to my body and my doctors’, says Taylor, who was one of the earliest members of the new wave hit-makers The drummer for Duran Duran, Roger Taylor, is to step down from the band due to worsening tinnitus. In a statement, Taylor said: “This is one of the hardest decisions I’ve ever…",
-   "link": "https://www.theguardian.com/music/2026/nov/12/duran-duran-drummer-roger-taylor-leaves-band-due-to-tinnitus",
-   "source": "The Guardian World",
-   "published": "2026-11-12T17:44:44Z",
-   "region": "Global",
-   "category": "news"
-  },
-  {
-   "title": "Israel to ban far-left French politician Jean-Luc Mélenchon from entry",
-   "summary": "The Israeli government said Thursday that it would ban far-left French leader Jean-Luc Mélenchon from entering the country after the French presidential contender said he would use French vessels to force aid into Gaza if he were elected. The announcement comes a day after France confirmed it had…",
-   "link": "https://www.france24.com/en/middle-east/20261112-israel-to-ban-far-left-french-politician-jean-luc-m%C3%A9lenchon-from-entry",
-   "source": "France 24",
-   "published": "2026-11-12T17:43:03Z",
-   "region": "Europe",
-   "category": "news"
-  },
-  {
-   "title": "Suspect in Washington DC gym shooting dead by suicide as four people injured and one dead",
-   "summary": "Authorities identify suspect as ‘white male’ who was a member at VIDA Fitness, the gym where people were shot Washington DC shooting latest updates Four people were injured and one person died after a shooting in Northwest Washington DC on Thursday morning, local police said. In a Thursday morning…",
-   "link": "https://www.theguardian.com/us-news/2026/nov/12/dc-shooting-logan-circle",
-   "source": "The Guardian World",
-   "published": "2026-11-12T17:42:35Z",
-   "region": "Americas",
-   "category": "news"
-  },
-  {
-   "title": "Mississippi makes history with Democrat senate win - The Latest",
-   "summary": "Mississippi has elected the Democrat Scott Colom in a historic race in the traditionally deep-red state, making him its first Black senator since shortly after the US civil war. The closely contested race was called more than a week after the US midterms, with Colom running against the Republican…",
-   "link": "https://www.theguardian.com/news/audio/2026/nov/12/scott-colom-senate-victory-mississippi-the-latest",
-   "source": "The Guardian World",
-   "published": "2026-11-12T17:42:03Z",
+   "published": "2026-11-12T23:15:24Z",
    "region": "Americas",
    "category": "conflict"
-  },
-  {
-   "title": "Jensen Huang's Nvidia exit casts shadow over Wall Street’s $500 billion AI financing bet",
-   "summary": "Nvidia's leadership crisis threatens to spill over into the AI financing boom.",
-   "link": "https://www.cnbc.com/2026/11/12/nvidia-ceo-exit-ai-financing.html",
-   "source": "CNBC World",
-   "published": "2026-11-12T17:41:46Z",
-   "region": "Americas",
-   "category": "economy"
-  },
-  {
-   "title": "Nvidia stock pares morning losses after CEO Jensen Huang announces resignation",
-   "summary": "Chief Financial Officer Colette Kress will serve as interim CEO until a new leader is appointed.",
-   "link": "https://www.cnbc.com/2026/11/12/nvidia-nvda-jensen-huang-second-affair.html",
-   "source": "CNBC World",
-   "published": "2026-11-12T17:40:40Z",
-   "region": "Global",
-   "category": "economy"
   },
   {
    "title": "Analysis: Nvidia’s leadership crisis tests the chipmaker’s role as the ‘central bank of AI’",
    "summary": "The tech giant's web of ties to other companies is raising the possibility that it could do far-reaching economic and financial damage.",
    "link": "https://www.cnbc.com/2026/11/11/nvidia-jensen-huang-ai-financial-system-risk.html",
    "source": "CNBC World",
-   "published": "2026-11-12T17:39:54Z",
+   "published": "2026-11-12T23:08:50Z",
    "region": "Global",
+   "category": "economy"
+  },
+  {
+   "title": "Eight killed, including two children, in New York building collapse",
+   "summary": "Eight people, including two children, were killed when a residential building collapsed into an adjacent construction site in Brooklyn on Wednesday. Firefighters spent hours searching the rubble overnight before declaring the operation over on Thursday, as authorities launched an investigation into…",
+   "link": "https://www.france24.com/en/americas/20261112-eight-killed-including-two-children-in-new-york-building-collapse",
+   "source": "France 24",
+   "published": "2026-11-12T22:58:23Z",
+   "region": "Global",
+   "category": "conflict"
+  },
+  {
+   "title": "Washington DC shooting: police identify victim and suspect – as it happened",
+   "summary": "This blog is now closed. You can read our full report here: Police identify suspect and victim in Washington DC shooting The incident is shifting from an active shooter response to a barricaded subject response , a federal law enforcement official has told NBC News. It is believed there is no other…",
+   "link": "https://www.theguardian.com/us-news/live/2026/nov/12/washington-dc-shooting-logan-circle-latest-updates",
+   "source": "The Guardian World",
+   "published": "2026-11-12T22:54:05Z",
+   "region": "Americas",
+   "category": "news"
+  },
+  {
+   "title": "Some under-25s should get fewer benefits, Milburn review to say",
+   "summary": "The proposed radical overhaul of the welfare system would move under-25s off the main sickness benefits.",
+   "link": "https://www.bbc.co.uk/news/articles/cwn70l1628l0o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC Business",
+   "published": "2026-11-12T22:51:18Z",
+   "region": "Global",
+   "category": "economy"
+  },
+  {
+   "title": "Alice Huang tied to Nvidia’s biggest Chinese competitor",
+   "summary": "The woman with whom Jensen Huang reportedly had a relationship also owned stakes in companies that provided computing power to Huawei, a key Nvidia competitor.",
+   "link": "https://www.cnbc.com/2026/11/12/alice-huang-jensen-huang-nvidia-huawei.html",
+   "source": "CNBC World",
+   "published": "2026-11-12T22:47:28Z",
+   "region": "Asia-Pacific",
+   "category": "economy"
+  },
+  {
+   "title": "Donald Trump Jr exits as paid adviser for prediction market Kalshi",
+   "summary": "Kalshi announces ‘mutual decision’ as Democrats say they plan to investigate Trump family’s investments Donald Trump Jr is no longer a paid adviser for Kalshi, the prediction market company said Thursday. Kalshi described it as a mutual business decision between the two parties that followed a…",
+   "link": "https://www.theguardian.com/us-news/2026/nov/12/donald-trump-jr-kalshi",
+   "source": "The Guardian World",
+   "published": "2026-11-12T22:37:10Z",
+   "region": "Americas",
+   "category": "economy"
+  },
+  {
+   "title": "Israeli air strike on Gaza hospital kills six, including surgeon",
+   "summary": "Israeli launches its first air strike on a Gaza hospital since the ceasefire began last year.",
+   "link": "https://www.npr.org/2026/11/12/nx-s1-6038879/israeli-air-strike-on-gaza-hospital-kills-six-including-surgeon",
+   "source": "NPR World",
+   "published": "2026-11-12T22:33:00Z",
+   "region": "Middle East",
+   "category": "conflict"
+  },
+  {
+   "title": "Putin takes hard line in US talks as Ukraine says Starlink disrupted again",
+   "summary": "Russian president says he would target any foreign troops sent to Ukraine and refuses to soften territorial demands Vladimir Putin warned US negotiators that Russia would target any foreign troops deployed to Ukraine, in a series of hardline remarks that came as the Ukrainian military faced renewed…",
+   "link": "https://www.theguardian.com/world/2026/nov/12/vladimir-putin-russia-target-foreign-troops-ukraine-elon-musk-starlink",
+   "source": "The Guardian World",
+   "published": "2026-11-12T22:26:37Z",
+   "region": "Europe",
+   "category": "conflict"
+  },
+  {
+   "title": "Widespread Microsoft outage takes down Outlook and other 365 services",
+   "summary": "A Microsoft outage on Thursday affected users of services like Outlook, Teams and 365.",
+   "link": "https://www.cnbc.com/2026/11/12/microsoft-outage-outlook-aws-google.html",
+   "source": "CNBC World",
+   "published": "2026-11-12T22:24:12Z",
+   "region": "Global",
+   "category": "economy"
+  },
+  {
+   "title": "Icac’s dirt files expose NSW’s ‘guns for hire’ problem. But neither major party is serious about lobbying reform",
+   "summary": "Chris Minns’s move to address the threat of undeclared lobbying falls well short of what the commission recommended five years ago Get our daily political email , free app or daily news podcast A dirt file on a state minister peddled to journalists. A subterranean campaign to discredit the building…",
+   "link": "https://www.theguardian.com/australia-news/2026/nov/13/icac-chris-minns-nsw-undeclared-lobbying-bill-ntwnfb",
+   "source": "The Guardian World",
+   "published": "2026-11-12T22:21:26Z",
+   "region": "Global",
+   "category": "news"
+  },
+  {
+   "title": "Russia using 'illegal and unethical means, knows Europe won't use same means back', expert says",
+   "summary": "There are mounting concerns across Europe that recent hoax threats and cyber attacks could be part of a massive hybrid warfare campaign. FRANCE 24's Sharon Gaffney speaks with Elisabeth Braw, Senior Fellow with the Atlantic Council’s Transatlantic Security Initiative. She says that Russia's aim is…",
+   "link": "https://www.france24.com/en/tv-shows/a-propos/20261112-russia-using-illegal-and-unethical-means-knows-europe-won-t-use-same-means-back-expert-says",
+   "source": "France 24",
+   "published": "2026-11-12T22:19:34Z",
+   "region": "Europe",
+   "category": "conflict"
+  },
+  {
+   "title": "Police identify suspect and victim in Washington DC gym shooting that also injured four",
+   "summary": "Authorities identify suspect as Matt Wade Lambert, 55, who died from a self-inflicted gunshot wound Washington DC shooting latest updates Four people were injured and one person died after a shooting in Northwest Washington DC on Thursday morning, local police said. In a Thursday afternoon press…",
+   "link": "https://www.theguardian.com/us-news/2026/nov/12/dc-shooting-logan-circle",
+   "source": "The Guardian World",
+   "published": "2026-11-12T22:13:36Z",
+   "region": "Americas",
+   "category": "news"
+  },
+  {
+   "title": "Dozens of protesters arrested after staging sit-in at Chuck Schumer’s DC office",
+   "summary": "Protesters with the Sunrise Movement youth climate group push for new Senate leadership and ending the filibuster Dozens of protesters with the Sunrise Movement, a youth climate organization, were arrested after staging a sit-in inside Senate minority leader Chuck Schumer’s Washington DC office…",
+   "link": "https://www.theguardian.com/us-news/2026/nov/12/protesters-arrested-chuck-schumer-office-dc",
+   "source": "The Guardian World",
+   "published": "2026-11-12T22:12:56Z",
+   "region": "Americas",
+   "category": "news"
+  },
+  {
+   "title": "Italy fight back to beat France 3-1 and move top of Nations League group",
+   "summary": "Michael Olise gives France the lead, but double from Pio Esposito and one from Davide Frattesi secure win for Italy.",
+   "link": "https://www.aljazeera.com/sports/2026/11/12/italy-fight-back-to-beat-france-3-1-and-move-top-of-nations-league-group?traffic_source=rss",
+   "source": "Al Jazeera",
+   "published": "2026-11-12T22:12:32Z",
+   "region": "Europe",
+   "category": "news"
+  },
+  {
+   "title": "Jensen Huang resigns as Nvidia CEO after mounting scandals",
+   "summary": "Jensen Huang, long considered the face of the AI revolution, has resigned as Nvidia's President, CEO and board member as sandals over his romantic affairs wiped hundreds of billions of dollars from the company's market value in a matter of days. US lawmakers signal they'll likely push for tighter…",
+   "link": "https://www.france24.com/en/tv-shows/business/20261112-jensen-huang-resigns-as-nvidia-ceo-after-mounting-scandals",
+   "source": "France 24",
+   "published": "2026-11-12T22:10:28Z",
+   "region": "Americas",
+   "category": "news"
+  },
+  {
+   "title": "Angela Rayner grants planning approval for asylum centre in Piddington despite local opposition",
+   "summary": "Home Office sign-off also needed for site that would house 1,200 asylum seekers near Oxfordshire village that voted to leave UK The communities secretary, Angela Rayner, has approved full planning permission for an asylum centre at a Ministry of Defence site near the village of Piddington in…",
+   "link": "https://www.theguardian.com/uk-news/2026/nov/12/angela-rayner-grants-planning-approval-for-asylum-centre-in-piddington-despite-local-opposition",
+   "source": "The Guardian World",
+   "published": "2026-11-12T22:09:20Z",
+   "region": "Europe",
+   "category": "news"
+  },
+  {
+   "title": "EU leaders tussle over who to send to Ukraine, Russia peace talks",
+   "summary": "A seat at the table for Europe now appears likely following comments by a US envoy who just held talks with Putin. But who will take that seat remains unclear.",
+   "link": "https://www.dw.com/en/eu-leaders-tussle-over-who-to-send-to-ukraine-russia-peace-talks/a-79935468?maca=en-rss-en-world-4025-rdf",
+   "source": "DW World",
+   "published": "2026-11-12T22:00:00Z",
+   "region": "Europe",
+   "category": "news"
+  },
+  {
+   "title": "Mauritania fishing boats falsely portrayed as migrant fleet bound for Spain",
+   "summary": "Spain’s Canary Islands are facing renewed pressure from migrant arrivals, with local authorities declaring a state of emergency. Against this backdrop, a viral video claims to show thousands of boats in Mauritania amassing at the port, that users said was \"ready to set sail\" to carry migrants to…",
+   "link": "https://www.france24.com/en/tv-shows/truth-or-fake/20261112-mauritania-fishing-boats-falsely-portrayed-as-migrant-fleet-bound-for-spain",
+   "source": "France 24",
+   "published": "2026-11-12T21:56:26Z",
+   "region": "Europe",
+   "category": "news"
+  },
+  {
+   "title": "Search for British woman missing from Tui cruise in Atlantic called off",
+   "summary": "The 72-year-old is believed to have gone overboard from the Tui ship on Monday as it headed towards the Caribbean.",
+   "link": "https://www.bbc.co.uk/news/articles/cmy0enrkwkklo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "published": "2026-11-12T21:27:21Z",
+   "region": "Europe",
+   "category": "news"
+  },
+  {
+   "title": "Across Africa: Tunisians drawn into Russia's war with Ukraine",
+   "summary": "This week: A new report says more than 1,400 Africans have been recruited to fight for Russia in Ukraine since 2023. Also, as South Africa races to become Africa's digital gateway, a growing backlash is emerging in Cape Town. And music, dance and theatre lit up Abéché as the city's arts festival in…",
+   "link": "https://www.france24.com/en/across-africa-tunisians-drawn-into-russia-s-war-with-ukraine",
+   "source": "France 24",
+   "published": "2026-11-12T21:26:17Z",
+   "region": "Africa",
+   "category": "conflict"
+  },
+  {
+   "title": "Ngo criticizes UN's response to massacre in South Sudan",
+   "summary": "In tonight's edition, Amnesty International accuses both the government and UN peacekeepers of failing to protect civilians during a massacre in South Sudan that killed over 200 people. Also, more than a thousand people are prosecuted for illegal mining in Guinea. And a century after French…",
+   "link": "https://www.france24.com/en/ngo-criticizes-un-s-response-to-massacre-in-south-sudan",
+   "source": "France 24",
+   "published": "2026-11-12T21:20:52Z",
+   "region": "Africa",
+   "category": "conflict"
+  },
+  {
+   "title": "Deadly shooting in Washington DC",
+   "summary": "Police in the US capital are investigating a shooting around a mile from the White House that led to one person killed",
+   "link": "https://www.aljazeera.com/video/newsfeed/2026/11/12/deadly-shooting-in-washington-dc?traffic_source=rss",
+   "source": "Al Jazeera",
+   "published": "2026-11-12T21:18:24Z",
+   "region": "Americas",
+   "category": "conflict"
+  },
+  {
+   "title": "Nvidia stock closes down over 4% after CEO Jensen Huang announces resignation",
+   "summary": "Chief Financial Officer Colette Kress will serve as interim CEO until a new leader is appointed.",
+   "link": "https://www.cnbc.com/2026/11/12/nvidia-nvda-jensen-huang-second-affair.html",
+   "source": "CNBC World",
+   "published": "2026-11-12T21:17:21Z",
+   "region": "Global",
+   "category": "economy"
+  },
+  {
+   "title": "'There's no such thing as safe' in contact sports, brain injury expert says",
+   "summary": "Discussing the issue of contact sports and the threat to sports men and women of all ages, particularly in the light of the recent death, just last month, of a 17-year-old French woman after a head collision on the rugby field, FRANCE 24's Mark Owen speaks with Dr Daniel H Daneshvar, Associate…",
+   "link": "https://www.france24.com/en/there-s-no-such-thing-as-safe-in-contact-sports-brain-injury-expert-says",
+   "source": "France 24",
+   "published": "2026-11-12T21:09:43Z",
+   "region": "Europe",
+   "category": "news"
+  },
+  {
+   "title": "10-year Treasury yield jumps back above 5% as oil gains and more Fed rate hikes expected",
+   "summary": "Treasury yields rose as bond markets reopened for the first time since Tuesday following the Veterans Day holiday.",
+   "link": "https://www.cnbc.com/2026/11/12/us-treasurys-bonds-yields.html",
+   "source": "CNBC World",
+   "published": "2026-11-12T21:04:59Z",
+   "region": "Americas",
+   "category": "economy"
+  },
+  {
+   "title": "Microsoft outage hits tens of thousands of users",
+   "summary": "Microsoft says servers unexpectedly went offline, disrupting Outlook email, Teams, Copilot and other services.",
+   "link": "https://www.aljazeera.com/news/2026/11/12/microsoft-outage-hits-tens-of-thousands-of-users?traffic_source=rss",
+   "source": "Al Jazeera",
+   "published": "2026-11-12T21:03:09Z",
+   "region": "Global",
+   "category": "news"
+  },
+  {
+   "title": "US envoys meet Zelensky in Dublin after talks with Putin in Moscow",
+   "summary": "US envoy Steve Witkoff says President Putin has agreed to European negotiators joining the next round of Ukraine talks.",
+   "link": "https://www.bbc.co.uk/news/articles/cwrkgmymk55zo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "published": "2026-11-12T21:00:42Z",
+   "region": "Europe",
+   "category": "news"
+  },
+  {
+   "title": "Pope Leo calls for Church to make ‘amends’ to sex abuse victims",
+   "summary": "Pope Leo XIV says the Catholic Church must confront sexual abuse committed by clergy with truth and justice.",
+   "link": "https://www.aljazeera.com/video/newsfeed/2026/11/12/pope-leo-calls-for-church-to-make-amends-to-sex-abuse-victims?traffic_source=rss",
+   "source": "Al Jazeera",
+   "published": "2026-11-12T20:59:53Z",
+   "region": "Global",
+   "category": "news"
+  },
+  {
+   "title": "US releases report on $12bn from Venezuelan oil, mineral resources",
+   "summary": "The report seeks to address concerns about the Trump administration's handling of revenue held in trust for Venezuela.",
+   "link": "https://www.aljazeera.com/news/2026/11/12/us-releases-report-on-12bn-from-venezuelan-oil-mineral-resources?traffic_source=rss",
+   "source": "Al Jazeera",
+   "published": "2026-11-12T20:49:36Z",
+   "region": "Americas",
+   "category": "news"
+  },
+  {
+   "title": "Trump says ‘we don’t need a deal with Iran’",
+   "summary": "Trump directed Vice President JD Vance to instead focus his attention on corruption and crime in Democratic cities and states.",
+   "link": "https://www.cnbc.com/2026/11/12/trump-iran-deal-hormuz-strait.html",
+   "source": "CNBC World",
+   "published": "2026-11-12T20:34:31Z",
+   "region": "Americas",
    "category": "economy"
   },
   {
@@ -128,7 +326,70 @@
    "summary": "Nvidia CEO Jensen Huang has been a singular figure in the development of the AI industry, which suddenly has to survive without him.",
    "link": "https://www.cnbc.com/2026/11/12/jensen-huangs-exit-from-nvidia-raises-questions-about-future-of-ai.html",
    "source": "CNBC World",
-   "published": "2026-11-12T17:37:36Z",
+   "published": "2026-11-12T20:32:21Z",
+   "region": "Global",
+   "category": "economy"
+  },
+  {
+   "title": "What’s at stake in the renewed tensions over the Falkland Islands?",
+   "summary": "Argentina and the UK are in a legal battle over an offshore oil-drilling project.",
+   "link": "https://www.aljazeera.com/video/inside-story/2026/11/12/whats-at-stake-in-the-renewed-tensions-over-the-falkland-islands?traffic_source=rss",
+   "source": "Al Jazeera",
+   "published": "2026-11-12T20:25:21Z",
+   "region": "Europe",
+   "category": "news"
+  },
+  {
+   "title": "Jensen Huang has resigned, what's next for Nvidia?",
+   "summary": "Jensen Huang has resigned from Nvidia as chief financial officer Colette Kress replaces him as an interim boss.",
+   "link": "https://www.bbc.co.uk/news/videos/c6wy9l859r94o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC Business",
+   "published": "2026-11-12T20:21:03Z",
+   "region": "Global",
+   "category": "economy"
+  },
+  {
+   "title": "Qatar Under-17 World Cup is on despite US pull out",
+   "summary": "The Under-17 World Cup in Qatar will kick off as scheduled next week despite the United States’ decision to withdraw",
+   "link": "https://www.aljazeera.com/video/newsfeed/2026/11/12/qatar-under-17-world-cup-is-on-despite-us-pull-out?traffic_source=rss",
+   "source": "Al Jazeera",
+   "published": "2026-11-12T20:15:47Z",
+   "region": "Middle East",
+   "category": "news"
+  },
+  {
+   "title": "Regional security dominates European talks in Dublin amid hybrid attacks",
+   "summary": "European nations discuss security collaboration and an envoy for Ukraine peace talks during the summit in Ireland.",
+   "link": "https://www.aljazeera.com/news/2026/11/12/regional-security-dominates-european-talks-in-dublin-amid-hybrid-attacks?traffic_source=rss",
+   "source": "Al Jazeera",
+   "published": "2026-11-12T20:12:21Z",
+   "region": "Europe",
+   "category": "conflict"
+  },
+  {
+   "title": "Russian warship hit by Ukrainian drone in Gulf of Finland",
+   "summary": "The attack is thought to be the first time Ukrainian drones have attacked a Russian ship in an open stretch of the Baltic Sea.",
+   "link": "https://www.bbc.co.uk/news/articles/cmn0d33zz34zo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "published": "2026-11-12T20:09:16Z",
+   "region": "Europe",
+   "category": "conflict"
+  },
+  {
+   "title": "Israeli strike on Gaza hospital kills six, including surgeon, medics say",
+   "summary": "Israeli fire killed 11 people in Gaza on Thursday, six of them in the bombing of Nasser hospital in south Gaza early in the day, health officials said, the deadliest single strike since Israel's elections last month. FRANCE 24's Mark Owen speaks with Dr Goher Rahbour, a surgeon working at the…",
+   "link": "https://www.france24.com/en/israeli-strike-on-gaza-hospital-kills-six-including-surgeon-medics-say",
+   "source": "France 24",
+   "published": "2026-11-12T20:03:55Z",
+   "region": "Middle East",
+   "category": "conflict"
+  },
+  {
+   "title": "‘A dark day for Nvidia’: Here’s what analysts have been saying about Jensen Huang’s departure",
+   "summary": "The company's board convened Wednesday evening after reports emerged of Huang engaging in an affair with an employee.",
+   "link": "https://www.cnbc.com/2026/11/12/jensen-huang-nvidia-affair-ceo.html",
+   "source": "CNBC World",
+   "published": "2026-11-12T19:47:57Z",
    "region": "Global",
    "category": "economy"
   },
@@ -137,35 +398,35 @@
    "summary": "Interim CEO Colette Kress and board chair Harvey Jones emailed Nvidia employees, expressing gratitude for \"resilience, professionalism and continued dedication",
    "link": "https://www.cnbc.com/2026/11/12/nvidia-kress-jones-employee-emails.html",
    "source": "CNBC World",
-   "published": "2026-11-12T17:34:59Z",
+   "published": "2026-11-12T19:42:41Z",
    "region": "Global",
    "category": "economy"
   },
   {
-   "title": "Some under-25s should get fewer benefits, Milburn review to say",
-   "summary": "The proposed radical overhaul of the welfare system would move under-25s off the main sickness benefits.",
-   "link": "https://www.bbc.co.uk/news/articles/cwn70l1628l0o?at_medium=RSS&at_campaign=rss",
-   "source": "BBC Business",
-   "published": "2026-11-12T17:32:14Z",
-   "region": "Global",
-   "category": "economy"
-  },
-  {
-   "title": "‘Labelled terrorists’: How France is using anti-terror powers to deter protests",
-   "summary": "The French government has been accused of weaponising an anti-terror law adopted in the wake of the 2015 Paris attacks to keep dozens of people away from massive protests sweeping the country. Lawyers and rights groups denounce an abuse of power with potentially dangerous repercussions for…",
-   "link": "https://www.france24.com/en/france/20261112-labelled-terrorists-france-authorities-used-anti-terrorism-powers-to-deter-protests",
-   "source": "France 24",
-   "published": "2026-11-12T17:32:06Z",
+   "title": "Suspected bomb hoax threats force fresh evacuations of Italian schools",
+   "summary": "Schools across Italy have received bomb threats for the second day in a row, sparking fresh panic and evacuations.",
+   "link": "https://www.bbc.co.uk/news/articles/cr894w453e90o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "published": "2026-11-12T19:23:02Z",
    "region": "Europe",
    "category": "conflict"
   },
   {
-   "title": "Putin says Russia would target foreign troops deployed to Ukraine",
-   "summary": "Hardline remarks come as Ukrainian military faces disruptions to Elon Musk’s Starlink satellite service Vladimir Putin warned US negotiators that Russia would target any foreign troops deployed to Ukraine, in a series of hardline remarks that came as the Ukrainian military faced renewed disruptions…",
-   "link": "https://www.theguardian.com/world/2026/nov/12/vladimir-putin-russia-target-foreign-troops-ukraine-elon-musk-starlink",
-   "source": "The Guardian World",
-   "published": "2026-11-12T17:26:51Z",
-   "region": "Europe",
+   "title": "Hegseth awards medal to war memorial guard who reprimanded him and group",
+   "summary": "Specialist Thomas Iglesias had shouted at Hegseth's group to be quiet after they could be heard talking and laughing at the Tomb of the Unknown Soldier.",
+   "link": "https://www.bbc.co.uk/news/articles/cmvg2r3dq7xno?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "published": "2026-11-12T18:47:35Z",
+   "region": "Global",
+   "category": "conflict"
+  },
+  {
+   "title": "Czechia braces for massive protest as anger over government's public media reform plans boils",
+   "summary": "A fast-tracked bill on public media funding reform has sparked strikes, rallies and fears for the independence of public broadcasting in Czechia. A massive protest is due to take place in Prague on November 15.",
+   "link": "https://www.dw.com/en/czechia-braces-for-massive-protest-as-anger-over-government-s-public-media-reform-plans-boils/a-79933533?maca=en-rss-en-world-4025-rdf",
+   "source": "DW World",
+   "published": "2026-11-12T18:26:00Z",
+   "region": "Global",
    "category": "conflict"
   },
   {
@@ -178,39 +439,12 @@
    "category": "economy"
   },
   {
-   "title": "Nvidia CEO Jensen Huang steps down, more affair details revealed",
-   "summary": "Now that Huang has stepped down, Al Jazeera’s Kristen Saloomey looks at the questions ahead for the company.",
-   "link": "https://www.aljazeera.com/video/newsfeed/2026/11/12/nvidia-ceo-jensen-huang-steps-down-more-affair-details-revealed?traffic_source=rss",
-   "source": "Al Jazeera",
-   "published": "2026-11-12T17:25:58Z",
-   "region": "Global",
-   "category": "news"
-  },
-  {
-   "title": "Finland bars Russian athletes from entering country over Ukraine war",
-   "summary": "Russians ‘have no business’ in country, says minister Skating and cross-country skiing first to be affected Finland says it will restrict entry to the country for Russian athletes because of the war in Ukraine, potentially affecting a number of winter sports. The move follows a backlash in Finland…",
-   "link": "https://www.theguardian.com/sport/2026/nov/12/finland-bars-russian-athletes-ukraine",
-   "source": "The Guardian World",
-   "published": "2026-11-12T17:23:51Z",
-   "region": "Europe",
-   "category": "conflict"
-  },
-  {
    "title": "Can the EU make it harder to trick consumers online?",
    "summary": "The EU wants to curb subscription traps, misleading sales tactics and features that keep people scrolling. What would the proposed Digital Fairness Act change, and does it go far enough?",
    "link": "https://www.dw.com/en/can-the-eu-make-it-harder-to-trick-consumers-online/a-79933447?maca=en-rss-en-world-4025-rdf",
    "source": "DW World",
    "published": "2026-11-12T17:19:00Z",
    "region": "Europe",
-   "category": "news"
-  },
-  {
-   "title": "‘Her hands are as cold as ice’: Gaza families struggle to keep warm",
-   "summary": "Flooded tents and high prices leave Gaza families struggling to keep children warm as winter approaches.",
-   "link": "https://www.aljazeera.com/features/2026/11/12/her-hands-are-as-cold-as-ice-gaza-families-struggle-to-keep-warm?traffic_source=rss",
-   "source": "Al Jazeera",
-   "published": "2026-11-12T17:18:13Z",
-   "region": "Middle East",
    "category": "news"
   },
   {
@@ -223,15 +457,6 @@
    "category": "news"
   },
   {
-   "title": "Jerusalem Daily: Gaza’s Nasser Hospital hit by Israeli air strike",
-   "summary": "For the seventh time, Israel has targeted Gaza’s Nasser Hospital in an air strike.",
-   "link": "https://www.aljazeera.com/video/newsfeed/2026/11/12/jerusalem-daily-gazas-nasser-hospital-hit-by-israeli-air-strike?traffic_source=rss",
-   "source": "Al Jazeera",
-   "published": "2026-11-12T16:55:10Z",
-   "region": "Middle East",
-   "category": "conflict"
-  },
-  {
    "title": "Israeli strike on Gaza hospital kills six Palestinians, health ministry says",
    "summary": "Witnesses say a missile hit a building containing the surgical wards and intensive care units at Nasser hospital, the largest in southern Gaza.",
    "link": "https://www.bbc.co.uk/news/articles/ckzd9p7e4eqeo?at_medium=RSS&at_campaign=rss",
@@ -239,51 +464,6 @@
    "published": "2026-11-12T16:54:12Z",
    "region": "Middle East",
    "category": "conflict"
-  },
-  {
-   "title": "Pentagon backs war memorial guard who reprimanded Hegseth's group",
-   "summary": "The defence secretary on Thursday awarded the soldier, Specialist Thomas Iglesias, a Joint Service Commendation Medal for the execution of his duties.",
-   "link": "https://www.bbc.co.uk/news/articles/cmvg2r3dq7xno?at_medium=RSS&at_campaign=rss",
-   "source": "BBC World",
-   "published": "2026-11-12T16:52:53Z",
-   "region": "Americas",
-   "category": "conflict"
-  },
-  {
-   "title": "Concentration of power & wealth: Do tech CEOs have more authority, influence than elected officials?",
-   "summary": "The resignation of Nvidia founder Jensen Huang has thrown one of the world's most iconic technology companies into a leadership crisis, whose ripple effects extend far beyond Silicon Valley. Nvidia occupies a unique position in a booming AI industruy marked by intensifying competition between the…",
-   "link": "https://www.france24.com/en/video/20261112-concentration-of-power-wealth-do-tech-ceos-have-more-authority-influence-than-elected-officials",
-   "source": "France 24",
-   "published": "2026-11-12T16:49:25Z",
-   "region": "Global",
-   "category": "news"
-  },
-  {
-   "title": "Russia's Vladimir Putin suggests no Ukraine compromise in meeting with US envoys",
-   "summary": "Russia's President Vladimir Putin indicated on Thursday, November 12, that the Kremlin would not compromise on its hardline demands to end the war in Ukraine, but offered a short-term ceasefire in a key frontline city during a meeting with US envoys. FRANCE 24's International Affairs Editor Philip…",
-   "link": "https://www.france24.com/en/video/20261112-russia-s-vladimir-putin-suggests-no-ukraine-compromise-in-meeting-with-us-envoys",
-   "source": "France 24",
-   "published": "2026-11-12T16:46:14Z",
-   "region": "Europe",
-   "category": "conflict"
-  },
-  {
-   "title": "Italy vs France LIVE: UEFA Nations League",
-   "summary": "Follow updates from the Group A1 clash, including the build-up, analysis and live text commentary of the game.",
-   "link": "https://www.aljazeera.com/sports/liveblog/2026/11/12/italy-vs-france-live-uefa-nations-league?traffic_source=rss",
-   "source": "Al Jazeera",
-   "published": "2026-11-12T16:45:00Z",
-   "region": "Europe",
-   "category": "conflict"
-  },
-  {
-   "title": "Prominent Israeli settler denied entry into France",
-   "summary": "Israel criticises Yossi Dagan's entry ban, labelling it 'unacceptable' amid tensions over illegal settlement policies.",
-   "link": "https://www.aljazeera.com/news/2026/11/12/chk-prominent-israeli-settler-denied-entry-into-france?traffic_source=rss",
-   "source": "Al Jazeera",
-   "published": "2026-11-12T16:44:49Z",
-   "region": "Middle East",
-   "category": "news"
   },
   {
    "title": "What have the talks with Russia and the US in Abu Dhabi achieved for Ukraine?",
@@ -295,42 +475,6 @@
    "category": "news"
   },
   {
-   "title": "Trump says ‘we don’t need a deal with Iran’",
-   "summary": "Trump directed Vice President JD Vance to instead focus his attention on corruption and crime in Democratic cities and states.",
-   "link": "https://www.cnbc.com/2026/11/12/trump-iran-deal-hormuz-strait.html",
-   "source": "CNBC World",
-   "published": "2026-11-12T16:36:23Z",
-   "region": "Americas",
-   "category": "economy"
-  },
-  {
-   "title": "Ukraine says military Starlink disrupted again as US envoys meet Putin in Moscow",
-   "summary": "Later on Thursday, Jared Kushner and Steve Witkoff will travel to Dublin to meet Ukraine's Volodymyr Zelensky.",
-   "link": "https://www.bbc.co.uk/news/articles/cwrkgmymk55zo?at_medium=RSS&at_campaign=rss",
-   "source": "BBC World",
-   "published": "2026-11-12T16:31:12Z",
-   "region": "Europe",
-   "category": "conflict"
-  },
-  {
-   "title": "UAE says 14 killed, 30 injured in Fujairah traffic accident",
-   "summary": "Officials say a driver lost control of his truck, causing a collision and fire involving 23 vehicles.",
-   "link": "https://www.aljazeera.com/news/2026/11/12/uae-says-14-killed-30-injured-in-fujairah-traffic-accident?traffic_source=rss",
-   "source": "Al Jazeera",
-   "published": "2026-11-12T16:23:29Z",
-   "region": "Middle East",
-   "category": "conflict"
-  },
-  {
-   "title": "Israel kills six in Gaza hospital strike as 9-month-old baby freezes to death",
-   "summary": "An overnight Israeli air strike on Nasser Hospital in southern Gaza killed at least six Palestinians Thursday, including a teenage boy and a surgeon, medics said. Elsewhere in the devastated Palestinian territory, a nine-month-old baby died from the cold as families flee worsening flooding.",
-   "link": "https://www.france24.com/en/middle-east/20261112-israel-kills-six-in-gaza-hospital-strike-as-9-month-old-baby-freezes-to-death",
-   "source": "France 24",
-   "published": "2026-11-12T16:18:24Z",
-   "region": "Middle East",
-   "category": "conflict"
-  },
-  {
    "title": "Hungary eases abortion restrictions in women's rights overhaul",
    "summary": "The reforms mark a break the the conservative policies of former PM Viktor Orban. The controversial \"heartbeat regulation\" is to be scrapped and women are to be better protected against violence.",
    "link": "https://www.dw.com/en/hungary-eases-abortion-restrictions-in-women-s-rights-overhaul/a-79931614?maca=en-rss-en-world-4025-rdf",
@@ -340,71 +484,8 @@
    "category": "news"
   },
   {
-   "title": "BDS claims win as energy giants quit Israeli gas project off Gaza",
-   "summary": "The Boycott, Divest and Sanctions movement is claiming victory after a company left an Israeli-led gas project off Gaza.",
-   "link": "https://www.aljazeera.com/video/newsfeed/2026/11/12/bds-claims-win-as-energy-giants-quit-israeli-gas-project-off-gaza?traffic_source=rss",
-   "source": "Al Jazeera",
-   "published": "2026-11-12T16:07:16Z",
-   "region": "Middle East",
-   "category": "news"
-  },
-  {
-   "title": "10-year Treasury yield jumps back above 5% as oil gains and more Fed rate hikes expected",
-   "summary": "Treasury yields rose as bond markets reopened for the first time since Tuesday following the Veterans Day holiday.",
-   "link": "https://www.cnbc.com/2026/11/12/us-treasurys-bonds-yields.html",
-   "source": "CNBC World",
-   "published": "2026-11-12T16:04:38Z",
-   "region": "Americas",
-   "category": "economy"
-  },
-  {
-   "title": "How FRANCE 24 traced Tehran-backed Afghan fighters from Syria to southeastern Iran",
-   "summary": "Members of the Tehran-backed Afghan Shia militia known as the Fatemiyoun division have resurfaced in Iran after largely disappearing from public view following the fall of Bashar al-Assad’s government in Syria in 2024. FRANCE 24 used \"martyrdom” announcements and the geolocation of videos shared on…",
-   "link": "https://www.france24.com/en/middle-east/20261112-iran-afghan-fatemiyoun-fighters-syria-baluchistan",
-   "source": "France 24",
-   "published": "2026-11-12T16:03:26Z",
-   "region": "Middle East",
-   "category": "news"
-  },
-  {
-   "title": "At least five people shot in DC neighbourhood near the White House",
-   "summary": "At least one person died after five people were shot early Thursday in a Washington, DC neighbourhood near the White House, police said. A swarm of officers responded to a nearby apartment building where a suspect was barricaded and later shot himself.",
-   "link": "https://www.france24.com/en/americas/20261112-at-least-five-people-shot-in-dc-neighbourhood-near-the-white-house",
-   "source": "France 24",
-   "published": "2026-11-12T16:01:57Z",
-   "region": "Americas",
-   "category": "news"
-  },
-  {
-   "title": "Life through a lens: Celebrating 200 years of photography",
-   "summary": "A passport photo, a selfie, an award-winning film and even the evening news: all of them were made possible thanks to a \"fantastic machine\", the camera. As France celebrates the bicentenary of the first fixed photographic image, we discuss the image-obsessed society we live in with filmmaker…",
-   "link": "https://www.france24.com/en/tv-shows/arts24/20261112-life-through-a-lens-celebrating-200-years-of-photography",
-   "source": "France 24",
-   "published": "2026-11-12T15:56:15Z",
-   "region": "Europe",
-   "category": "news"
-  },
-  {
-   "title": "US Defence Secretary Pete Hegseth reprimanded at war memorial",
-   "summary": "US Defence Secretary Pete Hegseth, along with his wife and aides, was silenced by a guard on Wednesday at the Tomb of the Unknown Soldier. Hegseth's group was at Arlington National Cemetery for a Veterans Day ceremony when they were reprimanded for laughing and taking pictures in front of the…",
-   "link": "https://www.france24.com/en/us-defense-secretary-pete-hegseth-reprimanded-at-war-memorial",
-   "source": "France 24",
-   "published": "2026-11-12T15:51:49Z",
-   "region": "Americas",
-   "category": "conflict"
-  },
-  {
-   "title": "Four people shot in Washington DC",
-   "summary": "A major police operation is underway in Washington DC where four people have reportedly been shot",
-   "link": "https://www.aljazeera.com/video/newsfeed/2026/11/12/four-people-shot-in-washington-dc?traffic_source=rss",
-   "source": "Al Jazeera",
-   "published": "2026-11-12T15:42:07Z",
-   "region": "Americas",
-   "category": "news"
-  },
-  {
    "title": "Sri Lanka: Rights groups sound alarm over proposed anti-terror law",
-   "summary": "The Sri Lankan government is looking to replace a controversial anti-terror law but critics say the new one is just as bad.",
+   "summary": "The Sri Lankan government is looking to replace a controversial anti-terror law, but critics say the new one is just as bad.",
    "link": "https://www.dw.com/en/sri-lanka-rights-groups-sound-alarm-over-proposed-anti-terror-law/a-79932227?maca=en-rss-en-world-4025-rdf",
    "source": "DW World",
    "published": "2026-11-12T15:40:00Z",
@@ -430,15 +511,6 @@
    "category": "news"
   },
   {
-   "title": "‘It had to happen’ — Jim Cramer on Jensen Huang’s resignation and future for Nvidia stock",
-   "summary": "\"There's way too much evidence,\" Jim said Thursday, moments after the news broke.",
-   "link": "https://www.cnbc.com/investingclub/2026/11/12/it-had-to-happen-jim-cramer-on-the-resignation-of-nvidia-ceo-jensen-huang.html",
-   "source": "CNBC World",
-   "published": "2026-11-12T15:25:49Z",
-   "region": "Global",
-   "category": "economy"
-  },
-  {
    "title": "UK court convicts 2 Iranian men of spying on journalists",
    "summary": "A London court has found two Iranian citizens guilty of surveilling reporters for a Persian-language television station critical of Iran's government. One was also convicted of planning a violent attack against them.",
    "link": "https://www.dw.com/en/uk-court-convicts-2-iranian-men-of-spying-on-journalists/a-79931583?maca=en-rss-en-world-4025-rdf",
@@ -446,24 +518,6 @@
    "published": "2026-11-12T15:23:00Z",
    "region": "Middle East",
    "category": "conflict"
-  },
-  {
-   "title": "Manchester United sacked manager Michael Carrick",
-   "summary": "Michael Carrick has become the third recent Manchester United manager to be sacked midway through the season.",
-   "link": "https://www.aljazeera.com/video/newsfeed/2026/11/12/manchester-united-sacked-manager-michael-carrick?traffic_source=rss",
-   "source": "Al Jazeera",
-   "published": "2026-11-12T15:21:43Z",
-   "region": "Global",
-   "category": "news"
-  },
-  {
-   "title": "Millions of Ebola dollars missing with staff unpaid while virus spreads, charity says",
-   "summary": "Medical staff are going unpaid, lack proper training and are struggling with shortages of essential supplies, MSF warns",
-   "link": "https://www.bbc.co.uk/news/articles/cx98757ymm6zo?at_medium=RSS&at_campaign=rss",
-   "source": "BBC World",
-   "published": "2026-11-12T15:18:20Z",
-   "region": "Africa",
-   "category": "news"
   },
   {
    "title": "Who is Nvidia's interim CEO Colette Kress - and who could take over permanently?",
@@ -520,24 +574,6 @@
    "category": "news"
   },
   {
-   "title": "Before Scott Colom, these two men were the last black US senators from Mississippi",
-   "summary": "The Democratic candidate won in a southern state that had not seated a black senator since 1874.",
-   "link": "https://www.bbc.co.uk/news/articles/cmde1y19g19do?at_medium=RSS&at_campaign=rss",
-   "source": "BBC World",
-   "published": "2026-11-12T14:12:55Z",
-   "region": "Americas",
-   "category": "news"
-  },
-  {
-   "title": "Eight killed in Colombian air strike targeting Gulf Clan gang",
-   "summary": "A suspected gang leader considered a \"priority target\" was among those killed, the Colombian president says.",
-   "link": "https://www.bbc.co.uk/news/articles/crgj3v3z10dno?at_medium=RSS&at_campaign=rss",
-   "source": "BBC World",
-   "published": "2026-11-12T13:58:49Z",
-   "region": "Americas",
-   "category": "conflict"
-  },
-  {
    "title": "Faisal Islam: Why the UK economy is surprisingly resilient",
    "summary": "The UK is seeing impressive growth, but will it last?",
    "link": "https://www.bbc.co.uk/news/articles/cj62p32k90wyo?at_medium=RSS&at_campaign=rss",
@@ -545,15 +581,6 @@
    "published": "2026-11-12T13:27:09Z",
    "region": "Europe",
    "category": "economy"
-  },
-  {
-   "title": "China's Xi Jinping renews calls for 'reunification' with Taiwan",
-   "summary": "Xi Jinping said that reunification was inevitable, but stopped short of mentioning military force. Taiwan though swiftly rejected Beijing's demands as tensions continue over the island's future.",
-   "link": "https://www.dw.com/en/china-s-xi-jinping-renews-calls-for-reunification-with-taiwan/a-79929738?maca=en-rss-en-world-4025-rdf",
-   "source": "DW World",
-   "published": "2026-11-12T13:26:00Z",
-   "region": "Asia-Pacific",
-   "category": "conflict"
   },
   {
    "title": "AI helped UK defy expectations – but will economy’s resilience fizzle out?",
@@ -565,15 +592,6 @@
    "category": "economy"
   },
   {
-   "title": "'We've got to run': Inside ruined Ukraine power plant under constant drone threat",
-   "summary": "Dan Johnson visits one of the country's largest power stations, barely left standing after a ballistic missile strike by Russia.",
-   "link": "https://www.bbc.co.uk/news/videos/cm93rp3gxn6qo?at_medium=RSS&at_campaign=rss",
-   "source": "BBC World",
-   "published": "2026-11-12T13:02:46Z",
-   "region": "Europe",
-   "category": "conflict"
-  },
-  {
    "title": "Colom wins Mississippi Senate race. And, White House warns Dems over future probes",
    "summary": "After more than a week of counting ballots, Scott Colom has narrowly won the Mississippi Senate seat. And, the White House has sent a letter warning Democrats who plan to investigate the administration.",
    "link": "https://www.npr.org/2026/11/12/g-s1-153171/up-first-newsletter-scott-colom-trump-democrats-ukraine-russia",
@@ -581,24 +599,6 @@
    "published": "2026-11-12T12:15:48Z",
    "region": "Americas",
    "category": "news"
-  },
-  {
-   "title": "Israel strikes Gaza hospital, says Hamas senior figure inside",
-   "summary": "Israel says Hamas was using the hospital as a military command center, while Palestinian officials report at least six people killed, including a surgeon. The strike comes amid an increasingly fragile ceasefire.",
-   "link": "https://www.dw.com/en/israel-strikes-gaza-hospital-says-hamas-senior-figure-inside/a-79927645?maca=en-rss-en-world-4025-rdf",
-   "source": "DW World",
-   "published": "2026-11-12T11:27:00Z",
-   "region": "Middle East",
-   "category": "conflict"
-  },
-  {
-   "title": "UK economy grows at fastest rate for more than two years",
-   "summary": "﻿The UK economy grew by 0.7% in the three months to September, according to official figures.",
-   "link": "https://www.bbc.co.uk/news/articles/ck3rgd429zd5o?at_medium=RSS&at_campaign=rss",
-   "source": "BBC Business",
-   "published": "2026-11-12T11:20:25Z",
-   "region": "Europe",
-   "category": "economy"
   },
   {
    "title": "Former Ukrainian foreign minister discusses how to bridge gaps between Ukraine, Russia",
@@ -646,30 +646,12 @@
    "category": "conflict"
   },
   {
-   "title": "Israeli strike on a Gaza hospital kills 6 people, health authorities say",
-   "summary": "The victims included a surgeon, and dozens more were injured. Israel said it was targeting a Hamas commander and other militants.",
-   "link": "https://www.npr.org/2026/11/12/nx-s1-6038339/israeli-strike-gaza-hospital",
-   "source": "NPR World",
-   "published": "2026-11-12T09:29:30Z",
-   "region": "Middle East",
-   "category": "conflict"
-  },
-  {
    "title": "AI helps UK economy grow at fastest pace for more than two years",
-   "summary": "GDP ‘grew robustly’ by 0.7% in third quarter and by 0.2% month on month in September despite high oil prices AI helped the UK defy expectations – but will Britain’s resilience fizzle out? Business live – latest updates The UK economy grew by 0.7% in the third quarter, its fastest expansion in two…",
+   "summary": "GDP ‘grew robustly’ by 0.7% in third quarter and by 0.2% month on month in September despite high oil prices AI helped the UK defy expectations – but will Britain’s resilience fizzle out? The UK economy grew by 0.7% in the third quarter, its fastest expansion in two and a half years, as the rollout…",
    "link": "https://www.theguardian.com/business/2026/nov/12/uk-economy-grows-third-quarter-oil-price-ons-gdp",
    "source": "The Guardian Economics",
    "published": "2026-11-12T09:12:52Z",
    "region": "Europe",
-   "category": "economy"
-  },
-  {
-   "title": "Are branded cold and flu tablets really worth the extra money?",
-   "summary": "Are branded cold and flu tablets REALLY worth the extra money?",
-   "link": "https://www.bbc.co.uk/news/videos/cw4gnxm0y43po?at_medium=RSS&at_campaign=rss",
-   "source": "BBC Business",
-   "published": "2026-11-12T06:17:06Z",
-   "region": "Global",
    "category": "economy"
   },
   {
@@ -732,6 +714,15 @@
    "link": "https://www.dw.com/en/megaspeed-and-the-battle-to-go-high-end-nvidia-chips-into-china/a-79909129?maca=en-rss-en-bus-2091-rdf",
    "source": "DW Business",
    "published": "2026-11-10T14:32:00Z",
+   "region": "Asia-Pacific",
+   "category": "economy"
+  },
+  {
+   "title": "Nvidia’s value tumbles after ‘honeytrap’ investigation launched, as China denies spying claims – as it happened",
+   "summary": "Shares in world’s most valuable company hit seven-month low after CEO Huang admits to affair, after allegations of relationship with Chinese spy Silicon Valley and Trump rally behind Nvidia CEO after his affair with alleged Chinese spy Who is Alice Huang, the woman linked to Nvidia’s CEO? The AI…",
+   "link": "https://www.theguardian.com/business/live/2026/nov/09/nvidia-jensen-huang-scandal-investigation-ai-industry-tech-stocks-recovery-slump-latest-news-updates",
+   "source": "The Guardian Economics",
+   "published": "2026-11-10T06:51:17Z",
    "region": "Asia-Pacific",
    "category": "economy"
   }
