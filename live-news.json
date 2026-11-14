@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-14T02:24:10Z",
+ "updatedAt": "2026-11-14T10:17:29Z",
  "sources": [
   "BBC World",
   "BBC Business",
@@ -13,51 +13,393 @@
   "CNBC World"
  ],
  "failed": [],
- "count": 78,
+ "count": 80,
  "items": [
   {
-   "title": "US aviation agency lifts nationwide ground stop affecting all air travel",
-   "summary": "Sean Duffy, the transportation secretary said the airspace was now open and the problem had been identified FAA grounds thousands of flights – live The Federal Aviation Administration (FAA) has lifted a nationwide ground stop that was declared Friday afternoon, delaying or canceling more than…",
-   "link": "https://www.theguardian.com/world/2026/nov/13/faa-nationwide-ground-stop-flights",
-   "source": "The Guardian World",
-   "published": "2026-11-14T02:11:01Z",
+   "title": "France protests for fifth Saturday against living costs and heavy-handed policing",
+   "summary": "Different causes are set to come together for one march in Paris this Saturday. Campaign groups, students and Yellow Vest protesters are due to join forces in the capital, bringing together demands on wages, education and civil liberties. But after weeks of demonstrations, union leaders warn that…",
+   "link": "https://www.france24.com/en/france-protests-for-fifth-saturday-against-living-costs-and-heavy-handed-policing",
+   "source": "France 24",
+   "published": "2026-11-14T10:15:42Z",
+   "region": "Europe",
+   "category": "news"
+  },
+  {
+   "title": "US nationwide flight ground stop: \"Our routers got overloaded with data\"",
+   "summary": "On Friday, the Federal Aviation Administration issued a rare nationwide ground stop. More than 8,200 flights, or over 31% of those scheduled in the United States, were canceled. The ground stop lasted nearly five hours and was the longest in the country since September 11, 2001. Officials blamed…",
+   "link": "https://www.france24.com/en/us-nationwide-flight-ground-stop-our-routers-got-overloaded-with-data",
+   "source": "France 24",
+   "published": "2026-11-14T10:14:09Z",
    "region": "Americas",
    "category": "news"
   },
   {
-   "title": "US flight outage live updates: FAA lifts nationwide ground stop; Trump officials suggest new tech overwhelmed old equipment",
-   "summary": "Sean Duffy says ‘it’s going to take us some time to unwind what’s happened’ but also points finger at Congress, claiming lack of funding for systems upgrades Sign up for the Breaking News US email In other tech-related news, the Microsoft outage is still going. The longest in the company’s history…",
-   "link": "https://www.theguardian.com/us-news/live/2026/nov/13/us-politics-latest-news-updates-democrats-republicans-donald-trump-van-hollen-chuck-schumer",
-   "source": "The Guardian World",
-   "published": "2026-11-14T02:08:50Z",
-   "region": "Americas",
-   "category": "news"
-  },
-  {
-   "title": "FAA lifts ground stop after four hours, but flight cancellations will stretch into the weekend",
-   "summary": "The Federal Aviation Administration issued a nationwide ground stop on Friday afternoon, disrupting thousands of departing of flights.",
-   "link": "https://www.cnbc.com/2026/11/13/faa-ground-stop.html",
+   "title": "U.S. flights resume after FAA ground stop, but travel disruption continues",
+   "summary": "U.S. flights are resuming after the FAA ground stop, but delays and cancellations are still piling up.",
+   "link": "https://www.cnbc.com/2026/11/14/faa-ground-stop-flights-resume-delays.html",
    "source": "CNBC World",
-   "published": "2026-11-14T01:54:38Z",
+   "published": "2026-11-14T10:04:43Z",
    "region": "Global",
    "category": "economy"
   },
   {
-   "title": "US-bound flights out of Australia delayed after telecommunications outage grounded American planes",
-   "summary": "Sydney and Melbourne airports say flights were affected by now-lifted ban on departures in US US flight outage – live updates Get our breaking news email , free app or daily news podcast Some US bound flights from Sydney Airport were grounded or delayed on Saturday after to American authorities…",
-   "link": "https://www.theguardian.com/australia-news/2026/nov/14/us-bound-flights-out-of-australia-grounded-as-telecommunications-outage-affects-american-travel",
+   "title": "Guardian to follow lives of eight young people in their search for work",
+   "summary": "How long will it take? What challenges will they face? Series to shine light on one of biggest crises facing UK ‘The social contract is broken’: young people on feeling shut out of careers Britain is at risk of creating a lost generation. Across the country, almost a million young people – one in…",
+   "link": "https://www.theguardian.com/business/2026/nov/14/guardian-young-people-search-for-work",
    "source": "The Guardian World",
-   "published": "2026-11-14T01:54:25Z",
+   "published": "2026-11-14T10:00:42Z",
+   "region": "Europe",
+   "category": "news"
+  },
+  {
+   "title": "‘Still standing’: king jokes as he appears on Elton John’s Rocket Hour",
+   "summary": "Charles marks 78th birthday and 50th anniversary of King’s Trust charity with a playlist for special episode of podcast King Charles marked his 78th birthday on Saturday joking with Elton John that they were “still standing” as he appeared on the singer-songwriter’s Rocket Hour for a shared musical…",
+   "link": "https://www.theguardian.com/uk-news/2026/nov/14/king-charles-elton-john-rocket-hour",
+   "source": "The Guardian World",
+   "published": "2026-11-14T10:00:41Z",
+   "region": "Global",
+   "category": "news"
+  },
+  {
+   "title": "Migrant caravan heads to US from Mexico after Democrats’ midterm win",
+   "summary": "A migrant caravan of more than a thousand people is heading towards the US border from southern Mexico.",
+   "link": "https://www.aljazeera.com/video/newsfeed/2026/11/14/migrant-caravan-heads-to-us-from-mexico-after-democrats-midterm-win?traffic_source=rss",
+   "source": "Al Jazeera",
+   "published": "2026-11-14T09:43:54Z",
    "region": "Americas",
    "category": "news"
   },
   {
-   "title": "Tanker collision leaves riverboat passengers clinging to railings",
-   "summary": "Passengers were rescued after a tanker ship collided with a riverboat docked on the Mississippi River in New Orleans.",
-   "link": "https://www.aljazeera.com/video/newsfeed/2026/11/14/aje-onl-nf_tanker-collision-in-new-orleans-131126?traffic_source=rss",
+   "title": "Netanyahu may fall, but his far-right legacy in Israel is going nowhere",
+   "summary": "Israel’s far-right is accused of embedding a hardline agenda so deeply that reversing it may prove almost impossible.",
+   "link": "https://www.aljazeera.com/news/2026/11/14/netanyahu-may-fall-but-his-far-right-legacy-in-israel-is-going-nowhere?traffic_source=rss",
    "source": "Al Jazeera",
-   "published": "2026-11-14T01:37:08Z",
+   "published": "2026-11-14T09:43:27Z",
+   "region": "Middle East",
+   "category": "news"
+  },
+  {
+   "title": "Pochettino bids emotional farewell to US football ahead of Man Utd move",
+   "summary": "Mauricio Pochettino has bid an emotional farewell to US football as he prepares to take charge of Manchester United.",
+   "link": "https://www.aljazeera.com/video/newsfeed/2026/11/14/pochettino-bids-emotional-farewell-to-us-football-ahead-of-man-utd-move?traffic_source=rss",
+   "source": "Al Jazeera",
+   "published": "2026-11-14T09:27:59Z",
+   "region": "Americas",
+   "category": "news"
+  },
+  {
+   "title": "Qatar and Turkiye sign a mutual defence pact: What do we know?",
+   "summary": "Analysts say the pact, agreed amid the US-Iran war, aims to deter attacks rather than build an offensive alliance.",
+   "link": "https://www.aljazeera.com/news/2026/11/14/qatar-and-turkiye-sign-a-mutual-defence-pact-what-do-we-know?traffic_source=rss",
+   "source": "Al Jazeera",
+   "published": "2026-11-14T09:19:43Z",
+   "region": "Middle East",
+   "category": "conflict"
+  },
+  {
+   "title": "Nearly $20m found in Hungary’s forests, buildings amid corruption probe",
+   "summary": "An ex-minister faces a bribery probe as Hungary's new government investigates alleged corruption during Orban's rule.",
+   "link": "https://www.aljazeera.com/news/2026/11/14/hungarian-investigators-uncover-19-5m-hidden-in-forests-and-buildings?traffic_source=rss",
+   "source": "Al Jazeera",
+   "published": "2026-11-14T09:08:21Z",
+   "region": "Europe",
+   "category": "news"
+  },
+  {
+   "title": "Microsoft says all services working again",
+   "summary": "US tech giant Microsoft says it has fixed problems that led to a global outage of its services. The glitch severely disrupted online communications in businesses and governments for more than 24 hours.",
+   "link": "https://www.dw.com/en/microsoft-says-all-services-working-again/a-79946887?maca=en-rss-en-world-4025-rdf",
+   "source": "DW World",
+   "published": "2026-11-14T09:06:00Z",
+   "region": "Americas",
+   "category": "news"
+  },
+  {
+   "title": "Immersive show brings Kyffin Williams’ rugged Welsh landscapes to life",
+   "summary": "Paintings by one of country’s most important artists have been animated and set to music at National Library of Wales The paintings of artists such as Vincent van Gogh, Paul Cézanne and David Hockney have been brought to life in all-singing, all-dancing immersive shows in recent years. Now one of…",
+   "link": "https://www.theguardian.com/artanddesign/2026/nov/14/sir-kyffin-williams-artist-immersive-exhibition-national-library-wales-aberystwyth",
+   "source": "The Guardian World",
+   "published": "2026-11-14T09:00:39Z",
    "region": "Global",
+   "category": "news"
+  },
+  {
+   "title": "Hungary seizes $18m cash tied to ex-Orban-era minister in probe",
+   "summary": "Anti-corruption authorities in Hungary say they found around $18 million in hidden cash.",
+   "link": "https://www.aljazeera.com/video/newsfeed/2026/11/14/hungary-seizes-18m-cash-tied-to-ex-orban-era-minister-in-probe?traffic_source=rss",
+   "source": "Al Jazeera",
+   "published": "2026-11-14T08:39:07Z",
+   "region": "Europe",
+   "category": "news"
+  },
+  {
+   "title": "Sudan: Misery worsens amid plummeting aid for displaced people",
+   "summary": "Sudan's humanitarian crisis is exacerbated by cuts in international aid. Almost 34 million people are in need as war and drone strikes are making it difficult to deliver aid to the population.",
+   "link": "https://www.dw.com/en/sudan-misery-worsens-amid-plummeting-aid-for-displaced-people/a-79938864?maca=en-rss-en-world-4025-rdf",
+   "source": "DW World",
+   "published": "2026-11-14T08:31:00Z",
+   "region": "Africa",
+   "category": "conflict"
+  },
+  {
+   "title": "Football kit giveaway aims to boost participation",
+   "summary": "Millie Bright helps hand out free kit to young girls to help them keep playing in spite of costs.",
+   "link": "https://www.bbc.co.uk/news/articles/ck20v651473qo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC Business",
+   "published": "2026-11-14T08:13:40Z",
+   "region": "Global",
+   "category": "economy"
+  },
+  {
+   "title": "Microsoft apologizes for massive outage that took down Outlook and other 365 services",
+   "summary": "A Microsoft outage on Thursday and Friday affected users of services like Outlook, Teams and 365.",
+   "link": "https://www.cnbc.com/2026/11/12/microsoft-outage-outlook-aws-google.html",
+   "source": "CNBC World",
+   "published": "2026-11-14T08:11:28Z",
+   "region": "Global",
+   "category": "economy"
+  },
+  {
+   "title": "Warner accuses Cricket Australia of ‘cover-up’ in ball-tampering scandal",
+   "summary": "Former opener Warner was banned for a year for his involvement in the 2018 'Sandpapergate' incident in South Africa.",
+   "link": "https://www.aljazeera.com/sports/2026/11/14/warner-cricket-australia-ball-tampering-sandpapergate-khawaja-cummins?traffic_source=rss",
+   "source": "Al Jazeera",
+   "published": "2026-11-14T08:10:14Z",
+   "region": "Asia-Pacific",
+   "category": "news"
+  },
+  {
+   "title": "Pacers hold off Knicks in NBA Cup thriller, Spurs rout Warriors",
+   "summary": "The New York Knicks look unlikely to advance to the NBA Cup knockout rounds after falling to the Indiana Pacers.",
+   "link": "https://www.aljazeera.com/sports/2026/11/14/nba-cup-basketball-pacers-knicks-spurs-warriors?traffic_source=rss",
+   "source": "Al Jazeera",
+   "published": "2026-11-14T08:01:23Z",
+   "region": "Asia-Pacific",
+   "category": "news"
+  },
+  {
+   "title": "Hundreds of children in England prescribed weight-loss jabs, figures show",
+   "summary": "Exclusive: investigation finds prescriptions for children under 12, as experts stress need for specialist supervision and long-term monitoring Hundreds of children in England are receiving prescriptions for GLP-1 medications, including some younger than 12, the Guardian can reveal. GLP-1…",
+   "link": "https://www.theguardian.com/science/2026/nov/14/children-iengland-prescribed-weight-loss-jabs",
+   "source": "The Guardian World",
+   "published": "2026-11-14T08:00:39Z",
+   "region": "Europe",
+   "category": "news"
+  },
+  {
+   "title": "Tout offers £1m of U2 tickets on StubHub, raising questions about ‘bot’ clampdown",
+   "summary": "Artists and industry figures call for culture secretary to ‘shut down the touts’ by outlawing resale for profit One tout is advertising £1m of tickets for U2’s long-awaited 2027 tour through StubHub, raising questions about the website’s condemnation of professional ticket traders who use “bot”…",
+   "link": "https://www.theguardian.com/money/2026/nov/14/u2-tickets-stubhub-bot-culture-secretary-resale",
+   "source": "The Guardian World",
+   "published": "2026-11-14T08:00:39Z",
+   "region": "Global",
+   "category": "news"
+  },
+  {
+   "title": "Nigeria: How the pcoming elections are influeced by the rise of AI disinformation",
+   "summary": "As Nigeria inches closer to the 2027 polls, the use of artificial intelligence in the electoral process has prompted questions about integrity and institutional readiness. Can Nigerians trust their democratic processes?",
+   "link": "https://www.dw.com/en/nigeria-how-the-pcoming-elections-are-influeced-by-the-rise-of-ai-disinformation/a-79946897?maca=en-rss-en-world-4025-rdf",
+   "source": "DW World",
+   "published": "2026-11-14T07:54:00Z",
+   "region": "Africa",
+   "category": "news"
+  },
+  {
+   "title": "UN says 25 seafarers killed in, around Hormuz since US-Israel war on Iran",
+   "summary": "'Situation cannot become new normal', says UN's Khaled Khiari, as Iran reports three more vessels hitting mines.",
+   "link": "https://www.aljazeera.com/news/2026/11/14/un-says-25-seafarers-killed-in-around-hormuz-since-february?traffic_source=rss",
+   "source": "Al Jazeera",
+   "published": "2026-11-14T07:46:36Z",
+   "region": "Middle East",
+   "category": "conflict"
+  },
+  {
+   "title": "The rise of 'housefishing' by estate agents",
+   "summary": "The rise of 'housefishing' by estate agents.",
+   "link": "https://www.bbc.co.uk/news/videos/cmx295lz17wzo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC Business",
+   "published": "2026-11-14T07:45:50Z",
+   "region": "Global",
+   "category": "economy"
+  },
+  {
+   "title": "What we know about the ground stop and what to do if you're affected",
+   "summary": "US officials say the disruption was caused by old equipment overloading and not a cyber-attack.",
+   "link": "https://www.bbc.co.uk/news/articles/cqx2wyvyr3zzo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "published": "2026-11-14T07:42:11Z",
+   "region": "Americas",
+   "category": "conflict"
+  },
+  {
+   "title": "Espionage accusations: a pressure tactic for Turkish government critics",
+   "summary": "This week's arrest of an employee of a German foundation in Istanbul has put focus back on the Erdogan administration's pressure tactics. The arrest is far from the first of its kind.",
+   "link": "https://www.dw.com/en/espionage-accusations-a-pressure-tactic-for-turkish-government-critics/a-79943768?maca=en-rss-en-world-4025-rdf",
+   "source": "DW World",
+   "published": "2026-11-14T07:31:00Z",
+   "region": "Middle East",
+   "category": "news"
+  },
+  {
+   "title": "What do Christmas market traders say about rising prices?",
+   "summary": "From £8 bratwursts to £11 Yorkshire pudding wraps, why is the cost of the markets rising year on year?",
+   "link": "https://www.bbc.co.uk/news/articles/c95y152k8erpo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC Business",
+   "published": "2026-11-14T07:11:26Z",
+   "region": "Global",
+   "category": "economy"
+  },
+  {
+   "title": "Live: France deploys 70,000 police for new wave of anti-government protests",
+   "summary": "Between 50 and 60 marches are expected in France on Saturday, according to Interior Minister Laurent Nuñez, who plans to mobilise approximately 70,000 police officers and gendarmes across the country. In Paris, the march will commence at 1pm from Place de la République heading towards Place de la…",
+   "link": "https://www.france24.com/en/france/20261114-live-france-mobilises-in-fifth-wave-of-student-protests",
+   "source": "France 24",
+   "published": "2026-11-14T07:09:32Z",
+   "region": "Europe",
+   "category": "news"
+  },
+  {
+   "title": "Analysis: Companies love a ‘rockstar’ CEO. Until they depend on one",
+   "summary": "Jensen Huang’s exit tests Nvidia’s succession planning and governance, and offers lessons for companies that elevate their CEOs to rockstar status.",
+   "link": "https://www.cnbc.com/2026/11/14/nvidia-jensen-huang-ceo-succession-risk.html",
+   "source": "CNBC World",
+   "published": "2026-11-14T07:08:45Z",
+   "region": "Global",
+   "category": "economy"
+  },
+  {
+   "title": "UK-EU breakthrough will allow airport-style checks at Eurotunnel to avoid border ‘chaos’",
+   "summary": "Eurotunnel owner Getlink wants to replicate ‘airport experience’ at Folkestone and Calais, without making people get out of cars Airport-style passport and fingerprinting controls are to be introduced at Eurotunnel in an attempt to prevent “short-term and long-term chaos” in Folkestone and Calais…",
+   "link": "https://www.theguardian.com/travel/2026/nov/14/eurotunnel-drive-in-fingerprint-trial-folkestone-calais-border",
+   "source": "The Guardian World",
+   "published": "2026-11-14T07:00:38Z",
+   "region": "Europe",
+   "category": "news"
+  },
+  {
+   "title": "Microsoft says services fully restored after day-long global outage",
+   "summary": "Efforts to address the underlying problem with Outlook, Teams and Copilot are complete, the tech firm says.",
+   "link": "https://www.bbc.co.uk/news/articles/c6rrg51rkz09o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "published": "2026-11-14T06:42:27Z",
+   "region": "Global",
+   "category": "news"
+  },
+  {
+   "title": "Food bank sees donations drop by 10% each year",
+   "summary": "Staff fear the government stockpiling advice will have an impact on donations as Christmas looms.",
+   "link": "https://www.bbc.co.uk/news/articles/c6702j7e48eno?at_medium=RSS&at_campaign=rss",
+   "source": "BBC Business",
+   "published": "2026-11-14T06:33:06Z",
+   "region": "Global",
+   "category": "economy"
+  },
+  {
+   "title": "Microsoft ‘deeply sorry’ for global outage that could have billion-dollar impact on Australia",
+   "summary": "Experts say disruption exposes ‘Australia’s reliance on foreign technology’ as software giant says services being restored Get our breaking news email , free app or daily news podcast The Microsoft outage could be a disaster for the Australian economy that forces some small businesses to close…",
+   "link": "https://www.theguardian.com/australia-news/2026/nov/14/microsoft-deeply-sorry-for-global-disruption-that-could-have-billion-dollar-impact-on-australia",
+   "source": "The Guardian World",
+   "published": "2026-11-14T06:19:04Z",
+   "region": "Asia-Pacific",
+   "category": "economy"
+  },
+  {
+   "title": "Gen Z protests: Do Baby Boomers really have it better than young people?",
+   "summary": "Should young people in Germany be more worried about their future than Baby Boomers were in the 1980s and 1990s? Or should both generations take to the streets and protest together? DW checked the data.",
+   "link": "https://www.dw.com/en/gen-z-protests-do-baby-boomers-really-have-it-better-than-young-people/a-79918854?maca=en-rss-en-world-4025-rdf",
+   "source": "DW World",
+   "published": "2026-11-14T06:09:00Z",
+   "region": "Europe",
+   "category": "news"
+  },
+  {
+   "title": "Microsoft says all services 'fully recovered' after global outage",
+   "summary": "The tech giant confirmed on Saturday morning that all services have recovered ⁠across ‌Teams, Outlook, Copilot and ⁠other applications, ​ending a ‌global outage ‌that ​crippled online communications across businesses and ​governments ​for ​over 24 hours. The US homeland security chief confirmed…",
+   "link": "https://www.france24.com/en/technology/20261114-microsoft-says-consumer-products-fully-recovered-business-services-improving",
+   "source": "France 24",
+   "published": "2026-11-14T06:07:56Z",
+   "region": "Americas",
+   "category": "news"
+  },
+  {
+   "title": "Ecuador wants to monetize its biodiversity — while still drilling for oil",
+   "summary": "Ecuador is planning to channel funds into its biodiversity, but faces a key challenge: its reliance on oil.",
+   "link": "https://www.cnbc.com/2026/11/14/ecuador-biodiversity-green-finance-oil.html",
+   "source": "CNBC World",
+   "published": "2026-11-14T06:00:01Z",
+   "region": "Americas",
+   "category": "economy"
+  },
+  {
+   "title": "Airport chaos continues after US ground stop lifted – as it happened",
+   "summary": "This blog is now closed. See our full reports: US aviation agency lifts nationwide ground stop affecting all air travel Chaos at US airports as flight stoppage grinds travel plans to a halt Sign up for the Breaking News US email We’re wrapping up this live coverage of the US ground stop and travel…",
+   "link": "https://www.theguardian.com/world/live/2026/nov/13/us-flight-outage-live-updates-faa-lifts-nationwide-ground-stop-as-airport-chaos-continues",
+   "source": "The Guardian World",
+   "published": "2026-11-14T05:55:53Z",
+   "region": "Americas",
+   "category": "news"
+  },
+  {
+   "title": "Trump, Putin and Xi plan historic joint meeting in China next week, White House says",
+   "summary": "Trump will discuss the \"reduction of nuclear weapons\" during the unprecedented talks, a spokeswoman says.",
+   "link": "https://www.bbc.co.uk/news/articles/ckz74jzpy18do?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "published": "2026-11-14T05:52:31Z",
+   "region": "Americas",
+   "category": "conflict"
+  },
+  {
+   "title": "FAA lifts ground stop after more than four hours, but flight cancellations will stretch into the weekend",
+   "summary": "The Federal Aviation Administration issued a nationwide ground stop on Friday afternoon, disrupting thousands of departing of flights.",
+   "link": "https://www.cnbc.com/2026/11/13/faa-ground-stop.html",
+   "source": "CNBC World",
+   "published": "2026-11-14T05:08:24Z",
+   "region": "Global",
+   "category": "economy"
+  },
+  {
+   "title": "University hounded out of Hungary by Orbán reaches out to new government",
+   "summary": "Prospect of partial return to Budapest by Central European University suggests confidence in Hungary’s future A university that Viktor Orbán tried to chase out of Hungary is open to expanding its presence in Budapest, in a mark of confidence in the country’s democratic future. Carsten Q Schneider…",
+   "link": "https://www.theguardian.com/world/2026/nov/14/university-hungary-orban-soros-ceu",
+   "source": "The Guardian World",
+   "published": "2026-11-14T05:00:35Z",
+   "region": "Europe",
+   "category": "news"
+  },
+  {
+   "title": "FAA lifts nationwide ground stop on all US flights",
+   "summary": "The United States on Friday lifted an hours-long ground stop at the nation's airports, with top officials explaining that the disruption was not due to a cyberattack or a sweeping Microsoft outage.",
+   "link": "https://www.france24.com/en/video/20261114-faa-lifts-nationwide-ground-stop-on-all-us-flights",
+   "source": "France 24",
+   "published": "2026-11-14T02:50:21Z",
+   "region": "Americas",
+   "category": "news"
+  },
+  {
+   "title": "US flights resume after nationwide ground stop lifted",
+   "summary": "The United States on Friday lifted an hours-long ground stop at the nation's airports, with top officials explaining that the disruption was not due to a cyberattack or a sweeping Microsoft outage. Transportation Secretary Sean Duffy said that US airspace was now \"opened up,\" and blamed \"old…",
+   "link": "https://www.france24.com/en/americas/20261114-us-flights-resume-after-nationwide-ground-stop-lifted-aviation",
+   "source": "France 24",
+   "published": "2026-11-14T02:35:48Z",
+   "region": "Americas",
+   "category": "news"
+  },
+  {
+   "title": "SpaceX launches Starship rocket, fails to recover booster",
+   "summary": "SpaceX had planned to catch and later reuse both stages of its biggest rocket for the first time. But the booster exploded over the Gulf of Mexico, while the spacecraft continued into orbit.",
+   "link": "https://www.dw.com/en/spacex-launches-starship-rocket-fails-to-recover-booster/a-79946091?maca=en-rss-en-world-4025-rdf",
+   "source": "DW World",
+   "published": "2026-11-14T02:24:00Z",
+   "region": "Americas",
+   "category": "news"
+  },
+  {
+   "title": "'We'll get home one day' - US travellers impacted by nationwide ground stop",
+   "summary": "Passengers throughout the country were impacted over what the Federal Aviation Administration (FAA) describes as “safety and communication issues”.",
+   "link": "https://www.bbc.co.uk/news/videos/c893ryz7lw33o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "published": "2026-11-14T01:47:36Z",
+   "region": "Americas",
    "category": "news"
   },
   {
@@ -70,24 +412,6 @@
    "category": "economy"
   },
   {
-   "title": "All passengers and crew accounted for after New Orleans boat crash in ‘miracle on the Mississippi’",
-   "summary": "No passengers or crew were killed or critically hurt after a tanker collided with a river cruise ship on the Mississippi River, officials say New Orleans river collision – latest updates In what the city’s mayor declared a “miracle on the Mississippi”, all passengers were accounted for – with none…",
-   "link": "https://www.theguardian.com/us-news/2026/nov/13/mississippi-river-crash-new-orleans",
-   "source": "The Guardian World",
-   "published": "2026-11-14T01:29:11Z",
-   "region": "Global",
-   "category": "conflict"
-  },
-  {
-   "title": "Former FAA official says ‘nobody really knows what is going on’",
-   "summary": "Former FAA safety team representative Kyle Bailey says grounding flights is the safest course of action.",
-   "link": "https://www.aljazeera.com/video/newsfeed/2026/11/14/former-faa-official-says-nobody-really-knows-what-is-going?traffic_source=rss",
-   "source": "Al Jazeera",
-   "published": "2026-11-14T01:28:46Z",
-   "region": "Global",
-   "category": "news"
-  },
-  {
    "title": "SpaceX launches Starship in key test flight of massive rocket",
    "summary": "The test flight is SpaceX's first attempt to ​catch both the Super Heavy booster and upper stage spacecraft of the rocket at its launch site in Starbase, Texas.",
    "link": "https://www.cnbc.com/2026/11/13/spacex-launches-starship-in-key-test-flight-of-massive-rocket.html",
@@ -95,60 +419,6 @@
    "published": "2026-11-14T01:18:51Z",
    "region": "Global",
    "category": "economy"
-  },
-  {
-   "title": "Stuart Bonds made ‘racist’ and ‘divisive’ comments. But One Nation is showing no sign of dumping the NSW candidate",
-   "summary": "The former coalminer’s claim Australians are being ‘demographically replaced’ sparked wide criticism, but his party has shown no signs of dumping him Get our breaking news email , free app or daily news podcast In a Facebook video from a Sydney anti-immigration rally on Sunday, as a man dressed…",
-   "link": "https://www.theguardian.com/australia-news/2026/nov/14/one-nation-nsw-candidate-stuart-bonds-ntwnfb",
-   "source": "The Guardian World",
-   "published": "2026-11-14T01:00:30Z",
-   "region": "Asia-Pacific",
-   "category": "news"
-  },
-  {
-   "title": "SpaceX Starship megarocket blasts off before expected return for reuse",
-   "summary": "Flight 15 expected to orbit Earth about 14 times over 22 hours, before company catches it at Starbase, Texas SpaceX’s Starship megarocket blasted off from Texas on Friday afternoon as the aerospace company sought to make history with a double catch of its reusable rocket. Starship, the world’s…",
-   "link": "https://www.theguardian.com/science/2026/nov/13/spacex-starship-megarocket-blasts-off-earth-orbit",
-   "source": "The Guardian World",
-   "published": "2026-11-14T00:53:52Z",
-   "region": "Global",
-   "category": "news"
-  },
-  {
-   "title": "Microsoft ‘deeply sorry’ for global disruption that could have billion-dollar impact on Australia",
-   "summary": "Experts say outage exposes ‘Australia’s reliance on foreign technology’ as software giant says services being restored Get our breaking news email , free app or daily news podcast The Microsoft outage could be a disaster for the Australian economy that forces some small businesses to close, with…",
-   "link": "https://www.theguardian.com/australia-news/2026/nov/14/microsoft-deeply-sorry-for-global-disruption-that-could-have-billion-dollar-impact-on-australia",
-   "source": "The Guardian World",
-   "published": "2026-11-14T00:52:48Z",
-   "region": "Asia-Pacific",
-   "category": "economy"
-  },
-  {
-   "title": "UK police open sex offence probe into comedian and author David Walliams",
-   "summary": "The British TV personality, 55, denies sexual assault allegations, saying he has not broken the law.",
-   "link": "https://www.aljazeera.com/news/2026/11/14/uk-police-open-sex-offence-probe-into-comedian-and-author-david-walliams?traffic_source=rss",
-   "source": "Al Jazeera",
-   "published": "2026-11-14T00:22:07Z",
-   "region": "Europe",
-   "category": "news"
-  },
-  {
-   "title": "Microsoft services begin recovering after global outage",
-   "summary": "Microsoft services began recovering on Friday after a global outage disrupted Outlook and Teams.",
-   "link": "https://www.aljazeera.com/video/newsfeed/2026/11/14/microsoft-services-begin-recovering-after-global-outage?traffic_source=rss",
-   "source": "Al Jazeera",
-   "published": "2026-11-14T00:17:59Z",
-   "region": "Global",
-   "category": "news"
-  },
-  {
-   "title": "Afghanistan’s new road to China ends at a closed border",
-   "summary": "Taliban government hopes its Wakhan Corridor road will open new trade routes and reduce reliance on Pakistan.",
-   "link": "https://www.aljazeera.com/features/2026/11/14/wakhan-corridor-afghanistan-china-taliban?traffic_source=rss",
-   "source": "Al Jazeera",
-   "published": "2026-11-14T00:06:43Z",
-   "region": "Asia-Pacific",
-   "category": "news"
   },
   {
    "title": "Jojo the gorilla has spent his life alone. Can he finally find a companion?",
@@ -178,24 +448,6 @@
    "category": "news"
   },
   {
-   "title": "Iran war live: Fighting grips Yemen as Qatar, Turkiye sign defence deal",
-   "summary": "Doha, Ankara agreement pledges joint action against external attacks as fighting in Yemen displaces civilians.",
-   "link": "https://www.aljazeera.com/news/liveblog/2026/11/14/iran-war-live-fighting-grips-yemen-as-qatar-turkiye-sign-defence-deal?traffic_source=rss",
-   "source": "Al Jazeera",
-   "published": "2026-11-14T00:00:25Z",
-   "region": "Middle East",
-   "category": "conflict"
-  },
-  {
-   "title": "What to know about the rare nationwide ground stop issued by the FAA",
-   "summary": "The Federal Aviation Administration issued a ground stop for all planes due to take off in the US, delaying and canceling thousands of flights Flights grounded at all US airports due to communications outage – live The US Federal ⁠Aviation Administration said in a statement that the nationwide halt…",
-   "link": "https://www.theguardian.com/world/2026/nov/13/faa-ground-stop-flights-explained",
-   "source": "The Guardian World",
-   "published": "2026-11-13T23:56:08Z",
-   "region": "Americas",
-   "category": "news"
-  },
-  {
    "title": "Nvidia is done with Jensen Huang. The fallout in Washington is just beginning",
    "summary": "The Republican-led Congress wants to see Jensen Huang in Washington before Democrats take control in January.",
    "link": "https://www.cnbc.com/2026/11/13/nvidia-jensen-huang-washington-congress.html",
@@ -203,15 +455,6 @@
    "published": "2026-11-13T23:54:36Z",
    "region": "Americas",
    "category": "economy"
-  },
-  {
-   "title": "FAA grounds all fights across the US over ‘telecommunication outage’",
-   "summary": "The FAA has issued a ground stop for departing flights in the US after a communications failure disrupted air traffic.",
-   "link": "https://www.aljazeera.com/video/newsfeed/2026/11/13/faa-grounds-all-fights-across-the-us-over-telecommunication?traffic_source=rss",
-   "source": "Al Jazeera",
-   "published": "2026-11-13T23:45:22Z",
-   "region": "Americas",
-   "category": "news"
   },
   {
    "title": "Lutnick faces questions over Nvidia spy scandal. His sons' firm has deep ties to the chipmaker",
@@ -241,48 +484,21 @@
    "category": "news"
   },
   {
-   "title": "How the Jensen Huang scandal created a headache for business-friendly Singapore",
-   "summary": "The scandal has cast a spotlight on Singapore's success as a chip hub - and a location for alleged illicit trade.",
-   "link": "https://www.bbc.co.uk/news/articles/ck1exevgql4qo?at_medium=RSS&at_campaign=rss",
-   "source": "BBC World",
-   "published": "2026-11-13T23:00:31Z",
-   "region": "Asia-Pacific",
-   "category": "news"
-  },
-  {
-   "title": "32 passengers taken to hospital after tanker hits river cruise boat in US",
-   "summary": "American Heritage paddleboat with 129 passengers on board is partially submerged on Mississippi River in New Orleans.",
-   "link": "https://www.aljazeera.com/news/2026/11/13/rescue-efforts-under-way-after-tanker-strikes-river-cruise-boat-in-us?traffic_source=rss",
-   "source": "Al Jazeera",
-   "published": "2026-11-13T22:47:16Z",
+   "title": "Passengers face further cancellations as US flights slowly resume after ground stop",
+   "summary": "While flights in the United States started resuming on Saturday following the longest nationwide ground stop in 25 years, more than 2,000 flights have been cancelled as airlines work to return to normal operations. Nearly 6,000 flights were cancelled on Friday, with the incident marking only the…",
+   "link": "https://www.france24.com/en/americas/20261113-us-air-travel-resumption-will-take-time-after-hours-long-stop",
+   "source": "France 24",
+   "published": "2026-11-13T22:43:22Z",
    "region": "Americas",
    "category": "news"
   },
   {
-   "title": "Eisenkot accuses Netanyahu of ‘racist’ campaign against Israel’s Arab minority",
-   "summary": "Statement is rare instance of a prominent Jewish political leader taking a strong stand in defence of Arab Israelis Israeli prime ministerial hopeful Gadi Eisenkot accused caretaker premier Benjamin Netanyahu on Friday of fuelling a “racist” campaign against the country’s Arab minority, after he…",
-   "link": "https://www.theguardian.com/world/2026/nov/13/eisenkot-accuses-netanyahu-of-racist-campaign-against-israels-arab-minority",
-   "source": "The Guardian World",
-   "published": "2026-11-13T22:36:38Z",
-   "region": "Middle East",
-   "category": "news"
-  },
-  {
-   "title": "Nvidia stock suffers longest weekly losing streak since 2012 as market value sinks by $1.7 trillion",
-   "summary": "Jensen Huang's resignation added to Nvidia's market woes, with the stock already in a downward slide since early October.",
-   "link": "https://www.cnbc.com/2026/11/13/nvidia-stock-jensen-affair-ai.html",
-   "source": "CNBC World",
-   "published": "2026-11-13T22:18:43Z",
-   "region": "Global",
-   "category": "economy"
-  },
-  {
-   "title": "LIVE: FAA reopens airspace after ground stop blamed on ‘outdated equipment’",
-   "summary": "US air regulators have reopened airspace hours after a ground stop halted flights nationwide.",
-   "link": "https://www.aljazeera.com/news/liveblog/2026/11/13/groundling-live?traffic_source=rss",
-   "source": "Al Jazeera",
-   "published": "2026-11-13T22:02:07Z",
-   "region": "Americas",
+   "title": "France secures thrilling Nations Championship victory over South Africa",
+   "summary": "France smashed world ⁠champion South ​Africa's hopes of lifting the first Nations Championship trophy on Friday, in a ​21-19 defeat for Les Bleus.",
+   "link": "https://www.france24.com/en/sport/20261113-france-hold-on-for-thrilling-nations-championship-win-over-south-africa",
+   "source": "France 24",
+   "published": "2026-11-13T22:39:21Z",
+   "region": "Europe",
    "category": "news"
   },
   {
@@ -295,15 +511,6 @@
    "category": "news"
   },
   {
-   "title": "France among five major powers to represent EU in Ukraine talks",
-   "summary": "European Council President Antonio Costa on Friday said that Brussels will send diplomats from the bloc and five countries, including the UK, France, Germany, Italy and Poland, to upcoming Ukraine talks.",
-   "link": "https://www.france24.com/en/europe/20261113-europe-to-send-diplomats-from-across-the-continent-to-ukraine-peace-talks",
-   "source": "France 24",
-   "published": "2026-11-13T21:38:52Z",
-   "region": "Europe",
-   "category": "news"
-  },
-  {
    "title": "Tanker collides with cruise ship on Mississippi in New Orleans",
    "summary": "A freighter collided with a cruise ship carrying around 130 people in New Orleans, causing the paddlewheel vessel to capsize. More than 30 people were hospitalized, but all passengers survived and were accounted for.",
    "link": "https://www.dw.com/en/tanker-collides-with-cruise-ship-on-mississippi-in-new-orleans/a-79945080?maca=en-rss-en-world-4025-rdf",
@@ -313,94 +520,13 @@
    "category": "news"
   },
   {
-   "title": "🔴 US flight authority orders national ground stop over air traffic control 'communication issue'",
-   "summary": "",
-   "link": "https://www.france24.com/en/americas/20261113-us-flight-authority-orders-national-ground-stop-over-air-traffic-control-communication-issue",
-   "source": "France 24",
-   "published": "2026-11-13T21:29:31Z",
-   "region": "Americas",
-   "category": "news"
-  },
-  {
-   "title": "AI risks are the biggest threat to the financial system, Fed survey finds",
-   "summary": "The report comes with Wall Street on edge over high-flying AI hyperscalers, while communities are on alert for the rapid spread of data centers.",
-   "link": "https://www.cnbc.com/2026/11/13/ai-risks-financial-system-federal-reserve.html",
-   "source": "CNBC World",
-   "published": "2026-11-13T21:18:30Z",
-   "region": "Americas",
-   "category": "economy"
-  },
-  {
-   "title": "Nvidia closes below $4T market cap for first time since July 2025 in Huang fallout",
-   "summary": "Jensen Huang resigned as CEO of Nvidia on Thursday after coming under scrutiny for two extramarital affairs.",
-   "link": "https://www.cnbc.com/2026/11/13/nvidia-nvda-stock-jensen-huang-transition.html",
-   "source": "CNBC World",
-   "published": "2026-11-13T21:18:11Z",
-   "region": "Global",
-   "category": "economy"
-  },
-  {
-   "title": "Watch: Cruise ship seen sinking after collision with cargo ship in New Orleans",
-   "summary": "All passengers have been accounted for after a cargo ship collided with a docked cruise ship.",
-   "link": "https://www.bbc.co.uk/news/videos/ck4gn4y77m40o?at_medium=RSS&at_campaign=rss",
-   "source": "BBC World",
-   "published": "2026-11-13T21:15:24Z",
-   "region": "Global",
-   "category": "news"
-  },
-  {
-   "title": "Microsoft 'deeply sorry' for global outage after almost 24 hours of disruption",
-   "summary": "Experts say the event is a \"stark reminder\" of how heavily the world relies on a small group of big tech providers.",
-   "link": "https://www.bbc.co.uk/news/articles/c6rrg51rkz09o?at_medium=RSS&at_campaign=rss",
-   "source": "BBC World",
-   "published": "2026-11-13T21:14:22Z",
-   "region": "Global",
-   "category": "news"
-  },
-  {
-   "title": "10-year Treasury yield moves to 5.17% as traders weigh producer price report",
-   "summary": "Treasury yields moved higher as investor expectations for a December rate hike by the Federal Reserve gain strength.",
-   "link": "https://www.cnbc.com/2026/11/13/treasury-yields-fed-rates.html",
-   "source": "CNBC World",
-   "published": "2026-11-13T21:08:20Z",
-   "region": "Americas",
-   "category": "economy"
-  },
-  {
-   "title": "Turkey and Qatar pledge unified stance against attacks in mutual defence pact",
-   "summary": "Turkey and Qatar signed a mutual defence agreement Friday, pledging a unified response to any attack on either country, the two leaders said in a joint statement. The defence pact follows the Mecca Joint Defence Agreement signed by Turkey, Pakistan and Saudi Arabia in August.",
-   "link": "https://www.france24.com/en/middle-east/20261113-turkey-and-qatar-pledge-unified-stance-against-attacks-in-mutual-defence-pact",
-   "source": "France 24",
-   "published": "2026-11-13T20:06:40Z",
-   "region": "Middle East",
-   "category": "conflict"
-  },
-  {
-   "title": "Nvidia scandal fallout widens as Trump's treasury secretary blames cabinet colleague",
-   "summary": "Scott Bessent suggests Howard Lutnick’s commerce department failed to ban exports of Nvidia's chips to a firm thought to have links with China.",
+   "title": "Pressure grows on Trump's Commerce Secretary Lutnick in fallout from Nvidia scandal",
+   "summary": "Scott Bessent told CNBC that several government agencies \"were in favour of putting Megaspeed on the entity list for months\".",
    "link": "https://www.bbc.co.uk/news/articles/cqvg2d1eg7zro?at_medium=RSS&at_campaign=rss",
-   "source": "BBC World",
+   "source": "BBC Business",
    "published": "2026-11-13T19:53:57Z",
-   "region": "Asia-Pacific",
-   "category": "news"
-  },
-  {
-   "title": "The Downfall of AI’s ‘Rock Star’ Boss, Ukraine: Who speaks for Europe? Protests & Presidents",
-   "summary": "On The World This Week with Gavin Lee, our panel distills the breaking news and global stories of the past 7 days into 45 minutes. Ukraine: Who will speak for Europe? In a week thats seen the first direct talks between Ukraine and Russia since February, with the US in the room and the Europeans…",
-   "link": "https://www.france24.com/en/tv-shows/the-world-this-week/20261113-the-downfall-of-ai-s-rock-star-boss-ukraine-who-speak-for-europe-protests-presidents",
-   "source": "France 24",
-   "published": "2026-11-13T19:46:54Z",
-   "region": "Europe",
-   "category": "news"
-  },
-  {
-   "title": "Hurry up and wait: Europe wants a place at the table, ‘must make up its mind’ over Ukraine",
-   "summary": "Gavin Lee is pleased to welcome Alexander Titov, Lecturer in Modern European History at Queen's University Belfast and a specialist on Russia. He's joined us to discuss high-level meetings in Abu Dhabi, Dublin and the prospects for ending the war in Ukraine.",
-   "link": "https://www.france24.com/en/tv-shows/spotlight/20261113-hurry-up-and-wait-europe-wants-a-place-at-the-table-must-make-up-its-mind-over-ukraine",
-   "source": "France 24",
-   "published": "2026-11-13T19:03:15Z",
-   "region": "Europe",
-   "category": "conflict"
+   "region": "Americas",
+   "category": "economy"
   },
   {
    "title": "What's Trump's strategy now with Iran? To keep things as they are",
@@ -421,15 +547,6 @@
    "category": "economy"
   },
   {
-   "title": "What we know about China's military exercises around Taiwan",
-   "summary": "China has been carrying out major military drills around Taiwan since early November. But contrary to some claims on social media, Beijing's armed forces have not actually implemented a blockade on the island; they just simulated it.",
-   "link": "https://www.france24.com/en/asia-pacific/20261113-chinese-army-military-exercises-taiwan",
-   "source": "France 24",
-   "published": "2026-11-13T18:19:19Z",
-   "region": "Asia-Pacific",
-   "category": "conflict"
-  },
-  {
    "title": "Are board games making a comeback this Christmas?",
    "summary": "Are board games making a comeback this Christmas?",
    "link": "https://www.bbc.co.uk/news/videos/ckp80l667rdjo?at_medium=RSS&at_campaign=rss",
@@ -437,15 +554,6 @@
    "published": "2026-11-13T18:00:40Z",
    "region": "Global",
    "category": "economy"
-  },
-  {
-   "title": "'We have done all our homework' to get EU candidate status: Kosovo's PM Albin Kurti",
-   "summary": "FRANCE 24 hosts Albin Kurti, the prime minister of Kosovo, a country that declared its independence from Serbia back in 2008 and sees itself as part of the European family. But four years after applying to join the EU, Kosovo has still not received candidate status. We explore Kosovo's path towards…",
-   "link": "https://www.france24.com/en/tv-shows/talking-europe/20261113-we-have-done-all-our-homework-to-get-eu-candidate-status-kosovo-s-pm-albin-kurti",
-   "source": "France 24",
-   "published": "2026-11-13T17:46:16Z",
-   "region": "Europe",
-   "category": "news"
   },
   {
    "title": "The dangers of revising Europe's security architecture",
@@ -493,56 +601,11 @@
    "category": "conflict"
   },
   {
-   "title": "Iran targeted US radar system in Bahrain",
-   "summary": "Iran claimed it struck US radar systems in Bahrain, while the US said it had intercepted the attacks. Clashes continue in the Strait of Hormuz, as the war remains in a state of de-escalation.",
-   "link": "https://www.dw.com/en/iran-targeted-us-radar-system-in-bahrain/a-79942640?maca=en-rss-en-world-4025-rdf",
-   "source": "DW World",
-   "published": "2026-11-13T15:32:00Z",
-   "region": "Middle East",
-   "category": "conflict"
-  },
-  {
-   "title": "Beijing faces its Russia dilemma amid talk of Xi-Trump-Putin summit",
-   "summary": "China is forced to tread carefully as it considers hosting a meeting between Xi Jinping, Vladimir Putin, and Donald Trump. While the optics are sure to favor Moscow, Beijing is risking its image at the global stage.",
-   "link": "https://www.dw.com/en/beijing-faces-its-russia-dilemma-amid-talk-of-xi-trump-putin-summit/a-79942427?maca=en-rss-en-world-4025-rdf",
-   "source": "DW World",
-   "published": "2026-11-13T15:28:00Z",
-   "region": "Europe",
-   "category": "news"
-  },
-  {
-   "title": "Indonesia's wiretapping scandal opens a political fault line",
-   "summary": "Senior police officers are accused of illegally monitoring President Prabowo Subianto, exposing rival networks within Indonesia's security establishment and renewing concerns about political misuse of surveillance.",
-   "link": "https://www.dw.com/en/indonesia-s-wiretapping-scandal-opens-a-political-fault-line/a-79939753?maca=en-rss-en-world-4025-rdf",
-   "source": "DW World",
-   "published": "2026-11-13T14:29:00Z",
-   "region": "Asia-Pacific",
-   "category": "news"
-  },
-  {
-   "title": "Shoplifters 'stealing to order' in Scottish shops",
-   "summary": "Shopworkers in Scotland say they're facing rising levels of violence, including attacks with harpoon guns and machetes, as reports of shoplifting rise dramatically.",
-   "link": "https://www.bbc.co.uk/news/videos/cw772xkxjm37o?at_medium=RSS&at_campaign=rss",
-   "source": "BBC Business",
-   "published": "2026-11-13T14:16:09Z",
-   "region": "Europe",
-   "category": "conflict"
-  },
-  {
    "title": "Is the AI bubble bursting just as Anthropic goes public?",
    "summary": "The sharp sell-off in tech stocks after the US midterms has cast doubt on Anthropic's looming IPO. Yet with hundreds of billions still being invested, some think the AI party is still in full swing.",
-   "link": "https://www.dw.com/en/is-the-ai-bubble-bursting-just-as-anthropic-goes-public/a-79896537?maca=en-rss-en-world-4025-rdf",
-   "source": "DW World",
+   "link": "https://www.dw.com/en/is-the-ai-bubble-bursting-just-as-anthropic-goes-public/a-79896537?maca=en-rss-en-bus-2091-rdf",
+   "source": "DW Business",
    "published": "2026-11-13T12:27:00Z",
-   "region": "Americas",
-   "category": "news"
-  },
-  {
-   "title": "How a sex scandal at Nvidia is putting pressure on the White House",
-   "summary": "Jensen Huang's personal life may have triggered the crisis, but the questions now reach into the White House itself.",
-   "link": "https://www.bbc.co.uk/news/articles/c67429m3vem3o?at_medium=RSS&at_campaign=rss",
-   "source": "BBC Business",
-   "published": "2026-11-13T12:22:30Z",
    "region": "Americas",
    "category": "economy"
   },
@@ -563,42 +626,6 @@
    "published": "2026-11-13T11:47:00Z",
    "region": "Global",
    "category": "news"
-  },
-  {
-   "title": "Humanitarian situation in Gaza worsens amid political deadlock",
-   "summary": "In war-battered Gaza, heavy rain flooded and damaged thousands of tents. Several people died. Could pressure by Trump's Board of Peace on Israel and Hamas help to ease the humanitarian crisis amid stalled peace talks?",
-   "link": "https://www.dw.com/en/humanitarian-situation-in-gaza-worsens-amid-political-deadlock/a-79931403?maca=en-rss-en-world-4025-rdf",
-   "source": "DW World",
-   "published": "2026-11-13T09:30:00Z",
-   "region": "Middle East",
-   "category": "conflict"
-  },
-  {
-   "title": "Heat pumps: How much heat does your home really need?",
-   "summary": "Knowing how much heat your home loses is important before installing a new heating system.",
-   "link": "https://www.bbc.co.uk/news/articles/cqy43zk3kk04o?at_medium=RSS&at_campaign=rss",
-   "source": "BBC Business",
-   "published": "2026-11-13T09:29:25Z",
-   "region": "Global",
-   "category": "economy"
-  },
-  {
-   "title": "Czechia braces for massive protest against public media reform plans",
-   "summary": "A fast-tracked bill to cut public media funding has sparked strikes, rallies and fears for the independence of public broadcasting in Czechia. A massive protest is planned for Prague on Sunday.",
-   "link": "https://www.dw.com/en/czechia-braces-for-massive-protest-against-public-media-reform-plans/a-79933533?maca=en-rss-en-world-4025-rdf",
-   "source": "DW World",
-   "published": "2026-11-13T08:35:00Z",
-   "region": "Global",
-   "category": "conflict"
-  },
-  {
-   "title": "Politicians back focus on cost of living",
-   "summary": "The Government of Jersey's key priorities are passed despite concerns over a lack of \"real action\".",
-   "link": "https://www.bbc.co.uk/news/articles/cqj9mjl8jy4no?at_medium=RSS&at_campaign=rss",
-   "source": "BBC Business",
-   "published": "2026-11-13T06:23:37Z",
-   "region": "Global",
-   "category": "economy"
   },
   {
    "title": "World is now in ‘age of electricity’, energy agency chief says",
@@ -706,15 +733,6 @@
    "source": "DW Business",
    "published": "2026-11-11T15:12:00Z",
    "region": "Asia-Pacific",
-   "category": "economy"
-  },
-  {
-   "title": "Democrats’ US election sweep brings the price of their promised social contract into focus",
-   "summary": "‘The post-election wish list is about to run into harsh fiscal reality: there is no money’ Is this an opportunity for a new America? As the Reagan revolution four decades ago launched US society down the path to low taxes and meager solidarity, perhaps the Republican bloodbath last week could turn…",
-   "link": "https://www.theguardian.com/business/2026/nov/11/democrats-election-medicaid-costs",
-   "source": "The Guardian Economics",
-   "published": "2026-11-11T11:00:46Z",
-   "region": "Americas",
    "category": "economy"
   }
  ]
