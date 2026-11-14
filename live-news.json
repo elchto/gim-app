@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-14T10:17:29Z",
+ "updatedAt": "2026-11-14T17:02:10Z",
  "sources": [
   "BBC World",
   "BBC Business",
@@ -13,95 +13,410 @@
   "CNBC World"
  ],
  "failed": [],
- "count": 80,
+ "count": 78,
  "items": [
   {
-   "title": "France protests for fifth Saturday against living costs and heavy-handed policing",
-   "summary": "Different causes are set to come together for one march in Paris this Saturday. Campaign groups, students and Yellow Vest protesters are due to join forces in the capital, bringing together demands on wages, education and civil liberties. But after weeks of demonstrations, union leaders warn that…",
-   "link": "https://www.france24.com/en/france-protests-for-fifth-saturday-against-living-costs-and-heavy-handed-policing",
-   "source": "France 24",
-   "published": "2026-11-14T10:15:42Z",
-   "region": "Europe",
-   "category": "news"
-  },
-  {
-   "title": "US nationwide flight ground stop: \"Our routers got overloaded with data\"",
-   "summary": "On Friday, the Federal Aviation Administration issued a rare nationwide ground stop. More than 8,200 flights, or over 31% of those scheduled in the United States, were canceled. The ground stop lasted nearly five hours and was the longest in the country since September 11, 2001. Officials blamed…",
-   "link": "https://www.france24.com/en/us-nationwide-flight-ground-stop-our-routers-got-overloaded-with-data",
-   "source": "France 24",
-   "published": "2026-11-14T10:14:09Z",
-   "region": "Americas",
-   "category": "news"
-  },
-  {
-   "title": "U.S. flights resume after FAA ground stop, but travel disruption continues",
-   "summary": "U.S. flights are resuming after the FAA ground stop, but delays and cancellations are still piling up.",
+   "title": "Ground stop followed updates to older L3Harris communication system: DOT’s Duffy",
+   "summary": "The FAA ground stop came after updates to an older communication system managed by L3Harris Technologies, Transportation Secretary Sean Duffy said Saturday.",
    "link": "https://www.cnbc.com/2026/11/14/faa-ground-stop-flights-resume-delays.html",
    "source": "CNBC World",
-   "published": "2026-11-14T10:04:43Z",
+   "published": "2026-11-14T16:46:11Z",
    "region": "Global",
    "category": "economy"
   },
   {
-   "title": "Guardian to follow lives of eight young people in their search for work",
-   "summary": "How long will it take? What challenges will they face? Series to shine light on one of biggest crises facing UK ‘The social contract is broken’: young people on feeling shut out of careers Britain is at risk of creating a lost generation. Across the country, almost a million young people – one in…",
-   "link": "https://www.theguardian.com/business/2026/nov/14/guardian-young-people-search-for-work",
+   "title": "Cold weather health alerts issued for parts of UK on Sunday night",
+   "summary": "UKHSA warns of threat to vulnerable people from frosty conditions expected to last until Thursday More cold health alerts have been issued for parts of the UK on Sunday night and next week. The alerts were issued by the UK Health Security Agency (UKHSA) for the north-west, West Midlands and…",
+   "link": "https://www.theguardian.com/uk-news/2026/nov/14/uk-weather-milder-weekend-autumn-freeze-frost",
    "source": "The Guardian World",
-   "published": "2026-11-14T10:00:42Z",
+   "published": "2026-11-14T16:42:04Z",
    "region": "Europe",
    "category": "news"
   },
   {
-   "title": "‘Still standing’: king jokes as he appears on Elton John’s Rocket Hour",
-   "summary": "Charles marks 78th birthday and 50th anniversary of King’s Trust charity with a playlist for special episode of podcast King Charles marked his 78th birthday on Saturday joking with Elton John that they were “still standing” as he appeared on the singer-songwriter’s Rocket Hour for a shared musical…",
-   "link": "https://www.theguardian.com/uk-news/2026/nov/14/king-charles-elton-john-rocket-hour",
+   "title": "US: What exactly caused the longest nationwide ground stop in 25 years?",
+   "summary": "After a nearly five-hour ground stoppage, flights in the US have resumed. However, officials are warning that it will take days to recover from the ongoing delays related to the incident. Transport Secretary Sean Duffy explained the crisis was due to a failure in ageing telecommunications…",
+   "link": "https://www.france24.com/en/us-what-exactly-caused-the-longest-nationwide-ground-stop-in-25-years",
+   "source": "France 24",
+   "published": "2026-11-14T16:35:52Z",
+   "region": "Americas",
+   "category": "news"
+  },
+  {
+   "title": "US Transport Secretary asks Congress for $30 bn to upgrade aviation infrastructure",
+   "summary": "A failure in aging telecommunications equipment Friday forced a nationwide halt to departures from US airports. Homeland Security Secretary Markwayne Mullin says officials have found no evidence so far of a cyberattack, but that they're not ruling it out. Details by Jack Pownall.",
+   "link": "https://www.france24.com/en/us-transport-secretary-asks-congress-for-30-bn-to-upgrade-aviation-infrastructure",
+   "source": "France 24",
+   "published": "2026-11-14T16:32:52Z",
+   "region": "Americas",
+   "category": "news"
+  },
+  {
+   "title": "Italy fines Meta €805m over accessing users' photos",
+   "summary": "The social media giant is accused of not informing about 20 million users it had access to their photos.",
+   "link": "https://www.bbc.co.uk/news/articles/cwn83gxemk35o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "published": "2026-11-14T16:29:48Z",
+   "region": "Europe",
+   "category": "news"
+  },
+  {
+   "title": "Italy fines Meta $880m over photo privacy",
+   "summary": "Regulator said Meta's 'lack of cooperation' and the large number of people affected contributed to size of the fine.",
+   "link": "https://www.aljazeera.com/news/2026/11/14/italy-fines-meta-880m-over-photo-privacy?traffic_source=rss",
+   "source": "Al Jazeera",
+   "published": "2026-11-14T16:16:15Z",
+   "region": "Europe",
+   "category": "news"
+  },
+  {
+   "title": "Myanmar airstrike kills 12 at displacement camp in Rakhine state",
+   "summary": "A Myanmar military airstrike on a displacement camp in Rakhine state killed 12 people.",
+   "link": "https://www.aljazeera.com/video/newsfeed/2026/11/14/myanmar-airstrike-displacement-camp-rakhine?traffic_source=rss",
+   "source": "Al Jazeera",
+   "published": "2026-11-14T16:13:43Z",
+   "region": "Asia-Pacific",
+   "category": "conflict"
+  },
+  {
+   "title": "Fuel crisis and protests pressure Chile's far-right president",
+   "summary": "Chile's far-right President José Antonio Kast is facing mounting public anger, as rising fuel prices trigger transport strikes and protests across the country.",
+   "link": "https://www.npr.org/2026/11/14/nx-s1-6040144/chile-protests-fuel-kast-students",
+   "source": "NPR World",
+   "published": "2026-11-14T16:05:12Z",
+   "region": "Americas",
+   "category": "conflict"
+  },
+  {
+   "title": "A rapid interest rate rise seems inevitable – and households are expected to pick up the tab",
+   "summary": "Raising borrowing costs too far risks laying waste to whatever growth there is in the economy A head of steam is building up behind the Bank of England raising interest rates again. With the latest forecasts by the central bank showing inflation rising to 5% next spring, another increase in the…",
+   "link": "https://www.theguardian.com/business/2026/nov/14/interest-rate-rise-phillip-inman-inflation-economy",
    "source": "The Guardian World",
-   "published": "2026-11-14T10:00:41Z",
+   "published": "2026-11-14T16:00:48Z",
+   "region": "Europe",
+   "category": "economy"
+  },
+  {
+   "title": "EU calls for immediate humanitarian access to Gaza",
+   "summary": "The EU said that “Israel must enable the work of the UN and its agencies\" after the group was blocked access into Gaza.",
+   "link": "https://www.aljazeera.com/news/2026/11/14/eu-calls-for-immediate-humanitarian-access-to-gaza?traffic_source=rss",
+   "source": "Al Jazeera",
+   "published": "2026-11-14T15:57:22Z",
+   "region": "Middle East",
+   "category": "news"
+  },
+  {
+   "title": "Trump, Putin and Xi plan historic joint meeting in China next week, White House says",
+   "summary": "Trump will discuss the \"reduction of nuclear weapons\" during the unprecedented talks, a spokeswoman says.",
+   "link": "https://www.bbc.co.uk/news/articles/ckz74jzpy18do?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "published": "2026-11-14T15:53:55Z",
+   "region": "Americas",
+   "category": "conflict"
+  },
+  {
+   "title": "How Nvidia turmoil and a Democratic Congress could reshape the AI trade, according to ETF experts",
+   "summary": "ETF experts say Nvidia’s leadership turmoil and Democratic control of Congress could shift AI demand to the benefit of other Big Tech stocks, rival chipmakers.",
+   "link": "https://www.cnbc.com/2026/11/14/nvidia-ai-trade-data-centers-congress.html",
+   "source": "CNBC World",
+   "published": "2026-11-14T15:50:43Z",
+   "region": "Americas",
+   "category": "economy"
+  },
+  {
+   "title": "Nigeria cautions against travel via Ethiopia's main airport due to altitude",
+   "summary": "The foreign ministry in Abuja says 6 Nigerians with underlying health problems have died this year while transiting through Addis Ababa.",
+   "link": "https://www.bbc.co.uk/news/articles/cmz6qjpdy2wqo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "published": "2026-11-14T15:42:54Z",
+   "region": "Africa",
+   "category": "news"
+  },
+  {
+   "title": "Trump doesn’t plan to raise Nvidia, spy issue during China trip: U.S. officials",
+   "summary": "Nvidia CEO Jensen Huang resigned this week after reports of multiple affairs, including one with a suspected Chinese spy, Alice Huang.",
+   "link": "https://www.cnbc.com/2026/11/13/trump-nvidia-huang-china.html",
+   "source": "CNBC World",
+   "published": "2026-11-14T15:36:47Z",
+   "region": "Asia-Pacific",
+   "category": "economy"
+  },
+  {
+   "title": "Jerusalem Daily: Israeli forces occupy Palestinian-American’s home",
+   "summary": "Israeli forces occupied a Palestinian-American’s home in the occupied West Bank for 17 days.",
+   "link": "https://www.aljazeera.com/video/newsfeed/2026/11/14/jerusalem-daily-israeli-forces-occupy-palestinian-americans-home?traffic_source=rss",
+   "source": "Al Jazeera",
+   "published": "2026-11-14T15:36:37Z",
+   "region": "Middle East",
+   "category": "news"
+  },
+  {
+   "title": "Andy Burnham says UK has ‘lost more than we gained’ through Brexit",
+   "summary": "PM accuses Tories of burning ‘all our bridges’ and says deal he is pursuing with EU will ‘get food prices down’ Andy Burnham has said the UK has “lost more than we gained” since leaving the EU, the prime minister’s latest in a string of comments criticising Brexit. Outlining his desire to form…",
+   "link": "https://www.theguardian.com/world/2026/nov/14/andy-burnham-says-uk-lost-more-than-we-gained-brexit",
+   "source": "The Guardian World",
+   "published": "2026-11-14T15:34:54Z",
+   "region": "Europe",
+   "category": "news"
+  },
+  {
+   "title": "US has floated Ukraine ceding Donbas for Nato membership, Zelensky says",
+   "summary": "The Ukrainian president says US envoys touted the exchange as part of efforts to end the war with Russia.",
+   "link": "https://www.bbc.co.uk/news/articles/cwvg2l312ylqo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "published": "2026-11-14T15:15:57Z",
+   "region": "Europe",
+   "category": "conflict"
+  },
+  {
+   "title": "NASA’s Voyager 1 to hit new space distance record of one light-day",
+   "summary": "The probe was launched in 1977, and it continues to relay space-related data back to a team of NASA scientists.",
+   "link": "https://www.aljazeera.com/news/2026/11/14/nasas-voyager-1-to-hit-new-space-distance-record-of-one-light-day?traffic_source=rss",
+   "source": "Al Jazeera",
+   "published": "2026-11-14T15:14:54Z",
    "region": "Global",
    "category": "news"
   },
   {
-   "title": "Migrant caravan heads to US from Mexico after Democrats’ midterm win",
-   "summary": "A migrant caravan of more than a thousand people is heading towards the US border from southern Mexico.",
-   "link": "https://www.aljazeera.com/video/newsfeed/2026/11/14/migrant-caravan-heads-to-us-from-mexico-after-democrats-midterm-win?traffic_source=rss",
+   "title": "Canada’s Stelco to recall 175 workers after government pressure",
+   "summary": "Steelmaker promises back pay for workers whose layoffs its US owner blamed on tariffs, weak demand and imports.",
+   "link": "https://www.aljazeera.com/economy/2026/11/14/canadas-stelco-to-recall-175-workers-after-government-pressure?traffic_source=rss",
    "source": "Al Jazeera",
-   "published": "2026-11-14T09:43:54Z",
+   "published": "2026-11-14T15:06:52Z",
+   "region": "Americas",
+   "category": "economy"
+  },
+  {
+   "title": "US air travel slowly recovers from nationwide flight ground stop as chaos continues",
+   "summary": "Thousands of flights still canceled as officials blamed ageing air control system for nationwide grounding Travel chaos continued across the US on Saturday morning as airlines scrambled to recover from a four-hour nationwide Federal Aviation Administration (FAA) ground stop that delayed or canceled…",
+   "link": "https://www.theguardian.com/world/2026/nov/14/faa-ground-stop-flights-resume-airport-chaos",
+   "source": "The Guardian World",
+   "published": "2026-11-14T15:03:00Z",
    "region": "Americas",
    "category": "news"
   },
   {
-   "title": "Netanyahu may fall, but his far-right legacy in Israel is going nowhere",
-   "summary": "Israel’s far-right is accused of embedding a hardline agenda so deeply that reversing it may prove almost impossible.",
-   "link": "https://www.aljazeera.com/news/2026/11/14/netanyahu-may-fall-but-his-far-right-legacy-in-israel-is-going-nowhere?traffic_source=rss",
-   "source": "Al Jazeera",
-   "published": "2026-11-14T09:43:27Z",
+   "title": "How a US extradition bid over Hamas allegations put a wealthy activist before a Spanish court",
+   "summary": "James ‘Fergie’ Chambers, a Cox Enterprises heir, faced a two-hour hearing about alleged support for Hamas A two-hour hearing in Spain’s high court Friday on the US extradition request of wealthy leftwing activist and philanthropist James “Fergie” Chambers turned out to be a study in contrasts…",
+   "link": "https://www.theguardian.com/us-news/2026/nov/14/activist-extradition-gaza-hamas-spanish-court",
+   "source": "The Guardian World",
+   "published": "2026-11-14T15:00:47Z",
    "region": "Middle East",
    "category": "news"
   },
   {
-   "title": "Pochettino bids emotional farewell to US football ahead of Man Utd move",
-   "summary": "Mauricio Pochettino has bid an emotional farewell to US football as he prepares to take charge of Manchester United.",
-   "link": "https://www.aljazeera.com/video/newsfeed/2026/11/14/pochettino-bids-emotional-farewell-to-us-football-ahead-of-man-utd-move?traffic_source=rss",
+   "title": "'Poisoned chalice': French presidential hopeful Riner rebuffs Macron's backing",
+   "summary": "French judo champion Teddy Riner on Saturday publicly distanced himself from President Emmanuel Macron, calling his endorsement a \"poisoned chalice\". The presidential hopeful seeks to position himself as an alternative to France's political extremes.",
+   "link": "https://www.france24.com/en/france/20261114-judo-star-and-presidential-hopeful-riner-calls-macron",
+   "source": "France 24",
+   "published": "2026-11-14T14:57:22Z",
+   "region": "Europe",
+   "category": "news"
+  },
+  {
+   "title": "Why US Democrats are expected to keep Schumer and Jeffries in power",
+   "summary": "The prospect of keeping the Congressional leaders in power is exposing long-running tensions in the party.",
+   "link": "https://www.aljazeera.com/news-analysis/2026/11/14/why-us-democrats-are-expected-to-keep-schumer-and-jeffries-in-power?traffic_source=rss",
    "source": "Al Jazeera",
-   "published": "2026-11-14T09:27:59Z",
+   "published": "2026-11-14T14:57:04Z",
    "region": "Americas",
    "category": "news"
   },
   {
-   "title": "Qatar and Turkiye sign a mutual defence pact: What do we know?",
-   "summary": "Analysts say the pact, agreed amid the US-Iran war, aims to deter attacks rather than build an offensive alliance.",
-   "link": "https://www.aljazeera.com/news/2026/11/14/qatar-and-turkiye-sign-a-mutual-defence-pact-what-do-we-know?traffic_source=rss",
-   "source": "Al Jazeera",
-   "published": "2026-11-14T09:19:43Z",
-   "region": "Middle East",
+   "title": "DR Congo, Rwanda clash over Francophonie leadership as Macron seeks compromise",
+   "summary": "DR Congo and Rwanda clashed Saturday over the leadership of the Francophonie, as tensions between the neighbouring countries spilled into the race to head the 53-member organisation. French President Emmanuel Macron urged Rwanda to withdraw its candidate in favour of a compromise choice ahead of…",
+   "link": "https://www.france24.com/en/africa/20261114-dr-congo-rwanda-clash-over-francophonie-leadership-as-macron-seeks-compromise",
+   "source": "France 24",
+   "published": "2026-11-14T14:54:43Z",
+   "region": "Africa",
    "category": "conflict"
   },
   {
-   "title": "Nearly $20m found in Hungary’s forests, buildings amid corruption probe",
-   "summary": "An ex-minister faces a bribery probe as Hungary's new government investigates alleged corruption during Orban's rule.",
-   "link": "https://www.aljazeera.com/news/2026/11/14/hungarian-investigators-uncover-19-5m-hidden-in-forests-and-buildings?traffic_source=rss",
+   "title": "How Rockstar's 'GTA VI' release could reshape gaming, streaming and even paid time off",
+   "summary": "\"Grand Theft Auto VI\" launches Nov. 19 with huge expectations. Its impact could reach creators, streaming, music, workplace time off, food delivery and tourism.",
+   "link": "https://www.cnbc.com/2026/11/14/gta-6-grand-theft-auto-launch.html",
+   "source": "CNBC World",
+   "published": "2026-11-14T14:54:22Z",
+   "region": "Global",
+   "category": "economy"
+  },
+  {
+   "title": "Empower conference: officials and youth discuss peace and security",
+   "summary": "At the Empower Conference in Doha, officials gathered with youth to discuss initiatives for global peace and security.",
+   "link": "https://www.aljazeera.com/video/newsfeed/2026/11/14/empower-conference-officials-and-youth-discuss-peace-and-security?traffic_source=rss",
    "source": "Al Jazeera",
-   "published": "2026-11-14T09:08:21Z",
+   "published": "2026-11-14T14:49:37Z",
+   "region": "Global",
+   "category": "news"
+  },
+  {
+   "title": "Interest rate rises likely in coming months, Bank of England’s chief economist says",
+   "summary": "‘We have further to go,’ says Huw Pill after increase to 4% this month as Bank seeks to tackle rising inflation The Bank of England will probably need to raise interest rates next month and again in early 2027 to combat rising inflation, its chief economist has said. Signalling a sharp rise in…",
+   "link": "https://www.theguardian.com/business/2026/nov/14/interest-rate-rises-inflation-bank-of-england-chief-economist",
+   "source": "The Guardian World",
+   "published": "2026-11-14T14:42:27Z",
+   "region": "Europe",
+   "category": "economy"
+  },
+  {
+   "title": "Napping Kansas driver whose truck sped on to soccer field and killed two won’t be charged",
+   "summary": "Authorities declined to file charges against napping woman whose truck accelerated on to field during youth game A soccer mom napping in her pickup truck when it suddenly accelerated on to the field at a Kansas youth tournament where her child was playing, killing two people , won’t face criminal…",
+   "link": "https://www.theguardian.com/us-news/2026/nov/14/kansas-driver-soccer-field-deaths-no-charges",
+   "source": "The Guardian World",
+   "published": "2026-11-14T14:38:36Z",
+   "region": "Global",
+   "category": "conflict"
+  },
+  {
+   "title": "When tech founders leave, what happens to their companies?",
+   "summary": "Nvidia could lose 30 percent of its value following cofounder Jensen Huang's decision to step down, analysts warns.",
+   "link": "https://www.aljazeera.com/economy/2026/11/14/when-tech-founders-leave-what-happens-to-their-companies?traffic_source=rss",
+   "source": "Al Jazeera",
+   "published": "2026-11-14T14:24:36Z",
+   "region": "Global",
+   "category": "news"
+  },
+  {
+   "title": "What we know about the ground stop and what to do if you're affected",
+   "summary": "US officials say the disruption was caused by old equipment overloading and not a cyber-attack.",
+   "link": "https://www.bbc.co.uk/news/articles/cqx2wyvyr3zzo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "published": "2026-11-14T14:20:57Z",
+   "region": "Americas",
+   "category": "conflict"
+  },
+  {
+   "title": "Second catch attempt for SpaceX Starship rocket",
+   "summary": "The attempt follows an unsuccessful effort to catch of the rocket’s booster which instead came down in the ocean.",
+   "link": "https://www.bbc.co.uk/news/articles/ckregdgnl0xpo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "published": "2026-11-14T14:18:41Z",
+   "region": "Global",
+   "category": "news"
+  },
+  {
+   "title": "Bomb found at Illinois ethanol plant, prompting evacuations",
+   "summary": "Peoria officials said a bomb was found at BioUrja Renewables and later defused; FBI said it is investigating Residents were ordered to evacuate parts of an Illinois community on Friday after the mayor there said authorities found a bomb at a local ethanol- and alcohol-production plant. The…",
+   "link": "https://www.theguardian.com/us-news/2026/nov/14/peoria-illinois-evacuation-bomb",
+   "source": "The Guardian World",
+   "published": "2026-11-14T14:13:49Z",
+   "region": "Global",
+   "category": "conflict"
+  },
+  {
+   "title": "Torture survivors may have been sent to Sussex asylum camp unlawfully, documentary reveals",
+   "summary": "Undercover ITV report also shows inadequate welfare checks at ex-military base run by firm of asylum camp billionaire Graham King Asylum seekers accommodated at a controversial military base in East Sussex have been subjected to inadequate welfare checks, and torture survivors may have been placed…",
+   "link": "https://www.theguardian.com/uk-news/2026/nov/14/asylum-seekers-crowborough-torture-survivors-military-camp",
+   "source": "The Guardian World",
+   "published": "2026-11-14T14:07:47Z",
+   "region": "Global",
+   "category": "conflict"
+  },
+  {
+   "title": "Berkshire breaks out to record high with fourth-quarter rally reaching 19%",
+   "summary": "Berkshire Hathaway's red-hot shares are ending a strong week with four consecutive fresh record high closes.",
+   "link": "https://www.cnbc.com/2026/11/14/berkshire-breaks-out-to-record-high-with-fourth-quarter-rally-reaching-19percent.html",
+   "source": "CNBC World",
+   "published": "2026-11-14T14:02:39Z",
+   "region": "Global",
+   "category": "economy"
+  },
+  {
+   "title": "'I never imagined my father was a Nazi': Born in a German-run 'baby factory'",
+   "summary": "Two trainloads of children, some of them born in Nazi-run \"Lebensborn\" maternity homes, were brought from Germany to Commercy in eastern France in 1946. One of those on board was Édith Pagot.",
+   "link": "https://www.france24.com/en/france/20261114-i-never-imagined-my-father-was-a-nazi-born-in-a-german-run-baby-factory",
+   "source": "France 24",
+   "published": "2026-11-14T13:25:35Z",
+   "region": "Europe",
+   "category": "news"
+  },
+  {
+   "title": "USA: All passengers survive after tanker hits docked river cruise ship in New Orleans",
+   "summary": "A portion of the Mississippi River remains closed after a collision between an oil tanker and a riverboat forced a chaotic river rescue in Louisiana. Story by Caitlin Brown.",
+   "link": "https://www.france24.com/en/usa-all-passengers-survive-after-tanker-hits-docked-river-cruise-ship-in-new-orleans",
+   "source": "France 24",
+   "published": "2026-11-14T13:15:42Z",
+   "region": "Americas",
+   "category": "news"
+  },
+  {
+   "title": "Retailers are turning to entertainment to win shoppers’ attention",
+   "summary": "Retailers are increasingly investing in and building out entertainment studios as the race for audience attention speeds up.",
+   "link": "https://www.cnbc.com/2026/11/14/retailers-invest-entertainment.html",
+   "source": "CNBC World",
+   "published": "2026-11-14T13:00:01Z",
+   "region": "Global",
+   "category": "economy"
+  },
+  {
+   "title": "Inside Ethiopia's war: Rare access to a hospital treating victims of renewed fighting",
+   "summary": "Ethiopia's renewed conflict is taking an increasing toll on civilians, with humanitarian organisations reporting a rise in casualties. In the Amhara region, FRANCE 24’s correspondent Tom Canetti was granted rare access to a civilian hospital where surgeons are struggling to treat the influx of…",
+   "link": "https://www.france24.com/en/inside-ethiopia-s-war-rare-access-to-a-hospital-treating-victims-of-renewed-fighting",
+   "source": "France 24",
+   "published": "2026-11-14T12:23:32Z",
+   "region": "Africa",
+   "category": "conflict"
+  },
+  {
+   "title": "Who are the 'street medics' showing up at protests around the world?",
+   "summary": "From treating tear gas exposure to tending to injuries, street medics have become an increasingly common sight at protests all over the world. But who exactly are they and when did they start showing up at demonstrations? Story by Daniel Quinlan.",
+   "link": "https://www.france24.com/en/who-are-the-street-medics-showing-up-at-protests-around-the-world",
+   "source": "France 24",
+   "published": "2026-11-14T12:19:19Z",
+   "region": "Global",
+   "category": "news"
+  },
+  {
+   "title": "U2 releases first new studio album in a decade, 'Caranaval de Luz'",
+   "summary": "U2 just released a new album after nine years of no new content. And fans are already rocking out to the new songs. Details on the Irish rock band’s comeback by Ophelie Jacobson.",
+   "link": "https://www.france24.com/en/u2-releases-first-new-studio-album-in-a-decade-caranaval-de-luz",
+   "source": "France 24",
+   "published": "2026-11-14T12:17:19Z",
+   "region": "Europe",
+   "category": "news"
+  },
+  {
+   "title": "Eric Trump-backed robot soldier startup can't pay staff after founder borrowed $4.6 million from company to buy home",
+   "summary": "Eric Trump-backed robot startup Foundation Future Industries has run low on cash and missed payroll, as CEO Sankaet Pathak faces scrutiny over a $4.6 million company loan.",
+   "link": "https://www.cnbc.com/2026/11/14/foundation-payroll-ceo-loan.html",
+   "source": "CNBC World",
+   "published": "2026-11-14T12:00:01Z",
+   "region": "Americas",
+   "category": "conflict"
+  },
+  {
+   "title": "Ukraine: Zelenskyy says security deal could go to referendum",
+   "summary": "The US has broached the idea of Kyiv giving up the Donbas region in exchange for NATO membership, the Ukrainian president said.",
+   "link": "https://www.dw.com/en/ukraine-zelenskyy-says-security-deal-could-go-to-referendum/a-79947535?maca=en-rss-en-world-4025-rdf",
+   "source": "DW World",
+   "published": "2026-11-14T11:40:00Z",
+   "region": "Europe",
+   "category": "news"
+  },
+  {
+   "title": "Watch: Cruise ship overturns after collision with tanker in New Orleans",
+   "summary": "Around 130 people were rescued from a cruise ship after it was struck by a tanker while docked in New Orleans, Louisiana on Friday.",
+   "link": "https://www.bbc.co.uk/news/videos/ck4gn4y77m40o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "published": "2026-11-14T11:30:10Z",
+   "region": "Global",
+   "category": "news"
+  },
+  {
+   "title": "New facilities in Laos and Cambodia: Is China expanding its military presence in Southeast Asia?",
+   "summary": "China has been growing its economic relationships in Southeast Asia. Now new military facilities in Laos and Cambodia are causing smaller countries to worry China's military networks are also expanding.",
+   "link": "https://www.dw.com/en/new-facilities-in-laos-and-cambodia-is-china-expanding-its-military-presence-in-southeast-asia/a-79944798?maca=en-rss-en-world-4025-rdf",
+   "source": "DW World",
+   "published": "2026-11-14T11:24:00Z",
+   "region": "Asia-Pacific",
+   "category": "conflict"
+  },
+  {
+   "title": "Hungarian authorities uncover $20m during probe of Orbán-era minister",
+   "summary": "Prime Minister Péter Magyar promised a sweeping anti-corruption drive after ousting Orbán in April.",
+   "link": "https://www.bbc.co.uk/news/articles/ckjwj03w4w0qo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "published": "2026-11-14T10:42:20Z",
    "region": "Europe",
    "category": "news"
   },
@@ -112,24 +427,6 @@
    "source": "DW World",
    "published": "2026-11-14T09:06:00Z",
    "region": "Americas",
-   "category": "news"
-  },
-  {
-   "title": "Immersive show brings Kyffin Williams’ rugged Welsh landscapes to life",
-   "summary": "Paintings by one of country’s most important artists have been animated and set to music at National Library of Wales The paintings of artists such as Vincent van Gogh, Paul Cézanne and David Hockney have been brought to life in all-singing, all-dancing immersive shows in recent years. Now one of…",
-   "link": "https://www.theguardian.com/artanddesign/2026/nov/14/sir-kyffin-williams-artist-immersive-exhibition-national-library-wales-aberystwyth",
-   "source": "The Guardian World",
-   "published": "2026-11-14T09:00:39Z",
-   "region": "Global",
-   "category": "news"
-  },
-  {
-   "title": "Hungary seizes $18m cash tied to ex-Orban-era minister in probe",
-   "summary": "Anti-corruption authorities in Hungary say they found around $18 million in hidden cash.",
-   "link": "https://www.aljazeera.com/video/newsfeed/2026/11/14/hungary-seizes-18m-cash-tied-to-ex-orban-era-minister-in-probe?traffic_source=rss",
-   "source": "Al Jazeera",
-   "published": "2026-11-14T08:39:07Z",
-   "region": "Europe",
    "category": "news"
   },
   {
@@ -160,42 +457,6 @@
    "category": "economy"
   },
   {
-   "title": "Warner accuses Cricket Australia of ‘cover-up’ in ball-tampering scandal",
-   "summary": "Former opener Warner was banned for a year for his involvement in the 2018 'Sandpapergate' incident in South Africa.",
-   "link": "https://www.aljazeera.com/sports/2026/11/14/warner-cricket-australia-ball-tampering-sandpapergate-khawaja-cummins?traffic_source=rss",
-   "source": "Al Jazeera",
-   "published": "2026-11-14T08:10:14Z",
-   "region": "Asia-Pacific",
-   "category": "news"
-  },
-  {
-   "title": "Pacers hold off Knicks in NBA Cup thriller, Spurs rout Warriors",
-   "summary": "The New York Knicks look unlikely to advance to the NBA Cup knockout rounds after falling to the Indiana Pacers.",
-   "link": "https://www.aljazeera.com/sports/2026/11/14/nba-cup-basketball-pacers-knicks-spurs-warriors?traffic_source=rss",
-   "source": "Al Jazeera",
-   "published": "2026-11-14T08:01:23Z",
-   "region": "Asia-Pacific",
-   "category": "news"
-  },
-  {
-   "title": "Hundreds of children in England prescribed weight-loss jabs, figures show",
-   "summary": "Exclusive: investigation finds prescriptions for children under 12, as experts stress need for specialist supervision and long-term monitoring Hundreds of children in England are receiving prescriptions for GLP-1 medications, including some younger than 12, the Guardian can reveal. GLP-1…",
-   "link": "https://www.theguardian.com/science/2026/nov/14/children-iengland-prescribed-weight-loss-jabs",
-   "source": "The Guardian World",
-   "published": "2026-11-14T08:00:39Z",
-   "region": "Europe",
-   "category": "news"
-  },
-  {
-   "title": "Tout offers £1m of U2 tickets on StubHub, raising questions about ‘bot’ clampdown",
-   "summary": "Artists and industry figures call for culture secretary to ‘shut down the touts’ by outlawing resale for profit One tout is advertising £1m of tickets for U2’s long-awaited 2027 tour through StubHub, raising questions about the website’s condemnation of professional ticket traders who use “bot”…",
-   "link": "https://www.theguardian.com/money/2026/nov/14/u2-tickets-stubhub-bot-culture-secretary-resale",
-   "source": "The Guardian World",
-   "published": "2026-11-14T08:00:39Z",
-   "region": "Global",
-   "category": "news"
-  },
-  {
    "title": "Nigeria: How the pcoming elections are influeced by the rise of AI disinformation",
    "summary": "As Nigeria inches closer to the 2027 polls, the use of artificial intelligence in the electoral process has prompted questions about integrity and institutional readiness. Can Nigerians trust their democratic processes?",
    "link": "https://www.dw.com/en/nigeria-how-the-pcoming-elections-are-influeced-by-the-rise-of-ai-disinformation/a-79946897?maca=en-rss-en-world-4025-rdf",
@@ -205,15 +466,6 @@
    "category": "news"
   },
   {
-   "title": "UN says 25 seafarers killed in, around Hormuz since US-Israel war on Iran",
-   "summary": "'Situation cannot become new normal', says UN's Khaled Khiari, as Iran reports three more vessels hitting mines.",
-   "link": "https://www.aljazeera.com/news/2026/11/14/un-says-25-seafarers-killed-in-around-hormuz-since-february?traffic_source=rss",
-   "source": "Al Jazeera",
-   "published": "2026-11-14T07:46:36Z",
-   "region": "Middle East",
-   "category": "conflict"
-  },
-  {
    "title": "The rise of 'housefishing' by estate agents",
    "summary": "The rise of 'housefishing' by estate agents.",
    "link": "https://www.bbc.co.uk/news/videos/cmx295lz17wzo?at_medium=RSS&at_campaign=rss",
@@ -221,15 +473,6 @@
    "published": "2026-11-14T07:45:50Z",
    "region": "Global",
    "category": "economy"
-  },
-  {
-   "title": "What we know about the ground stop and what to do if you're affected",
-   "summary": "US officials say the disruption was caused by old equipment overloading and not a cyber-attack.",
-   "link": "https://www.bbc.co.uk/news/articles/cqx2wyvyr3zzo?at_medium=RSS&at_campaign=rss",
-   "source": "BBC World",
-   "published": "2026-11-14T07:42:11Z",
-   "region": "Americas",
-   "category": "conflict"
   },
   {
    "title": "Espionage accusations: a pressure tactic for Turkish government critics",
@@ -250,15 +493,6 @@
    "category": "economy"
   },
   {
-   "title": "Live: France deploys 70,000 police for new wave of anti-government protests",
-   "summary": "Between 50 and 60 marches are expected in France on Saturday, according to Interior Minister Laurent Nuñez, who plans to mobilise approximately 70,000 police officers and gendarmes across the country. In Paris, the march will commence at 1pm from Place de la République heading towards Place de la…",
-   "link": "https://www.france24.com/en/france/20261114-live-france-mobilises-in-fifth-wave-of-student-protests",
-   "source": "France 24",
-   "published": "2026-11-14T07:09:32Z",
-   "region": "Europe",
-   "category": "news"
-  },
-  {
    "title": "Analysis: Companies love a ‘rockstar’ CEO. Until they depend on one",
    "summary": "Jensen Huang’s exit tests Nvidia’s succession planning and governance, and offers lessons for companies that elevate their CEOs to rockstar status.",
    "link": "https://www.cnbc.com/2026/11/14/nvidia-jensen-huang-ceo-succession-risk.html",
@@ -266,15 +500,6 @@
    "published": "2026-11-14T07:08:45Z",
    "region": "Global",
    "category": "economy"
-  },
-  {
-   "title": "UK-EU breakthrough will allow airport-style checks at Eurotunnel to avoid border ‘chaos’",
-   "summary": "Eurotunnel owner Getlink wants to replicate ‘airport experience’ at Folkestone and Calais, without making people get out of cars Airport-style passport and fingerprinting controls are to be introduced at Eurotunnel in an attempt to prevent “short-term and long-term chaos” in Folkestone and Calais…",
-   "link": "https://www.theguardian.com/travel/2026/nov/14/eurotunnel-drive-in-fingerprint-trial-folkestone-calais-border",
-   "source": "The Guardian World",
-   "published": "2026-11-14T07:00:38Z",
-   "region": "Europe",
-   "category": "news"
   },
   {
    "title": "Microsoft says services fully restored after day-long global outage",
@@ -295,15 +520,6 @@
    "category": "economy"
   },
   {
-   "title": "Microsoft ‘deeply sorry’ for global outage that could have billion-dollar impact on Australia",
-   "summary": "Experts say disruption exposes ‘Australia’s reliance on foreign technology’ as software giant says services being restored Get our breaking news email , free app or daily news podcast The Microsoft outage could be a disaster for the Australian economy that forces some small businesses to close…",
-   "link": "https://www.theguardian.com/australia-news/2026/nov/14/microsoft-deeply-sorry-for-global-disruption-that-could-have-billion-dollar-impact-on-australia",
-   "source": "The Guardian World",
-   "published": "2026-11-14T06:19:04Z",
-   "region": "Asia-Pacific",
-   "category": "economy"
-  },
-  {
    "title": "Gen Z protests: Do Baby Boomers really have it better than young people?",
    "summary": "Should young people in Germany be more worried about their future than Baby Boomers were in the 1980s and 1990s? Or should both generations take to the streets and protest together? DW checked the data.",
    "link": "https://www.dw.com/en/gen-z-protests-do-baby-boomers-really-have-it-better-than-young-people/a-79918854?maca=en-rss-en-world-4025-rdf",
@@ -313,201 +529,12 @@
    "category": "news"
   },
   {
-   "title": "Microsoft says all services 'fully recovered' after global outage",
-   "summary": "The tech giant confirmed on Saturday morning that all services have recovered ⁠across ‌Teams, Outlook, Copilot and ⁠other applications, ​ending a ‌global outage ‌that ​crippled online communications across businesses and ​governments ​for ​over 24 hours. The US homeland security chief confirmed…",
-   "link": "https://www.france24.com/en/technology/20261114-microsoft-says-consumer-products-fully-recovered-business-services-improving",
-   "source": "France 24",
-   "published": "2026-11-14T06:07:56Z",
-   "region": "Americas",
-   "category": "news"
-  },
-  {
-   "title": "Ecuador wants to monetize its biodiversity — while still drilling for oil",
-   "summary": "Ecuador is planning to channel funds into its biodiversity, but faces a key challenge: its reliance on oil.",
-   "link": "https://www.cnbc.com/2026/11/14/ecuador-biodiversity-green-finance-oil.html",
-   "source": "CNBC World",
-   "published": "2026-11-14T06:00:01Z",
-   "region": "Americas",
-   "category": "economy"
-  },
-  {
-   "title": "Airport chaos continues after US ground stop lifted – as it happened",
-   "summary": "This blog is now closed. See our full reports: US aviation agency lifts nationwide ground stop affecting all air travel Chaos at US airports as flight stoppage grinds travel plans to a halt Sign up for the Breaking News US email We’re wrapping up this live coverage of the US ground stop and travel…",
-   "link": "https://www.theguardian.com/world/live/2026/nov/13/us-flight-outage-live-updates-faa-lifts-nationwide-ground-stop-as-airport-chaos-continues",
-   "source": "The Guardian World",
-   "published": "2026-11-14T05:55:53Z",
-   "region": "Americas",
-   "category": "news"
-  },
-  {
-   "title": "Trump, Putin and Xi plan historic joint meeting in China next week, White House says",
-   "summary": "Trump will discuss the \"reduction of nuclear weapons\" during the unprecedented talks, a spokeswoman says.",
-   "link": "https://www.bbc.co.uk/news/articles/ckz74jzpy18do?at_medium=RSS&at_campaign=rss",
-   "source": "BBC World",
-   "published": "2026-11-14T05:52:31Z",
-   "region": "Americas",
-   "category": "conflict"
-  },
-  {
-   "title": "FAA lifts ground stop after more than four hours, but flight cancellations will stretch into the weekend",
-   "summary": "The Federal Aviation Administration issued a nationwide ground stop on Friday afternoon, disrupting thousands of departing of flights.",
-   "link": "https://www.cnbc.com/2026/11/13/faa-ground-stop.html",
-   "source": "CNBC World",
-   "published": "2026-11-14T05:08:24Z",
-   "region": "Global",
-   "category": "economy"
-  },
-  {
-   "title": "University hounded out of Hungary by Orbán reaches out to new government",
-   "summary": "Prospect of partial return to Budapest by Central European University suggests confidence in Hungary’s future A university that Viktor Orbán tried to chase out of Hungary is open to expanding its presence in Budapest, in a mark of confidence in the country’s democratic future. Carsten Q Schneider…",
-   "link": "https://www.theguardian.com/world/2026/nov/14/university-hungary-orban-soros-ceu",
-   "source": "The Guardian World",
-   "published": "2026-11-14T05:00:35Z",
-   "region": "Europe",
-   "category": "news"
-  },
-  {
-   "title": "FAA lifts nationwide ground stop on all US flights",
-   "summary": "The United States on Friday lifted an hours-long ground stop at the nation's airports, with top officials explaining that the disruption was not due to a cyberattack or a sweeping Microsoft outage.",
-   "link": "https://www.france24.com/en/video/20261114-faa-lifts-nationwide-ground-stop-on-all-us-flights",
-   "source": "France 24",
-   "published": "2026-11-14T02:50:21Z",
-   "region": "Americas",
-   "category": "news"
-  },
-  {
-   "title": "US flights resume after nationwide ground stop lifted",
-   "summary": "The United States on Friday lifted an hours-long ground stop at the nation's airports, with top officials explaining that the disruption was not due to a cyberattack or a sweeping Microsoft outage. Transportation Secretary Sean Duffy said that US airspace was now \"opened up,\" and blamed \"old…",
-   "link": "https://www.france24.com/en/americas/20261114-us-flights-resume-after-nationwide-ground-stop-lifted-aviation",
-   "source": "France 24",
-   "published": "2026-11-14T02:35:48Z",
-   "region": "Americas",
-   "category": "news"
-  },
-  {
    "title": "SpaceX launches Starship rocket, fails to recover booster",
    "summary": "SpaceX had planned to catch and later reuse both stages of its biggest rocket for the first time. But the booster exploded over the Gulf of Mexico, while the spacecraft continued into orbit.",
    "link": "https://www.dw.com/en/spacex-launches-starship-rocket-fails-to-recover-booster/a-79946091?maca=en-rss-en-world-4025-rdf",
    "source": "DW World",
    "published": "2026-11-14T02:24:00Z",
    "region": "Americas",
-   "category": "news"
-  },
-  {
-   "title": "'We'll get home one day' - US travellers impacted by nationwide ground stop",
-   "summary": "Passengers throughout the country were impacted over what the Federal Aviation Administration (FAA) describes as “safety and communication issues”.",
-   "link": "https://www.bbc.co.uk/news/videos/c893ryz7lw33o?at_medium=RSS&at_campaign=rss",
-   "source": "BBC World",
-   "published": "2026-11-14T01:47:36Z",
-   "region": "Americas",
-   "category": "news"
-  },
-  {
-   "title": "Trump doesn’t plan to raise Nvidia, spy issue during China trip: U.S. officials",
-   "summary": "Nvidia CEO Jensen Huang resigned this week after reports of multiple affairs, including one with a suspected Chinese spy, Alice Huang.",
-   "link": "https://www.cnbc.com/2026/11/13/trump-nvidia-huang-china.html",
-   "source": "CNBC World",
-   "published": "2026-11-14T01:34:11Z",
-   "region": "Asia-Pacific",
-   "category": "economy"
-  },
-  {
-   "title": "SpaceX launches Starship in key test flight of massive rocket",
-   "summary": "The test flight is SpaceX's first attempt to ​catch both the Super Heavy booster and upper stage spacecraft of the rocket at its launch site in Starbase, Texas.",
-   "link": "https://www.cnbc.com/2026/11/13/spacex-launches-starship-in-key-test-flight-of-massive-rocket.html",
-   "source": "CNBC World",
-   "published": "2026-11-14T01:18:51Z",
-   "region": "Global",
-   "category": "economy"
-  },
-  {
-   "title": "Jojo the gorilla has spent his life alone. Can he finally find a companion?",
-   "summary": "Jojo was poached as an infant and grew up in captivity. His keepers want to find him a friend - but it's not straightforward.",
-   "link": "https://www.bbc.co.uk/news/articles/cwm2mn272nqlo?at_medium=RSS&at_campaign=rss",
-   "source": "BBC World",
-   "published": "2026-11-14T00:03:56Z",
-   "region": "Global",
-   "category": "news"
-  },
-  {
-   "title": "Arrested generals and a threatened VP: President's son fuels Ugandan succession fever",
-   "summary": "The 52-year-old general’s provocative posts and military threats have fuelled rumours of a dynastic succession.",
-   "link": "https://www.bbc.co.uk/news/articles/cmlydy0xw45wo?at_medium=RSS&at_campaign=rss",
-   "source": "BBC World",
-   "published": "2026-11-14T00:03:52Z",
-   "region": "Africa",
-   "category": "conflict"
-  },
-  {
-   "title": "Setback for SpaceX Starship rocket's double-catch test",
-   "summary": "Elon Musk’s company aborted an attempted catch of the rocket’s booster - instead it came down in the ocean.",
-   "link": "https://www.bbc.co.uk/news/articles/ckregdgnl0xpo?at_medium=RSS&at_campaign=rss",
-   "source": "BBC World",
-   "published": "2026-11-14T00:01:01Z",
-   "region": "Global",
-   "category": "news"
-  },
-  {
-   "title": "Nvidia is done with Jensen Huang. The fallout in Washington is just beginning",
-   "summary": "The Republican-led Congress wants to see Jensen Huang in Washington before Democrats take control in January.",
-   "link": "https://www.cnbc.com/2026/11/13/nvidia-jensen-huang-washington-congress.html",
-   "source": "CNBC World",
-   "published": "2026-11-13T23:54:36Z",
-   "region": "Americas",
-   "category": "economy"
-  },
-  {
-   "title": "Lutnick faces questions over Nvidia spy scandal. His sons' firm has deep ties to the chipmaker",
-   "summary": "Jensen Huang’s resignation as Nvidia CEO has brought renewed scrutiny to Commerce Secretary Howard Lutnick and his family's financial ties to the chipmaker.",
-   "link": "https://www.cnbc.com/2026/11/13/howard-lutnick-nvidia-jensen-huang-china-cantor-fitzgerald.html",
-   "source": "CNBC World",
-   "published": "2026-11-13T23:42:18Z",
-   "region": "Global",
-   "category": "economy"
-  },
-  {
-   "title": "'Miracle on Mississippi' - All passengers rescued after New Orleans cruise ship collision",
-   "summary": "The collision leaves 32 people in hospital with non-critical injuries, but no-one unaccounted for.",
-   "link": "https://www.bbc.co.uk/news/articles/cw20xmy0m5yyo?at_medium=RSS&at_campaign=rss",
-   "source": "BBC World",
-   "published": "2026-11-13T23:40:45Z",
-   "region": "Global",
-   "category": "news"
-  },
-  {
-   "title": "After a summer win, India's Gen Z protesters face a winter of uncertainty",
-   "summary": "A new wave of youth dissent swept India this summer, fuelled by frustration and irreverent online satire.",
-   "link": "https://www.bbc.co.uk/news/articles/cq99e0z4vg1eo?at_medium=RSS&at_campaign=rss",
-   "source": "BBC World",
-   "published": "2026-11-13T23:11:51Z",
-   "region": "Asia-Pacific",
-   "category": "news"
-  },
-  {
-   "title": "Passengers face further cancellations as US flights slowly resume after ground stop",
-   "summary": "While flights in the United States started resuming on Saturday following the longest nationwide ground stop in 25 years, more than 2,000 flights have been cancelled as airlines work to return to normal operations. Nearly 6,000 flights were cancelled on Friday, with the incident marking only the…",
-   "link": "https://www.france24.com/en/americas/20261113-us-air-travel-resumption-will-take-time-after-hours-long-stop",
-   "source": "France 24",
-   "published": "2026-11-13T22:43:22Z",
-   "region": "Americas",
-   "category": "news"
-  },
-  {
-   "title": "France secures thrilling Nations Championship victory over South Africa",
-   "summary": "France smashed world ⁠champion South ​Africa's hopes of lifting the first Nations Championship trophy on Friday, in a ​21-19 defeat for Les Bleus.",
-   "link": "https://www.france24.com/en/sport/20261113-france-hold-on-for-thrilling-nations-championship-win-over-south-africa",
-   "source": "France 24",
-   "published": "2026-11-13T22:39:21Z",
-   "region": "Europe",
-   "category": "news"
-  },
-  {
-   "title": "Gambia's Adama Barrow seeks third term",
-   "summary": "In tonight's programme, Gambia's electoral commission has announced the five official candidates for the country's upcoming presidential election. President Adama Barrow is seeking a third term. Tensions continue to rise in Ethiopia following the federal government's appointment of a new head of…",
-   "link": "https://www.france24.com/en/gambia-s-adama-barrow-seeks-third-term",
-   "source": "France 24",
-   "published": "2026-11-13T21:46:32Z",
-   "region": "Africa",
    "category": "news"
   },
   {
@@ -556,15 +583,6 @@
    "category": "economy"
   },
   {
-   "title": "The dangers of revising Europe's security architecture",
-   "summary": "Experts warn against revising Europe's security framework because they say it would mean granting Moscow its longstanding wish of renegotiating postwar security on the continent.",
-   "link": "https://www.dw.com/en/the-dangers-of-revising-europe-s-security-architecture/a-79943049?maca=en-rss-en-world-4025-rdf",
-   "source": "DW World",
-   "published": "2026-11-13T17:30:00Z",
-   "region": "Europe",
-   "category": "news"
-  },
-  {
    "title": "Home sales hit 16-year low in October amid soaring mortgage rates",
    "summary": "Sales of built units fell to 3.75m in October, down by 8.8% from last year, with mortgage rates at nearly three-year high US existing home sales hit a 16-year low in October as buyers were driven away by high mortgage rates and rising inflation, according to new data released on Wednesday. Sales of…",
    "link": "https://www.theguardian.com/business/2026/nov/12/home-sales-october-low",
@@ -590,15 +608,6 @@
    "published": "2026-11-13T16:00:19Z",
    "region": "Europe",
    "category": "economy"
-  },
-  {
-   "title": "Why does El Salvador's Bukele have troops in Haiti?",
-   "summary": "Haiti's Prime Minister congratulating El Salvador's President for a gang crackdown in Haiti has shone a light on the relationship between the two countries. What's going on, and where does the US stand?",
-   "link": "https://www.dw.com/en/why-does-el-salvador-s-bukele-have-troops-in-haiti/a-79940771?maca=en-rss-en-world-4025-rdf",
-   "source": "DW World",
-   "published": "2026-11-13T15:37:00Z",
-   "region": "Americas",
-   "category": "conflict"
   },
   {
    "title": "Is the AI bubble bursting just as Anthropic goes public?",
@@ -700,39 +709,12 @@
    "category": "news"
   },
   {
-   "title": "U.S. officials set to meet with Putin, Zelenskyy following Abu Dhabi peace talks",
-   "summary": "U.S.-mediated talks in Abu Dhabi have wrapped up with an agreement on a Russia-Ukraine prisoner exchange. U.S. negotiators meet with Vladimir Putin on Thursday and Volodymyr Zelenskyy on Friday.",
-   "link": "https://www.npr.org/2026/11/12/nx-s1-6037558/u-s-officials-set-to-meet-with-putin-zelenskyy-following-abu-dhabi-peace-talks",
-   "source": "NPR World",
-   "published": "2026-11-12T09:38:46Z",
-   "region": "Europe",
-   "category": "news"
-  },
-  {
    "title": "AI helps UK economy grow at fastest pace for more than two years",
    "summary": "GDP ‘grew robustly’ by 0.7% in third quarter and by 0.2% month on month in September despite high oil prices AI helped the UK defy expectations – but will Britain’s resilience fizzle out? The UK economy grew by 0.7% in the third quarter, its fastest expansion in two and a half years, as the rollout…",
    "link": "https://www.theguardian.com/business/2026/nov/12/uk-economy-grows-third-quarter-oil-price-ons-gdp",
    "source": "The Guardian Economics",
    "published": "2026-11-12T09:12:52Z",
    "region": "Europe",
-   "category": "economy"
-  },
-  {
-   "title": "Nvidia hires major US law firm to investigate spying claims; UK chancellor ‘dismayed’ by budget leak – as it happened",
-   "summary": "Rolling coverage of the latest economic and financial news After two days of losses, Nvidia’s stock is expected to recover some lost ground today. Nvidia’s shares are up almost 5% in premarket trading, ahead of the Wall Street open in just over four hour’s time. “The FTSE 100 advanced 0.8% to…",
-   "link": "https://www.theguardian.com/business/live/2026/nov/11/nvidia-spy-allegations-us-law-firm-hired-investigation-stock-markets-pound-dollar-ftse-nasdaq-latest-news-updates",
-   "source": "The Guardian Economics",
-   "published": "2026-11-11T16:37:45Z",
-   "region": "Americas",
-   "category": "economy"
-  },
-  {
-   "title": "Is AIIB's complaint mechanism failing affected communities?",
-   "summary": "The Asian Infrastructure Investment Bank has a grievance redress mechanism for people affected by projects it finances. But those seeking to file a complaint face significant hurdles. Critics say reforms are needed.",
-   "link": "https://www.dw.com/en/is-aiib-s-complaint-mechanism-failing-affected-communities/a-79919917?maca=en-rss-en-bus-2091-rdf",
-   "source": "DW Business",
-   "published": "2026-11-11T15:12:00Z",
-   "region": "Asia-Pacific",
    "category": "economy"
   }
  ]
