@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-15T17:04:28Z",
+ "updatedAt": "2026-11-15T21:44:55Z",
  "sources": [
   "BBC World",
   "BBC Business",
@@ -16,12 +16,255 @@
  "count": 74,
  "items": [
   {
-   "title": "Trump breaks silence about FAA nationwide ground stop, blames Biden administration",
-   "summary": "Trump blamed the Biden administration for the FAA’s aging system after a nationwide ground stop disrupted air travel and urged Congress to approve more funding.",
-   "link": "https://www.cnbc.com/2026/11/15/trump-breaks-silence-on-faa-nationwide-ground-stop-blames-biden-.html",
-   "source": "CNBC World",
-   "published": "2026-11-15T16:56:40Z",
+   "title": "Yemen’s Houthis unilaterally release 600 war detainees",
+   "summary": "Yemen’s Houthis have released 600 people imprisoned during the country’s civil war.",
+   "link": "https://www.aljazeera.com/video/newsfeed/2026/11/15/yemens-houthis-unilaterally-release-600-war-detainees?traffic_source=rss",
+   "source": "Al Jazeera",
+   "published": "2026-11-15T21:19:08Z",
+   "region": "Middle East",
+   "category": "conflict"
+  },
+  {
+   "title": "Somali-American Uber driver brutally assaulted in alleged hate crime in Minnesota",
+   "summary": "Mohamed Yusuf is fighting for his life after alleged attack by passenger who said he did not like driver’s first name A Somali-American Uber driver was allegedly brutally assaulted by a passenger in Hopkins, Minnesota, on Saturday, in what his family says “appears to be a hate crime”. The driver…",
+   "link": "https://www.theguardian.com/us-news/2026/nov/15/somali-american-uber-driver-attack-minnesota",
+   "source": "The Guardian World",
+   "published": "2026-11-15T21:10:38Z",
    "region": "Americas",
+   "category": "conflict"
+  },
+  {
+   "title": "Nearly 2,200 migrants reach Spain's Canary Islands in two days",
+   "summary": "Nearly 2,200 migrants have reached the Canary Islands over the past two days, Spain’s coastguard said Sunday, continuing a recent surge of arrivals from West African countries to the Spanish archipelago, where the authorities declared a migration emergency earlier this week.",
+   "link": "https://www.france24.com/en/europe/20261115-nearly-2200-migrants-reach-spain-canary-islands-in-two-days",
+   "source": "France 24",
+   "published": "2026-11-15T21:06:01Z",
+   "region": "Europe",
+   "category": "news"
+  },
+  {
+   "title": "Czechs rally against plan to switch funding of public media",
+   "summary": "Protesters say the move will stifle media freedom, while the government insists broadcasters need to cut costs.",
+   "link": "https://www.bbc.co.uk/news/articles/cm8e0knr7604o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "published": "2026-11-15T21:03:40Z",
+   "region": "Global",
+   "category": "news"
+  },
+  {
+   "title": "Goodbye, overtourism? Sustainable travel gains ground",
+   "summary": "As tourism booms across Latin America, alternative forms of travel are gaining ground. Making your holiday more sustainable means rethinking who calls the shots, who invests and who benefits.",
+   "link": "https://www.dw.com/en/goodbye-overtourism-sustainable-travel-gains-ground/a-79934295?maca=en-rss-en-world-4025-rdf",
+   "source": "DW World",
+   "published": "2026-11-15T20:57:00Z",
+   "region": "Americas",
+   "category": "news"
+  },
+  {
+   "title": "Photos: Pope Leo visits Peru’s Amazon and Andean regions during 12-day tour",
+   "summary": "The pope has called for the preservation of Indigenous traditions in Peru as he wraps up a 12-day tour of Latin America.",
+   "link": "https://www.aljazeera.com/gallery/2026/11/15/photos-pope-leo-visits-perus-amazon-and-andean-regions-during-12-day-tour?traffic_source=rss",
+   "source": "Al Jazeera",
+   "published": "2026-11-15T20:54:13Z",
+   "region": "Americas",
+   "category": "news"
+  },
+  {
+   "title": "Palestinians reclaim Gaza’s shores with a swim for hope",
+   "summary": "For the first time in more than three years, Gaza’s swimming federation has held a competition.",
+   "link": "https://www.aljazeera.com/video/newsfeed/2026/11/15/palestinians-reclaim-gazas-shores-with-a-swim-for-hope?traffic_source=rss",
+   "source": "Al Jazeera",
+   "published": "2026-11-15T20:50:15Z",
+   "region": "Middle East",
+   "category": "news"
+  },
+  {
+   "title": "Who can force Israel to implement Gaza ceasefire deal?",
+   "summary": "Storms batter Palestinian territory as Israel restricts entry of aid.",
+   "link": "https://www.aljazeera.com/video/inside-story/2026/11/15/who-can-force-israel-to-implement-gaza-ceasefire-deal?traffic_source=rss",
+   "source": "Al Jazeera",
+   "published": "2026-11-15T20:37:43Z",
+   "region": "Middle East",
+   "category": "conflict"
+  },
+  {
+   "title": "Estonia to close border crossings with Russia after alleged arson attack",
+   "summary": "Estonia is closing its border crossings with Russia following an alleged arson attempt at a drone factory.",
+   "link": "https://www.aljazeera.com/video/newsfeed/2026/11/15/estonia-to-close-border-crossings-with-russia-after-alleged-arson-attack?traffic_source=rss",
+   "source": "Al Jazeera",
+   "published": "2026-11-15T20:31:18Z",
+   "region": "Europe",
+   "category": "conflict"
+  },
+  {
+   "title": "Jordan sentences three men to death over deadly church attack in Karak",
+   "summary": "Jordan sentences three men to death over deadly church attack in Karak",
+   "link": "https://www.aljazeera.com/video/newsfeed/2026/11/15/jordan-sentences-three-men-to-death-over-deadly-church-attack-in-karak?traffic_source=rss",
+   "source": "Al Jazeera",
+   "published": "2026-11-15T20:12:38Z",
+   "region": "Middle East",
+   "category": "conflict"
+  },
+  {
+   "title": "Africa CDC says Ebola outbreak in DR Congo ‘still not under control’",
+   "summary": "'If we don't stop this outbreak now, it would be the worst Ebola outbreak,' Africa ​CDC director says.",
+   "link": "https://www.aljazeera.com/news/2026/11/15/africa-cdc-says-ebola-outbreak-in-dr-congo-still-not-under-control?traffic_source=rss",
+   "source": "Al Jazeera",
+   "published": "2026-11-15T20:07:06Z",
+   "region": "Africa",
+   "category": "news"
+  },
+  {
+   "title": "LSU star MiLaysia Fulwiley arrested after allegedly striking police officer with car",
+   "summary": "Guard allegedly tried to flee traffic stop in Baton Rouge Tigers say they are aware of situation involving player LSU guard MiLaysia Fulwiley, one of the ninth-ranked Tigers’ leading scorers, was arrested after allegedly striking a police officer while attempting to flee from a traffic stop. LSU’s…",
+   "link": "https://www.theguardian.com/sport/2026/nov/15/lsu-star-milaysia-fulwiley-arrested-after-allegedly-striking-police-officer-with-car",
+   "source": "The Guardian World",
+   "published": "2026-11-15T19:53:07Z",
+   "region": "Global",
+   "category": "news"
+  },
+  {
+   "title": "‘Pull back the curtain’ on treatment of sexual assault victims in court, says UK government adviser",
+   "summary": "Professor urges ministers to use awareness triggered by Russell Brand conviction to examine use of rape myths in trials The debate triggered by high-profile cases must “pull back the curtain” on the treatment of people making allegations of sexual offences in the criminal justice system in England…",
+   "link": "https://www.theguardian.com/law/2026/nov/15/examine-courts-treatment-sexual-assault-victims-says-government-adviser",
+   "source": "The Guardian World",
+   "published": "2026-11-15T19:40:23Z",
+   "region": "Europe",
+   "category": "news"
+  },
+  {
+   "title": "Zelensky urges US and Musk to lift Starlink restrictions and be on 'right side of history'",
+   "summary": "The Ukrainian president says restrictions are still in place and making it difficult to stop Russian attacks.",
+   "link": "https://www.bbc.co.uk/news/articles/c6m25zg88k45o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "published": "2026-11-15T19:32:39Z",
+   "region": "Europe",
+   "category": "conflict"
+  },
+  {
+   "title": "Ronaldinho makes comeback in Ravenna win",
+   "summary": "Brazil legend Ronaldinho makes his comeback aged 46 for Ravenna, playing the first half of their Italian third-tier derby against Forli.",
+   "link": "https://www.bbc.co.uk/sport/football/articles/ckregz4g823xo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "published": "2026-11-15T19:31:48Z",
+   "region": "Europe",
+   "category": "news"
+  },
+  {
+   "title": "Yemen's Houthis advance on Aden as government forces retreat to defend their capital",
+   "summary": "Houthi forces in Yemen have advanced to within 60 kilometres of Aden, the seat of the country's internationally recognised government, military and government sources said Sunday. The embattled government earlier announced it was pulling back its last forces from the Bab el-Mandeb Strait to defend…",
+   "link": "https://www.france24.com/en/middle-east/20261115-yemen-houthis-advance-to-within-60-kilometres-of-aden-military-sources-say",
+   "source": "France 24",
+   "published": "2026-11-15T19:28:54Z",
+   "region": "Middle East",
+   "category": "conflict"
+  },
+  {
+   "title": "Texas puts to death man who beheaded three children, hours after Oklahoma execution",
+   "summary": "Oklahoma man, 73, executed for killing ex’s estranged husband, as US nears 40 executions for second straight year A Texas man convicted of fatally stabbing and beheading his three young children in a squalid, windowless apartment in 2003 was recently executed. John Allen Rubio, 46, was pronounced…",
+   "link": "https://www.theguardian.com/us-news/2026/nov/15/texas-execution-john-allen-rubio-oklahoma-james-pavatt",
+   "source": "The Guardian World",
+   "published": "2026-11-15T19:27:24Z",
+   "region": "Americas",
+   "category": "news"
+  },
+  {
+   "title": "Thousands of US flights still cancelled or delayed two days after grounding of planes nationwide",
+   "summary": "The US transport secretary says that normal air-traffic operations may not be restored until Monday.",
+   "link": "https://www.bbc.co.uk/news/articles/cw1mdlv0k2r4o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "published": "2026-11-15T19:20:53Z",
+   "region": "Americas",
+   "category": "news"
+  },
+  {
+   "title": "Pragues's fight for public TV - Why Renowned Presenter Will Leave Czech TV Over Reforms",
+   "summary": "Daniel Stach, one of the Czech Republic’s best-known television presenters, tells Gavin Lee on France 24 why he is prepared to walk away from his career rather than work under changes that he says will threaten the independence of public broadcasting. As hundreds of thousands take to the streets of…",
+   "link": "https://www.france24.com/en/tv-shows/spotlight/20261115-pragues-s-fight-for-public-tv-why-renowned-presenter-will-leave-czech-tv-over-reforms",
+   "source": "France 24",
+   "published": "2026-11-15T19:13:35Z",
+   "region": "Europe",
+   "category": "news"
+  },
+  {
+   "title": "Israeli drone filmed flying low outside homes in southern Lebanon",
+   "summary": "Video shows an Israeli drone flying at low altitude over a residential area in southern Lebanon.",
+   "link": "https://www.aljazeera.com/video/newsfeed/2026/11/15/israeli-drone-filmed-flying-low-outside-homes-in-southern-lebanon?traffic_source=rss",
+   "source": "Al Jazeera",
+   "published": "2026-11-15T19:02:21Z",
+   "region": "Middle East",
+   "category": "conflict"
+  },
+  {
+   "title": "Trident nuclear submarine concludes record underwater deployment",
+   "summary": "HMS Vengeance’s seven-month patrol prompts fears over slow pace of maintenance of ageing fleet and strain on crew A Trident nuclear submarine has concluded a record seven-month deployment, returning to the Faslane naval base in Scotland where its crew was greeted by the defence secretary, Wes…",
+   "link": "https://www.theguardian.com/uk-news/2026/nov/15/trident-nuclear-submarine-hms-vengeance-record-tour",
+   "source": "The Guardian World",
+   "published": "2026-11-15T18:50:33Z",
+   "region": "Europe",
+   "category": "conflict"
+  },
+  {
+   "title": "Senator-elect Scott Colom vows to ensure Trump follows through on his promises",
+   "summary": "Mississippi Democrat points to commitments Trump made: lower prices, halt endless wars and release Epstein files After recently becoming the first Mississippi Democrat elected to the US Senate in more than four decades, Scott Colom pledged to try to ensure Donald Trump “follows through on the…",
+   "link": "https://www.theguardian.com/us-news/2026/nov/15/scott-colom-mississippi-senate-trump",
+   "source": "The Guardian World",
+   "published": "2026-11-15T18:48:10Z",
+   "region": "Americas",
+   "category": "conflict"
+  },
+  {
+   "title": "Chris Van Hollen says he has path to win Senate leader over Chuck Schumer",
+   "summary": "Progressive US senator calling for more inclusion within Democratic caucus cites openness to change among peers Democratic US senator Chris Van Hollen on Sunday escalated his bid to lead his party’s incoming Senate majority rather than Chuck Schumer , asserting that he has a path to victory amid a…",
+   "link": "https://www.theguardian.com/us-news/2026/nov/15/chris-van-hollen-senate-majority-leader",
+   "source": "The Guardian World",
+   "published": "2026-11-15T18:46:49Z",
+   "region": "Americas",
+   "category": "news"
+  },
+  {
+   "title": "Pope Leo rides in helicopter cockpit during Peru trip",
+   "summary": "The Pope took to the skies before arriving in Cusco on the penultimate day of his Latin America tour.",
+   "link": "https://www.bbc.co.uk/news/videos/c6pw4rl00lrjo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "published": "2026-11-15T18:38:11Z",
+   "region": "Americas",
+   "category": "news"
+  },
+  {
+   "title": "Labour rebellion over Rosebank oilfield expected to top 100 MPs",
+   "summary": "Total of 75 have already signed letter to Burnham opposing plans as discontent also grows over Europe and welfare changes As many as 100 Labour MPs could sign a letter opposing the giant Rosebank oilfield, as discontent among backbenchers looks likely to surge this week, with rebellions also…",
+   "link": "https://www.theguardian.com/business/2026/nov/15/rosebank-oilfield-mps-rebellion",
+   "source": "The Guardian World",
+   "published": "2026-11-15T18:35:10Z",
+   "region": "Europe",
+   "category": "conflict"
+  },
+  {
+   "title": "Prince Harry in Ukraine meeting Invictus 2027 hopefuls",
+   "summary": "British royal says he's 'taken a risk' in his fourth surprise visit to Ukraine since 2022 to meet wounded veterans.",
+   "link": "https://www.aljazeera.com/news/2026/11/15/prince-harry-in-ukraine-meeting-invictus-2027-hopefuls?traffic_source=rss",
+   "source": "Al Jazeera",
+   "published": "2026-11-15T18:31:52Z",
+   "region": "Europe",
+   "category": "news"
+  },
+  {
+   "title": "Estonia to close all border crossings with Russia after attack on drone maker",
+   "summary": "Authorities say Russian intelligence service ordered attack Estonian PM links to Tallinn’s support for Ukraine Estonia will close all its border crossings with Russia from 1 December after a suspected sabotage attack on a drone maker in the Baltic state over the weekend, which authorities said was…",
+   "link": "https://www.theguardian.com/world/2026/nov/15/estonia-to-close-all-border-crossings-with-russia-after-attack-on-drone-maker",
+   "source": "The Guardian World",
+   "published": "2026-11-15T18:23:12Z",
+   "region": "Europe",
+   "category": "conflict"
+  },
+  {
+   "title": "DOT Sec. Duffy ties router in southern Arkansas to issues that led to nationwide ground stop",
+   "summary": "The FAA ground stop came after updates to an older communication system managed by L3Harris Technologies, Transportation Secretary Sean Duffy said.",
+   "link": "https://www.cnbc.com/2026/11/14/faa-ground-stop-flights-resume-delays.html",
+   "source": "CNBC World",
+   "published": "2026-11-15T18:15:14Z",
+   "region": "Global",
    "category": "economy"
   },
   {
@@ -29,18 +272,36 @@
    "summary": "Bessent has criticized Howard Lutnick’s department over suspected chip diversion to China while defending President Donald Trump’s handling of the matter.",
    "link": "https://www.cnbc.com/2026/11/15/bessent-nvidia-ceo-lutnick-megaspeed.html",
    "source": "CNBC World",
-   "published": "2026-11-15T16:49:11Z",
+   "published": "2026-11-15T18:10:18Z",
    "region": "Asia-Pacific",
    "category": "economy"
   },
   {
-   "title": "Planned asylum seeker detention centre next to Oxfordshire sewage works criticised",
-   "summary": "Thames Water says detainees at proposed accommodation should expect to experience insect swarms and strong smells A Home Office plan to build asylum seeker detention facilities next to a sewage pump is facing objections after water company officials warned that detainees should expect to experience…",
-   "link": "https://www.theguardian.com/uk-news/2026/nov/15/planned-asylum-seeker-detention-centre-next-to-oxfordshire-sewage-works-criticised",
-   "source": "The Guardian World",
-   "published": "2026-11-15T16:47:39Z",
-   "region": "Global",
+   "title": "Estonia to close Russian border crossings after 'sabotage' attempt at drone factory",
+   "summary": "Estonia will close all its border crossing points with Russia from December 1, its ​foreign minister ‌said on Sunday, following a suspected ⁠sabotage attack on an Estonian defence company that Tallinn blamed on ‌Moscow.",
+   "link": "https://www.france24.com/en/europe/20261115-estonia-to-close-russian-border-crossings-after-sabotage-attempt-at-drone-factory",
+   "source": "France 24",
+   "published": "2026-11-15T17:05:14Z",
+   "region": "Europe",
+   "category": "conflict"
+  },
+  {
+   "title": "How did over 2,000 migrants reach the Canaries in just 48 hours?",
+   "summary": "Spain says nearly 2,200 migrants have arrived by boat to the Canary Islands this weekend. The strip of the Atlantic Ocean between West Africa and the Canary Islands is one of the world's deadliest migration routes – and the journey is usually made with ill-equipped dinghies and overcrowded boats…",
+   "link": "https://www.france24.com/en/how-did-over-2-000-migrants-reach-the-canaries-in-just-48-hours",
+   "source": "France 24",
+   "published": "2026-11-15T16:58:40Z",
+   "region": "Europe",
    "category": "news"
+  },
+  {
+   "title": "Trump breaks silence about FAA nationwide ground stop, blames Biden administration",
+   "summary": "Trump blamed the Biden administration for the FAA’s aging system after a nationwide ground stop disrupted air travel and urged Congress to approve more funding.",
+   "link": "https://www.cnbc.com/2026/11/15/trump-breaks-silence-on-faa-nationwide-ground-stop-blames-biden-.html",
+   "source": "CNBC World",
+   "published": "2026-11-15T16:56:40Z",
+   "region": "Americas",
+   "category": "economy"
   },
   {
    "title": "Israel kills senior member of Hamas's military wing in Gaza strike",
@@ -52,57 +313,12 @@
    "category": "conflict"
   },
   {
-   "title": "Hundreds of thousands of Czechs protest in Prague over media freedom",
-   "summary": "Estimated 350,000 people rally against plan to scrap licence fees and fund broadcasters from state budget Hundreds of thousands of Czechs are rallying in Prague to protest against what they say is a government attempt to stifle media freedom. The gathering on Sunday to save the mandatory licence…",
-   "link": "https://www.theguardian.com/world/2026/nov/15/czechia-protest-prague-media-freedom",
-   "source": "The Guardian World",
-   "published": "2026-11-15T16:40:04Z",
-   "region": "Global",
-   "category": "news"
-  },
-  {
-   "title": "Czechs rally against plan to switch funding of public media",
-   "summary": "Protesters say the move will stifle media freedom, while the coalition government insists broadcasters need to cut costs.",
-   "link": "https://www.bbc.co.uk/news/articles/cm8e0knr7604o?at_medium=RSS&at_campaign=rss",
+   "title": "Clothing factories shut in Bangladesh as workers strike over pay",
+   "summary": "Workers are striking over demands for a minimum wage of 30,000 taka (£182) a month.",
+   "link": "https://www.bbc.co.uk/news/articles/cx5y1pzr9604o?at_medium=RSS&at_campaign=rss",
    "source": "BBC World",
-   "published": "2026-11-15T16:36:42Z",
-   "region": "Global",
-   "category": "news"
-  },
-  {
-   "title": "Thousands rally in Czech Republic against state media funding changes",
-   "summary": "Critics say proposed funding changes will give the government more control of state media.",
-   "link": "https://www.aljazeera.com/news/2026/11/15/thousands-rally-in-czech-republic-against-state-media-funding-changes?traffic_source=rss",
-   "source": "Al Jazeera",
-   "published": "2026-11-15T16:32:22Z",
-   "region": "Europe",
-   "category": "news"
-  },
-  {
-   "title": "Transportation secretary Sean Duffy blames prior presidents and Congress for flight stoppage",
-   "summary": "Democratic senator Chris Van Hollen says Trump administration hasn’t properly invested existing funds Donald Trump’s administration on Sunday blamed the travel chaos stemming from Friday’s four-hour nationwide flight stoppage on prior presidents as well as a lack of congressional funding – though a…",
-   "link": "https://www.theguardian.com/us-news/2026/nov/15/transportation-secretary-sean-duffy-faa-flight-stoppag",
-   "source": "The Guardian World",
-   "published": "2026-11-15T16:18:49Z",
-   "region": "Americas",
-   "category": "news"
-  },
-  {
-   "title": "British tourist smashes Jesus statue outside Vilnius church",
-   "summary": "A man removed a statue of the crucified Jesus from a church in Vilnius and it smashed to the ground.",
-   "link": "https://www.aljazeera.com/video/newsfeed/2026/11/15/british-tourist-smashes-jesus-statue-outside-vilnius-church?traffic_source=rss",
-   "source": "Al Jazeera",
-   "published": "2026-11-15T16:04:22Z",
-   "region": "Europe",
-   "category": "news"
-  },
-  {
-   "title": "Saudi Arabia, Qatar, Jordan, Egypt condemn Iranian attack on Bahrain - as it happened",
-   "summary": "Iran has targeted airbase in Bahrain in latest resumption of strikes since september The state-run Bahrain news agency is also carrying the statements of each country in the region responding to Iran’s actions targeting their Gulf neighbour this morning. Jordan, Egypt, Saudi Arabia, and Qatar have…",
-   "link": "https://www.theguardian.com/world/live/2026/nov/15/middle-east-crisis-live-iran-bahrain-strikes-gulf-donald-trump-us-israel-yemen-houthis",
-   "source": "The Guardian World",
-   "published": "2026-11-15T15:59:04Z",
-   "region": "Middle East",
+   "published": "2026-11-15T16:15:20Z",
+   "region": "Asia-Pacific",
    "category": "conflict"
   },
   {
@@ -124,24 +340,6 @@
    "category": "news"
   },
   {
-   "title": "Two planes collide on taxiway at Miami airport one day after national grounding",
-   "summary": "Two people injured after wingtip of Copa Airlines Boeing 737 struck nose of United Parcel Service Boeing 767 Two planes collided with one another on a taxiway at Miami’s international airport on Saturday night – a day after the Federal Aviation Administration (FAA) issued an hours-long nationwide…",
-   "link": "https://www.theguardian.com/us-news/2026/nov/15/miami-airport-planes-collide",
-   "source": "The Guardian World",
-   "published": "2026-11-15T15:40:04Z",
-   "region": "Global",
-   "category": "economy"
-  },
-  {
-   "title": "70 bodies recovered from Gaza rubble, thousands still missing",
-   "summary": "70 bodies recovered from Gaza rubble, thousands still missing",
-   "link": "https://www.aljazeera.com/video/newsfeed/2026/11/15/70-bodies-recovered-from-gaza-rubble-thousands-still-missing?traffic_source=rss",
-   "source": "Al Jazeera",
-   "published": "2026-11-15T15:32:43Z",
-   "region": "Middle East",
-   "category": "news"
-  },
-  {
    "title": "Iran claims drone attack on US military base in Bahrain",
    "summary": "Bahrain issued two alerts of potential threats on Sunday, its first such warnings since September as blasts rocked the capital, Manama. It comes after Iran targeted an airbase in the US-allied island state, ending a long lull in strikes during the Middle East War and comes as negotiations to end…",
    "link": "https://www.france24.com/en/iran-claims-drone-attack-on-us-military-base-in-bahrain",
@@ -157,51 +355,6 @@
    "source": "France 24",
    "published": "2026-11-15T15:24:58Z",
    "region": "Europe",
-   "category": "news"
-  },
-  {
-   "title": "Will Iraq’s oil smuggling crackdown disarm militias without a conflict?",
-   "summary": "Iraq has dismantled an alleged smuggling ring in Jurf al-Sakhar which could squeeze militias and avert internal strife",
-   "link": "https://www.aljazeera.com/news/2026/11/15/will-iraqs-oil-smuggllng-crackdown-disarm-militias-without-a-conflict?traffic_source=rss",
-   "source": "Al Jazeera",
-   "published": "2026-11-15T15:21:21Z",
-   "region": "Middle East",
-   "category": "conflict"
-  },
-  {
-   "title": "20 years of Al Jazeera English: Our story is still being written",
-   "summary": "As we celebrate our 20th anniversary, we remain committed to our values and the quality of our journalism.",
-   "link": "https://www.aljazeera.com/opinions/2026/11/15/20-years-of-al-jazeera-english-our-story-is-still-being-written?traffic_source=rss",
-   "source": "Al Jazeera",
-   "published": "2026-11-15T15:21:12Z",
-   "region": "Global",
-   "category": "news"
-  },
-  {
-   "title": "Record number of migrants arrive in Spain’s Canary Islands",
-   "summary": "New EU migration and asylum laws have largely failed to stem flow of migrants to Spain and its territories.",
-   "link": "https://www.aljazeera.com/news/2026/11/15/record-number-of-migrants-arrive-in-spains-canary-islands?traffic_source=rss",
-   "source": "Al Jazeera",
-   "published": "2026-11-15T15:16:29Z",
-   "region": "Europe",
-   "category": "news"
-  },
-  {
-   "title": "Jensen Huang: The French Connection",
-   "summary": "President Trump is heading to Asia in a few days time, and will meet President Putin and President Xi. There's likely to be one fewer tech giants at the table, Jensen Huang, newly resigned from Nvidia, over the suspected spy affair.",
-   "link": "https://www.france24.com/en/tv-shows/spotlight/20261115-jensen-huang-the-french-connection",
-   "source": "France 24",
-   "published": "2026-11-15T15:03:56Z",
-   "region": "Europe",
-   "category": "news"
-  },
-  {
-   "title": "Jerusalem Daily: Mass funeral in Gaza as Netanyahu clings to power",
-   "summary": "A mass funeral was held in Gaza for 70 Palestinians whose bodies were trapped under the rubble.",
-   "link": "https://www.aljazeera.com/video/newsfeed/2026/11/15/jerusalem-daily-mass-funeral-in-gaza-as-netanyahu-clings-to-power?traffic_source=rss",
-   "source": "Al Jazeera",
-   "published": "2026-11-15T15:01:54Z",
-   "region": "Middle East",
    "category": "news"
   },
   {
@@ -223,102 +376,12 @@
    "category": "news"
   },
   {
-   "title": "Flames engulf Syrian refugee camp in eastern Lebanon",
-   "summary": "A fire tore through a Syrian refugee camp in Bar Elias, eastern Lebanon.",
-   "link": "https://www.aljazeera.com/video/newsfeed/2026/11/15/flames-engulf-syrian-refugee-camp-in-eastern-lebanon?traffic_source=rss",
-   "source": "Al Jazeera",
-   "published": "2026-11-15T14:55:40Z",
-   "region": "Middle East",
-   "category": "news"
-  },
-  {
-   "title": "Fascism built the AI bubble. What will burst it?",
-   "summary": "In the latest episode of Deja Vu, Naomi Klein and Astra Taylor examine the latest model of disaster capitalism.",
-   "link": "https://www.aljazeera.com/video/deja-vu-2/2026/11/15/fascism-built-the-ai-bubble-what-will-burst-it?traffic_source=rss",
-   "source": "Al Jazeera",
-   "published": "2026-11-15T14:55:00Z",
-   "region": "Global",
-   "category": "news"
-  },
-  {
-   "title": "Polish activists face opposition as they make abortion more accessible",
+   "title": "Despite restrictive abortion laws, Poland's 'Abortomat' — a locker that dispenses abortion pills — helps women who want to end a pregnancy",
    "summary": "Abortion laws in Poland are very restrictive. Activists there have found a new way to help women wanting to terminate a pregnancy: the \"Abortomat,\" a locker that dispenses abortion pills. But they face fierce opposition.",
-   "link": "https://www.dw.com/en/polish-activists-face-opposition-as-they-make-abortion-more-accessible/a-79943914?maca=en-rss-en-world-4025-rdf",
+   "link": "https://www.dw.com/en/despite-restrictive-abortion-laws-poland-s-abortomat-a-locker-that-dispenses-abortion-pills-helps-women-who-want-to-end-a-pregnancy/a-79943914?maca=en-rss-en-world-4025-rdf",
    "source": "DW World",
    "published": "2026-11-15T14:40:00Z",
    "region": "Europe",
-   "category": "news"
-  },
-  {
-   "title": "Santa school in full swing in London ahead of Christmas celebrations",
-   "summary": "It may still be November but it's beginning to look a lot like Christmas in South London, as many Santa impersonators are heading to school for their festive training. The school, organised by an event company called Ministry of Fun, brings together Santas, elves, and Mrs Clauses to share…",
-   "link": "https://www.france24.com/en/santa-school-in-full-swing-in-london-ahead-of-christmas-celebrations",
-   "source": "France 24",
-   "published": "2026-11-15T14:35:33Z",
-   "region": "Europe",
-   "category": "news"
-  },
-  {
-   "title": "New Orleans port files $1m lawsuit over 'miracle on the Mississippi' tanker collision",
-   "summary": "The lawsuit filed by New Orleans officials also requests that the tanker involved in the collision with the cruise ship be seized and sold to pay for damages.",
-   "link": "https://www.bbc.co.uk/news/articles/cwe89y2r5j20o?at_medium=RSS&at_campaign=rss",
-   "source": "BBC World",
-   "published": "2026-11-15T14:33:59Z",
-   "region": "Global",
-   "category": "news"
-  },
-  {
-   "title": "A deep dive into Ivory Coast's solar energy goals",
-   "summary": "Can Ivory Coast, which remains heavily dependent on fossil fuels, turn to solar power to make its energy consumption greener and more sustainable? We visited the country's new solar power plant in Ferkessédougou, in the north of the country. Inaugurated in July, it is expected to generate nearly 90…",
-   "link": "https://www.france24.com/en/a-deep-dive-into-ivory-coast-s-solar-energy-goals",
-   "source": "France 24",
-   "published": "2026-11-15T14:25:24Z",
-   "region": "Global",
-   "category": "news"
-  },
-  {
-   "title": "Why the Nvidia scandal is bad news for Europe’s AI ambitions",
-   "summary": "Nvidia's Jensen Huang poured money into open-source AI, from French-founded Hugging Face to chips for Mistral's data centres, and fought Washington's attempts to restrict it. With Huang gone and China hawks emboldened, Tech 24 asks whether Europe's AI ambitions have lost their most powerful ally…",
-   "link": "https://www.france24.com/en/tv-shows/tech-24/20261115-why-the-nvidia-scandal-is-bad-news-for-europe-s-ai-ambitions",
-   "source": "France 24",
-   "published": "2026-11-15T14:16:24Z",
-   "region": "Europe",
-   "category": "news"
-  },
-  {
-   "title": "US probes nationwide flights stoppage as travel disruptions persist",
-   "summary": "US air travel is expected to return to normal this Sunday, following a nationwide ground stop Friday night that stranded hundreds of thousands of passengers and disrupted travel worldwide. The Trump administration blamed the incident on a botched replacement of old copper wire communication lines…",
-   "link": "https://www.france24.com/en/us-probes-nationwide-flights-stoppage-as-travel-disruptions-persist",
-   "source": "France 24",
-   "published": "2026-11-15T14:09:20Z",
-   "region": "Americas",
-   "category": "news"
-  },
-  {
-   "title": "Two killed in Leeds after car pursued by police crashes into another vehicle",
-   "summary": "Four arrested after BMW collides with Volkswagen on Gelderd Road, with police appealing for witnesses Two people aged 22 and 23 have died after their car was hit by a BMW being pursued by police. West Yorkshire police said four people had been arrested after the crash in Leeds on Sunday and…",
-   "link": "https://www.theguardian.com/uk-news/2026/nov/15/leeds-car-pursued-by-police-crashes-into-another-vehicle",
-   "source": "The Guardian World",
-   "published": "2026-11-15T14:01:32Z",
-   "region": "Global",
-   "category": "conflict"
-  },
-  {
-   "title": "Gender-diverse Australian sailors barred from US submarines despite Aukus deal, documents reveal",
-   "summary": "Defence briefing released under freedom of information laws shows ADF beholden to US directives when in training Get our breaking news email , free app or daily news podcast Aukus is effectively forcing the Australian navy to comply with a US ban on transgender people in the military with…",
-   "link": "https://www.theguardian.com/australia-news/2026/nov/16/gender-diverse-australian-sailors-barred-from-us-submarines-despite-aukus-deal-documents-reveal-ntwnfb",
-   "source": "The Guardian World",
-   "published": "2026-11-15T14:00:19Z",
-   "region": "Americas",
-   "category": "conflict"
-  },
-  {
-   "title": "Ethnic minority groups in Wales four times more likely to be target of police facial scans",
-   "summary": "Exclusive: South Wales police figures show BAME people accounted for 24% of selected scans in 2025, despite being 7% of population Ethnic minority people are four times more likely than their white counterparts to be chosen for some police facial scans, according to official data, sparking warnings…",
-   "link": "https://www.theguardian.com/technology/2026/nov/15/ethnic-minorities-wales-police-facial-scans-data",
-   "source": "The Guardian World",
-   "published": "2026-11-15T14:00:17Z",
-   "region": "Global",
    "category": "news"
   },
   {
@@ -338,33 +401,6 @@
    "published": "2026-11-15T13:47:43Z",
    "region": "Global",
    "category": "economy"
-  },
-  {
-   "title": "Iran targets US military base in Bahrain with drone attack",
-   "summary": "It marks the second attack on the country in three days and comes as the US and Iran remain locked in a stand-off over the Strait of Hormuz.",
-   "link": "https://www.bbc.co.uk/news/articles/cqn4e2py48kwo?at_medium=RSS&at_campaign=rss",
-   "source": "BBC World",
-   "published": "2026-11-15T13:42:58Z",
-   "region": "Middle East",
-   "category": "conflict"
-  },
-  {
-   "title": "Poundland pins rescue hopes on Yorkshire Tea, Pot Noodle and Gloria Gaynor",
-   "summary": "Chain restocks stores in operation named after singer of I Will Survive, as US owners release some of withheld funds Poundland’s under-fire US owners have released funds to help the stricken discount chain restock shelves temporarily, keeping hopes of a rescue deal alive in the run-up to crunch…",
-   "link": "https://www.theguardian.com/business/2026/nov/15/poundland-pins-rescue-hopes-on-yorkshire-tea-pot-noodle-and-gloria-gaynor",
-   "source": "The Guardian World",
-   "published": "2026-11-15T13:41:01Z",
-   "region": "Americas",
-   "category": "news"
-  },
-  {
-   "title": "South Korea's top scorer in tax accountancy exam admits cheating",
-   "summary": "Han Won-seok, 34, confessed to using a hidden camera and AI to get a near-perfect mark on the significant test.",
-   "link": "https://www.bbc.co.uk/news/articles/ckvg2ezvpe08o?at_medium=RSS&at_campaign=rss",
-   "source": "BBC World",
-   "published": "2026-11-15T13:37:45Z",
-   "region": "Asia-Pacific",
-   "category": "news"
   },
   {
    "title": "Minister backs legal right to job support for young people",
@@ -394,48 +430,12 @@
    "category": "economy"
   },
   {
-   "title": "Three men sentenced to death in Jordan over fatal church mass shooting",
-   "summary": "The attack on funeral at a Greek Orthodox church killed nine and injured 34 others last month.",
-   "link": "https://www.bbc.co.uk/news/articles/c3rrg9xgqlwpo?at_medium=RSS&at_campaign=rss",
-   "source": "BBC World",
-   "published": "2026-11-15T11:06:32Z",
-   "region": "Middle East",
-   "category": "conflict"
-  },
-  {
-   "title": "Pope Leo speaks of community 'suffering' on visit to remote Andes town",
-   "summary": "Santa Cruz de Succhabamba is part of the Diocese of Chiclayo, where the Pope served as bishop from 2015 to 2023.",
-   "link": "https://www.bbc.co.uk/news/articles/cr4gnz0lv2vlo?at_medium=RSS&at_campaign=rss",
-   "source": "BBC World",
-   "published": "2026-11-15T09:57:25Z",
-   "region": "Global",
-   "category": "news"
-  },
-  {
-   "title": "Beijing faces its Russia dilemma amid talk of Xi-Trump-Putin summit",
-   "summary": "China is forced to tread carefully as it considers hosting a meeting between Xi Jinping, Vladimir Putin, and Donald Trump. While the optics are sure to favor Moscow, Beijing is risking its image on the global stage.",
-   "link": "https://www.dw.com/en/beijing-faces-its-russia-dilemma-amid-talk-of-xi-trump-putin-summit/a-79942427?maca=en-rss-en-world-4025-rdf",
-   "source": "DW World",
-   "published": "2026-11-15T06:31:00Z",
-   "region": "Europe",
-   "category": "news"
-  },
-  {
    "title": "Could Budapest be the next digital nomad hotspot?",
    "summary": "With its mix of sights, cafés and culture, Hungary's capital Budapest has become popular with those embracing the \"work from anywhere\" trend.",
    "link": "https://www.cnbc.com/2026/11/15/budapest-europes-next-digital-nomad-hotspot.html",
    "source": "CNBC World",
    "published": "2026-11-15T06:00:01Z",
    "region": "Europe",
-   "category": "economy"
-  },
-  {
-   "title": "Nationwide ground stop followed contractor upgrade to L3Harris telecommunication system: DOT’s Duffy",
-   "summary": "The FAA ground stop came after updates to an older communication system managed by L3Harris Technologies, Transportation Secretary Sean Duffy said Saturday.",
-   "link": "https://www.cnbc.com/2026/11/14/faa-ground-stop-flights-resume-delays.html",
-   "source": "CNBC World",
-   "published": "2026-11-15T02:53:59Z",
-   "region": "Global",
    "category": "economy"
   },
   {
