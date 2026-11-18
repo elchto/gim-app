@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-18T12:59:39Z",
+ "updatedAt": "2026-11-18T21:23:51Z",
  "sources": [
   "BBC World",
   "BBC Business",
@@ -13,69 +13,321 @@
   "CNBC World"
  ],
  "failed": [],
- "count": 80,
+ "count": 79,
  "items": [
   {
-   "title": "Democrat Mary Peltola wins Alaska Senate election",
-   "summary": "Peltola's defeat of incumbent Republican Dan Sullivan gives Democrats a solid majority of 56 seats in the Senate as of January.",
-   "link": "https://www.cnbc.com/2026/11/18/alaska-senate-mary-peltola-wins-election.html",
+   "title": "Anthropic prices IPO at $83 per share, above expected range, source tells CNBC",
+   "summary": "Anthropic stock is set to begin trading on the Nasdaq under the ticker symbol ANT on Thursday.",
+   "link": "https://www.cnbc.com/2026/11/18/anthropic-ipo-ai-offering-price.html",
    "source": "CNBC World",
-   "published": "2026-11-18T12:50:00Z",
+   "published": "2026-11-18T21:22:04Z",
+   "region": "Global",
+   "category": "economy"
+  },
+  {
+   "title": "Longer-dated Treasury yields fall as traders weigh Waller comments, Fed minutes",
+   "summary": "Yields at the long end of the Treasury yield curve declined Wednesday.",
+   "link": "https://www.cnbc.com/2026/11/18/treasury-yields-bonds-fed.html",
+   "source": "CNBC World",
+   "published": "2026-11-18T21:14:54Z",
    "region": "Americas",
    "category": "economy"
   },
   {
-   "title": "Burnham and Badenoch clash over welfare cuts for young at PMQs – UK politics live",
-   "summary": "Leader of opposition accuses Labour of being party of welfare as he says the biggest rise in Neets came under the Tories In her speech today, Shabana Mahmood , the home secretary, will also announce plans for a new fast-stream police leadership programme for up to 200 recruits a year. Vikram Dodd…",
-   "link": "https://www.theguardian.com/politics/live/2026/nov/18/shabana-mahmood-andy-burnham-kemi-badenoch-pmqs-latest-news-updates",
-   "source": "The Guardian World",
-   "published": "2026-11-18T12:48:53Z",
-   "region": "Europe",
-   "category": "conflict"
-  },
-  {
-   "title": "Doctor whose evidence helped to convict Lucy Letby was barred from treating patients during trial",
-   "summary": "Exclusive: Jury was never told that Prof Peter Hindmarsh was barred from practising over concerns for patients’ safety A senior doctor whose evidence helped to convict Lucy Letby and who was held up by prosecutors as a pre-eminent expert was barred from treating patients during the trial over fears…",
-   "link": "https://www.theguardian.com/uk-news/2026/nov/18/doctor-whose-evidence-helped-to-convict-lucy-letby-was-barred-from-treating-patients-during-trial",
-   "source": "The Guardian World",
-   "published": "2026-11-18T12:45:13Z",
-   "region": "Global",
-   "category": "news"
-  },
-  {
-   "title": "Peltola’s Alaska win ‘a gift for all America,’ says Schumer – US politics live",
-   "summary": "Senate Democratic leader hails result which will give the party a commanding 56-44 seat majority Trump in China for Apec summit – follow live Sign up for US breaking News email The Chinese, US and Russian leaders exchanged first greetings in China, a day before their first formal trilateral…",
-   "link": "https://www.theguardian.com/us-news/live/2026/nov/18/donald-trump-mary-peltola-alaska-hakeem-jeffries-democrats-republicans-congress-house-senate-midterms-latest-news-updates",
-   "source": "The Guardian World",
-   "published": "2026-11-18T12:43:07Z",
+   "title": "Democrats nominate Hakeem Jeffries to be US Speaker of the House",
+   "summary": "The nomination sets him on the path to become the first black lawmaker to lead the chamber when Democrats take control of the House in January.",
+   "link": "https://www.bbc.co.uk/news/articles/cmy49873dn95o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "published": "2026-11-18T21:13:06Z",
    "region": "Americas",
    "category": "news"
   },
   {
-   "title": "Apec summit live: Xi welcomes Trump on China visit as Putin claims Europe in ‘humiliating decline’",
-   "summary": "Summit in Chinese tech hub Shenzhen set to include highly anticipated meeting between Xi, Trump and Putin Shenzhen takes centre stage as Xi sends ‘Chinamaxxing’ message at Apec summit What is Apec? Explained in 30 seconds Yalta became a byword for betrayal. Will Trump, Xi and Putin enact another…",
-   "link": "https://www.theguardian.com/world/live/2026/nov/18/apec-summit-live-updates-xi-putin-trump-world-leaders-gather-in-china",
-   "source": "The Guardian World",
-   "published": "2026-11-18T12:41:50Z",
-   "region": "Asia-Pacific",
-   "category": "news"
-  },
-  {
-   "title": "How data centres are turning AI-generated heat into energy",
-   "summary": "How data centres are turning AI-generated heat into energy",
-   "link": "https://www.aljazeera.com/video/newsfeed/2026/11/18/how-data-centres-are-turning-ai-generated-heat-into-energy?traffic_source=rss",
+   "title": "Floodwaters submerge cars and parking lots in Florida town",
+   "summary": "Floodwaters turned streets and parking lots into rivers in Davie, Florida, leaving drivers facing dangerous conditions.",
+   "link": "https://www.aljazeera.com/video/newsfeed/2026/11/18/aje-onl-nf_floodwaters-submerge-cars-in-florida-181126?traffic_source=rss",
    "source": "Al Jazeera",
-   "published": "2026-11-18T12:41:02Z",
+   "published": "2026-11-18T21:08:04Z",
    "region": "Global",
    "category": "news"
   },
   {
-   "title": "Trump shakes hands with Putin and Xi ahead of historic talks in China",
-   "summary": "The three leaders will meet together for the first time on Thursday during a closely-watched summit.",
-   "link": "https://www.bbc.co.uk/news/articles/ck9d75x5wwwwo?at_medium=RSS&at_campaign=rss",
-   "source": "BBC World",
-   "published": "2026-11-18T12:39:24Z",
+   "title": "Nvidia sinks after earnings, dragging down neoclouds CoreWeave, Iren",
+   "summary": "Nvidia's earnings come at a tumultuous time for the company.",
+   "link": "https://www.cnbc.com/2026/11/18/nvidia-stock-earnings.html",
+   "source": "CNBC World",
+   "published": "2026-11-18T21:06:49Z",
+   "region": "Global",
+   "category": "economy"
+  },
+  {
+   "title": "FAA chief urges critics to ‘lay off’ Sean Duffy for flight stoppage: ‘Blame me’",
+   "summary": "Comments come as the top US transportation official faces scrutiny over his handling of tech outage crisis The head of the Federal Aviation Administration (FAA) took responsibility for the nationwide ground stop that affected more than 12,400 flights on Friday, urging people to “lay off” Sean…",
+   "link": "https://www.theguardian.com/world/2026/nov/18/faa-sean-duffy-flight-stoppage",
+   "source": "The Guardian World",
+   "published": "2026-11-18T21:04:58Z",
+   "region": "Americas",
+   "category": "news"
+  },
+  {
+   "title": "US Defence Secretary Hegseth reveals military partnership on Venezuela trip",
+   "summary": "Pete Hegseth says the agreement will include joint training and intelligence sharing with the Venezuelan military.",
+   "link": "https://www.aljazeera.com/news/2026/11/18/us-defence-secretary-announces-military-partnership-on-trip-to-venezuela?traffic_source=rss",
+   "source": "Al Jazeera",
+   "published": "2026-11-18T21:01:05Z",
+   "region": "Americas",
+   "category": "conflict"
+  },
+  {
+   "title": "Markwayne Mullin defends move to take government plane to football game amid flight stoppage – US politics live",
+   "summary": "The secretary of homeland security flew to attend a college game Saturday, after thousands of flights were cancelled Sign up for US breaking News email Linked to that, the White House held a briefing call with several reporters today about the wave of tech outages affecting several industries. CNN…",
+   "link": "https://www.theguardian.com/us-news/live/2026/nov/18/donald-trump-mary-peltola-alaska-hakeem-jeffries-democrats-republicans-congress-house-senate-midterms-latest-news-updates",
+   "source": "The Guardian World",
+   "published": "2026-11-18T20:57:57Z",
+   "region": "Americas",
+   "category": "news"
+  },
+  {
+   "title": "What does Israel’s new ground offensive mean for Palestinians in Gaza?",
+   "summary": "Israeli tanks advance beyond the 'Yellow Line', forcing Palestinians to flee again in Gaza.",
+   "link": "https://www.aljazeera.com/news/2026/11/18/what-does-israels-new-ground-offensive-mean-for-palestinians-in-gaza?traffic_source=rss",
+   "source": "Al Jazeera",
+   "published": "2026-11-18T20:38:06Z",
+   "region": "Middle East",
+   "category": "conflict"
+  },
+  {
+   "title": "Pew Research: Islam on track to become world’s largest religion by 2035",
+   "summary": "The report projects steady increases for both Christianity and Islam from 2020 to 2070.",
+   "link": "https://www.aljazeera.com/news/2026/11/18/pew-research-islam-on-track-to-become-worlds-largest-religion-by-2035?traffic_source=rss",
+   "source": "Al Jazeera",
+   "published": "2026-11-18T20:37:40Z",
+   "region": "Global",
+   "category": "news"
+  },
+  {
+   "title": "Birmingham council granted interim ban on union jacks on lamp-posts",
+   "summary": "High court judge issues order against Raise the Colours over flags on council-owned street furniture The campaign group Raise the Colours has been temporarily banned from placing union jacks on lamp-posts and roundabouts in Birmingham after a legal challenge by the local council. The high court…",
+   "link": "https://www.theguardian.com/uk-news/2026/nov/18/birmingham-council-interim-ban-union-jacks-raise-the-colours",
+   "source": "The Guardian World",
+   "published": "2026-11-18T20:32:58Z",
+   "region": "Global",
+   "category": "news"
+  },
+  {
+   "title": "Reconstruction begins at Limoges City Hall after devastating fire",
+   "summary": "It's been a month since the nationwide protests that degenerated in violence across France. The dramatic pictures of the historic City Hall in the French city of Limoges set on fire made headlines worldwide. To the relief of many, the reconstruction work on the building has now begun. Since the…",
+   "link": "https://www.france24.com/en/reconstruction-begins-at-limoges-city-hall-after-devastating-fire",
+   "source": "France 24",
+   "published": "2026-11-18T20:31:40Z",
    "region": "Europe",
+   "category": "news"
+  },
+  {
+   "title": "PlayStation suffers widespread network problems hours before release of GTA VI",
+   "summary": "Disruption comes at critical moment, with Grand Theft Auto VI one of the most eagerly anticipated titles in history PlayStation has suffered widespread network problems just hours before the release of Grand Theft Auto VI , one of the most eagerly anticipated titles in recent gaming history. The…",
+   "link": "https://www.theguardian.com/games/2026/nov/18/playstation-down-grand-theft-auto-vi-game-release",
+   "source": "The Guardian World",
+   "published": "2026-11-18T20:28:42Z",
+   "region": "Global",
+   "category": "news"
+  },
+  {
+   "title": "Putin’s nuclear briefcase makes surprise appearance at China summit",
+   "summary": "Russian President Vladimir Putin’s nuclear briefcase was spotted at the APEC summit in China.",
+   "link": "https://www.aljazeera.com/video/newsfeed/2026/11/18/putins-nuclear-briefcase-makes-surprise-appearance-at-china-summit?traffic_source=rss",
+   "source": "Al Jazeera",
+   "published": "2026-11-18T20:24:50Z",
+   "region": "Europe",
+   "category": "conflict"
+  },
+  {
+   "title": "Hegseth uses Venezuela visit to boast of Maduro’s capture by US military",
+   "summary": "Defense secretary asserts US dominance on trip that would have seemed ‘impossible, almost unbelievable’ a year ago Pete Hegseth has used his first visit to Venezuela since US special forces abducted its former president, Nicolás Maduro, to boast of the dictator’s capture during what he called “the…",
+   "link": "https://www.theguardian.com/world/2026/nov/18/pete-hegseth-venezuela-nicolas-maduro-military",
+   "source": "The Guardian World",
+   "published": "2026-11-18T20:24:19Z",
+   "region": "Americas",
+   "category": "conflict"
+  },
+  {
+   "title": "Muslims projected to overtake Christians as world’s largest religious group",
+   "summary": "New Pew Research Center projections point to major changes in the world’s religious landscape by 2070.",
+   "link": "https://www.aljazeera.com/video/newsfeed/2026/11/18/muslims-projected-to-overtake-christians-as-worlds-largest-religious-group?traffic_source=rss",
+   "source": "Al Jazeera",
+   "published": "2026-11-18T20:21:34Z",
+   "region": "Global",
+   "category": "news"
+  },
+  {
+   "title": "US loses measles-free status after 26 years in historic setback",
+   "summary": "The US has lost its measles elimination status after 26 years, as its largest outbreak in over three decades continues.",
+   "link": "https://www.aljazeera.com/video/newsfeed/2026/11/18/aje-onl-nf_us-loses-measles-free-status-after-26-years-181126?traffic_source=rss",
+   "source": "Al Jazeera",
+   "published": "2026-11-18T20:18:25Z",
+   "region": "Americas",
+   "category": "news"
+  },
+  {
+   "title": "Israeli military launches rare ground operation in Gaza beyond Yellow Line",
+   "summary": "Hamas condemns the incursion, which the Israeli military says is dismantling a \"terror tunnel\", as a \"flagrant\" ceasefire violation.",
+   "link": "https://www.bbc.co.uk/news/articles/cw8r7510degno?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "published": "2026-11-18T20:14:57Z",
+   "region": "Middle East",
+   "category": "conflict"
+  },
+  {
+   "title": "US lawmakers launch probe into Lutnick’s actions amid Nvidia scandal",
+   "summary": "Letter alleges possible conflict of interest in commerce secretary not adding Megaspeed to US trade blacklist.",
+   "link": "https://www.aljazeera.com/economy/2026/11/18/us-lawmakers-launch-probe-into-lutnicks-actions-amid-nvidia-scandal?traffic_source=rss",
+   "source": "Al Jazeera",
+   "published": "2026-11-18T20:14:04Z",
+   "region": "Americas",
+   "category": "conflict"
+  },
+  {
+   "title": "Trump and Putin to meet one-on-one in China Thursday",
+   "summary": "US and Russia leaders meet in China amid efforts to resolve Ukraine crisis and enhance post-war security guarantees.",
+   "link": "https://www.aljazeera.com/news/2026/11/18/trump-and-putin-to-meet-one-on-one-in-china-thursday?traffic_source=rss",
+   "source": "Al Jazeera",
+   "published": "2026-11-18T20:12:20Z",
+   "region": "Europe",
+   "category": "conflict"
+  },
+  {
+   "title": "William and Kate meet PM Modi as they wrap up India tour",
+   "summary": "The meeting in New Delhi was a late addition to the royal couple's India visit, which also included their appearance at the annual Earthshot Prize",
+   "link": "https://www.bbc.co.uk/news/articles/cq62ped2ypy4o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "published": "2026-11-18T20:07:08Z",
+   "region": "Asia-Pacific",
+   "category": "news"
+  },
+  {
+   "title": "Shabana Mahmood backs ban on police marching in pride events in uniform",
+   "summary": "Home secretary says ‘routine two-tier policing’ does not exist, but public trust in impartial law enforcement must be restored Shabana Mahmood has backed a ban on police officers marching in pride events in uniform as she said there had been a “few examples” of two-tier policing . Although she said…",
+   "link": "https://www.theguardian.com/politics/2026/nov/18/shabana-mahmood-backs-ban-on-police-marching-in-pride-events-in-uniform",
+   "source": "The Guardian World",
+   "published": "2026-11-18T20:03:50Z",
+   "region": "Global",
+   "category": "news"
+  },
+  {
+   "title": "US Democrats nominate Jeffries to be first Black House speaker",
+   "summary": "Hakeem Jeffries is on the cusp of becoming the first Black speaker of the US House of Representatives after Democrats elected him their leader Wednesday following a sweeping midterm election triumph. Jeffries faced no declared challenger, although opposition from some newly elected progressives had…",
+   "link": "https://www.france24.com/en/us-democrats-nominate-jeffries-to-be-first-black-house-speaker",
+   "source": "France 24",
+   "published": "2026-11-18T19:58:23Z",
+   "region": "Americas",
+   "category": "news"
+  },
+  {
+   "title": "Israeli army launches ground operation in Hamas-controlled area of Gaza",
+   "summary": "The Israeli military said it had launched an operation on Wednesday in a Hamas-controlled area of central Gaza, where an AFP journalist saw Israeli tanks position themselves east of the Nuseirat refugee camp. The rare ground operation comes after inconclusive Israeli elections, with the…",
+   "link": "https://www.france24.com/en/israeli-army-launches-ground-operation-in-hamas-controlled-area-of-gaza",
+   "source": "France 24",
+   "published": "2026-11-18T19:55:15Z",
+   "region": "Middle East",
+   "category": "conflict"
+  },
+  {
+   "title": "US admits ‘substantial’ change to extradition request translation for leftist activist",
+   "summary": "DoJ cites three examples of alterations from English into Spanish for James ‘Fergie’ Chambers after Guardian report US authorities have admitted altering the translation of an extradition request for James “Fergie” Chambers from English into Spanish, attributing violent and illegal actions to the…",
+   "link": "https://www.theguardian.com/us-news/2026/nov/18/fergie-chambers-extradition-request-translation",
+   "source": "The Guardian World",
+   "published": "2026-11-18T19:45:30Z",
+   "region": "Europe",
+   "category": "news"
+  },
+  {
+   "title": "'Netanyahu's only 2 tickets are racism or starting a war: He stopped acting as a democratic player'",
+   "summary": "François Picard is pleased to welcome Israeli writer and filmmaker Etgar Keret, author of \"The Seven Good Years\", joining us from Tel Aviv. Keret argues that Netanyahu is seeking to remain in power, at any cost, including delegitimizing Arab parties and prolonging conflict. “For him, it could be a…",
+   "link": "https://www.france24.com/en/tv-shows/spotlight/20261118-netanyahu-s-only-2-tickets-are-racism-or-starting-a-war-he-stopped-acting-as-a-democratic-player",
+   "source": "France 24",
+   "published": "2026-11-18T19:45:16Z",
+   "region": "Middle East",
+   "category": "conflict"
+  },
+  {
+   "title": "Xi welcomes Trump: Does Nvidia scandal upend US-China AI race?",
+   "summary": "You can strike Jensen Huang from the guest list but good luck steering dinner conversation away from the topic in Shenzhen. The co-founder of the AI computing leader was to accompany the US president to the APEC summit before he was undone by revelations of a dalliance with a Chinese national that…",
+   "link": "https://www.france24.com/en/tv-shows/the-debate/20261118-xi-welcomes-trump-does-nvidia-scandal-upend-us-china-ai-race",
+   "source": "France 24",
+   "published": "2026-11-18T19:42:17Z",
+   "region": "Asia-Pacific",
+   "category": "conflict"
+  },
+  {
+   "title": "How high is UK inflation and how will you be affected?",
+   "summary": "Prices rose 3.6% in the year to October, mainly because of higher petrol and diesel prices, official figures show.",
+   "link": "https://www.bbc.co.uk/news/videos/cxp80q5pv4q5o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC Business",
+   "published": "2026-11-18T19:37:27Z",
+   "region": "Europe",
+   "category": "economy"
+  },
+  {
+   "title": "Ex-Tory MPs barred from shaping Reform UK’s immigration policy, says Zia Yusuf",
+   "summary": "Comments by Reform’s home affairs spokesperson raise questions about unity at top of the party Former Conservative defectors to Reform UK have been barred from shaping the party’s immigration policy, its home affairs spokesperson has claimed, excluding in effect the majority of the party’s MPs. “If…",
+   "link": "https://www.theguardian.com/politics/2026/nov/18/ex-tory-defectors-barred-from-shaping-reform-uks-immigration-policy-says-yusuf",
+   "source": "The Guardian World",
+   "published": "2026-11-18T19:34:31Z",
+   "region": "Europe",
+   "category": "news"
+  },
+  {
+   "title": "Heavy rain and snow predicted in California as ‘atmospheric river’ moves across state",
+   "summary": "Flood advisories issued for much of Bay Area with coastal flooding and heavy surf possible in southern California Heavy rain or snowfall is predicted across California this week, as an “atmospheric river” dumps precipitation across the state. Flood advisories have been issued for much of the Bay…",
+   "link": "https://www.theguardian.com/us-news/2026/nov/18/california-atmospheric-river-flooding",
+   "source": "The Guardian World",
+   "published": "2026-11-18T19:18:18Z",
+   "region": "Global",
+   "category": "news"
+  },
+  {
+   "title": "Vance scraps schedule to address tech outages as Trump admin insists incidents aren't linked",
+   "summary": "Recent disruptions include a nationwide ground stop, Microsoft Outlook outage and a reported blackout of the National Security Agency's communications network.",
+   "link": "https://www.cnbc.com/2026/11/18/trump-tech-outages-nsa-faa-microsoft.html",
+   "source": "CNBC World",
+   "published": "2026-11-18T19:17:27Z",
+   "region": "Americas",
+   "category": "economy"
+  },
+  {
+   "title": "One of AI's most notorious 'doomers' stands to make billions in Anthropic's IPO",
+   "summary": "An Estonian tech billionaire famous for his stance that AI could end humanity is expected to be one of the biggest winners in Anthropic's upcoming IPO.",
+   "link": "https://www.cnbc.com/2026/11/18/jaan-tallinn-anthropic-ipo-series-a-investment.html",
+   "source": "CNBC World",
+   "published": "2026-11-18T18:43:26Z",
+   "region": "Global",
+   "category": "economy"
+  },
+  {
+   "title": "Jeffries wins Democratic House speaker race, on track to make history in January",
+   "summary": "Jeffries will still need to win a floor vote in January to officially become House speaker.",
+   "link": "https://www.cnbc.com/2026/11/18/jeffries-house-speaker-congress.html",
+   "source": "CNBC World",
+   "published": "2026-11-18T18:32:39Z",
+   "region": "Global",
+   "category": "economy"
+  },
+  {
+   "title": "Why Ukraine keeps trying to bring down Russia's bridge to Crimea",
+   "summary": "A Ukrainian drone and missile strike on Monday night brought down a stretch of the bridge linking the annexed Crimean Peninsula to Russia, potentially crippling a route long used by Moscow to move men and materiel into Crimea and the southern front. Here’s why Kyiv keeps testing its strength…",
+   "link": "https://www.france24.com/en/europe/20261118-why-ukraine-keeps-trying-to-bring-down-russia-s-bridge-to-crimea",
+   "source": "France 24",
+   "published": "2026-11-18T18:17:34Z",
+   "region": "Europe",
+   "category": "conflict"
+  },
+  {
+   "title": "Karl Kani dressed hip-hop royalty for decades. Now he's telling his own story",
+   "summary": "On NPR's Morning Edition , fashion designer Karl Kani talks about his new memoir, dressing some of hip-hop's biggest stars and why skinny jeans aren't for everyone.",
+   "link": "https://www.npr.org/2026/11/18/g-s1-154227/karl-kani-a-life-by-design",
+   "source": "NPR World",
+   "published": "2026-11-18T18:15:59Z",
+   "region": "Global",
    "category": "news"
   },
   {
@@ -83,54 +335,171 @@
    "summary": "Nvidia's interim CEO Colette Kress calmed investors. Now she has to calm employees.",
    "link": "https://www.cnbc.com/2026/11/18/nvidia-kress-jensen-huang-return.html",
    "source": "CNBC World",
-   "published": "2026-11-18T12:34:24Z",
+   "published": "2026-11-18T18:11:41Z",
    "region": "Global",
    "category": "economy"
   },
   {
-   "title": "Ukraine mourns mother, athlete and drone operator killed in Russian strike",
-   "summary": "Rayana joined Ukraine’s army in 2024 to protect her son from Russia’s invasion. She was killed in Russian air strike.",
-   "link": "https://www.aljazeera.com/video/newsfeed/2026/11/18/ukraine-mourns-mother-athlete-and-drone-operator-killed-in-russian-strike?traffic_source=rss",
-   "source": "Al Jazeera",
-   "published": "2026-11-18T12:27:40Z",
-   "region": "Europe",
-   "category": "conflict"
+   "title": "Target shares rise 7% as retailer posts best sales growth in five years, hikes guidance",
+   "summary": "Target beat third-quarter sales expectations and raised its guidance as it continues a turnaround effort.",
+   "link": "https://www.cnbc.com/2026/11/18/target-tgt-q3-2026-earnings.html",
+   "source": "CNBC World",
+   "published": "2026-11-18T17:56:50Z",
+   "region": "Global",
+   "category": "economy"
   },
   {
-   "title": "Rwanda and DRC: What is holding up the Washington peace process?",
-   "summary": "The two sides remain divided over key security commitments under the Washington Accords.",
-   "link": "https://www.aljazeera.com/news/2026/11/18/rwanda-and-drc-what-is-holding-up-the-washington-peace-process?traffic_source=rss",
-   "source": "Al Jazeera",
-   "published": "2026-11-18T12:27:23Z",
-   "region": "Africa",
-   "category": "news"
+   "title": "Jensen Huang has agreed to appear before Senate banking committee, Chairman Scott says",
+   "summary": "Jensen Huang will appear before the Senate banking committee, its Chair Tim Scott said. That adds to an already announced appearance before House panels.",
+   "link": "https://www.cnbc.com/2026/11/18/jensen-huang-nvidia-tim-scott-congress.html",
+   "source": "CNBC World",
+   "published": "2026-11-18T17:50:37Z",
+   "region": "Americas",
+   "category": "economy"
   },
   {
-   "title": "Chinese cars shake up Ivory Coast's auto industry",
-   "summary": "In the space of just a few years, more than a dozen Chinese carmakers have established themselves in Ivory Coast and are becoming increasingly visible on the country's streets. How have they managed to win over a growing number of customers? FRANCE 24's Jean Barrère and Eunice Stolz-Masson report.",
-   "link": "https://www.france24.com/en/tv-shows/focus/20261118-chinese-cars-shake-up-ivory-coast-s-auto-industry",
+   "title": "Beijing has supported Moscow but 'China understands that America is way more important than Russia'",
+   "summary": "Following Xi Jinping's very friendly rare tarmac greeting for Donald Trump, Erin Ogunkeye is pleased to welcome Kerry Brown, Professor of Chinese Studies and Director of the Lau China Institute at King's College, London. Brown examines the complex relationship between the world's two largest…",
+   "link": "https://www.france24.com/en/beijing-has-supported-moscow-but-china-understands-that-america-is-way-more-important-than-russia",
    "source": "France 24",
-   "published": "2026-11-18T12:25:36Z",
+   "published": "2026-11-18T17:48:38Z",
    "region": "Asia-Pacific",
    "category": "news"
   },
   {
-   "title": "Trump arrives in China for historic meeting with Xi, Putin",
-   "summary": "President Donald Trump in Shenzhen for historic trilateral talks with Chinese leader Xi Jinping and Russia's Vladimir Putin.",
-   "link": "https://www.cnbc.com/2026/11/18/trump-xi-putin-china-apec.html",
-   "source": "CNBC World",
-   "published": "2026-11-18T12:24:24Z",
+   "title": "Grand Theft Auto 6 is a masterpiece, say critics",
+   "summary": "Critics have their say as to whether GTA 6, the most anticipated video game of all time, lives up to the hype.",
+   "link": "https://www.bbc.co.uk/news/articles/cw8r75xm8v4po?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "published": "2026-11-18T17:34:25Z",
+   "region": "Global",
+   "category": "news"
+  },
+  {
+   "title": "French ex-PM Philippe pledges to slash spending, hike retirement age as Elysée bid falters",
+   "summary": "Former prime minister Édouard Philippe pledged on Wednesday to slash public spending, scrap France’s statutory 35-hour workweek and raise the retirement age to 65 from the current 62.9 years as he unveiled a slew of measures aimed a staving off economic \"catastrophe\" for France. An early…",
+   "link": "https://www.france24.com/en/france/20261118-french-ex-pm-philippe-pledges-to-slash-spending-hike-retirement-age-as-elys%C3%A9e-bid-falters",
+   "source": "France 24",
+   "published": "2026-11-18T17:16:05Z",
+   "region": "Europe",
+   "category": "news"
+  },
+  {
+   "title": "New video shows explosions moments before part of Crimea Bridge collapses",
+   "summary": "BBC Verify analyses footage showing the final moments before part of the bridge fell and videos showing the scale of destruction.",
+   "link": "https://www.bbc.co.uk/news/videos/ckvg28jy77z5o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "published": "2026-11-18T17:09:43Z",
+   "region": "Global",
+   "category": "news"
+  },
+  {
+   "title": "Inside the old gas pipeline where Ukraine is fighting an underground war with Russia",
+   "summary": "Watch: The BBC's Jonathan Beale joins Ukrainian forces taking the battle below ground and out of sight of Russian drones.",
+   "link": "https://www.bbc.co.uk/news/videos/c8p3vw4q6nzzo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "published": "2026-11-18T17:00:40Z",
+   "region": "Europe",
+   "category": "conflict"
+  },
+  {
+   "title": "'The drones don't fly here' - BBC reports from Ukraine's new front line",
+   "summary": "Ukrainian forces are fighting Russian troops in an old Soviet tunnel in the Kharkiv region.",
+   "link": "https://www.bbc.co.uk/news/articles/c32l507ev4v4o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "published": "2026-11-18T17:00:04Z",
+   "region": "Europe",
+   "category": "conflict"
+  },
+  {
+   "title": "War in Ukraine: Is France in direct conflict with Russia?",
+   "summary": "An investigation published by the French public radio channel RFI on November 17 revealed that a confidential mission by the French army known as \"Volia\" has been used for months to conceal the presence of French personnel in Ukraine. Russia was prompt to accuse France of direct involvement in the…",
+   "link": "https://www.france24.com/en/video/20261118-war-in-ukraine-is-france-in-direct-conflict-with-russia",
+   "source": "France 24",
+   "published": "2026-11-18T16:57:36Z",
+   "region": "Europe",
+   "category": "conflict"
+  },
+  {
+   "title": "Julio Iglesias facing court investigation over alleged sexual offences",
+   "summary": "The 83-year-old singer is accused of abusing two former employees at Caribbean residences in 2021.",
+   "link": "https://www.bbc.co.uk/news/articles/c6x284pnn4e2o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "published": "2026-11-18T16:33:16Z",
+   "region": "Americas",
+   "category": "news"
+  },
+  {
+   "title": "Trump shakes hands with Putin and Xi ahead of historic talks in China",
+   "summary": "The three leaders will meet together for the first time on Thursday during a closely-watched summit.",
+   "link": "https://www.bbc.co.uk/news/articles/ck9d75x5wwwwo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "published": "2026-11-18T16:10:44Z",
+   "region": "Europe",
+   "category": "news"
+  },
+  {
+   "title": "North Korea expanded uranium enrichment plant, says IAEA head",
+   "summary": "IAEA chief Rafael Grossi has said the ongoing expansion of North Korea's uranium enrichment program remains \"a cause for serious concern.\"",
+   "link": "https://www.dw.com/en/north-korea-expanded-uranium-enrichment-plant-says-iaea-head/a-79982758?maca=en-rss-en-world-4025-rdf",
+   "source": "DW World",
+   "published": "2026-11-18T15:15:00Z",
+   "region": "Asia-Pacific",
+   "category": "news"
+  },
+  {
+   "title": "Cathedral's staff review 'difficult but necessary'",
+   "summary": "Gloucester Cathedral has been going through a restructure due to \"significant financial pressure\".",
+   "link": "https://www.bbc.co.uk/news/articles/c6kgr03jlv4ro?at_medium=RSS&at_campaign=rss",
+   "source": "BBC Business",
+   "published": "2026-11-18T15:14:34Z",
+   "region": "Global",
+   "category": "economy"
+  },
+  {
+   "title": "India: Online censorship grows after 'Cockroach' protests",
+   "summary": "Since anti-government Cockroach protests erupted, journalists and creators say their content is increasingly being restricted on social media in India.",
+   "link": "https://www.dw.com/en/india-online-censorship-grows-after-cockroach-protests/a-79976982?maca=en-rss-en-world-4025-rdf",
+   "source": "DW World",
+   "published": "2026-11-18T14:28:00Z",
+   "region": "Asia-Pacific",
+   "category": "news"
+  },
+  {
+   "title": "ICJ to rule on Rohingya genocide case against Myanmar: What to know",
+   "summary": "The ICJ is set to decide whether Myanmar's military operations in Rakhine State a decade ago were carried out with the intent to destroy the country's Rohingya minority, in whole or in part.",
+   "link": "https://www.dw.com/en/icj-to-rule-on-rohingya-genocide-case-against-myanmar-what-to-know/a-79981434?maca=en-rss-en-world-4025-rdf",
+   "source": "DW World",
+   "published": "2026-11-18T14:27:00Z",
+   "region": "Asia-Pacific",
+   "category": "conflict"
+  },
+  {
+   "title": "The seven Anthropic founders who are about to become multi-billionaires",
+   "summary": "The AI company behind Claude is about to sell its shares on the US stock market - making its founders very rich.",
+   "link": "https://www.bbc.co.uk/news/articles/cmd7159vlr85o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC Business",
+   "published": "2026-11-18T13:55:14Z",
+   "region": "Americas",
+   "category": "economy"
+  },
+  {
+   "title": "Typical energy bill forecast to go up by £443 a year from January as inflation rate rises again",
+   "summary": "Energy bills are expected to jump by 26% a year for a typical household as UK inflation hits its highest rate for a year.",
+   "link": "https://www.bbc.co.uk/news/articles/cmy498kdkx3xo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC Business",
+   "published": "2026-11-18T13:17:06Z",
    "region": "Europe",
    "category": "economy"
   },
   {
-   "title": "Peltola’s Alaska victory secures 56th Democratic seat in Senate | First Thing",
-   "summary": "The ninth gain of the midterms in the upper chamber, it is the first time Alaska has elected a Democrat since 2008. Plus the impact the NAZA documentary is having inside Israel Don’t already get First Thing in your inbox? Sign up here Good morning. Democrats will control 56 seats in the upper…",
-   "link": "https://www.theguardian.com/us-news/2026/nov/18/first-thing-peltolas-alaska-victory-secures-56th-democratic-seat-in-senate",
-   "source": "The Guardian World",
-   "published": "2026-11-18T12:23:41Z",
-   "region": "Middle East",
-   "category": "news"
+   "title": "Heating bills, chocolate and cat food: What the inflation figures mean for you",
+   "summary": "Prices are rising at their fastest pace for a year in the UK, and higher energy costs are on the way.",
+   "link": "https://www.bbc.co.uk/news/articles/ckq6eg55n221o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC Business",
+   "published": "2026-11-18T13:10:01Z",
+   "region": "Europe",
+   "category": "economy"
   },
   {
    "title": "Mary Peltola flips Alaska's Senate seat. And, Nvidia won't reinstate Jensen Huang",
@@ -139,87 +508,6 @@
    "source": "NPR World",
    "published": "2026-11-18T12:14:28Z",
    "region": "Americas",
-   "category": "news"
-  },
-  {
-   "title": "ICJ to rule on Rohingya genocide case: What to expect",
-   "summary": "The ICJ rules on The Gambia’s genocide case against Myanmar. Here’s what’s at stake for the Rohingya.",
-   "link": "https://www.aljazeera.com/news/2026/11/18/icj-to-rule-on-rohingya-genocide-case-what-to-expect?traffic_source=rss",
-   "source": "Al Jazeera",
-   "published": "2026-11-18T12:11:47Z",
-   "region": "Asia-Pacific",
-   "category": "news"
-  },
-  {
-   "title": "'A masterpiece of the gaming industry': GTA 'most expensive' entertainment production in history",
-   "summary": "François Picard is pleased to welcome Olivier Mauco, President of the European Video Game Observatory and Lecturer at Paris Dauphine University. For Spotlight, he discusses the extraordinary anticipation surrounding GTA 6, the game's enduring popularity and the economics of blockbuster video game…",
-   "link": "https://www.france24.com/en/tv-shows/spotlight/20261118-a-masterpiece-of-the-gaming-industry-gta-most-expensive-entertainment-production-in-history",
-   "source": "France 24",
-   "published": "2026-11-18T12:06:50Z",
-   "region": "Europe",
-   "category": "news"
-  },
-  {
-   "title": "Palestinians find refuge in ancient caves after Israel demolishes homes",
-   "summary": "Palestinians displaced in the occupied West Bank's Masafer Yatta area have been forced to live in underground caves.",
-   "link": "https://www.aljazeera.com/features/2026/11/18/palestinians-find-refuge-in-ancient-caves-after-israel-demolish-homes?traffic_source=rss",
-   "source": "Al Jazeera",
-   "published": "2026-11-18T12:04:21Z",
-   "region": "Middle East",
-   "category": "news"
-  },
-  {
-   "title": "Pineapple pizza debate reignites after Italian chef sacked in Australia",
-   "summary": "An Italian chef in Australia has lost his job after refusing to put pineapple on a pizza - calling it \"an insult\" to his culture. He then took his case to an employment tribunal, but his claim was dismissed. The case has reignited one the debate over what many, particularly in Italy consider to be…",
-   "link": "https://www.france24.com/en/video/20261118-pineapple-pizza-debate-reignites-after-italian-chef-sacked-in-australia",
-   "source": "France 24",
-   "published": "2026-11-18T12:03:26Z",
-   "region": "Europe",
-   "category": "news"
-  },
-  {
-   "title": "Key Hegseth adviser faces questions over ties to Israeli defense contractor and Saudi Arabia",
-   "summary": "A government watchdog has also labeled Hegseth’s defense policy appointee a ‘walking conflict of interest’ One of defense secretary Pete Hegseth ’s key advisers faces questions about potential conflicts of interest over his many roles, including advising the US defense department, Saudi Arabia, and…",
-   "link": "https://www.theguardian.com/us-news/2026/nov/18/pete-hegseth-iran-war-pentagon",
-   "source": "The Guardian World",
-   "published": "2026-11-18T12:00:58Z",
-   "region": "Middle East",
-   "category": "conflict"
-  },
-  {
-   "title": "‘I’m heartbroken’: experts dismayed as US loses long-held measles elimination status",
-   "summary": "Public health leaders condemn ‘significant damage’ by Trump administration as calls grow for RFK Jr to resign Doctors and public health leaders expressed grief and alarm at the loss of US measles-free status, a hard-won public health victory that once made the US a leader in infectious disease…",
-   "link": "https://www.theguardian.com/us-news/2026/nov/18/us-measles-elimination-status-experts",
-   "source": "The Guardian World",
-   "published": "2026-11-18T12:00:57Z",
-   "region": "Americas",
-   "category": "news"
-  },
-  {
-   "title": "IEA chief sees no 'credible pathway' back to pre-war normality in the Strait of Hormuz",
-   "summary": "The Iran war has 'crushed' confidence in the Strait of Hormuz as a reliable energy and goods corridor, the IEA's chief warned.",
-   "link": "https://www.cnbc.com/2026/11/18/iea-strait-hormuz-energy-risk.html",
-   "source": "CNBC World",
-   "published": "2026-11-18T12:00:01Z",
-   "region": "Middle East",
-   "category": "conflict"
-  },
-  {
-   "title": "Zelenskyy says Starshield speed curbs still in place over parts of Ukraine",
-   "summary": "Ukraine's charge d'affaires to the U.S., Denys Sienik, said that Starshield had been speed-limited for seven days already in Ukraine.",
-   "link": "https://www.cnbc.com/2026/11/18/ukraine-starshield-starlink-musk-spacex.html",
-   "source": "CNBC World",
-   "published": "2026-11-18T11:58:50Z",
-   "region": "Europe",
-   "category": "economy"
-  },
-  {
-   "title": "‘Partnership buys silence’: Fears grow over EU-Rwanda deportation plans",
-   "summary": "A British immigration lawyer, Rwandan journalist, rights groups and leading politicians decry the proposal as inhumane.",
-   "link": "https://www.aljazeera.com/news/2026/11/18/partnership-buys-silence-fears-grow-over-eu-rwanda-deportation-plans?traffic_source=rss",
-   "source": "Al Jazeera",
-   "published": "2026-11-18T11:58:10Z",
-   "region": "Europe",
    "category": "news"
   },
   {
@@ -232,128 +520,11 @@
    "category": "news"
   },
   {
-   "title": "Saudi coalition hits 60 Houthi military sites; Taiz sees ‘fierce battles’",
-   "summary": "Houthis advance towards Aden as Saudi-led coalition conducts precision strikes on key military targets in Yemen.",
-   "link": "https://www.aljazeera.com/news/2026/11/18/houthis-advance-on-aden-as-saudi-coalition-targets-military-sites?traffic_source=rss",
-   "source": "Al Jazeera",
-   "published": "2026-11-18T11:57:09Z",
-   "region": "Middle East",
-   "category": "conflict"
-  },
-  {
    "title": "Former U.S. ambassador on Trump's joint summit with leaders of China and Russia",
    "summary": "NPR's Leila Fadel speaks to Nicholas Burns, former U.S. ambassador to China and NATO, about President Trump's planned meeting with the leaders of China and Russia.",
    "link": "https://www.npr.org/2026/11/18/nx-s1-6044067/former-u-s-ambassador-on-trumps-joint-summit-with-leaders-of-china-and-russia",
    "source": "NPR World",
    "published": "2026-11-18T11:57:06Z",
-   "region": "Europe",
-   "category": "news"
-  },
-  {
-   "title": "Democrat Mary Peltola wins US Senate race in Alaska",
-   "summary": "Democrat Mary Peltola ​won Alaska's US Senate race on Tuesday, projections from US media showed, defeating Republican incumbent Dan Sullivan and giving her party its ninth Senate flip of the midterm elections and a commanding 56-44 majority in the upper house of Congress. France 24's Washington…",
-   "link": "https://www.france24.com/en/video/20261118-democrat-mary-peltola-wins-us-senate-race-in-alaska",
-   "source": "France 24",
-   "published": "2026-11-18T11:55:09Z",
-   "region": "Americas",
-   "category": "news"
-  },
-  {
-   "title": "Cameron Bancroft claims entire Australian team knew about ‘Sandpapergate’",
-   "summary": "Bancroft contradicts Pat Cummins and admits he lied to protect Cricket Australia's investigation into the scandal.",
-   "link": "https://www.aljazeera.com/sports/2026/11/18/cameron-bancroft-claims-entire-australian-team-knew-about-sandpapergate?traffic_source=rss",
-   "source": "Al Jazeera",
-   "published": "2026-11-18T11:51:26Z",
-   "region": "Asia-Pacific",
-   "category": "news"
-  },
-  {
-   "title": "Who would gain from carving up Pakistan’s provinces?",
-   "summary": "Pakistan could split four provinces into 12, raising hopes of better governance and fears of greater military power.",
-   "link": "https://www.aljazeera.com/video/newsfeed/2026/11/18/11-16-hosted-pakistan-provinces-plan-explainer?traffic_source=rss",
-   "source": "Al Jazeera",
-   "published": "2026-11-18T11:47:32Z",
-   "region": "Asia-Pacific",
-   "category": "conflict"
-  },
-  {
-   "title": "Trump arrives in China ahead of trilateral summit with Putin and Xi",
-   "summary": "Donald Trump arrived in Shenzhen, China on Wednesday, ahead of a historic trilateral on the sidelines of the APEC summit with his Russian and Chinese counterparts. The three men are expected to address the wars in Ukraine and Iran as well as nuclear disarmament.",
-   "link": "https://www.france24.com/en/video/20261118-trump-arrives-in-china-ahead-of-trilateral-summit-with-putin-and-xi",
-   "source": "France 24",
-   "published": "2026-11-18T11:46:25Z",
-   "region": "Asia-Pacific",
-   "category": "conflict"
-  },
-  {
-   "title": "Who to watch in Spain's election race",
-   "summary": "Spain votes on 29 November, with the conservatives leading most polls after eight years of Socialist-led rule.",
-   "link": "https://www.bbc.co.uk/news/articles/cxr5g4lyp94no?at_medium=RSS&at_campaign=rss",
-   "source": "BBC World",
-   "published": "2026-11-18T11:44:25Z",
-   "region": "Europe",
-   "category": "news"
-  },
-  {
-   "title": "Rubio says 'zero' information that US tech outages are linked",
-   "summary": "Secretary of State Marco Rubio on Tuesday sought to assure Americans that there’s \"zero\" information that a cascade of service outages are related to each other or to a malign actor. Outages that shut down email for many companies and grounded thousands of flights over the past few days extended to…",
-   "link": "https://www.france24.com/en/video/20261118-rubio-says-zero-information-that-us-tech-outages-are-linked",
-   "source": "France 24",
-   "published": "2026-11-18T11:39:21Z",
-   "region": "Americas",
-   "category": "news"
-  },
-  {
-   "title": "‘Zero’ evidence that recent cascade of tech outages are linked, says Rubio",
-   "summary": "US secretary of state’s comments come as vulnerability in programming language Java highlighted There is “zero evidence” that a wave of IT outages – which have grounded flights, cut off work access, limited bank access, affected Apple and disrupted classified communications – are related to each…",
-   "link": "https://www.theguardian.com/us-news/2026/nov/18/zero-evidence-recent-tech-outages-linked-marco-rubio",
-   "source": "The Guardian World",
-   "published": "2026-11-18T11:35:36Z",
-   "region": "Americas",
-   "category": "news"
-  },
-  {
-   "title": "Israeli parliament elects speaker backed by Netanyahu opponents",
-   "summary": "Israel's parliament voted on Tuesday to select a new speaker opposed to the agenda of Benjamin Netanyahu, a potential first step in rolling back the prime minister's divisive political agenda even as his main rival struggles to form a government. France 24's correspondent Noga Tarnopolsky has the…",
-   "link": "https://www.france24.com/en/video/20261118-israeli-parliament-elects-speaker-backed-by-netanyahu-opponents",
-   "source": "France 24",
-   "published": "2026-11-18T11:33:01Z",
-   "region": "Middle East",
-   "category": "news"
-  },
-  {
-   "title": "Bancroft sandpaper claims heap pressure on Cummins",
-   "summary": "Cameron Bancroft claims the whole Australia team knew about the 2018 sandpaper plot in explosive revelations that will heap pressure on current captain Pat Cummins.",
-   "link": "https://www.bbc.co.uk/sport/cricket/articles/cmqlqdevgl9ro?at_medium=RSS&at_campaign=rss",
-   "source": "BBC World",
-   "published": "2026-11-18T11:12:46Z",
-   "region": "Asia-Pacific",
-   "category": "news"
-  },
-  {
-   "title": "'Failures, incompetence, broken promises': Deutsche Bank exposed in major leak",
-   "summary": "PRESS REVIEW – Wednesday, November 18: A joint investigation following the leak of 15 million documents shows that Deutsche Bank turned a blind eye to the criminal activities of some of its clients. Next, for its 175th birthday, The New York Times has chosen the top 10 stories that made history…",
-   "link": "https://www.france24.com/en/tv-shows/press-review/20261118-failures-incompetence-broken-promises-deutsche-bank-exposed-in-major-leak",
-   "source": "France 24",
-   "published": "2026-11-18T11:12:28Z",
-   "region": "Global",
-   "category": "economy"
-  },
-  {
-   "title": "Russia, China look to deepen ties at APEC as Trump arrives",
-   "summary": "China's leader Xi Jinping urged closer political and military ties between his country and Russia, as he met with President Vladimir Putin in Shenzhen on Wednesday on the sidelines of the APEC summit. It comes as Donald Trump arrives in China for trilateral talks with Xi and Putin.",
-   "link": "https://www.france24.com/en/video/20261118-russia-china-look-to-deepen-ties-at-apec-as-trump-arrives",
-   "source": "France 24",
-   "published": "2026-11-18T11:11:23Z",
-   "region": "Asia-Pacific",
-   "category": "conflict"
-  },
-  {
-   "title": "Yvette Cooper announces new health support for most vulnerable people in England",
-   "summary": "Health secretary says 500,000 will benefit initially from ‘downpayment’ on PM’s national care service pledge UK politics live – latest updates Half a million of the most vulnerable people in England will get proactive help with their health needs from new teams that will act as a “downpayment” on…",
-   "link": "https://www.theguardian.com/society/2026/nov/18/yvette-cooper-health-support-vulnerable-people-england",
-   "source": "The Guardian World",
-   "published": "2026-11-18T11:08:32Z",
    "region": "Europe",
    "category": "news"
   },
@@ -367,31 +538,13 @@
    "category": "conflict"
   },
   {
-   "title": "Nvidia earnings spark rally in shares and neoclouds despite Huang scandal",
-   "summary": "The chip giant's earnings come at a tumultuous time for the company.",
-   "link": "https://www.cnbc.com/2026/11/18/nvidia-stock-earnings.html",
-   "source": "CNBC World",
-   "published": "2026-11-18T10:58:22Z",
-   "region": "Global",
-   "category": "economy"
-  },
-  {
-   "title": "Axes, cutlass and blunt objects: Nigeria's campaign trail of violence",
-   "summary": "As Nigeria's January 2027 polls inch closer, a spate of violence and political thuggery during campaign rallies and town hall meetings is raising concerns about the safety of citizens participating in the election.",
-   "link": "https://www.dw.com/en/axes-cutlass-and-blunt-objects-nigeria-s-campaign-trail-of-violence/a-79978467?maca=en-rss-en-world-4025-rdf",
+   "title": "Axes and cutlasses: Violence on Nigeria's election campaign trail",
+   "summary": "As Nigeria's January 2027 elections approach, political violence and thuggery at campaign rallies and town hall meetings raise concerns about voter safety.",
+   "link": "https://www.dw.com/en/axes-and-cutlasses-violence-on-nigeria-s-election-campaign-trail/a-79978467?maca=en-rss-en-world-4025-rdf",
    "source": "DW World",
    "published": "2026-11-18T10:56:00Z",
    "region": "Africa",
    "category": "news"
-  },
-  {
-   "title": "Ukraine allies reject U.S. criticism of deep strikes inside Russia ahead of Trump-Putin-Xi summit",
-   "summary": "The dispute comes ahead of a planned meeting between Donald Trump, Vladimir Putin and Xi Jinping.",
-   "link": "https://www.cnbc.com/2026/11/18/ukraine-russia-war-trump-putin-deep-strikes.html",
-   "source": "CNBC World",
-   "published": "2026-11-18T10:49:37Z",
-   "region": "Europe",
-   "category": "conflict"
   },
   {
    "title": "Latin America's mega-prisons: Can El Salvador's model work?",
@@ -403,15 +556,6 @@
    "category": "news"
   },
   {
-   "title": "U.S. soldier taken into military custody over suspected spying for Russia",
-   "summary": "The senior serviceman was arrested in the U.K. last week on suspicion of espionage and national security offenses.",
-   "link": "https://www.cnbc.com/2026/11/18/us-soldier-military-custody-spy-russia.html",
-   "source": "CNBC World",
-   "published": "2026-11-18T10:41:05Z",
-   "region": "Europe",
-   "category": "conflict"
-  },
-  {
    "title": "Trump lands in China with key meetings with Xi and Putin on the agenda",
    "summary": "Xi paid Trump a special honor by greeting him on the tarmac after Air Force One arrived in Shenzhen, reciprocating a gesture made by the U.S. president during Xi's visit to Washington in September.",
    "link": "https://www.npr.org/2026/11/18/nx-s1-6045518/trump-china-xi-putin",
@@ -421,40 +565,13 @@
    "category": "news"
   },
   {
-   "title": "Democrats win Alaska Senate race two weeks after midterms counting began",
-   "summary": "Confirmation of Mary Peltola's victory caps of the party's rout of the Republicans in the midterms Senate election.",
-   "link": "https://www.bbc.co.uk/news/articles/cqev3v2ygzlvo?at_medium=RSS&at_campaign=rss",
-   "source": "BBC World",
-   "published": "2026-11-18T10:23:57Z",
-   "region": "Americas",
-   "category": "news"
-  },
-  {
    "title": "UK inflation rises to 3.6% after petrol and diesel prices hit record high",
-   "summary": "Increase in October piles pressure on households as Iran war pushes up oil cost and rattles global economy Energy bills in Great Britain forecast to rise by 26% to £2,166 from January Business live – latest updates Inflation in the UK rose to 3.6% in October after petrol prices rose and diesel hit…",
+   "summary": "Increase in October piles pressure on households as Iran war pushes up oil cost and rattles global economy Energy bills in Great Britain forecast to rise by 26% to £2,166 from January Inflation in the UK rose to 3.6% in October after petrol prices increased and diesel hit a record high amid the…",
    "link": "https://www.theguardian.com/business/2026/nov/18/uk-inflation-rises-energy-prices-iran-war-oil",
    "source": "The Guardian Economics",
    "published": "2026-11-18T10:14:26Z",
    "region": "Europe",
    "category": "economy"
-  },
-  {
-   "title": "Energy bills forecast to go up by £443 a year from January as UK inflation rises again",
-   "summary": "Inflation is likely to keep rising on fresh forecasts that household energy bills will jump by 26% in January.",
-   "link": "https://www.bbc.co.uk/news/articles/cmy498kdkx3xo?at_medium=RSS&at_campaign=rss",
-   "source": "BBC Business",
-   "published": "2026-11-18T10:10:12Z",
-   "region": "Europe",
-   "category": "economy"
-  },
-  {
-   "title": "Iran-backed militias tortured him, but Iraqi environmentalist refuses to quit",
-   "summary": "Iran-backed militias kidnapped and tortured him, but Iraqi environmentalist is still on a mission to save marshes, and a way of life stretching back to the dawn of history.",
-   "link": "https://www.npr.org/2026/11/18/nx-s1-6043167/iraq-environmentalist-marshes-iran-backed-militia-kidnapped",
-   "source": "NPR World",
-   "published": "2026-11-18T10:00:00Z",
-   "region": "Middle East",
-   "category": "news"
   },
   {
    "title": "China and the U.S. are still the biggest polluters, but only China is doing better",
@@ -466,39 +583,21 @@
    "category": "news"
   },
   {
-   "title": "Putin to meet with Trump and Xi after Ukrainian attack on Russian bridge",
-   "summary": "Russian President Vladimir Putin will meet Thursday with President Trump and Chinese President Xi, escaping the aftermath of a Ukrainian attack that partially collapsed a prized bridge.",
-   "link": "https://www.npr.org/2026/11/18/nx-s1-6044242/putin-to-meet-with-trump-and-xi-after-ukrainian-attack-on-russian-bridge",
+   "title": "They tried to torture him into leaving Iraq. He refused to abandon the nature he protects",
+   "summary": "Iran-backed militias kidnapped and tortured him, but Jassim al-Asadi is still on a mission to save Iraq's marshes, and a way of life stretching back to the dawn of history.",
+   "link": "https://www.npr.org/2026/11/18/nx-s1-6043167/iraq-environmentalist-marshes-iran-backed-militia-kidnapped",
    "source": "NPR World",
-   "published": "2026-11-18T09:43:28Z",
-   "region": "Europe",
-   "category": "conflict"
-  },
-  {
-   "title": "Treasury yields hold steady as investors look ahead to Fed minutes",
-   "summary": "U.S. Treasury yields were broadly flat on Wednesday, as Wall Street awaits the release of the latest FOMC minutes.",
-   "link": "https://www.cnbc.com/2026/11/18/treasury-yields-bonds-fed.html",
-   "source": "CNBC World",
-   "published": "2026-11-18T09:32:43Z",
-   "region": "Americas",
-   "category": "economy"
-  },
-  {
-   "title": "British hacker who stole $11m through text message scheme jailed for six years in US",
-   "summary": "Tyler Buchanan, from Dundee, was a member of the notorious Scattered Spider group and began hacking when he was a teenager.",
-   "link": "https://www.bbc.co.uk/news/articles/cm87987w1qz5o?at_medium=RSS&at_campaign=rss",
-   "source": "BBC World",
-   "published": "2026-11-18T09:28:35Z",
-   "region": "Europe",
+   "published": "2026-11-18T10:00:00Z",
+   "region": "Middle East",
    "category": "news"
   },
   {
-   "title": "Ghana's new $60m presidential jet sparks public outrage",
-   "summary": "The purchase has sparked outrage over its cost as many Ghanaians struggle with rising cost of living.",
-   "link": "https://www.bbc.co.uk/news/articles/ck792dez8dp3o?at_medium=RSS&at_campaign=rss",
-   "source": "BBC World",
-   "published": "2026-11-18T09:27:51Z",
-   "region": "Africa",
+   "title": "Nvidia needs more than a new CEO. An expert offers a way forward",
+   "summary": "Nvidia needs a new CEO. Keeping its engineers is another story.",
+   "link": "https://www.npr.org/2026/11/18/nx-s1-6044070/nvidia-jensen-huang-ceo-replacement-engineers",
+   "source": "NPR World",
+   "published": "2026-11-18T09:43:44Z",
+   "region": "Global",
    "category": "news"
   },
   {
@@ -511,42 +610,6 @@
    "category": "economy"
   },
   {
-   "title": "Security flaw found in Java, world's third-largest programming language",
-   "summary": "The same tech start-up that discovered a PHP flaw used AI to uncover a critical software bug in one of the world's most popular computer language programs.",
-   "link": "https://www.bbc.co.uk/news/articles/cke89jevqm1vo?at_medium=RSS&at_campaign=rss",
-   "source": "BBC Business",
-   "published": "2026-11-18T08:47:06Z",
-   "region": "Global",
-   "category": "economy"
-  },
-  {
-   "title": "Philippines police ask prosecutors to charge Thomas Markle over child sex abuse material",
-   "summary": "Markle is being held in custody in the US after one charge and has previously denied all of the allegations.",
-   "link": "https://www.bbc.co.uk/news/articles/ckg5ry8m49ggo?at_medium=RSS&at_campaign=rss",
-   "source": "BBC World",
-   "published": "2026-11-18T07:48:18Z",
-   "region": "Asia-Pacific",
-   "category": "news"
-  },
-  {
-   "title": "States to debate social security contributions cut",
-   "summary": "The amendment is being brought forward by deputies Gavin St Pier and Tom Rylatt.",
-   "link": "https://www.bbc.co.uk/news/articles/cqgm39mwjgjpo?at_medium=RSS&at_campaign=rss",
-   "source": "BBC Business",
-   "published": "2026-11-18T06:17:58Z",
-   "region": "Global",
-   "category": "economy"
-  },
-  {
-   "title": "How important are Nvidia and Jensen Huang to the US economy?",
-   "summary": "The former Nvidia chief executive has been at the centre of the artificial intelligence boom.",
-   "link": "https://www.bbc.co.uk/news/articles/c68798vdprwpo?at_medium=RSS&at_campaign=rss",
-   "source": "BBC Business",
-   "published": "2026-11-18T06:04:21Z",
-   "region": "Americas",
-   "category": "economy"
-  },
-  {
    "title": "APEC summit: What Trump, Xi and Putin want",
    "summary": "Trump, Xi and Putin will hold their first trilateral meeting on the sidelines of APEC. With different priorities on trade, Ukraine, Iran and arms control, what does each leader hope to gain?",
    "link": "https://www.dw.com/en/apec-summit-what-trump-xi-and-putin-want/a-79970462?maca=en-rss-en-world-4025-rdf",
@@ -556,24 +619,6 @@
    "category": "news"
   },
   {
-   "title": "Can a US-backed mineral highway bring peace and prosperity to DR Congo?",
-   "summary": "The Lobito Corridor is at the centre of a US-backed effort to secure access to Africa's critical minerals.",
-   "link": "https://www.bbc.co.uk/news/articles/cx053jrv9rz9o?at_medium=RSS&at_campaign=rss",
-   "source": "BBC World",
-   "published": "2026-11-18T05:11:42Z",
-   "region": "Africa",
-   "category": "news"
-  },
-  {
-   "title": "Rubio says US not 'under systemic attack' after series of tech outages",
-   "summary": "Secretary of State Marco Rubio said there was \"zero evidence\" supporting theories online that recent disruptions affecting Microsoft, banks and flights are connected.",
-   "link": "https://www.bbc.co.uk/news/articles/crkgvxxwpwz2o?at_medium=RSS&at_campaign=rss",
-   "source": "BBC World",
-   "published": "2026-11-18T04:57:06Z",
-   "region": "Americas",
-   "category": "conflict"
-  },
-  {
    "title": "Australian wages grow at fastest pace since 2023 – but prices are climbing even more quickly",
    "summary": "Wage rates climb about 1 percentage point faster than before pandemic, triggering warnings of a sixth RBA rate rise Get our daily political email , free app or daily news podcast Wages grew at their fastest pace since late 2023 over the three months to September, buoyed up by this year’s boost to…",
    "link": "https://www.theguardian.com/australia-news/2026/nov/18/wages-grow-at-fastest-pace-since-2023-but-prices-are-climbing-even-more-quickly",
@@ -581,42 +626,6 @@
    "published": "2026-11-18T04:33:40Z",
    "region": "Asia-Pacific",
    "category": "economy"
-  },
-  {
-   "title": "Jeff Bezos says he was 'heavily involved' in casting Robert Pattinson as new Bond",
-   "summary": "The Amazon chairman says he was originally \"biased against\" Pattinson \"because he's already so famous\".",
-   "link": "https://www.bbc.co.uk/news/articles/cm5y1eejk292o?at_medium=RSS&at_campaign=rss",
-   "source": "BBC Business",
-   "published": "2026-11-18T04:00:54Z",
-   "region": "Global",
-   "category": "economy"
-  },
-  {
-   "title": "Waymo pulls driverless taxis from all US freeways",
-   "summary": "The decision comes after California banned Waymo's driverless vehicles from operating on the state's highways following a series of traffic incidents.",
-   "link": "https://www.bbc.co.uk/news/articles/cmy86pp336qlo?at_medium=RSS&at_campaign=rss",
-   "source": "BBC Business",
-   "published": "2026-11-18T03:07:22Z",
-   "region": "Americas",
-   "category": "economy"
-  },
-  {
-   "title": "Nvidia says it won't reinstate Huang as it reports soaring sales",
-   "summary": "The AI chip giant reported strong quarterly earnings on Tuesday after the dramatic exit of Jensen Huang.",
-   "link": "https://www.bbc.co.uk/news/articles/cm2kl50vkwkdo?at_medium=RSS&at_campaign=rss",
-   "source": "BBC Business",
-   "published": "2026-11-18T01:18:18Z",
-   "region": "Global",
-   "category": "economy"
-  },
-  {
-   "title": "Xi said China would welcome American students for exchanges. What's the reality?",
-   "summary": "President Trump and China's leader Xi Jinping are due to meet in the Chinese city of Shenzhen. At their last summit in September, Xi said he will welcome 100,000 American students for exchanges.",
-   "link": "https://www.npr.org/2026/11/17/nx-s1-6026589/xi-said-china-would-welcome-american-students-for-exchanges-whats-the-reality",
-   "source": "NPR World",
-   "published": "2026-11-17T22:41:53Z",
-   "region": "Asia-Pacific",
-   "category": "news"
   },
   {
    "title": "Hashim Thaci's second conviction in The Hague reignites debate in Kosovo about justice and the Kosovo Specialist Chambers",
@@ -653,33 +662,6 @@
    "published": "2026-11-17T16:54:21Z",
    "region": "Americas",
    "category": "economy"
-  },
-  {
-   "title": "Back to 1997: Russia wants NATO to roll back its eastern expansion",
-   "summary": "The Kremlin is reportedly calling on NATO to withdraw from large parts of Eastern Europe. What this would mean for the security of millions of Europeans — and what lies behind Russia's plan.",
-   "link": "https://www.dw.com/en/back-to-1997-russia-wants-nato-to-roll-back-its-eastern-expansion/a-79970289?maca=en-rss-en-world-4025-rdf",
-   "source": "DW World",
-   "published": "2026-11-17T16:20:00Z",
-   "region": "Europe",
-   "category": "news"
-  },
-  {
-   "title": "Rights court rules Turkey must release jailed lawmaker Atalay",
-   "summary": "The European Court of Human Rights has called for the release of imprisoned elected lawmaker Can Atalay. Atalay has been in prison for almost five years despite rulings from the Turkish Constitutional Court.",
-   "link": "https://www.dw.com/en/rights-court-rules-turkey-must-release-jailed-lawmaker-atalay/a-79972462?maca=en-rss-en-world-4025-rdf",
-   "source": "DW World",
-   "published": "2026-11-17T15:47:00Z",
-   "region": "Middle East",
-   "category": "news"
-  },
-  {
-   "title": "Fresh clashes at the Eritrean border — is Ethiopia sliding into a regional war?",
-   "summary": "As Ethiopian troops push Tigrayan forces toward Eritrea, tensions between Ethiopia, Eritrea and Sudan are raising fears of a wider war in the Horn of Africa.",
-   "link": "https://www.dw.com/en/fresh-clashes-at-the-eritrean-border-is-ethiopia-sliding-into-a-regional-war/a-79970353?maca=en-rss-en-world-4025-rdf",
-   "source": "DW World",
-   "published": "2026-11-17T15:43:00Z",
-   "region": "Africa",
-   "category": "conflict"
   },
   {
    "title": "Nvidia forms national security committee after Huang affair",
@@ -733,6 +715,15 @@
    "source": "The Guardian Economics",
    "published": "2026-11-16T17:52:13Z",
    "region": "Americas",
+   "category": "economy"
+  },
+  {
+   "title": "Trump says he wouldn’t mind Jensen Huang being reinstated as Nvidia CEO, as its shares fall again – as it happened",
+   "summary": "Rolling coverage of the latest economic and financial news Insurance industry workers: how is climate-related risk managed in your company? Elon Musk joins 165,000 others calling for Nvidia to bring back Jensen Huang in open letter Britain’s main share index isn’t been dragged back by the AI…",
+   "link": "https://www.theguardian.com/business/live/2026/nov/16/ai-sell-off-resumes-jensen-huang-discusses-comeback-nvidia-ceo-dollar-stock-markets-latest-news-updates",
+   "source": "The Guardian Economics",
+   "published": "2026-11-16T15:43:06Z",
+   "region": "Europe",
    "category": "economy"
   }
  ]
