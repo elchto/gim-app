@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-17T22:17:00Z",
+ "updatedAt": "2026-11-18T03:43:26Z",
  "sources": [
   "BBC World",
   "BBC Business",
@@ -13,106 +13,358 @@
   "CNBC World"
  ],
  "failed": [],
- "count": 79,
+ "count": 77,
  "items": [
   {
-   "title": "Nvidia doubles revenue in first earnings since Jensen Huang’s resignation",
-   "summary": "Report comes just days after company saw ouster of its CEO over allegations of affair with suspected Chinese spy Nvidia announced Tuesday that its quarterly revenue beat expectations, coming in at $115.84bn, doubling from the same time period a year ago. The third-quarter earnings report comes just…",
-   "link": "https://www.theguardian.com/technology/2026/nov/17/nvidia-third-quarter-revenue-jensen-huang",
-   "source": "The Guardian World",
-   "published": "2026-11-17T22:06:44Z",
+   "title": "China’s Xi calls for removing trade and investment barriers ahead of his meeting with Trump and Putin",
+   "summary": "Xi opened the APEC summit in Shenzhen by calling for lower trade and investment barriers, pledging broader access to China’s market and manufacturing sector.",
+   "link": "https://www.cnbc.com/2026/11/18/china-xi-trade-investment-barriers.html",
+   "source": "CNBC World",
+   "published": "2026-11-18T03:30:51Z",
    "region": "Asia-Pacific",
    "category": "economy"
   },
   {
-   "title": "Widespread outages hit banks, air travel, the NSA and Apple, disrupting seemingly everything",
-   "summary": "Major outages showcase the risks of interconnected tech in the age of AI.",
-   "link": "https://www.cnbc.com/2026/11/17/apple-microsoft-faa-jpmorgan-outages.html",
-   "source": "CNBC World",
-   "published": "2026-11-17T22:03:57Z",
-   "region": "Global",
-   "category": "economy"
+   "title": "Australia’s ‘problematic’ surrogacy laws could be transformed under proposed changes",
+   "summary": "Law reform body recommends ongoing ban on commercial surrogacy, but greater compensation for surrogates, and safeguards around who the child’s legal parents are Get our breaking news email , free app or daily news podcast Surrogates would be entitled to full compensation, with a nationally…",
+   "link": "https://www.theguardian.com/law/2026/nov/18/australias-strict-surrogacy-laws-could-be-relaxed-under-proposed-changes",
+   "source": "The Guardian World",
+   "published": "2026-11-18T03:28:59Z",
+   "region": "Asia-Pacific",
+   "category": "news"
   },
   {
-   "title": "US Fed’s Lisa Cook refuses to attend White House hearing",
-   "summary": "US President Donald Trump has been trying to fire Cook since August 2025.",
-   "link": "https://www.aljazeera.com/economy/2026/11/17/us-feds-lisa-cook-refuses-to-attend-white-house-hearing?traffic_source=rss",
+   "title": "Mary Peltola flips Alaska Senate seat in another Democratic win",
+   "summary": "The hard-fought contest is the last to be called for the US Senate and likely faces legal challenges.",
+   "link": "https://www.aljazeera.com/news/2026/11/18/mary-peltola-wins-alaska-senate-seat-in-another-democratic-win?traffic_source=rss",
    "source": "Al Jazeera",
-   "published": "2026-11-17T22:01:27Z",
+   "published": "2026-11-18T03:28:41Z",
    "region": "Americas",
    "category": "news"
   },
   {
-   "title": "NSA claims temporary internal network outage caused by ‘scheduled routine maintenance’ – live",
-   "summary": "Sources told CNN there was no evidence of cyberattack against NSA Net, the network that allows the agency’s employees to send classified information internally Sign up for US Breaking News email Abdul El-Sayed , the Democratic-Senator elect from Michigan, said today that he would be happy to work…",
+   "title": "Three things to watch as Trump, Xi and Putin meet in China",
+   "summary": "U.S. President Donald Trump, Chinese President Xi Jinping and Russian President Vladimir Putin are set to meet in Shenzhen alongside an APEC leaders' meeting.",
+   "link": "https://www.cnbc.com/2026/11/18/apec-trump-xi-putin-shenzhen.html",
+   "source": "CNBC World",
+   "published": "2026-11-18T03:25:32Z",
+   "region": "Asia-Pacific",
+   "category": "economy"
+  },
+  {
+   "title": "Mary Peltola beats Republican Dan Sullivan in Alaska to give Democrats 56 Senate seats",
+   "summary": "Republican incumbent beaten in race dominated by controversy over second candidate named Dan Sullivan Democrat Mary Peltola will be Alaska’s next senator after beating the Republican incumbent Dan Sullivan, with the result called two weeks on from midterm elections which saw Donald Trump’s party…",
+   "link": "https://www.theguardian.com/us-news/2026/nov/17/mary-peltola-alaska-senate-race",
+   "source": "The Guardian World",
+   "published": "2026-11-18T03:25:14Z",
+   "region": "Americas",
+   "category": "news"
+  },
+  {
+   "title": "Xi Jinping calls for global cooperation on AI and free trade at APEC summit",
+   "summary": "Chinese President Xi Jinping called on Wednesday for stronger global cooperation on artificial intelligence and free trade, as he opened the APEC summit in Shenzhen ahead of an expected meeting with US President Donald Trump. Trade tensions and new US chip export restrictions are set to feature…",
+   "link": "https://www.france24.com/en/asia-pacific/20261118-xi-jinping-calls-for-global-cooperation-on-ai-and-free-trade-at-apec-summit",
+   "source": "France 24",
+   "published": "2026-11-18T03:24:54Z",
+   "region": "Asia-Pacific",
+   "category": "economy"
+  },
+  {
+   "title": "JPMorgan is working on AI agent transactions that don’t involve humans",
+   "summary": "JPMorgan and Hyundai Card are looking to expand the use of AI agents in financial transactions.",
+   "link": "https://www.cnbc.com/2026/11/18/jpmorgan-hyundai-card-ai-agents-payments.html",
+   "source": "CNBC World",
+   "published": "2026-11-18T03:17:55Z",
+   "region": "Global",
+   "category": "economy"
+  },
+  {
+   "title": "Nvidia shoots down calls for Jensen Huang’s return amid strong earnings",
+   "summary": "Nvidia board chair says chip giant 'does not intend' to reinstate Huang as it projects revenues of $130bn in Q4.",
+   "link": "https://www.aljazeera.com/economy/2026/11/18/nvidia-shoots-down-calls-for-jensen-huangs-return-amid-strong-earnings?traffic_source=rss",
+   "source": "Al Jazeera",
+   "published": "2026-11-18T03:00:22Z",
+   "region": "Global",
+   "category": "news"
+  },
+  {
+   "title": "White House pulls nomination of Heidi Overton to lead Food and Drug Administration – as it happened",
+   "summary": "This live blog is now closed. White House withdraws nomination of Heidi Overton to lead FDA Sign up for US Breaking News email Abdul El-Sayed , the Democratic-Senator elect from Michigan, said today that he would be happy to work with the Trump administration to pass one of his tentpole policy…",
    "link": "https://www.theguardian.com/us-news/live/2026/nov/17/donald-trump-alaska-senate-race-midterms-democrats-republicans-latest-news-updates",
    "source": "The Guardian World",
-   "published": "2026-11-17T22:01:17Z",
+   "published": "2026-11-18T02:57:58Z",
    "region": "Americas",
    "category": "news"
   },
   {
-   "title": "Trump nominates Chris LaNeve as army chief after Hegseth fired predecessor",
-   "summary": "LaNeve, who served as Hegseth’s senior military commander, nominated to permanently replace Gen Randy George Donald Trump has nominated Gen Chris LaNeve to be the US army’s top officer, making permanent his interim service after the defense secretary, Pete Hegseth, unexpectedly fired his…",
-   "link": "https://www.theguardian.com/us-news/2026/nov/17/chris-laneve-army-chief-staff",
-   "source": "The Guardian World",
-   "published": "2026-11-17T21:55:40Z",
-   "region": "Americas",
-   "category": "conflict"
-  },
-  {
-   "title": "Caribbean nations fear economic impact of shuttering citizenship program after EU threats",
-   "summary": "St Kitts and Nevis to wind down citizenship-by-investment program after EU warns of end to visa-free access The decision by St Kitts and Nevis to end a lucrative programme offering citizenship to wealthy foreigners in exchange for investment threatens its economy and ability to support people in…",
-   "link": "https://www.theguardian.com/world/2026/nov/17/st-kitts-nevis-citizenship-investment",
-   "source": "The Guardian World",
-   "published": "2026-11-17T21:49:29Z",
+   "title": "Zelenskyy says Starshield speed curbs still in place over 'occupied territories' of Ukraine",
+   "summary": "Ukraine's charge d'affaires to the U.S., Denys Sienik, said that Starshield had been speed-limited for seven days already in Ukraine.",
+   "link": "https://www.cnbc.com/2026/11/18/ukraine-starshield-starlink-musk-spacex.html",
+   "source": "CNBC World",
+   "published": "2026-11-18T02:50:16Z",
    "region": "Europe",
    "category": "economy"
   },
   {
-   "title": "Judge extends deadline for Trump’s deposition in $10bn BBC lawsuit",
-   "summary": "President, who had agreed to sit for deposition in October but backed out, must now appear by 22 January Donald Trump has been granted a temporary delay before he must give a witness statement in his $10bn defamation lawsuit against the BBC. In late October, Enjoliqué Lett, a federal magistrate…",
-   "link": "https://www.theguardian.com/us-news/2026/nov/17/trump-bbc-deposition-delay",
-   "source": "The Guardian World",
-   "published": "2026-11-17T21:45:58Z",
+   "title": "Haitians rally behind Bukele as Salvadoran troops battle gangs",
+   "summary": "Thousands of Haitians took to the streets on Tuesday to urge El Salvador's President Nayib Bukele to keep fighting gangs, as his troops bolster security forces in the Caribbean nation. But experts warn that growing public support could turn to anger without a long-term plan to tackle violence and…",
+   "link": "https://www.france24.com/en/americas/20261118-haitians-rally-behind-bukele-as-salvadoran-troops-battle-gangs",
+   "source": "France 24",
+   "published": "2026-11-18T02:42:21Z",
    "region": "Americas",
-   "category": "news"
+   "category": "conflict"
   },
   {
-   "title": "New Nvidia boss says 'ambition has never been greater' after Jensen Huang's exit",
-   "summary": "Nvidia's ousted CEO Jensen Huang earlier on Tuesday offered to return, despite the board's disinterest.",
-   "link": "https://www.bbc.co.uk/news/articles/cm2kl50vkwkdo?at_medium=RSS&at_campaign=rss",
+   "title": "Jeff Bezos says he was 'heavily involved' in casting Robert Pattinson as new 007",
+   "summary": "The Amazon CEO said he was originally \"biased against\" Pattinson \"because he's already so famous\".",
+   "link": "https://www.bbc.co.uk/news/articles/cm5y1eejk292o?at_medium=RSS&at_campaign=rss",
    "source": "BBC Business",
-   "published": "2026-11-17T21:45:13Z",
+   "published": "2026-11-18T02:40:45Z",
    "region": "Global",
    "category": "economy"
   },
   {
-   "title": "Isolated Brazilian tribe emerges amid alarm over threats to group’s way of life",
-   "summary": "Indigenous Awá people of Amazon make contact with villagers and accept food to take back to territory About 20 Indigenous people emerged from isolation in Brazil’s Amazon rainforest, several organizations reported on Tuesday, raising the alarm about increased invasions into the tribe’s territory…",
-   "link": "https://www.theguardian.com/world/2026/nov/17/brazil-amazon-isolated-indigenous-people",
-   "source": "The Guardian World",
-   "published": "2026-11-17T21:40:56Z",
+   "title": "Rare images of Indigenous group in Amazon highlight threats, advocates say",
+   "summary": "Illegal activities in the Amazon pose grave risks to uncontacted Indigenous groups like Brazil’s Awa,.",
+   "link": "https://www.aljazeera.com/news/2026/11/18/rare-images-of-indigenous-group-in-amazon-highlight-threats-advocates-say?traffic_source=rss",
+   "source": "Al Jazeera",
+   "published": "2026-11-18T02:36:09Z",
    "region": "Americas",
    "category": "news"
   },
   {
-   "title": "UK hands NATO-assigned US soldier accused of Russia spying to US military",
-   "summary": "UK authorities have passed the investigation to the US 'in line with existing international protocols'.",
-   "link": "https://www.aljazeera.com/news/2026/11/17/uk-hands-nato-assigned-us-soldier-accused-of-russia-spying-to-us-military?traffic_source=rss",
+   "title": "Tag team: dual waterspouts appear in San Francisco Bay amid stormy weather",
+   "summary": "Phenomenon is not a common occurrence in the Bay area and inclement weather is expected to continue for few days A pair of waterspouts were recorded recently in the San Francisco Bay area, much to the delight and shock of several observers, as storms pummelled the region. Two waterspouts – vortexes…",
+   "link": "https://www.theguardian.com/us-news/2026/nov/17/san-francisco-bay-area-waterspouts",
+   "source": "The Guardian World",
+   "published": "2026-11-18T02:33:21Z",
+   "region": "Global",
+   "category": "news"
+  },
+  {
+   "title": "Hungary on the hunt for a football hero",
+   "summary": "Northern Ireland has secured a Nations League promotion, drawing with Hungary 1-1.",
+   "link": "https://www.aljazeera.com/video/newsfeed/2026/11/18/hungary-on-the-hunt-for-a-football-hero?traffic_source=rss",
    "source": "Al Jazeera",
-   "published": "2026-11-17T21:35:24Z",
+   "published": "2026-11-18T02:32:57Z",
    "region": "Europe",
+   "category": "news"
+  },
+  {
+   "title": "The ‘moon landing’ of gaming: Australians, some of the first to play GTA VI, prepare to descend on Vice City",
+   "summary": "After a 13 year wait for the latest Grand Theft Auto instalment, Thursday’s launch is shaping up to be ‘the biggest gaming event that’s ever been’ Gamers across Australia are preparing for the once-in-a-generation release of Grand Theft Auto VI, a day acolytes of the franchise say will be bigger…",
+   "link": "https://www.theguardian.com/australia-news/2026/nov/18/gta-6-biggest-gaming-event-australians-prepare-for-global-release",
+   "source": "The Guardian World",
+   "published": "2026-11-18T02:24:02Z",
+   "region": "Asia-Pacific",
+   "category": "news"
+  },
+  {
+   "title": "ICE agents shove and pepper-spray pregnant woman",
+   "summary": "An American woman was shoved to the ground and pepper-sprayed by ICE agents despite telling them she was pregnant.",
+   "link": "https://www.aljazeera.com/video/newsfeed/2026/11/18/ice-agents-shove-and-pepper-spray-pregnant-woman?traffic_source=rss",
+   "source": "Al Jazeera",
+   "published": "2026-11-18T02:17:12Z",
+   "region": "Americas",
+   "category": "news"
+  },
+  {
+   "title": "Shaken and stirred: Jeff Bezos says he was ‘heavily involved’ in picking new James Bond",
+   "summary": "Amazon’s executive chair and billionaire founder said he felt there was ‘something special’ about Robert Pattinson Amazon’s founder and billionaire chairman Jeff Bezos has said he was “heavily involved” in the decision to cast Robert Pattinson as the next James Bond. Amazon paid more than $1bn for…",
+   "link": "https://www.theguardian.com/film/2026/nov/17/james-bond-robert-pattinson-jeff-bezos-pick",
+   "source": "The Guardian World",
+   "published": "2026-11-18T02:13:58Z",
+   "region": "Global",
+   "category": "economy"
+  },
+  {
+   "title": "Middle East live: Kuwait, Bahrain report drone and missile attacks",
+   "summary": "Kuwait said Wednesday it was countering hostile drone attacks, while Bahrain reported intercepting Iranian strikes, as US allies in the Gulf remained on alert following an American attack on Iran's Qeshm Island. The incidents came amid a standoff over the Strait of Hormuz. Follow our liveblog for…",
+   "link": "https://www.france24.com/en/middle-east/20261118-middle-east-live-kuwait-bahrain-report-drone-and-missile-attacks",
+   "source": "France 24",
+   "published": "2026-11-18T02:06:39Z",
+   "region": "Middle East",
    "category": "conflict"
   },
   {
-   "title": "Jensen Huang scandal fuels bipartisan push to block AI chip sales to China",
-   "summary": "Congress members are pushing for a series of chip-related export control bills to be included in the annual National Defense Authorization Act.",
-   "link": "https://www.cnbc.com/2026/11/17/congress-ai-china-jensen-huang-chips.html",
+   "title": "Sleeve checks and no smartglasses: South Korea races to protect all-important university exams against AI",
+   "summary": "South Korea has been gripped by revelations of AI-aided cheating, just days before more than half a million students are to sit high-stakes entrance exams The integrity of South Korea’s career-defining university entrance exam has been thrown into doubt after the top scorer in a recent professional…",
+   "link": "https://www.theguardian.com/world/2026/nov/18/south-korea-university-entrace-exams-ai-cheating-measures",
+   "source": "The Guardian World",
+   "published": "2026-11-18T02:03:27Z",
+   "region": "Asia-Pacific",
+   "category": "news"
+  },
+  {
+   "title": "LeBron James sues startup over viral AI ad allegedly exploiting his likeness",
+   "summary": "LeBron James sued an AI-powered sports betting startup over alleged unauthorized use of his likeness.",
+   "link": "https://www.cnbc.com/2026/11/18/lebron-james-startup-ai-lawsuit.html",
    "source": "CNBC World",
-   "published": "2026-11-17T21:31:21Z",
+   "published": "2026-11-18T02:02:02Z",
+   "region": "Global",
+   "category": "economy"
+  },
+  {
+   "title": "What is Trump hoping to achieve at APEC meeting in China?",
+   "summary": "US president expected to meet with Chinese leader for third time this year; hold trilateral summit with Putin.",
+   "link": "https://www.aljazeera.com/news/2026/11/18/what-is-trump-hoping-to-achieve-at-apec-meeting-in-china?traffic_source=rss",
+   "source": "Al Jazeera",
+   "published": "2026-11-18T01:33:05Z",
+   "region": "Asia-Pacific",
+   "category": "news"
+  },
+  {
+   "title": "Prosecutors allege man ‘destroyed’ US military plane at Irish airport",
+   "summary": "Daithi O'Corrain, 48, has been charged with damaging a US military C-130 aircraft while it was parked overnight.",
+   "link": "https://www.aljazeera.com/news/2026/11/18/prosecutors-allege-man-destroyed-us-military-plane-at-irish-airport?traffic_source=rss",
+   "source": "Al Jazeera",
+   "published": "2026-11-18T01:32:52Z",
+   "region": "Americas",
+   "category": "conflict"
+  },
+  {
+   "title": "Man charged over ‘brutal attack’ on Somali-American in Minnesota",
+   "summary": "Rideshare driver Mohamed Yusuf is in a critical condition after he was allegedly assaulted by a passenger.",
+   "link": "https://www.aljazeera.com/news/2026/11/18/man-charged-over-brutal-attack-on-somali-american-in-minnesota?traffic_source=rss",
+   "source": "Al Jazeera",
+   "published": "2026-11-18T01:31:53Z",
+   "region": "Americas",
+   "category": "conflict"
+  },
+  {
+   "title": "OpenAI bugging case defendant Alfozan set for trial in January",
+   "summary": "Abdulrahman Alfozan has been held without bail since his arrest in October, after prosecutors said he planted a listening device in an OpenAI conference room.",
+   "link": "https://www.cnbc.com/2026/11/17/openai-spy-alfozan-trial-saudi.html",
+   "source": "CNBC World",
+   "published": "2026-11-18T01:31:37Z",
+   "region": "Global",
+   "category": "economy"
+  },
+  {
+   "title": "Protests as Jason Arday’s accuser speaks at Oxford University",
+   "summary": "Hundreds protested outside Oxford University as Nathan Cofnas, who accused Jason Arday of plagiarism, spoke at an event.",
+   "link": "https://www.aljazeera.com/video/newsfeed/2026/11/18/protests-as-jason-ardays-accuser-speaks-at-oxford-university?traffic_source=rss",
+   "source": "Al Jazeera",
+   "published": "2026-11-18T01:28:53Z",
+   "region": "Global",
+   "category": "news"
+  },
+  {
+   "title": "White House withdraws nomination of Heidi Overton to lead FDA",
+   "summary": "Move to drop Trump ally and prominent abortion opponent comes a day before key Senate health committee vote The White House has dropped its nomination of Heidi Overton to lead the Food and Drug Administration, a White House official told the Guardian. Donald Trump nominated Overton – a physician…",
+   "link": "https://www.theguardian.com/us-news/2026/nov/17/white-house-withdraws-heidi-overton-fda",
+   "source": "The Guardian World",
+   "published": "2026-11-18T01:26:15Z",
+   "region": "Americas",
+   "category": "news"
+  },
+  {
+   "title": "Nvidia takes positive step forward with stronger sales outlook. Here’s our thoughts on the stock",
+   "summary": "",
+   "link": "https://www.cnbc.com/investingclub/2026/11/17/nvidia-takes-positive-step-forward-with-stronger-sales-outlook-heres-our-thoughts-on-the-stock.html",
+   "source": "CNBC World",
+   "published": "2026-11-18T01:18:41Z",
+   "region": "Global",
+   "category": "economy"
+  },
+  {
+   "title": "Nvidia says it won't reinstate Huang as firm reports bumper results",
+   "summary": "The AI chip giant reported strong quarterly earnings on Tuesday after the dramatic exit of Jensen Huang.",
+   "link": "https://www.bbc.co.uk/news/articles/cm2kl50vkwkdo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "published": "2026-11-18T01:18:18Z",
+   "region": "Global",
+   "category": "news"
+  },
+  {
+   "title": "One Nation says it would cut Australia’s refugee intake by 90% under ‘tough stance’",
+   "summary": "Pauline Hanson opens new war of words on immigration as Penny Wong accuses populist party of ‘dividing Australians’ Get our daily political email , free app or daily news podcast One Nation has vowed to cut Australia’s refugee intake by 90% and scrap the permanent parent visa program under its…",
+   "link": "https://www.theguardian.com/australia-news/2026/nov/18/one-nation-refugee-intake-immigration-ntwnfb",
+   "source": "The Guardian World",
+   "published": "2026-11-18T00:53:51Z",
+   "region": "Asia-Pacific",
+   "category": "conflict"
+  },
+  {
+   "title": "Japan exports in October surge 20.5%, beating estimates on robust chip shipments",
+   "summary": "Semiconductor shipments spiked almost 50% year on year.",
+   "link": "https://www.cnbc.com/2026/11/18/japan-exports-october-imports-chips.html",
+   "source": "CNBC World",
+   "published": "2026-11-18T00:35:31Z",
    "region": "Asia-Pacific",
    "category": "economy"
+  },
+  {
+   "title": "Cramer's lightning round: This sports stock is not for me",
+   "summary": "\"Mad Money\" host Jim Cramer rings the lightning round bell, which means he's giving his answers to callers' stock questions at rapid speed.",
+   "link": "https://www.cnbc.com/2026/11/17/cramers-lightning-round-this-sports-stock-is-not-for-me-.html",
+   "source": "CNBC World",
+   "published": "2026-11-18T00:12:21Z",
+   "region": "Global",
+   "category": "economy"
+  },
+  {
+   "title": "Europe plans to catch the next computer chip wave",
+   "summary": "Europe hopes to be a leader in a new generation of computer chips which use light to process data.",
+   "link": "https://www.bbc.co.uk/news/articles/cqglwjd450k0o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC Business",
+   "published": "2026-11-18T00:00:24Z",
+   "region": "Europe",
+   "category": "economy"
+  },
+  {
+   "title": "As Trump and Xi meet, China's AI dreams face an unexpected hurdle: the Nvidia spy scandal",
+   "summary": "China worries the scandal could ramp up pressure on the US to further restrict the sale of advanced chips.",
+   "link": "https://www.bbc.co.uk/news/articles/c5vg23g92rj4o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "published": "2026-11-17T23:02:12Z",
+   "region": "Asia-Pacific",
+   "category": "news"
+  },
+  {
+   "title": "Nvidia board rules that co-founder Jensen Huang will not return as CEO",
+   "summary": "Nvidia's board chairman ruled out bringing back co-founder Jensen Huang as CEO on Tuesday, as the chipmaker forecast stronger-than-expected quarterly sales but faced growing questions over its leadership, national security exposure and long-term strategy following his abrupt departure.",
+   "link": "https://www.france24.com/en/technology/20261117-nvidia-board-rules-that-co-founder-jensen-huang-will-not-return-as-ceo",
+   "source": "France 24",
+   "published": "2026-11-17T22:50:32Z",
+   "region": "Global",
+   "category": "news"
+  },
+  {
+   "title": "American soldier arrested by UK police on suspicion of spying taken into US military custody",
+   "summary": "The Metropolitan Police say he has been taken into custody by the US Military over suspected national security and espionage allegations.",
+   "link": "https://www.bbc.co.uk/news/articles/c6x284ez38vdo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "published": "2026-11-17T22:46:30Z",
+   "region": "Americas",
+   "category": "conflict"
+  },
+  {
+   "title": "Thomas Markle charged over child sex abuse material in Philippines",
+   "summary": "Markle is being held in custody in the US after one charge and has previously denied all of the allegations.",
+   "link": "https://www.bbc.co.uk/news/articles/ckg5ry8m49ggo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "published": "2026-11-17T22:44:15Z",
+   "region": "Asia-Pacific",
+   "category": "news"
+  },
+  {
+   "title": "Xi said China would welcome American students for exchanges. What's the reality?",
+   "summary": "President Trump and China's leader Xi Jinping are due to meet in the Chinese city of Shenzhen. At their last summit in September, Xi said he will welcome 100,000 American students for exchanges.",
+   "link": "https://www.npr.org/2026/11/17/nx-s1-6026589/xi-said-china-would-welcome-american-students-for-exchanges-whats-the-reality",
+   "source": "NPR World",
+   "published": "2026-11-17T22:41:53Z",
+   "region": "Asia-Pacific",
+   "category": "news"
+  },
+  {
+   "title": "WHO sounds the alarm on antimicrobial resistance threat",
+   "summary": "The spread of antimicrobial resistance (AMR) is threatening modern medicine despite progress in combating drug-resistant bacteria, senior World Health Organization officials said Monday. WHO officials said countries had expanded efforts to tackle AMR, but warned that progress in prevention…",
+   "link": "https://www.france24.com/en/tv-shows/a-propos/20261117-who-sounds-the-alarm-on-antimicrobial-resistance-threat",
+   "source": "France 24",
+   "published": "2026-11-17T22:08:28Z",
+   "region": "Global",
+   "category": "news"
   },
   {
    "title": "US, Mexico and Bolivia lose measles-free status as deaths mount",
@@ -120,24 +372,6 @@
    "link": "https://www.france24.com/en/americas/20261117-us-mexico-and-bolivia-lose-measles-free-status-as-deaths-mount",
    "source": "France 24",
    "published": "2026-11-17T21:30:23Z",
-   "region": "Americas",
-   "category": "news"
-  },
-  {
-   "title": "UK sanctions Israeli settlement firms to protect two-state solution",
-   "summary": "The UK has imposed new sanctions on eight Israeli companies supporting illegal settlements in the occupied West Bank.",
-   "link": "https://www.aljazeera.com/video/newsfeed/2026/11/17/aje-onl-nf_uk-sanctions-eight-israeli-settlement-firms-171126?traffic_source=rss",
-   "source": "Al Jazeera",
-   "published": "2026-11-17T21:28:31Z",
-   "region": "Middle East",
-   "category": "news"
-  },
-  {
-   "title": "‘Zero transparency’: Inside Trump’s plans for Venezuela’s oil money",
-   "summary": "Democrats say they plan to investigate Trump's dealings with Venezuela after winning control of Congress.",
-   "link": "https://www.aljazeera.com/news/2026/11/17/zero-transparency-inside-trumps-plans-for-venezuelas-oil-money?traffic_source=rss",
-   "source": "Al Jazeera",
-   "published": "2026-11-17T21:26:42Z",
    "region": "Americas",
    "category": "news"
   },
@@ -151,15 +385,6 @@
    "category": "news"
   },
   {
-   "title": "Moment Russian military plane crashes in Siberia, killing 19",
-   "summary": "Footage captures the moment a Russian military transport aircraft crashes in the Kemerovo region",
-   "link": "https://www.aljazeera.com/video/newsfeed/2026/11/17/moment-russian-military-plane-crashes-in-siberia-killing-19?traffic_source=rss",
-   "source": "Al Jazeera",
-   "published": "2026-11-17T21:25:43Z",
-   "region": "Europe",
-   "category": "conflict"
-  },
-  {
    "title": "Putin's Crimean Bridge partly collapses as Zelensky hails 'unprecedented' attack by Ukraine",
    "summary": "Ukraine says the missile and drone attack on the strategic bridge in the Russian-annexed Crimea took weeks to plan.",
    "link": "https://www.bbc.co.uk/news/articles/cw772jk4rvmxo?at_medium=RSS&at_campaign=rss",
@@ -169,34 +394,7 @@
    "category": "conflict"
   },
   {
-   "title": "‘Heads should roll’: owner of Melbourne Cup horse found dumped in skip bin demands investigation",
-   "summary": "Stuart Ramsey says it is a ‘bloody disgrace’ the gelding was left in the skip bin while awaiting burial Get our breaking news email , free app or daily news podcast So You Are’s owner-breeder has demanded a full investigation after the Melbourne Cup runner’s body was found in a skip at a Sydney…",
-   "link": "https://www.theguardian.com/australia-news/2026/nov/18/stuart-ramsey-calls-for-investigation-so-you-are-melbourne-cup-horse-found-skip-bin-ntwnfb",
-   "source": "The Guardian World",
-   "published": "2026-11-17T21:23:47Z",
-   "region": "Global",
-   "category": "news"
-  },
-  {
-   "title": "AI imagery complicates Nigeria's election prep",
-   "summary": "In tonight's edition, concerns emerge that AI has been used to generate fake voting profiles ahead of Nigeria's high-stakes general election in January. Also, Nigeria's mining marshal heads underground to unearth some of the people and organizations behind the vast illegal mining industries. And a…",
-   "link": "https://www.france24.com/en/ai-imagery-complicates-nigeria-s-election-prep",
-   "source": "France 24",
-   "published": "2026-11-17T21:20:27Z",
-   "region": "Africa",
-   "category": "news"
-  },
-  {
-   "title": "Whistleblower: Deadly drone strike in Kuwait could’ve been avoided",
-   "summary": "Whistleblower accuses military of dismissing advanced security warnings of drone strike that killed six US soldiers.",
-   "link": "https://www.aljazeera.com/news/2026/11/17/whistleblower-deadly-drone-strike-in-kuwait-couldve-been-avoided?traffic_source=rss",
-   "source": "Al Jazeera",
-   "published": "2026-11-17T21:14:31Z",
-   "region": "Middle East",
-   "category": "conflict"
-  },
-  {
-   "title": "Russian military plane crashes killing all 19 on board",
+   "title": "Russian military plane crashes, killing all 19 on board",
    "summary": "Russia's defence ministry says it preliminarily believes a technical malfunction was the cause of the crash in the Kemerovo region.",
    "link": "https://www.bbc.co.uk/news/articles/cw8085rykkmgo?at_medium=RSS&at_campaign=rss",
    "source": "BBC World",
@@ -205,111 +403,12 @@
    "category": "conflict"
   },
   {
-   "title": "Nvidia closes lower ahead of earnings as company reels from Huang resignation",
-   "summary": "Investors have been weighing the fallout from former CEO Jensen Huang's resignation.",
-   "link": "https://www.cnbc.com/2026/11/17/nvidia-stock-earnings-jensen-huang-resignation.html",
-   "source": "CNBC World",
-   "published": "2026-11-17T21:05:24Z",
-   "region": "Global",
-   "category": "economy"
-  },
-  {
-   "title": "Major setbacks for Netanyahu ahead of vote to name new Knesset speaker",
-   "summary": "Since suffering heavy losses in Israel’s Oct. 27 election, Prime Minister Benjamin Netanyahu's party has repeatedly claimed the vote was “stolen” by Arab-led parties, possibly with foreign assistance. Those claims appear to be crumbling as he tries to cling to power, as the Israeli parliament is…",
-   "link": "https://www.france24.com/en/major-setbacks-for-netanyahu-ahead-of-vote-to-name-new-knesset-speaker",
-   "source": "France 24",
-   "published": "2026-11-17T21:05:20Z",
-   "region": "Middle East",
-   "category": "news"
-  },
-  {
    "title": "US loses measles elimination status after 26 years amid record case numbers",
    "summary": "States have reported over 5,400 cases and 10 measles-related deaths for the first time since the early 1990s.",
    "link": "https://www.bbc.co.uk/news/articles/c977p71jx0xxo?at_medium=RSS&at_campaign=rss",
    "source": "BBC World",
    "published": "2026-11-17T21:04:00Z",
    "region": "Americas",
-   "category": "news"
-  },
-  {
-   "title": "Eight-year-old Haitian boy returns home after release from ICE custody",
-   "summary": "Child reunited with family after he was detained by immigration agents in San Diego and transferred to Texas An eight-year-old Haitian boy who was put into restraints and detained by immigration agents in San Diego on 4 November and transferred to a facility in Texas has been reunited with his…",
-   "link": "https://www.theguardian.com/us-news/2026/nov/17/haitian-child-ice-custody-release",
-   "source": "The Guardian World",
-   "published": "2026-11-17T20:59:56Z",
-   "region": "Americas",
-   "category": "news"
-  },
-  {
-   "title": "US Navy chief says Iran war has put ‘strain’ on maritime forces",
-   "summary": "Lawmakers hound Hung Cao over expanding war, opaque leadership shake-ups, and low crew morale at confirmation hearing.",
-   "link": "https://www.aljazeera.com/news/2026/11/17/us-navy-chief-says-iran-war-has-put-strain-on-maritime-forces?traffic_source=rss",
-   "source": "Al Jazeera",
-   "published": "2026-11-17T20:57:56Z",
-   "region": "Middle East",
-   "category": "conflict"
-  },
-  {
-   "title": "Jensen Huang says he'd be honoured to return to Nvidia as CEO",
-   "summary": "Jensen Huang makes his first public statement since resigning from Nvidia, saying he'd be honoured to return to his job amid support from the tech world. It comes ahead of a much anticipated earnings call this Tuesday, with analysts expecting the group to report a 90% jump in revenue to about $109…",
-   "link": "https://www.france24.com/en/tv-shows/business/20261117-jensen-huang-says-he-d-be-honoured-to-return-to-nvidia-as-ceo",
-   "source": "France 24",
-   "published": "2026-11-17T20:56:06Z",
-   "region": "Global",
-   "category": "news"
-  },
-  {
-   "title": "FAA pauses installation of new routers after ground stop",
-   "summary": "Problems with the overwhelmed technology led the agency to issue a rare nationwide ground stop on Friday.",
-   "link": "https://www.cnbc.com/2026/11/17/faa-ground-stop-routers.html",
-   "source": "CNBC World",
-   "published": "2026-11-17T20:53:24Z",
-   "region": "Global",
-   "category": "economy"
-  },
-  {
-   "title": "What’s behind the ANC’s decline in South Africa?",
-   "summary": "African National Congress won its lowest-ever vote share in local elections this month.",
-   "link": "https://www.aljazeera.com/video/inside-story/2026/11/17/whats-behind-the-ancs-decline-in-south-africa?traffic_source=rss",
-   "source": "Al Jazeera",
-   "published": "2026-11-17T20:47:07Z",
-   "region": "Africa",
-   "category": "news"
-  },
-  {
-   "title": "Markwayne Mullin defends private-jet trip to football game as millions hit by flight delays",
-   "summary": "Trump homeland security chief says ‘we still got to live our life’ amid outcry over journey to LSU on government plane US homeland security secretary Markwayne Mullin has defended his decision to fly in a private government to a college football game on Saturday as Americans weathered widespread…",
-   "link": "https://www.theguardian.com/us-news/2026/nov/17/markwayne-mullin-private-jet-football",
-   "source": "The Guardian World",
-   "published": "2026-11-17T20:45:48Z",
-   "region": "Americas",
-   "category": "news"
-  },
-  {
-   "title": "American soldier arrested by UK police on suspicion of spying taken into US military custody",
-   "summary": "The Metropolitan Police say he has been taken into custody by the US Military over suspected national security and espionage allegations.",
-   "link": "https://www.bbc.co.uk/news/articles/c6x284ez38vdo?at_medium=RSS&at_campaign=rss",
-   "source": "BBC World",
-   "published": "2026-11-17T20:44:54Z",
-   "region": "Americas",
-   "category": "conflict"
-  },
-  {
-   "title": "Tensions rise over draft climate deal at COP31",
-   "summary": "Publication of the IPCC’s seventh assessment report becomes a sticking point at UN climate talks",
-   "link": "https://www.aljazeera.com/news/2026/11/17/tensions-rise-over-draft-climate-deal-at-cop31?traffic_source=rss",
-   "source": "Al Jazeera",
-   "published": "2026-11-17T20:40:29Z",
-   "region": "Global",
-   "category": "news"
-  },
-  {
-   "title": "Nvidia's Jensen Huang: Targeted by the AI misinformation he helped create",
-   "summary": "Nvidia co-founder Jensen Huang has become the target of a wave of AI-generated misinformation, in a striking twist for one of the men behind the AI revolution. From a fake audio recording supposedly featuring his wife to fabricated LinkedIn profiles, false claims linking him to the Chinese…",
-   "link": "https://www.france24.com/en/tv-shows/truth-or-fake/20261117-deepfakes-memes-and-misinformation-ai-turns-against-nvidia-s-jensen-huang",
-   "source": "France 24",
-   "published": "2026-11-17T20:40:21Z",
-   "region": "Asia-Pacific",
    "category": "news"
   },
   {
@@ -331,15 +430,6 @@
    "category": "conflict"
   },
   {
-   "title": "Iran 'playing mind games with the United States', expert says",
-   "summary": "President Donald Trump said Tuesday that US authorities take \"very seriously\" any possible threat to Washington, following reports Iran was planning to target officials, possibly with a radioactive bomb. Speaking with FRANCE 24's Monte Francis, Barbara Slavin, Distinguished Fellow at the Stimson…",
-   "link": "https://www.france24.com/en/iran-playing-mind-games-with-the-united-states-expert-says",
-   "source": "France 24",
-   "published": "2026-11-17T20:28:50Z",
-   "region": "Americas",
-   "category": "conflict"
-  },
-  {
    "title": "Trump in Asia ahead of talks with Russian and Chinese presidents",
    "summary": "The US president said he would be open to a one-on-one meeting with Russia's Vladimir Putin \"if it's available\".",
    "link": "https://www.bbc.co.uk/news/articles/crq5vlxxx32no?at_medium=RSS&at_campaign=rss",
@@ -358,31 +448,13 @@
    "category": "economy"
   },
   {
-   "title": "Authorities take over Turkey's last pro-opposition broadcaster Sozcu TV",
-   "summary": "Police raided the Istanbul headquarters of Sozcu TV on Tuesday, dealing another significant blow to Turkey's pro-opposition media. This is the third such seizure of pro-opposition media in just over a year. It comes amid public uproar over a multi-billion investment fund scandal that has affected…",
-   "link": "https://www.france24.com/en/authorities-take-over-turkey-s-last-pro-opposition-broadcaster-sozcu-tv",
-   "source": "France 24",
-   "published": "2026-11-17T19:58:26Z",
-   "region": "Middle East",
-   "category": "news"
-  },
-  {
-   "title": "Trump has arrived in Asia. Here’s what he said about Iran and Deutsche Bank",
-   "summary": "Trump threatens Iran and responds to a tax leak report as his Asia trip begins.",
-   "link": "https://www.cnbc.com/2026/11/17/trump-iran-asia-trip-china.html",
-   "source": "CNBC World",
-   "published": "2026-11-17T19:16:20Z",
-   "region": "Middle East",
+   "title": "Government backs welfare shake-up to prevent 'lost generation'",
+   "summary": "Ex-minister Alan Milburn has set out plans to divert spending from benefits towards job support.",
+   "link": "https://www.bbc.co.uk/news/articles/ck79210y125xo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC Business",
+   "published": "2026-11-17T18:43:05Z",
+   "region": "Global",
    "category": "economy"
-  },
-  {
-   "title": "Carney looks to China as Trump tariffs squeeze Canada's car industry",
-   "summary": "The PM has suggested Chinese automakers could replace American ones in Canada - but some say that would not be easy.",
-   "link": "https://www.bbc.co.uk/news/articles/cq98xlz09ye0o?at_medium=RSS&at_campaign=rss",
-   "source": "BBC World",
-   "published": "2026-11-17T18:58:57Z",
-   "region": "Americas",
-   "category": "news"
   },
   {
    "title": "EU, ASEAN pursue deeper trade ties, but hurdles remain as businesses struggle with informal barriers",
@@ -403,31 +475,13 @@
    "category": "conflict"
   },
   {
-   "title": "UK sanctions firms over Israeli West Bank settlements",
-   "summary": "It marks the first sanctions since the UK announced a tougher approach to Israeli actions in the territory.",
-   "link": "https://www.bbc.co.uk/news/articles/cvglr977x3z0o?at_medium=RSS&at_campaign=rss",
-   "source": "BBC World",
-   "published": "2026-11-17T18:27:27Z",
-   "region": "Middle East",
-   "category": "news"
-  },
-  {
    "title": "Jensen Huang says he would be 'honoured' to return as Nvidia CEO if board asked him",
    "summary": "Huang says he has had an \"outpouring\" of calls from investors and others calling for him to return.",
    "link": "https://www.bbc.co.uk/news/articles/cwx2en2vrxmdo?at_medium=RSS&at_campaign=rss",
-   "source": "BBC World",
+   "source": "BBC Business",
    "published": "2026-11-17T18:24:21Z",
    "region": "Global",
-   "category": "news"
-  },
-  {
-   "title": "Trump on Iran's reported DC dirty bomb plan: 'We take it very seriously'",
-   "summary": "\"This is why they can't have a nuclear weapon,\" Trump added, reiterating his main rationale for launching the Iran war.",
-   "link": "https://www.cnbc.com/2026/11/17/trump-iran-dirty-bomb-washington.html",
-   "source": "CNBC World",
-   "published": "2026-11-17T17:49:45Z",
-   "region": "Middle East",
-   "category": "conflict"
+   "category": "economy"
   },
   {
    "title": "Saudi Arabia: Rights groups raise alarm over rising number of executions",
@@ -437,15 +491,6 @@
    "published": "2026-11-17T17:02:00Z",
    "region": "Middle East",
    "category": "conflict"
-  },
-  {
-   "title": "Jensen Huang's Nvidia exit exposes succession and governance risks for companies and boards",
-   "summary": "The resignation of Jensen Huang as Nvidia's CEO spotlights the missteps of its board and why companies built around one powerful leader creates outsized risk.",
-   "link": "https://www.cnbc.com/2026/11/17/nvidia-jensen-huang-succession-board-lessons.html",
-   "source": "CNBC World",
-   "published": "2026-11-17T17:00:01Z",
-   "region": "Global",
-   "category": "economy"
   },
   {
    "title": "Markets drop ahead of Nvidia’s results; Jensen Huang says he’d be ‘honoured’ to return as CEO – as it happened",
@@ -493,24 +538,6 @@
    "category": "conflict"
   },
   {
-   "title": "Treasury yields moderate as investors parse retail sales data",
-   "summary": "Investors digested economic data and comments from Federal Reserve officials on Tuesday.",
-   "link": "https://www.cnbc.com/2026/11/17/treasury-yields-bonds-inflation.html",
-   "source": "CNBC World",
-   "published": "2026-11-17T15:35:58Z",
-   "region": "Americas",
-   "category": "economy"
-  },
-  {
-   "title": "Investor Steve Eisman says the AI neocloud stocks are in 'big trouble' from Nvidia fallout",
-   "summary": "Steve Eisman is appearing on \"Squawk Box\" on Tuesday.",
-   "link": "https://www.cnbc.com/2026/11/17/big-short-investor-steve-eisman-to-discuss-nvidia-anthropic-and-ai-bull-on-cnbc.html",
-   "source": "CNBC World",
-   "published": "2026-11-17T15:22:45Z",
-   "region": "Global",
-   "category": "economy"
-  },
-  {
    "title": "US bank services returning to normal after major outage",
    "summary": "Chase Bank, the largest US bank, said a software bug might be causing the issue, but that it was not \"systemic'\" or \"cyber-related\".",
    "link": "https://www.bbc.co.uk/news/articles/cj752wvqneq6o?at_medium=RSS&at_campaign=rss",
@@ -538,15 +565,6 @@
    "category": "conflict"
   },
   {
-   "title": "How new US chip restrictions on South East Asia will hit China",
-   "summary": "The new rules restrict chip exports and also access to their computing power, which China relies on heavily.",
-   "link": "https://www.bbc.co.uk/news/articles/cwq6e2qgvmlgo?at_medium=RSS&at_campaign=rss",
-   "source": "BBC Business",
-   "published": "2026-11-17T14:25:45Z",
-   "region": "Asia-Pacific",
-   "category": "economy"
-  },
-  {
    "title": "APEC summit: What Trump, Xi and Putin want",
    "summary": "Trump, Xi and Putin will hold their first trilateral meeting on the sidelines of APEC. With different priorities on trade, Ukraine, Iran and arms control, what does each leader hope to gain?",
    "link": "https://www.dw.com/en/apec-summit-what-trump-xi-and-putin-want/a-79970462?maca=en-rss-en-world-4025-rdf",
@@ -565,24 +583,6 @@
    "category": "economy"
   },
   {
-   "title": "Government must act now or lose Royal Mail, former minister warns",
-   "summary": "The former business secretary says \"undercutting\" by rivals will make Royal Mail \"unviable\".",
-   "link": "https://www.bbc.co.uk/news/articles/cjvg26p3z2gdo?at_medium=RSS&at_campaign=rss",
-   "source": "BBC Business",
-   "published": "2026-11-17T12:43:07Z",
-   "region": "Global",
-   "category": "economy"
-  },
-  {
-   "title": "Where are the most jobs for 18-24 year-olds?",
-   "summary": "How many jobs are there where you live and in which sectors are you most likely to find an opening?",
-   "link": "https://www.bbc.co.uk/news/articles/cw3djdjk5d7ko?at_medium=RSS&at_campaign=rss",
-   "source": "BBC Business",
-   "published": "2026-11-17T12:35:53Z",
-   "region": "Global",
-   "category": "economy"
-  },
-  {
    "title": "Trump is in Asia ahead of Xi, Putin summit. And, tech leaders want Huang back at Nvidia",
    "summary": "Trump says he plans to discuss Ukraine during his Asia trip, which contradicts what the White House previously announced. And, Silicon Valley leaders are pushing for Jensen Huang's return to Nvidia.",
    "link": "https://www.npr.org/2026/11/17/g-s1-153950/up-first-newsletter-faa-ground-stop-trump-asia-trip-nvidia-lindsay-clancy",
@@ -590,15 +590,6 @@
    "published": "2026-11-17T12:20:57Z",
    "region": "Americas",
    "category": "news"
-  },
-  {
-   "title": "US government confirms investigation into tech firm Megaspeed",
-   "summary": "The Singapore-based company is suspected of helping to ship high-end AI chips from tech giant Nvidia to China, violating US export rules.",
-   "link": "https://www.bbc.co.uk/news/articles/cmn504nq5033o?at_medium=RSS&at_campaign=rss",
-   "source": "BBC Business",
-   "published": "2026-11-17T11:17:32Z",
-   "region": "Asia-Pacific",
-   "category": "economy"
   },
   {
    "title": "Could the Airbus' €3 billion loan row reignite a US-EU trade dispute?",
@@ -697,15 +688,6 @@
    "source": "NPR World",
    "published": "2026-11-16T12:08:14Z",
    "region": "Asia-Pacific",
-   "category": "news"
-  },
-  {
-   "title": "Chris Van Hollen says he can beat Chuck Schumer. Here's his case",
-   "summary": "Sen. Chris Van Hollen told NPR's Morning Edition why he believes he can defeat Sen. Chuck Schumer and what he would change about Senate Democratic leadership.",
-   "link": "https://www.npr.org/2026/11/16/nx-s1-6041687/chris-van-hollen-chuck-schumer-senate-leader",
-   "source": "NPR World",
-   "published": "2026-11-16T11:39:14Z",
-   "region": "Americas",
    "category": "news"
   },
   {
