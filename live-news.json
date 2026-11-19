@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-19T12:57:54Z",
+ "updatedAt": "2026-11-19T21:28:14Z",
  "sources": [
   "BBC World",
   "BBC Business",
@@ -16,98 +16,494 @@
  "count": 80,
  "items": [
   {
-   "title": "Anthropic to float on the stock market today as it raises $81bn in record IPO – business live",
-   "summary": "Rolling coverage of Anthropic’s IPO, and the latest economic and financial news Anthropic needs to grow into its $1.5tn valuation, argues Kathleen Brooks, research director at XTB: Anthropic’s triumphant IPO and its trillion dollar plus valuation is more typical of a mature company that has a…",
+   "title": "Fiona the hippo dies after swallowing a hat at Cincinnati Zoo",
+   "summary": "\"She fought until she couldn’t anymore,\" the Cincinnati Zoo said in a statement. Fiona became ill a few days after the incident.",
+   "link": "https://www.bbc.co.uk/news/articles/cwz0k3172xzko?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "published": "2026-11-19T21:26:10Z",
+   "region": "Global",
+   "category": "news"
+  },
+  {
+   "title": "Europe ready for talks with Russia on ending war in Ukraine, leaders say",
+   "summary": "European allies of Ukraine say they have a \"united\" negotiating position at a summit in Berlin.",
+   "link": "https://www.bbc.co.uk/news/articles/ckzd9nln5e6go?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "published": "2026-11-19T21:21:43Z",
+   "region": "Europe",
+   "category": "conflict"
+  },
+  {
+   "title": "AMD dives on short-seller report of alleged China exposure",
+   "summary": "AMD closed down over 7% after a short-seller alleged that its firmware showed up at a blacklisted Chinese company. The company said it complies with U.S. law.",
+   "link": "https://www.cnbc.com/2026/11/19/amd-falls-on-short-seller-report-of-alleged-china-exposure.html",
+   "source": "CNBC World",
+   "published": "2026-11-19T21:14:46Z",
+   "region": "Asia-Pacific",
+   "category": "economy"
+  },
+  {
+   "title": "Anthropic shares end first day of trading at $97 as Wall Street closes sharply lower – business live",
+   "summary": "All ⁠three major US stock indexes ⁠ended the session ​sharply lower after record-breaking IPO by maker behind AI agent Claude Anthropic needs to grow into its $1.5tn valuation, argues Kathleen Brooks, research director at XTB: Anthropic’s triumphant IPO and its trillion dollar plus valuation is…",
    "link": "https://www.theguardian.com/business/live/2026/nov/19/anthropic-float-stock-market-nasdaq-raises-81bn-record-ipo-latest-news-updates",
    "source": "The Guardian Economics",
-   "published": "2026-11-19T12:53:54Z",
+   "published": "2026-11-19T21:10:00Z",
+   "region": "Americas",
+   "category": "economy"
+  },
+  {
+   "title": "Fiona the hippo dies after ingesting knitted hat at Cincinnati zoo",
+   "summary": "Zoo staff tried a colonoscopy, vibration plate and other procedures to aid the hippo in passing the hat to no avail Fiona the hippo, one of America’s most famous zoo animals, has died after efforts to remove a knitted hat that she swallowed after it fell into her enclosure proved unsuccessful. With…",
+   "link": "https://www.theguardian.com/world/2026/nov/19/fiona-hippo-cincinnati-zoo-knit-hat",
+   "source": "The Guardian World",
+   "published": "2026-11-19T21:06:24Z",
+   "region": "Americas",
+   "category": "news"
+  },
+  {
+   "title": "'We're seeing in real time the effects that AI is going to have on cybersecurity', expert says",
+   "summary": "FRANCE 24's Monte Francis speaks with Dr. R. David Edelman, Senior Fellow at the Brookings Institution, also former Director for Cybersecurity on the National Security Council under the Obama administration. He explains that the latest spate of network outages shows \"in real time the effects that…",
+   "link": "https://www.france24.com/en/we-re-seeing-in-real-time-the-effects-that-ai-is-going-to-have-on-cybersecurity-expert-says",
+   "source": "France 24",
+   "published": "2026-11-19T21:06:12Z",
+   "region": "Europe",
+   "category": "news"
+  },
+  {
+   "title": "Guardian Australia takes home two Walkley awards for excellence in journalism",
+   "summary": "Stories revealing Pauline Hanson’s US trip with Gina Rinehart and the systemic betrayal of Kardell Lomas before her death recognised Get our breaking news email , free app or daily news podcast Guardian Australia journalists have won two Walkley awards, one for a story about the systemic betrayal…",
+   "link": "https://www.theguardian.com/australia-news/2026/nov/19/guardian-australia-takes-home-two-walkley-awards-for-excellence-in-journalism",
+   "source": "The Guardian World",
+   "published": "2026-11-19T21:04:01Z",
+   "region": "Asia-Pacific",
+   "category": "news"
+  },
+  {
+   "title": "Suspects charged in California train heist ring that netted cargo worth $22m",
+   "summary": "More than a dozen people allegedly targeted trains carrying Nike sneakers, Crocs footwear and other goods More than a dozen people were charged on Thursday with allegedly orchestrating a vast train heist operation to steal more than $22m in cargo – from popular shoes to power tools – from major…",
+   "link": "https://www.theguardian.com/us-news/2026/nov/19/nike-croc-train-heist",
+   "source": "The Guardian World",
+   "published": "2026-11-19T21:02:16Z",
+   "region": "Global",
+   "category": "news"
+  },
+  {
+   "title": "Palo Alto stock jumps on earnings beat and company's big bet on securing open-weight models",
+   "summary": "Palo Alto Networks reported better-than-expected first-quarter results and inked a $4.5 billion deal for AI startup Applied Compute",
+   "link": "https://www.cnbc.com/2026/11/19/palo-alto-networks-earnings-applied-compute.html",
+   "source": "CNBC World",
+   "published": "2026-11-19T21:00:57Z",
    "region": "Global",
    "category": "economy"
   },
   {
-   "title": "Hakeem Jeffries on brink of House history as he tells Democrats to ‘fight Maga, not each other’ – US politics live",
-   "summary": "Democrats resoundingly nominated Jeffries to serve as speaker of the House when the new Congress is sworn in next year Sign up for the Breanking News US email Attorney general Todd Blanche’s wife, Kristine Blanche, who was appointed earlier this year to a US government advisory board on alternative…",
+   "title": "Three arrested during Anthropic IPO protest outside Nasdaq",
+   "summary": "As the AI giant Anthropic made its record-breaking stock market debut in New York, police arrested demonstrators",
+   "link": "https://www.aljazeera.com/video/newsfeed/2026/11/19/three-arrested-during-anthropic-ipo-protest-outside-nasdaq?traffic_source=rss",
+   "source": "Al Jazeera",
+   "published": "2026-11-19T20:59:20Z",
+   "region": "Global",
+   "category": "economy"
+  },
+  {
+   "title": "Jerusalem Daily: Israel launches ground offensive in Gaza",
+   "summary": "Israel launches its first major ground offensive in central Gaza, pushing beyond the ‘Yellow Line’ it controls",
+   "link": "https://www.aljazeera.com/video/newsfeed/2026/11/19/jerusalem-daily-israel-launches-ground-offensive-in-gaza-2?traffic_source=rss",
+   "source": "Al Jazeera",
+   "published": "2026-11-19T20:58:41Z",
+   "region": "Middle East",
+   "category": "conflict"
+  },
+  {
+   "title": "Rohingya genocide survivor: ‘perpetrators will have to face consequences’",
+   "summary": "The International Court of Justice has ruled that Myanmar committed genocide against the Rohingya.",
+   "link": "https://www.aljazeera.com/video/newsfeed/2026/11/19/rohingya-genocide-survivor-perpetrators-will-have-to-face?traffic_source=rss",
+   "source": "Al Jazeera",
+   "published": "2026-11-19T20:58:38Z",
+   "region": "Asia-Pacific",
+   "category": "news"
+  },
+  {
+   "title": "Why are Bukele’s Salvadoran troops in Haiti and what have they achieved?",
+   "summary": "With crowds rallying behind El Salvador's deployment in Haiti, analysts question whether civilians are any safer.",
+   "link": "https://www.aljazeera.com/news/2026/11/19/why-are-bukeles-salvadoran-troops-in-haiti-and-what-have-they-achieved?traffic_source=rss",
+   "source": "Al Jazeera",
+   "published": "2026-11-19T20:54:08Z",
+   "region": "Americas",
+   "category": "conflict"
+  },
+  {
+   "title": "'Humanitarian mission' for Kostiantynivka: Is it a trap?",
+   "summary": "Russian President Putin has proposed an evacuation of the Ukrainian city of Kostiantynivka, like the recent operation in Oleshky. Experts warn this could serve military, not humanitarian, aims. What should Kyiv do?",
+   "link": "https://www.dw.com/en/humanitarian-mission-for-kostiantynivka-is-it-a-trap/a-79996772?maca=en-rss-en-world-4025-rdf",
+   "source": "DW World",
+   "published": "2026-11-19T20:53:00Z",
+   "region": "Europe",
+   "category": "conflict"
+  },
+  {
+   "title": "John Fetterman vehemently backs Schumer for Senate majority leader and says he’s ‘considering things’ on 2028 re-election – live",
+   "summary": "US senator from Pennsylvania also took shot at Chris Van Hollen, who is challenging Schumer for Democratic leadership Sign up for the Breaking News US email The National Security Agency is seeing a third day of disruptions to its internal network, NSA Net, which allows staff to share highly…",
    "link": "https://www.theguardian.com/us-news/live/2026/nov/19/hakeem-jeffries-us-politics-demicrats-republicans-latest-news-updates",
    "source": "The Guardian World",
-   "published": "2026-11-19T12:51:25Z",
+   "published": "2026-11-19T20:52:46Z",
    "region": "Americas",
    "category": "news"
+  },
+  {
+   "title": "UK-EU reset talks will go ‘down to the wire’ as crunch summit approaches",
+   "summary": "Britain understood to have made concessions on youth mobility scheme as negotiations on wider deal continue British and European negotiators were striving to put the finishing touches to a deal on Thursday night as they provisionally agreed to allow 100,000 EU citizens to come to the UK every year…",
+   "link": "https://www.theguardian.com/world/2026/nov/19/uk-eu-reset-talks-andy-burnham-food-farming-tuition-fees",
+   "source": "The Guardian World",
+   "published": "2026-11-19T20:52:05Z",
+   "region": "Europe",
+   "category": "news"
+  },
+  {
+   "title": "Will the Shenzhen summit safeguard world peace?",
+   "summary": "Xi, Putin and Trump issue 'Peace Declaration' after historic summit.",
+   "link": "https://www.aljazeera.com/video/inside-story/2026/11/19/will-the-shenzhen-summit-safeguard-world-peace?traffic_source=rss",
+   "source": "Al Jazeera",
+   "published": "2026-11-19T20:43:51Z",
+   "region": "Europe",
+   "category": "news"
+  },
+  {
+   "title": "Kushner says Trump 'open' to extend NATO mutual defense-type clause to Ukraine",
+   "summary": "US envoy Jared Kushner said Thursday that President Donald Trump was open to extending to Ukraine a security guarantee similar to NATO's mutual defense clause, but stressed that Washington has to protect its interests too. The comments came as German Chancellor Friedrich Merz qualified the summit…",
+   "link": "https://www.france24.com/en/kushner-says-trump-open-to-extend-nato-mutual-defense-type-clause-to-ukraine",
+   "source": "France 24",
+   "published": "2026-11-19T20:41:06Z",
+   "region": "Europe",
+   "category": "news"
+  },
+  {
+   "title": "How vaccine fears fuelled a major measles comeback in the US",
+   "summary": "Measles is making a comeback in the US as vaccination rates fall.",
+   "link": "https://www.aljazeera.com/video/newsfeed/2026/11/19/how-vaccine-fears-fuelled-a-major-measles-comeback-in-the-us?traffic_source=rss",
+   "source": "Al Jazeera",
+   "published": "2026-11-19T20:35:14Z",
+   "region": "Americas",
+   "category": "news"
+  },
+  {
+   "title": "Trump’s case against NYT and Penguin Random House may proceed: Judge",
+   "summary": "The lawsuit cited a book about Trump by two NYT reporters and what it said were 'false, malicious, defamatory' articles.",
+   "link": "https://www.aljazeera.com/economy/2026/11/19/trumps-case-against-nyt-and-penguin-random-house-may-proceed-judge?traffic_source=rss",
+   "source": "Al Jazeera",
+   "published": "2026-11-19T20:32:46Z",
+   "region": "Americas",
+   "category": "news"
+  },
+  {
+   "title": "Macron urges Ukraine's allies to 'reopen the question' of NATO membership",
+   "summary": "French President Emmanuel Macron on Thursday called for Ukraine's allies to speed up the delivery of urgently needed air defence systems and urged them to \"reopen the question\" of Ukraine's NATO membership after talks in Berlin aimed at reaffirming European support for Kyiv.",
+   "link": "https://www.france24.com/en/europe/20261119-macron-urges-ukraine-allies-reopen-question-nato-membership",
+   "source": "France 24",
+   "published": "2026-11-19T20:32:15Z",
+   "region": "Europe",
+   "category": "news"
+  },
+  {
+   "title": "Senate Republicans in US reject measure to limit Trump’s war powers in Iran",
+   "summary": "The resolution was defeated 51-48. Three Republicans broke rank, voting against the measure.",
+   "link": "https://www.aljazeera.com/news/2026/11/19/senate-republicans-in-us-reject-measure-to-limit-trumps-war-powers-in-iran?traffic_source=rss",
+   "source": "Al Jazeera",
+   "published": "2026-11-19T20:30:54Z",
+   "region": "Americas",
+   "category": "conflict"
+  },
+  {
+   "title": "What does the Myanmar genocide ruling mean for the Rohingya?",
+   "summary": "Rohingya refugees in Bangladesh cheered an International Court of Justice finding that Myanmar committed genocide.",
+   "link": "https://www.aljazeera.com/video/newsfeed/2026/11/19/what-does-the-myanmar-genocide-ruling-mean-for-the-rohingya?traffic_source=rss",
+   "source": "Al Jazeera",
+   "published": "2026-11-19T20:26:09Z",
+   "region": "Asia-Pacific",
+   "category": "news"
+  },
+  {
+   "title": "Senate Republicans rejects war powers bill to halt fighting in Iran",
+   "summary": "Measure fails 48-51 with GOP members again defending war that played a role in costing them midterm elections The Senate on Thursday rejected a war powers resolution aimed at forcing Donald Trump to halt fighting with Iran, with Republicans once again defending a conflict that played a major role…",
+   "link": "https://www.theguardian.com/us-news/2026/nov/19/senate-iran-war-powers-resolution-rejected",
+   "source": "The Guardian World",
+   "published": "2026-11-19T20:24:09Z",
+   "region": "Americas",
+   "category": "conflict"
+  },
+  {
+   "title": "Grand Theft Auto fans skip work and pull all-nighters to play new instalment",
+   "summary": "Hotly anticipated Bonnie and Clyde-inspired adventure GTA VI has gamers glued to their screens around the world Grand Theft Auto fans around the world pulled all-nighters, skipped work and school, and attended overnight launch parties to vicariously embark on police chases and coordinate robberies…",
+   "link": "https://www.theguardian.com/games/2026/nov/19/grand-theft-auto-six-fans-skip-work-pull-all-nighters",
+   "source": "The Guardian World",
+   "published": "2026-11-19T20:07:23Z",
+   "region": "Global",
+   "category": "news"
+  },
+  {
+   "title": "Myanmar committed genocide against Rohingya minority, top UN court rules",
+   "summary": "The unprecedented International Court of Justice verdict concerns a 2017 military crackdown that killed thousands.",
+   "link": "https://www.bbc.co.uk/news/articles/c804wzp20ddvo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "published": "2026-11-19T20:07:02Z",
+   "region": "Asia-Pacific",
+   "category": "conflict"
+  },
+  {
+   "title": "John Cornyn blocks Trump judicial nominee after Senate shouting match with Ted Cruz",
+   "summary": "Outgoing senator withheld ‘blue slip’ from T Elliot Gaiser, blocking his appointment to northern Texas district court An outgoing Republican senator blocked one of Donald Trump ’s judicial nominations on Wednesday, throwing a wrench in the party’s plans to approve the US president’s picks before…",
+   "link": "https://www.theguardian.com/us-news/2026/nov/19/judge-t-elliot-gaiser-nomination-fight",
+   "source": "The Guardian World",
+   "published": "2026-11-19T20:03:58Z",
+   "region": "Americas",
+   "category": "news"
+  },
+  {
+   "title": "A president among body bags: Photo ops spark outrage in Colombia",
+   "summary": "Since taking office in August, Colombia's far-right President Abelardo de la Espriella has regularly posted videos that show him walking among body bags supposedly holding the remains of rebel fighters – a communications strategy that has sparked widespread criticism.",
+   "link": "https://www.france24.com/en/tv-shows/the-observers/20261119-president-body-bags-photo-ops-sparking-outrage-colombia",
+   "source": "France 24",
+   "published": "2026-11-19T19:52:24Z",
+   "region": "Americas",
+   "category": "conflict"
+  },
+  {
+   "title": "Howard-era minister Sharman Stone dies via voluntary assisted dying, aged 75",
+   "summary": "The former Liberal MP had fought a long battle against glioblastoma, an aggressive form of brain cancer Get our daily political email , free app or daily news podcast Former Liberal MP Sharman Stone has died via voluntary assisted dying after spending much of her political career advocating that…",
+   "link": "https://www.theguardian.com/australia-news/2026/nov/20/howard-era-minister-sharman-stone-dies-via-voluntary-assisted-dying-aged-75",
+   "source": "The Guardian World",
+   "published": "2026-11-19T19:44:24Z",
+   "region": "Global",
+   "category": "news"
+  },
+  {
+   "title": "Three of a kind? Xi hosts Trump and Putin as Ukraine war grinds on",
+   "summary": "Gang of three or glorified photo op? Xi Jinping hosting Donald Trump and Vladimir Putin on the sidelines of the APEC summit. Already, our Monday panel rejected attempts to paint the three-way meeting as a new Yalta, as in the 1945 sit-down on the Black Sea that defined the post-war security…",
+   "link": "https://www.france24.com/en/tv-shows/the-debate/20261119-three-of-a-kind-xi-hosts-trump-and-putin-as-ukraine-war-grinds-on",
+   "source": "France 24",
+   "published": "2026-11-19T19:39:43Z",
+   "region": "Europe",
+   "category": "conflict"
+  },
+  {
+   "title": "Xi-Trump-Putin trilateral meeting: Trump's recognition of China and Russia as 'peers of the US'",
+   "summary": "Genie Godula is pleased to welcome Olivia Cheung. The trilateral meeting between Donald Trump, Xi Jinping and Vladimir Putin at the APEC summit was significant despite the absence of concrete agreements, according to Cheung. “The significance is seen in the precedence of the United States seeing…",
+   "link": "https://www.france24.com/en/xi-trump-putin-trilateral-meeting-trump-s-recognition-of-china-and-russia-as-peers-of-the-us",
+   "source": "France 24",
+   "published": "2026-11-19T19:33:56Z",
+   "region": "Americas",
+   "category": "news"
+  },
+  {
+   "title": "NASA's Voyager 1 phones home from record one light-day away, 49 years after launch",
+   "summary": "The Voyager 1 probe launched by NASA nearly a half century ago has reached a distance from Earth of one light day (more than 26 billion kilometres), the farthest any human artifact has ever ventured from our planet. The space agency received a signal from the spacecraft Thursday, exactly 24 hours…",
+   "link": "https://www.france24.com/en/nasa-voyager-1-phones-home-from-record-one-light-day-away-49-years-after-launch",
+   "source": "France 24",
+   "published": "2026-11-19T19:26:18Z",
+   "region": "Global",
+   "category": "news"
+  },
+  {
+   "title": "Anthropic IPO will create thousands of multimillionaire employees",
+   "summary": "The average Anthropic employee could be worth over $40 million after the company's IPO today, according to SEC filings and investors.",
+   "link": "https://www.cnbc.com/2026/11/19/anthropic-ipo-could-create-thousands-of-multimillionaire-employees.html",
+   "source": "CNBC World",
+   "published": "2026-11-19T19:05:45Z",
+   "region": "Global",
+   "category": "economy"
+  },
+  {
+   "title": "Iraq's risky standoff: The state vs. Iran-allied militias",
+   "summary": "This week, Iraqi security forces surrounded an area run by the Kataib Hezbollah militia. Onlookers describe it as the most dangerous confrontation between the Iraqi state and Iran-allied militias in decades.",
+   "link": "https://www.dw.com/en/iraq-s-risky-standoff-the-state-vs-iran-allied-militias/a-79995757?maca=en-rss-en-world-4025-rdf",
+   "source": "DW World",
+   "published": "2026-11-19T18:59:00Z",
+   "region": "Middle East",
+   "category": "news"
+  },
+  {
+   "title": "Anthropic keeps the AI party swinging, but the atmosphere is bubbly | Nils Pratley",
+   "summary": "Can the newly listed AI company really be worth $2tn? Anyone who remembers the late 1990s has good reason to ask Business live – latest updates Roll up, roll up, who wants to buy shares in a company whose technology “could pose catastrophic or existential risks to humanity”, as the prospectus had…",
+   "link": "https://www.theguardian.com/technology/nils-pratley-on-finance/2026/nov/19/anthropic-keeps-ai-party-swinging-but-atmosphere-bubbly",
+   "source": "The Guardian Economics",
+   "published": "2026-11-19T18:15:48Z",
+   "region": "Global",
+   "category": "economy"
+  },
+  {
+   "title": "French media regulator says it will monitor top YouTubers for bias in election coverage",
+   "summary": "Rules designed to safeguard media pluralism during elections campaigns will apply to France's most influential YouTubers in the run-up to next year's presidential contest, media regulator Arcom warned on Thursday, reflecting the growing influence of content creators whose audiences often outstrip…",
+   "link": "https://www.france24.com/en/france/20261119-french-regulator-warns-influential-youtubers-respect-pluralism-rules-election-coverage",
+   "source": "France 24",
+   "published": "2026-11-19T17:55:25Z",
+   "region": "Europe",
+   "category": "news"
+  },
+  {
+   "title": "Xi Jinping, Donald Trump and Vladimir Putin have held trilateral talks ― but what did they achieve?",
+   "summary": "The presidents of China, the US and Russia have held an unprecedented summit. While Trump said the three leaders were \"making history,\" Xi described the talks as \"fruitful\" and Putin called them \"open and candid.\"",
+   "link": "https://www.dw.com/en/xi-jinping-donald-trump-and-vladimir-putin-have-held-trilateral-talks-―-but-what-did-they-achieve/a-79996668?maca=en-rss-en-world-4025-rdf",
+   "source": "DW World",
+   "published": "2026-11-19T17:52:00Z",
+   "region": "Europe",
+   "category": "news"
+  },
+  {
+   "title": "Trump, Putin and Xi release 'peace declaration' after historic meeting",
+   "summary": "While the presidents have previously met for one-on-one meetings, this is their first trilateral discussion.",
+   "link": "https://www.bbc.co.uk/news/articles/c623j4ln97x7o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "published": "2026-11-19T17:38:22Z",
+   "region": "Europe",
+   "category": "news"
+  },
+  {
+   "title": "Rohingya genocide: What was said in court and what happens now?",
+   "summary": "The verdict marks the first time a state has ever been found to have committed genocide by an international court.",
+   "link": "https://www.bbc.co.uk/news/videos/c60qj10j0ld5o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "published": "2026-11-19T17:35:05Z",
+   "region": "Global",
+   "category": "news"
+  },
+  {
+   "title": "What impact will the Shenzhen summit have on the US-China trade war?",
+   "summary": "Despite warm words between US President Donald Trump and Chinese President Xi Jinping at three-way talks with Russian President Vladimir Putin in Shenzhen Thursday, the simmering trade war between Washington and Beijing still looks to be no closer to resolution.",
+   "link": "https://www.france24.com/en/asia-pacific/20261119-what-impact-will-shenzhen-summit-us-china-trade-war",
+   "source": "France 24",
+   "published": "2026-11-19T17:34:09Z",
+   "region": "Asia-Pacific",
+   "category": "conflict"
+  },
+  {
+   "title": "Susan Smith denied parole again 32 years after drowning her two sons",
+   "summary": "At a hearing on the possibility of parole, Smith said she wished she could change the past, and her two children \"did not deserve to die\".",
+   "link": "https://www.bbc.co.uk/news/articles/ckdd1y09eqjmo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "published": "2026-11-19T17:23:34Z",
+   "region": "Global",
+   "category": "news"
+  },
+  {
+   "title": "What did Trump, Xi and Putin get out of their historic meeting?",
+   "summary": "Trump, Putin and Xi have issued a \"joint declaration of peace\" after historical trilateral talks, but what did they get out of meeting?",
+   "link": "https://www.bbc.co.uk/news/videos/c63rgnq05pdwo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "published": "2026-11-19T17:23:29Z",
+   "region": "Europe",
+   "category": "news"
+  },
+  {
+   "title": "Israeli military completes ground operation in Gaza beyond Yellow Line",
+   "summary": "Hamas condemned the incursion, which the Israeli military said was to dismantle a \"terror tunnel\", as a \"flagrant\" ceasefire violation.",
+   "link": "https://www.bbc.co.uk/news/articles/cw8r7510degno?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "published": "2026-11-19T17:03:23Z",
+   "region": "Middle East",
+   "category": "conflict"
+  },
+  {
+   "title": "Trump, Xi, Putin said they plan to boost oil production, revamp UN after trilateral talks",
+   "summary": "The leaders of the U.S., China and Russia met in Shenzhen, China on Thursday for a rare trilateral gathering.",
+   "link": "https://www.cnbc.com/2026/11/19/trump-xi-putin-trilateral-meeting-china.html",
+   "source": "CNBC World",
+   "published": "2026-11-19T17:01:41Z",
+   "region": "Europe",
+   "category": "economy"
+  },
+  {
+   "title": "Gold's bad year is getting worse. Why its price keeps falling",
+   "summary": "Gold has fallen sharply from its January record as higher interest rates and a stronger dollar change the investment case for the precious metal.",
+   "link": "https://www.cnbc.com/2026/11/19/gold-prices-fall-fed-rates-dollar.html",
+   "source": "CNBC World",
+   "published": "2026-11-19T16:29:52Z",
+   "region": "Global",
+   "category": "economy"
+  },
+  {
+   "title": "Anthropic raises $81bn in record-breaking stock market debut",
+   "summary": "The company behind the Claude chatbot will become one of the most valuable firms in the world.",
+   "link": "https://www.bbc.co.uk/news/articles/c6742m39xgzxo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC Business",
+   "published": "2026-11-19T15:58:58Z",
+   "region": "Global",
+   "category": "economy"
+  },
+  {
+   "title": "Dozens missing after boat carrying migrants sinks off Senegal's coast",
+   "summary": "At least four bodies have been recovered from the boat which was reportedly carrying between 50 and 100 people.",
+   "link": "https://www.bbc.co.uk/news/articles/c58j484089ewo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "published": "2026-11-19T15:52:26Z",
+   "region": "Africa",
+   "category": "news"
+  },
+  {
+   "title": "Anthropic trading tests investors' appetite for AI",
+   "summary": "Anthropic was valued at $2 trillion after shares started trading on the Nasdaq following a record $81 billion IPO. Its performance will put investor confidence in AI to the test.",
+   "link": "https://www.dw.com/en/anthropic-trading-tests-investors-appetite-for-ai/a-79993163?maca=en-rss-en-bus-2091-rdf",
+   "source": "DW Business",
+   "published": "2026-11-19T15:52:00Z",
+   "region": "Global",
+   "category": "economy"
+  },
+  {
+   "title": "More support for households reliant on heating oil",
+   "summary": "North Northamptonshire Council is encouraging eligible residents to apply for more support.",
+   "link": "https://www.bbc.co.uk/news/articles/cwm2mj7vezr3o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC Business",
+   "published": "2026-11-19T15:22:31Z",
+   "region": "Global",
+   "category": "economy"
   },
   {
    "title": "AI demand will push up interest rates around the world, IMF head warns",
    "summary": "Kristalina Georgieva says countries needed to be ready for tech rollout, adding: ‘You snooze, you lose’ Business live – latest updates Booming demand for artificial intelligence will force the world’s most powerful central banks to raise interest rates, the head of the International Monetary Fund…",
    "link": "https://www.theguardian.com/world/2026/nov/19/imf-head-warns-ai-demand-push-up-interest-rates-apec",
-   "source": "The Guardian World",
-   "published": "2026-11-19T12:51:16Z",
+   "source": "The Guardian Economics",
+   "published": "2026-11-19T15:15:14Z",
    "region": "Global",
    "category": "economy"
   },
   {
-   "title": "Ukraine’s allies meet in Berlin with air defence, energy and financial support on the agenda – Europe live",
-   "summary": "Meeting comes after Trump declared Putin a ‘friend’ during trilateral meeting in China For what it’s worth, the China-US-Russia ‘peace declaration’ issued after their meeting, and published by Chinese state media , includes absolutely no mention of Ukraine or Europe whatsoever. There is only one…",
-   "link": "https://www.theguardian.com/world/live/2026/nov/19/russia-ukraine-war-coalition-of-the-willing-europe-latest-news-updates",
-   "source": "The Guardian World",
-   "published": "2026-11-19T12:49:25Z",
+   "title": "EU Commission confirms it was targeted in cyberattack using AI tools",
+   "summary": "The European Commission was targeted by an \"AI-generated cybercampaign,\" a spokesperson has said. This is the first time the bloc has publicly reported an AI-based cyberattack.",
+   "link": "https://www.dw.com/en/eu-commission-confirms-it-was-targeted-in-cyberattack-using-ai-tools/a-79993016?maca=en-rss-en-world-4025-rdf",
+   "source": "DW World",
+   "published": "2026-11-19T14:58:00Z",
    "region": "Europe",
    "category": "news"
   },
   {
-   "title": "Former WH Smith chain TG Jones put up for sale after closing 150 stores",
-   "summary": "Modella Capital plans auction of high street retailer, which employs about 3,500 people, next year The owner of TG Jones is exploring a potential sale less than 18 months after completing a deal to buy the high street chain formerly known as WH Smith. Modella Capital, which also owns businesses…",
-   "link": "https://www.theguardian.com/business/2026/nov/17/wh-smith-tg-jones-sale-stores-modella-capita",
-   "source": "The Guardian World",
-   "published": "2026-11-19T12:45:07Z",
-   "region": "Global",
-   "category": "news"
-  },
-  {
-   "title": "Israeli tanks cross ‘yellow line’ boundary into Hamas-controlled central Gaza",
-   "summary": "First incursion across boundary since ceasefire deal comes as Eisenkot seeks to form government without Netanyahu The Israeli military crossed into Hamas-controlled central Gaza on Wednesday in its first ground operation across the “yellow line” boundary since a fragile ceasefire was agreed last…",
-   "link": "https://www.theguardian.com/world/2026/nov/18/israeli-tanks-cross-yellow-line-boundary-into-hamas-controlled-central-gaza",
-   "source": "The Guardian World",
-   "published": "2026-11-19T12:40:46Z",
-   "region": "Middle East",
-   "category": "conflict"
-  },
-  {
-   "title": "Wife of Trump ally Todd Blanche promoted treatments with unproven medical claims",
-   "summary": "Kristine Blanche, named to US health advisory role, offered purported treatments for Epstein-Barr virus and HPV Attorney general Todd Blanche’s wife, Kristine Blanche, who was appointed earlier this year to a US government advisory board on alternative medicine, has a website on which she marketed…",
-   "link": "https://www.theguardian.com/us-news/2026/nov/19/kristine-blanche-health-website",
-   "source": "The Guardian World",
-   "published": "2026-11-19T12:39:20Z",
-   "region": "Americas",
-   "category": "news"
-  },
-  {
-   "title": "Car rams into Palestinian residents four times in Israeli city, injuring eight",
-   "summary": "Arab MPs accuse Israeli politicians of fuelling hostility as footage shows driver accelerating towards pedestrians at several locations in Kafr Qasim Eight people were injured on Wednesday evening when a driver struck Palestinian residents at four separate locations in Kafr Qasim, a city in central…",
-   "link": "https://www.theguardian.com/world/2026/nov/19/car-rams-into-palestinian-residents-four-times-in-israeli-city-kafr-qasim",
-   "source": "The Guardian World",
-   "published": "2026-11-19T12:36:37Z",
-   "region": "Middle East",
-   "category": "news"
-  },
-  {
-   "title": "Danish MPs approve Greenland security pact with US",
-   "summary": "Danish foreign minister says deal ‘removes all uncertainty’ over territory but warns trust in US needs rebuilding Europe live – latest updates The Danish parliament has unanimously approved a new Arctic security pact between Greenland, Denmark and the US in what it is hoped will mark a new chapter…",
-   "link": "https://www.theguardian.com/world/2026/nov/19/danish-mps-approve-greenland-security-pact-us",
-   "source": "The Guardian World",
-   "published": "2026-11-19T12:33:52Z",
-   "region": "Americas",
-   "category": "news"
-  },
-  {
-   "title": "First Thing: Trump, Xi and Putin hold historic trilateral meeting in China",
-   "summary": "The three leaders spoke about international peace and nuclear weapons as Trump called Putin a ‘friend’. Plus, yes, GTA VI is really finally here, and the critics have their verdict: masterpiece Good morning. Donald Trump has met Vladimir Putin and Xi Jinping at the Apec summit in Shenzhen, and said…",
-   "link": "https://www.theguardian.com/us-news/2026/nov/19/first-thing-trump-xi-and-putin-hold-historic-trilateral-meeting-in-china",
-   "source": "The Guardian World",
-   "published": "2026-11-19T12:31:41Z",
+   "title": "Wadephul: 'Coalition of the Willing' talks in Berlin send strong signal to Moscow",
+   "summary": "German Foreign Minister Wadephul has said the Coalition of the Willing meeting in Berlin sends a clear message to Moscow to take peace talks seriously. He also warned Ukraine should be prepared for peace talks to fail.",
+   "link": "https://www.dw.com/en/wadephul-coalition-of-the-willing-talks-in-berlin-send-strong-signal-to-moscow/a-79990664?maca=en-rss-en-world-4025-rdf",
+   "source": "DW World",
+   "published": "2026-11-19T13:56:00Z",
    "region": "Europe",
-   "category": "conflict"
+   "category": "news"
   },
   {
-   "title": "Top U.N. court rules Myanmar committed genocide against the Rohingya",
-   "summary": "The International Court of Justice found that Myanmar security forces \"acted with genocidal intent\" against the Rohingya during the 2017 military operations in the northern Rakhine State.",
+   "title": "Viagogo may have broken law on hidden fees, watchdog provisionally finds",
+   "summary": "The UK's competition body says initial findings suggest the ticket-reselling website used drip pricing.",
+   "link": "https://www.bbc.co.uk/news/articles/cmvg2ex7j30lo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC Business",
+   "published": "2026-11-19T13:35:52Z",
+   "region": "Europe",
+   "category": "economy"
+  },
+  {
+   "title": "Pakistan minister to visit India, but no breakthrough expected",
+   "summary": "A Pakistani minister's visit to India for a Shanghai Cooperation Organization forum marks a rare high-level contact between the two archrivals, but analysts say it does not signal a resumption of bilateral engagement.",
+   "link": "https://www.dw.com/en/pakistan-minister-to-visit-india-but-no-breakthrough-expected/a-79991717?maca=en-rss-en-world-4025-rdf",
+   "source": "DW World",
+   "published": "2026-11-19T13:26:00Z",
+   "region": "Asia-Pacific",
+   "category": "news"
+  },
+  {
+   "title": "The U.N.'s top court rules Myanmar committed genocide against the Rohingya",
+   "summary": "The International Court of Justice found that Myanmar security forces \"acted with genocidal intent\" against the Rohingya during military operations in the northern Rakhine state in 2017.",
    "link": "https://www.npr.org/2026/11/19/g-s1-154340/un-court-myanmar-genocide-rohingya",
    "source": "NPR World",
    "published": "2026-11-19T12:29:41Z",
@@ -124,84 +520,12 @@
    "category": "news"
   },
   {
-   "title": "'Grand Theft Auto VI', a 'masterpiece' 13 years in the making",
-   "summary": "PRESS REVIEW – Thursday, November 19: An historic trilateral summit takes place in Shenzhen between Xi Jinping, Donald Trump and Vladimir Putin. But is it more optics than substance? Also, a highly awaited decision from the International Court of Justice could redefine genocide. Finally, a huge…",
-   "link": "https://www.france24.com/en/tv-shows/press-review/20261119-grand-theft-auto-vi-a-masterpiece-13-years-in-the-making",
-   "source": "France 24",
-   "published": "2026-11-19T12:22:53Z",
-   "region": "Europe",
-   "category": "news"
-  },
-  {
-   "title": "Home of Bangladesh’s former leader Muhammad Yunus set on fire",
-   "summary": "The blaze broke out during heightened violence before ousted Prime Minister Sheikh Hasina's planned return.",
-   "link": "https://www.aljazeera.com/news/2026/11/19/home-of-bangladeshs-former-leader-muhammad-yunus-set-on-fire?traffic_source=rss",
-   "source": "Al Jazeera",
-   "published": "2026-11-19T12:21:33Z",
-   "region": "Asia-Pacific",
-   "category": "news"
-  },
-  {
-   "title": "Nigeria: States set to get their own police forces",
-   "summary": "Nigeria has moved a step closer to letting its 36 states set up their own police forces. The National Assembly has sent a constitutional amendment bill to the president, as authorities seek state-run police to complement the federal force amid growing insecurity. Many states currently fund…",
-   "link": "https://www.france24.com/en/nigeria-states-set-to-get-their-own-police-forces",
-   "source": "France 24",
-   "published": "2026-11-19T12:20:35Z",
-   "region": "Africa",
-   "category": "news"
-  },
-  {
-   "title": "ICJ rules Myanmar committed genocide against the Rohingya",
-   "summary": "The ICJ has ruled that Myanmar committed genocide against the Rohingya in northern Rakhine State.",
-   "link": "https://www.aljazeera.com/video/newsfeed/2026/11/19/icj-rules-myanmar-committed-genocide-against-the-rohingya?traffic_source=rss",
-   "source": "Al Jazeera",
-   "published": "2026-11-19T12:20:19Z",
-   "region": "Asia-Pacific",
-   "category": "news"
-  },
-  {
-   "title": "What is a ‘nuclear briefcase’, spotted at the APEC summit?",
-   "summary": "Vladimir Putin's special briefcase - thought to carry access to nuclear weapons - made a rare appearance in Shenzhen.",
-   "link": "https://www.aljazeera.com/news/2026/11/19/what-is-a-nuclear-briefcase-spotted-at-the-apec-summit?traffic_source=rss",
-   "source": "Al Jazeera",
-   "published": "2026-11-19T12:11:42Z",
-   "region": "Europe",
-   "category": "conflict"
-  },
-  {
-   "title": "French 2027 presidential race: Green leader Tondelier draws closer to hard-left Mélenchon",
-   "summary": "Six months before the first round of France’s presidential election, Green party leader Marine Tondelier is moving closer to Jean-Luc Mélenchon, the leader of the radical left. The move has caught the other candidates on the left and in the centre off guard, notably Raphaël Glucksmann. FRANCE 24's…",
-   "link": "https://www.france24.com/en/french-2027-presidential-race-green-leader-tondelier-draws-closer-to-hard-left-melenchon",
-   "source": "France 24",
-   "published": "2026-11-19T12:09:45Z",
-   "region": "Europe",
-   "category": "news"
-  },
-  {
-   "title": "Senegal: Pastef removes President Faye from its ranks",
-   "summary": "In Senegal, Pastef, the majority party led by National Assembly president Ousmane Sonko, has made official the departure of President Bassirou Diomaye Faye. It is the latest episode in a split with his former Prime minister that was already largely complete, and it comes in the middle of an…",
-   "link": "https://www.france24.com/en/senegal-pastef-removes-president-faye-from-its-ranks",
-   "source": "France 24",
-   "published": "2026-11-19T12:05:40Z",
-   "region": "Africa",
-   "category": "news"
-  },
-  {
    "title": "Nvidia interim CEO Kress tells employees ‘let’s move forward’ at first all-hands meeting since Jensen Huang exit",
    "summary": "Nvidia's interim CEO Colette Kress urges staff forward and offers pay raises after Jensen Huang exit.",
    "link": "https://www.cnbc.com/2026/11/18/nvidia-interim-ceo-kress-addresses-staff-after-jensen-huang-exit-.html",
    "source": "CNBC World",
    "published": "2026-11-19T12:04:29Z",
    "region": "Global",
-   "category": "economy"
-  },
-  {
-   "title": "Viagogo may have broken law on hidden fees, watchdog provisionally finds",
-   "summary": "The UK's competition body says initial findings suggest the ticket-reselling website used drip pricing.",
-   "link": "https://www.bbc.co.uk/news/articles/cmvg2ex7j30lo?at_medium=RSS&at_campaign=rss",
-   "source": "BBC Business",
-   "published": "2026-11-19T12:02:29Z",
-   "region": "Europe",
    "category": "economy"
   },
   {
@@ -214,39 +538,12 @@
    "category": "economy"
   },
   {
-   "title": "Argentina mourns teen footballer Nunez who died after on-pitch collision",
-   "summary": "Abel Nunez, 16, died after suffering a severe blow to the head during a youth football match for his club, Ezeiza.",
-   "link": "https://www.aljazeera.com/sports/2026/11/19/argentina-mourns-teen-footballer-nunez-who-died-after-on-pitch-collision?traffic_source=rss",
-   "source": "Al Jazeera",
-   "published": "2026-11-19T11:57:34Z",
-   "region": "Americas",
-   "category": "news"
-  },
-  {
-   "title": "🔴 Myanmar committed genocide against Muslim Rohingya minority, UN court finds",
-   "summary": "",
-   "link": "https://www.france24.com/en/asia-pacific/20261119-top-un-court-to-rule-if-myanmar-s-rohingya-crackdown-was-genocide",
-   "source": "France 24",
-   "published": "2026-11-19T11:41:40Z",
-   "region": "Asia-Pacific",
-   "category": "news"
-  },
-  {
    "title": "Myanmar committed genocide against Rohingya, top UN court rules",
    "summary": "The International Court of Justice has upheld large parts of a genocide case against Myanmar linked to the 2017 conflict with its Rohingya minority. It called for it to pay reparations and let refugees return safely.",
    "link": "https://www.dw.com/en/myanmar-committed-genocide-against-rohingya-top-un-court-rules/a-79987898?maca=en-rss-en-world-4025-rdf",
    "source": "DW World",
    "published": "2026-11-19T11:39:00Z",
    "region": "Asia-Pacific",
-   "category": "conflict"
-  },
-  {
-   "title": "Trump claims Iran is developing bioweapons: Is there any evidence?",
-   "summary": "Trump threatens to 'wipe out' Iran in case of attack as Tehran's capabilities remain unclear.",
-   "link": "https://www.aljazeera.com/news/2026/11/19/trump-claims-iran-is-developing-bioweapons-is-there-any-evidence?traffic_source=rss",
-   "source": "Al Jazeera",
-   "published": "2026-11-19T11:38:39Z",
-   "region": "Middle East",
    "category": "conflict"
   },
   {
@@ -268,75 +565,12 @@
    "category": "economy"
   },
   {
-   "title": "Putin says US-China-Russia can strengthen global stability",
-   "summary": "Putin says US-China-Russia can strengthen global stability",
-   "link": "https://www.aljazeera.com/video/newsfeed/2026/11/19/putin-says-us-china-russia-can-strengthen-global-stability?traffic_source=rss",
-   "source": "Al Jazeera",
-   "published": "2026-11-19T11:22:43Z",
+   "title": "Top House Democrat questions what Trump accomplished in Xi-Putin summit",
+   "summary": "Rep. Gregory Meeks raises concerns about U.S. alliances after Trump's summit with Xi and Putin. He also discusses Chinese espionage amid the Nvidia scandal.",
+   "link": "https://www.npr.org/2026/11/19/nx-s1-6046487/gregory-meeks-trump-xi-putin-summit",
+   "source": "NPR World",
+   "published": "2026-11-19T11:20:37Z",
    "region": "Europe",
-   "category": "news"
-  },
-  {
-   "title": "Myanmar's Rohingya case: how does the ICJ define genocide?",
-   "summary": "The ICJ is preparing to rule on whether Myanmar committed genocide against the Rohingya, in a case brought by The Gambia after the 2017 crackdown. The key legal test is proving intent to destroy a group, which is notoriously hard, and the court’s reading of it could also weigh on South Africa’s…",
-   "link": "https://www.france24.com/en/myanmar-s-rohingya-case-how-does-the-icj-define-genocide",
-   "source": "France 24",
-   "published": "2026-11-19T11:22:31Z",
-   "region": "Asia-Pacific",
-   "category": "news"
-  },
-  {
-   "title": "Will laser weapons change warfare?",
-   "summary": "The use of lasers is increasing in warfare — which countries are deploying them and how?",
-   "link": "https://www.aljazeera.com/video/project-force-2/2026/11/19/will-lasers-weapons-change-warfare?traffic_source=rss",
-   "source": "Al Jazeera",
-   "published": "2026-11-19T11:20:00Z",
-   "region": "Global",
-   "category": "conflict"
-  },
-  {
-   "title": "🔴 Historic trilateral summit live: Trump, Xi and Putin agree that a nuclear war must never be fought",
-   "summary": "",
-   "link": "https://www.france24.com/en/asia-pacific/20261119-xi-trump-putin-talks-live-china-us-russia-leaders-hold-landmark-three-way-meeting",
-   "source": "France 24",
-   "published": "2026-11-19T11:11:03Z",
-   "region": "Europe",
-   "category": "conflict"
-  },
-  {
-   "title": "Denmark parliament approves security deal with Greenland and US",
-   "summary": "All 109 Danish lawmakers present approved the deal, easing tensions over Trump's desire to annex the Arctic island.",
-   "link": "https://www.aljazeera.com/news/2026/11/19/denmark-parliament-approves-security-deal-with-greenland-and-us?traffic_source=rss",
-   "source": "Al Jazeera",
-   "published": "2026-11-19T11:09:00Z",
-   "region": "Americas",
-   "category": "news"
-  },
-  {
-   "title": "Israeli military completes ground operation in Gaza beyond Yellow Line",
-   "summary": "Hamas condemned the incursion, which the Israeli military said was to dismantle a \"terror tunnel\", as a \"flagrant\" ceasefire violation.",
-   "link": "https://www.bbc.co.uk/news/articles/cw8r7510degno?at_medium=RSS&at_campaign=rss",
-   "source": "BBC World",
-   "published": "2026-11-19T11:07:37Z",
-   "region": "Middle East",
-   "category": "conflict"
-  },
-  {
-   "title": "AI lab Anthropic sets stock market record with $81 billion IPO",
-   "summary": "Anthropic becomes the first \"pure play\" AI lab to go public, with an eye-watering $1.5 trillion valuation, a bellwether moment amid growing concerns of a financial bubble in the sector. Meanwhile, a scientific study shows US data centres are emitting as much greenhouse gas as entire nations.",
-   "link": "https://www.france24.com/en/tv-shows/business/20261119-ai-lab-anthropic-sets-stock-market-record-with-81-billion-ipo",
-   "source": "France 24",
-   "published": "2026-11-19T11:02:54Z",
-   "region": "Americas",
-   "category": "economy"
-  },
-  {
-   "title": "'We are making history,' says Trump at historic trilateral with Xi and Putin",
-   "summary": "The first meeting in history between US, Chinese and Russian leaders has kicked off in Shenzhen, China. \"We are really making history,\" said the US president to his counterparts.",
-   "link": "https://www.france24.com/en/video/20261119-we-are-making-history-says-trump-at-historic-trilateral-with-xi-and-putin",
-   "source": "France 24",
-   "published": "2026-11-19T11:02:02Z",
-   "region": "Americas",
    "category": "news"
   },
   {
@@ -349,67 +583,22 @@
    "category": "economy"
   },
   {
-   "title": "Anthropic raises $81bn in record-breaking stock market debut",
-   "summary": "The company behind the Claude chatbot will become one of the most valuable firms in the world.",
-   "link": "https://www.bbc.co.uk/news/articles/c6742m39xgzxo?at_medium=RSS&at_campaign=rss",
-   "source": "BBC World",
-   "published": "2026-11-19T10:48:04Z",
-   "region": "Global",
-   "category": "economy"
-  },
-  {
-   "title": "FIFA confirms Diallo, Tashima as Infantino’s challengers at 2027 election",
-   "summary": "French football chief Philippe Diallo and Japan's Kozo Tashima will be the only candidates to run for FIFA presidency.",
-   "link": "https://www.aljazeera.com/sports/2026/11/19/fifa-confirms-diallo-tashima-as-infantinos-challengers-at-2027-election?traffic_source=rss",
-   "source": "Al Jazeera",
-   "published": "2026-11-19T10:42:53Z",
-   "region": "Europe",
-   "category": "news"
-  },
-  {
-   "title": "Trump says U.S., China, Russia ‘uniquely positioned’ to discuss reducing nuclear weapons at historic meeting",
-   "summary": "The leaders of the U.S., China and Russia met in Shenzhen on Thursday for a rare trilateral gathering.",
-   "link": "https://www.cnbc.com/2026/11/19/trump-xi-putin-trilateral-meeting-china.html",
-   "source": "CNBC World",
-   "published": "2026-11-19T10:38:01Z",
-   "region": "Europe",
+   "title": "Iran's attacks on ships in the Strait of Hormuz escalate",
+   "summary": "Iran takes the offensive with attacks on ships in the Strait of Hormuz and airstrikes on several countries around the Persian Gulf.",
+   "link": "https://www.npr.org/2026/11/19/nx-s1-6044206/irans-attacks-on-ships-in-the-strait-of-hormuz-escalate",
+   "source": "NPR World",
+   "published": "2026-11-19T09:46:24Z",
+   "region": "Middle East",
    "category": "conflict"
   },
   {
-   "title": "'It's a dream come true' – South African DJ celebrates featuring in GTA 6",
-   "summary": "DJ lag, one of South Africa's best-known electronic music producers, is among several African stars to feature on Grand Theft Auto 6.",
-   "link": "https://www.bbc.co.uk/news/articles/crx20q3qy0vxo?at_medium=RSS&at_campaign=rss",
-   "source": "BBC World",
-   "published": "2026-11-19T10:32:10Z",
-   "region": "Africa",
-   "category": "news"
-  },
-  {
-   "title": "Novartis raises blockbuster drug forecasts to $18 billion as it seeks to prove growth can last",
-   "summary": "The drugmaker cited strong demand for its blockbuster drugs as it upgraded peak sales forecasts for multiple sclerosis, leukemia, and cholesterol medicines.",
-   "link": "https://www.cnbc.com/2026/11/19/novartis-stock-cmd-2026-ceo.html",
-   "source": "CNBC World",
-   "published": "2026-11-19T09:57:53Z",
-   "region": "Global",
-   "category": "economy"
-  },
-  {
    "title": "Trump, Xi and Putin meet as global alliances hang in the balance",
-   "summary": "President Trump, Xi and Putin have met in Shenzhen for a historic trilateral meeting, with Ukraine, Iran and nuclear disarmament on the agenda.",
+   "summary": "President Trump, China's Xi Jinping and Russia's Vladimir Putin have gathered in Shenzhen, China, for a historic trilateral meeting, with Ukraine, Iran and nuclear disarmament on the agenda.",
    "link": "https://www.npr.org/2026/11/18/nx-s1-6040432/trump-xi-and-putin-shenzhen-china-russia-usa",
    "source": "NPR World",
    "published": "2026-11-19T09:44:40Z",
    "region": "Europe",
    "category": "conflict"
-  },
-  {
-   "title": "Survivors of Uganda's deadly landslide seek justice at the UN",
-   "summary": "Survivors reject relocation plans they say ignore their safety, land rights and livelihoods",
-   "link": "https://www.bbc.co.uk/news/articles/c920xgxp5785o?at_medium=RSS&at_campaign=rss",
-   "source": "BBC World",
-   "published": "2026-11-19T09:21:54Z",
-   "region": "Africa",
-   "category": "news"
   },
   {
    "title": "Iran balances ties with China and Russia as Trump ramps up pressure",
@@ -421,35 +610,8 @@
    "category": "economy"
   },
   {
-   "title": "Dozens missing after boat carrying 100 migrants sinks off Senegal's coast",
-   "summary": "Some local media report that at least four bodies have been recovered.",
-   "link": "https://www.bbc.co.uk/news/articles/c58j484089ewo?at_medium=RSS&at_campaign=rss",
-   "source": "BBC World",
-   "published": "2026-11-19T09:02:52Z",
-   "region": "Africa",
-   "category": "news"
-  },
-  {
-   "title": "Takaichi gets chilly reception in China on first Japan leader visit since 2019",
-   "summary": "Takaichi received a subdued welcome on her trip to attend the APEC summit, as Beijing shows limited appetite for repairing ties strained by Taiwan dispute.",
-   "link": "https://www.cnbc.com/2026/11/19/japan-china-trump-takaichi-taiwan-.html",
-   "source": "CNBC World",
-   "published": "2026-11-19T07:38:29Z",
-   "region": "Asia-Pacific",
-   "category": "economy"
-  },
-  {
-   "title": "Crimean Bridge attacked again, Russia says",
-   "summary": "The head of Crimea said traffic was suspended after another attack on the link between Russia and the occupied territory.",
-   "link": "https://www.bbc.co.uk/news/articles/cm879dqn3e1jo?at_medium=RSS&at_campaign=rss",
-   "source": "BBC World",
-   "published": "2026-11-19T07:32:06Z",
-   "region": "Europe",
-   "category": "conflict"
-  },
-  {
    "title": "Increase in direct cremations since pandemic",
-   "summary": "A 2026 Cost of Dying Report found direct cremation was now chosen for around one in five funerals.",
+   "summary": "A 2026 Cost of Dying Report found direct cremation was now chosen for about one in five funerals.",
    "link": "https://www.bbc.co.uk/news/articles/ck5ywnr59z85o?at_medium=RSS&at_campaign=rss",
    "source": "BBC Business",
    "published": "2026-11-19T06:23:22Z",
@@ -463,15 +625,6 @@
    "source": "BBC Business",
    "published": "2026-11-19T06:15:57Z",
    "region": "Global",
-   "category": "economy"
-  },
-  {
-   "title": "Musk accuses Zelenskyy of lying about Starshield restrictions in Ukraine",
-   "summary": "Elon Musk was asked about Zelenskyy claims over the Starshield network, and he said, \"I don't want to blow your mind, but Zelenskyy is not always truthful.\"",
-   "link": "https://www.cnbc.com/2026/11/19/elon-musk-zelenskyy-starshield-ukraine.html",
-   "source": "CNBC World",
-   "published": "2026-11-19T06:07:29Z",
-   "region": "Europe",
    "category": "economy"
   },
   {
@@ -511,31 +664,13 @@
    "category": "economy"
   },
   {
-   "title": "This is a remarkable diplomatic moment for China's Xi - but it comes with pitfalls",
-   "summary": "The meeting comes with challenges as there are things Xi does not appear keen to discuss with Putin and Trump.",
-   "link": "https://www.bbc.co.uk/news/articles/cr9d75we51j1o?at_medium=RSS&at_campaign=rss",
-   "source": "BBC World",
-   "published": "2026-11-19T04:42:52Z",
-   "region": "Europe",
-   "category": "news"
-  },
-  {
-   "title": "'Parasite' backer and other South Korean media, gaming and travel stocks rally on China trade deal",
-   "summary": "Korean media, gaming and travel stocks surged on hopes of greater access to China.",
-   "link": "https://www.cnbc.com/2026/11/19/china-south-korea-trade-deal-films-gaming.html",
-   "source": "CNBC World",
-   "published": "2026-11-19T03:43:38Z",
-   "region": "Asia-Pacific",
-   "category": "economy"
-  },
-  {
    "title": "Elon Musk says record $446m spending on US midterms was 'pretty foolish'",
    "summary": "The multi-billionaire also said he was \"not Maga\", distancing himself from the political movement linked to Trump.",
    "link": "https://www.bbc.co.uk/news/articles/cm9q8j2z3gg8o?at_medium=RSS&at_campaign=rss",
-   "source": "BBC World",
+   "source": "BBC Business",
    "published": "2026-11-19T02:59:06Z",
    "region": "Americas",
-   "category": "news"
+   "category": "economy"
   },
   {
    "title": "Who are the investors ready to jump on Anthropic?",
@@ -547,15 +682,6 @@
    "category": "economy"
   },
   {
-   "title": "Van Gogh painting sells for record $190.4m after row over its Nazi history",
-   "summary": "Châtaigniers en fleurs was painted in 1890 in the final two months of Vincent van Gogh's life.",
-   "link": "https://www.bbc.co.uk/news/articles/c5dj1dkwzvzwo?at_medium=RSS&at_campaign=rss",
-   "source": "BBC World",
-   "published": "2026-11-19T00:49:19Z",
-   "region": "Global",
-   "category": "news"
-  },
-  {
    "title": "Almost 1 in 4 children live in conflict zones — report",
    "summary": "Denial of humanitarian access, abductions and sexual violence are among several violations against children that have increased dramtically over the past year, according to a new report by Save the Children.",
    "link": "https://www.dw.com/en/almost-1-in-4-children-live-in-conflict-zones-report/a-79979203?maca=en-rss-en-world-4025-rdf",
@@ -565,15 +691,6 @@
    "category": "conflict"
   },
   {
-   "title": "Crew unaware of risks before Mike Lynch's yacht Bayesian sank, say investigators",
-   "summary": "The vessel sank off the coast of northern Sicily, killing seven people including British tech tycoon Mike Lynch.",
-   "link": "https://www.bbc.co.uk/news/articles/c6e9kn15z9d7o?at_medium=RSS&at_campaign=rss",
-   "source": "BBC Business",
-   "published": "2026-11-19T00:05:31Z",
-   "region": "Europe",
-   "category": "economy"
-  },
-  {
    "title": "Karl Kani dressed hip-hop royalty for decades. Now he's telling his own story",
    "summary": "On NPR's Morning Edition , fashion designer Karl Kani talks about his new memoir, dressing some of hip-hop's biggest stars and why skinny jeans aren't for everyone.",
    "link": "https://www.npr.org/2026/11/18/g-s1-154227/karl-kani-a-life-by-design",
@@ -581,33 +698,6 @@
    "published": "2026-11-18T18:15:59Z",
    "region": "Global",
    "category": "news"
-  },
-  {
-   "title": "North Korea expanded uranium enrichment plant, says IAEA head",
-   "summary": "IAEA chief Rafael Grossi has said the ongoing expansion of North Korea's uranium enrichment program remains \"a cause for serious concern.\"",
-   "link": "https://www.dw.com/en/north-korea-expanded-uranium-enrichment-plant-says-iaea-head/a-79982758?maca=en-rss-en-world-4025-rdf",
-   "source": "DW World",
-   "published": "2026-11-18T15:15:00Z",
-   "region": "Asia-Pacific",
-   "category": "news"
-  },
-  {
-   "title": "India: Online censorship grows after 'Cockroach' protests",
-   "summary": "Since anti-government Cockroach protests erupted, journalists and creators say their content is increasingly being restricted on social media in India.",
-   "link": "https://www.dw.com/en/india-online-censorship-grows-after-cockroach-protests/a-79976982?maca=en-rss-en-world-4025-rdf",
-   "source": "DW World",
-   "published": "2026-11-18T14:28:00Z",
-   "region": "Asia-Pacific",
-   "category": "news"
-  },
-  {
-   "title": "ICJ to rule on Rohingya genocide case against Myanmar: What to know",
-   "summary": "The ICJ is set to decide whether Myanmar's military operations in Rakhine State a decade ago were carried out with the intent to destroy the country's Rohingya minority, in whole or in part.",
-   "link": "https://www.dw.com/en/icj-to-rule-on-rohingya-genocide-case-against-myanmar-what-to-know/a-79981434?maca=en-rss-en-world-4025-rdf",
-   "source": "DW World",
-   "published": "2026-11-18T14:27:00Z",
-   "region": "Asia-Pacific",
-   "category": "conflict"
   },
   {
    "title": "Mary Peltola flips Alaska's Senate seat. And, Nvidia won't reinstate Jensen Huang",
@@ -637,42 +727,6 @@
    "category": "news"
   },
   {
-   "title": "Greetings from a Berlin square, where an artist's statue watches over children at play",
-   "summary": "Children frolic around the ever-watchful and calm Käthe Kollwitz cast in bronze, in a square named after the German artist, whose work often depicted children in the wake of World War I.",
-   "link": "https://www.npr.org/2026/11/18/nx-s1-6043021/berlin-kollwitzplatz-statue",
-   "source": "NPR World",
-   "published": "2026-11-18T11:00:00Z",
-   "region": "Europe",
-   "category": "conflict"
-  },
-  {
-   "title": "Axes and cutlasses: Violence on Nigeria's election campaign trail",
-   "summary": "As Nigeria's January 2027 elections approach, political violence and thuggery at campaign rallies and town hall meetings raise concerns about voter safety.",
-   "link": "https://www.dw.com/en/axes-and-cutlasses-violence-on-nigeria-s-election-campaign-trail/a-79978467?maca=en-rss-en-world-4025-rdf",
-   "source": "DW World",
-   "published": "2026-11-18T10:56:00Z",
-   "region": "Africa",
-   "category": "news"
-  },
-  {
-   "title": "Latin America's mega-prisons: Can El Salvador's model work?",
-   "summary": "El Salvador's mega-prison has become a model for governments across Latin America seeking to combat organized crime. But experts question whether the approach is effective, sustainable or compatible with human rights.",
-   "link": "https://www.dw.com/en/latin-america-s-mega-prisons-can-el-salvador-s-model-work/a-79973524?maca=en-rss-en-world-4025-rdf",
-   "source": "DW World",
-   "published": "2026-11-18T10:45:00Z",
-   "region": "Americas",
-   "category": "news"
-  },
-  {
-   "title": "Trump lands in China with key meetings with Xi and Putin on the agenda",
-   "summary": "Xi paid Trump a special honor by greeting him on the tarmac after Air Force One arrived in Shenzhen, reciprocating a gesture made by the U.S. president during Xi's visit to Washington in September.",
-   "link": "https://www.npr.org/2026/11/18/nx-s1-6045518/trump-china-xi-putin",
-   "source": "NPR World",
-   "published": "2026-11-18T10:32:03Z",
-   "region": "Americas",
-   "category": "news"
-  },
-  {
    "title": "UK inflation rises to 3.6% after petrol and diesel prices hit record high",
    "summary": "Increase in October piles pressure on households as Iran war pushes up oil cost and rattles global economy Energy bills in Great Britain forecast to rise by 26% to £2,166 from January Inflation in the UK rose to 3.6% in October after petrol prices increased and diesel hit a record high amid the…",
    "link": "https://www.theguardian.com/business/2026/nov/18/uk-inflation-rises-energy-prices-iran-war-oil",
@@ -680,60 +734,6 @@
    "published": "2026-11-18T10:14:26Z",
    "region": "Europe",
    "category": "economy"
-  },
-  {
-   "title": "APEC summit: What Trump, Xi and Putin want",
-   "summary": "Trump, Xi and Putin will hold their first trilateral meeting on the sidelines of APEC. With different priorities on trade, Ukraine, Iran and arms control, what does each leader hope to gain?",
-   "link": "https://www.dw.com/en/apec-summit-what-trump-xi-and-putin-want/a-79970462?maca=en-rss-en-world-4025-rdf",
-   "source": "DW World",
-   "published": "2026-11-18T05:39:00Z",
-   "region": "Europe",
-   "category": "news"
-  },
-  {
-   "title": "Australian wages grow at fastest pace since 2023 – but prices are climbing even more quickly",
-   "summary": "Wage rates climb about 1 percentage point faster than before pandemic, triggering warnings of a sixth RBA rate rise Get our daily political email , free app or daily news podcast Wages grew at their fastest pace since late 2023 over the three months to September, buoyed up by this year’s boost to…",
-   "link": "https://www.theguardian.com/australia-news/2026/nov/18/wages-grow-at-fastest-pace-since-2023-but-prices-are-climbing-even-more-quickly",
-   "source": "The Guardian Economics",
-   "published": "2026-11-18T04:33:40Z",
-   "region": "Asia-Pacific",
-   "category": "economy"
-  },
-  {
-   "title": "Markets drop ahead of Nvidia’s results; Jensen Huang says he’d be ‘honoured’ to return as CEO – as it happened",
-   "summary": "Rolling coverage of the latest economic and financial news Jensen Huang says he would be ‘honored’ to return to Nvidia as CEO Jensen Huang’s departure as Nvidia CEO becomes a political proxy war China has threatened to retaliate against the US after Washington tightened restrictions on remote…",
-   "link": "https://www.theguardian.com/business/live/2026/nov/17/uk-jobs-market-wage-growth-payrolls-unemployment-milburn-china-us-chips-latest-news-updates",
-   "source": "The Guardian Economics",
-   "published": "2026-11-17T16:54:21Z",
-   "region": "Americas",
-   "category": "economy"
-  },
-  {
-   "title": "Nvidia forms national security committee after Huang affair",
-   "summary": "Nvidia has created a board-level committee for national security and export control. This follows the resignation of CEO Jensen Huang over extramarital affairs, allegedly including one with a Chinese intelligence asset.",
-   "link": "https://www.dw.com/en/nvidia-forms-national-security-committee-after-huang-affair/a-79970447?maca=en-rss-en-bus-2091-rdf",
-   "source": "DW Business",
-   "published": "2026-11-17T14:53:00Z",
-   "region": "Asia-Pacific",
-   "category": "economy"
-  },
-  {
-   "title": "UK unemployment unexpectedly eases to 4.6% as government releases Milburn report",
-   "summary": "Wage growth falls to 3.5% in September, as ministers examine how best to get young people into work Milburn urges Burnham to spend billions on young people Who are the Neets? UK youth job crisis in five charts The UK unemployment rate has unexpectedly fallen as the government released an important…",
-   "link": "https://www.theguardian.com/business/2026/nov/17/uk-unemployment-wage-growth-milburn-report",
-   "source": "The Guardian Economics",
-   "published": "2026-11-17T13:44:09Z",
-   "region": "Europe",
-   "category": "economy"
-  },
-  {
-   "title": "Could the Airbus' €3 billion loan row reignite a US-EU trade dispute?",
-   "summary": "The US says a record €3 billion financing package for Airbus may conflict with a transatlantic aircraft-subsidy truce. EU officials insist the funding complies with market-based rules.",
-   "link": "https://www.dw.com/en/could-the-airbus-€3-billion-loan-row-reignite-a-us-eu-trade-dispute/a-79943075?maca=en-rss-en-bus-2091-rdf",
-   "source": "DW Business",
-   "published": "2026-11-17T11:00:00Z",
-   "region": "Europe",
-   "category": "conflict"
   }
  ]
 }
