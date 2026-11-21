@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-21T09:43:52Z",
+ "updatedAt": "2026-11-21T17:27:12Z",
  "sources": [
   "BBC World",
   "BBC Business",
@@ -16,84 +16,462 @@
  "count": 80,
  "items": [
   {
+   "title": "Russian strike kills two, wounds 60, in Zelenskyy’s hometown",
+   "summary": "Attack on Kryvyi Rih comes as Russian missiles land in NATO member Poland and US-led peace efforts face uncertainty.",
+   "link": "https://www.aljazeera.com/news/2026/11/21/russian-strike-kills-two-wounds-60-in-zelenskyys-hometown?traffic_source=rss",
+   "source": "Al Jazeera",
+   "published": "2026-11-21T17:20:03Z",
+   "region": "Europe",
+   "category": "conflict"
+  },
+  {
+   "title": "Russian helicopter suspected of violating Finnish airspace",
+   "summary": "Finland's Defense Ministry thinks the incursion is linked to a drone strike earlier Saturday on a Russian cargo ship, which is on a US sanctions list.",
+   "link": "https://www.dw.com/en/russian-helicopter-suspected-of-violating-finnish-airspace/a-80010133?maca=en-rss-en-world-4025-rdf",
+   "source": "DW World",
+   "published": "2026-11-21T17:08:00Z",
+   "region": "Europe",
+   "category": "conflict"
+  },
+  {
+   "title": "French police officers convicted of racist assault",
+   "summary": "A French court on Friday sentenced three policemen to serve time over the beating of a black music producer in 2020. It also recognized the assault on Michelle Zecler was racially motivated.",
+   "link": "https://www.france24.com/en/tv-shows/a-week-in-france/20261121-french-police-officers-convicted-of-racist-assault",
+   "source": "France 24",
+   "published": "2026-11-21T16:41:49Z",
+   "region": "Europe",
+   "category": "news"
+  },
+  {
+   "title": "Anthropic’s record IPO collides with tech’s worst week on Wall Street since 2020",
+   "summary": "Anthropic held its historic Nasdaq debut a day before Nvidia's stock closed out its longest weekly losing streak since 2008.",
+   "link": "https://www.cnbc.com/2026/11/21/anthropic-ipo-tech-selloff.html",
+   "source": "CNBC World",
+   "published": "2026-11-21T16:40:05Z",
+   "region": "Americas",
+   "category": "economy"
+  },
+  {
+   "title": "Anthropic mathematician claims he used Claude to prove 19th-century Riemann hypothesis",
+   "summary": "Levent Alpöge says it took six weeks for him using the AI tool to solve the math problem involving prime numbers A mathematician at Anthropic is contending that the San Francisco -based artificial intelligence (AI) company’s software has helped crack one of the most important unsolved problems in…",
+   "link": "https://www.theguardian.com/technology/2026/nov/21/anthropic-riemann-hypothesis-solved-claude-ai",
+   "source": "The Guardian World",
+   "published": "2026-11-21T16:39:49Z",
+   "region": "Global",
+   "category": "news"
+  },
+  {
+   "title": "International UN talks on controlling use of autonomous weapons collapse",
+   "summary": "Week-long efforts fail to establish negotiating mandate on AI warfare after Russian ‘filibustering’ Week-long efforts to agree a negotiating mandate for a legally binding international treaty to control the use of autonomous weapons collapsed just before 5am after all-night talks failed to overcome…",
+   "link": "https://www.theguardian.com/technology/2026/nov/21/international-talks-control-ai-autonomous-weapons-collapse",
+   "source": "The Guardian World",
+   "published": "2026-11-21T16:36:11Z",
+   "region": "Europe",
+   "category": "conflict"
+  },
+  {
+   "title": "FBI reportedly investigating apparent hack of its criminal database",
+   "summary": "The National Crime Information Center database is used by federal and local law enforcement to share information.",
+   "link": "https://www.bbc.co.uk/news/articles/cvze7de86pk3o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "published": "2026-11-21T16:35:15Z",
+   "region": "Global",
+   "category": "news"
+  },
+  {
+   "title": "India’s opposition stages protests against Meta over account removals",
+   "summary": "Indian Youth Congress issues a seven-day 'ultimatum' to the US technology giant, urging it to lift all restrictions.",
+   "link": "https://www.aljazeera.com/news/2026/11/21/indias-opposition-stages-protests-against-meta-over-account-removals?traffic_source=rss",
+   "source": "Al Jazeera",
+   "published": "2026-11-21T16:14:01Z",
+   "region": "Asia-Pacific",
+   "category": "news"
+  },
+  {
+   "title": "Who is El Chapo Isidro, the alleged cartel boss arrested in Mexico?",
+   "summary": "Mexican forces arrested Chapo Isidro in Sinaloa. He was on the FBI’s most wanted list and faces US drug charges.",
+   "link": "https://www.aljazeera.com/news/2026/11/21/who-is-el-chapo-isidro-the-alleged-cartel-boss-arrested-in-mexico?traffic_source=rss",
+   "source": "Al Jazeera",
+   "published": "2026-11-21T16:03:16Z",
+   "region": "Americas",
+   "category": "news"
+  },
+  {
+   "title": "Endurance athlete swims in Hormuz Strait",
+   "summary": "The Strait of Hormuz remains largely blocked, with Iran attacking vessels attempting to cross it. As concerns grow over the environmental impact of the war, with toxic chemicals spreading through the air and sea, one swimmer and ocean advocate has gone a step further than issuing warnings: he…",
+   "link": "https://www.france24.com/en/endurance-athlete-swims-in-hormuz-strait",
+   "source": "France 24",
+   "published": "2026-11-21T16:02:59Z",
+   "region": "Middle East",
+   "category": "conflict"
+  },
+  {
+   "title": "France: Demonstrations losing steam as movement enters sixth week",
+   "summary": "Around 2,200 people took part in protests across France by 2pm local time, according to the Interior Ministry, which recorded 44 demonstrations nationwide and seven arrests, with the situation described as generally calm. Turnout was lower than on previous Saturdays. Reporting from Place de la…",
+   "link": "https://www.france24.com/en/france-demonstrations-losing-steam-as-movement-enters-sixth-week",
+   "source": "France 24",
+   "published": "2026-11-21T16:00:03Z",
+   "region": "Europe",
+   "category": "news"
+  },
+  {
+   "title": "Countries race to secure Cop31 deal",
+   "summary": "COP31 climate talks have overrun their schedule as countries race to agree on a new global climate deal, following criticism of an earlier draft that made no mention of fossil fuels. The EU has warned that the current proposal risks turning the summit into a “fossil fuel summit”, as negotiators…",
+   "link": "https://www.france24.com/en/countries-race-to-secure-cop31-deal",
+   "source": "France 24",
+   "published": "2026-11-21T15:52:00Z",
+   "region": "Europe",
+   "category": "news"
+  },
+  {
+   "title": "New day of protests across France",
+   "summary": "France faces a sixth consecutive Saturday of protests, with demonstrators taking to the streets to rally over the rising cost of living and the government's handling of weeks of social unrest ahead of next year's presidential election. France 24 journalist Antonia Kerrigan tells us more.",
+   "link": "https://www.france24.com/en/new-day-of-protests-across-france",
+   "source": "France 24",
+   "published": "2026-11-21T15:50:52Z",
+   "region": "Europe",
+   "category": "news"
+  },
+  {
+   "title": "US midterms 2026: What happens before the new Congress takes office?",
+   "summary": "What happens between the US midterm elections and January, when Democrats take control of Congress?",
+   "link": "https://www.aljazeera.com/news/2026/11/21/us-midterms-2026-what-happens-before-the-new-congress-takes-office?traffic_source=rss",
+   "source": "Al Jazeera",
+   "published": "2026-11-21T15:49:32Z",
+   "region": "Americas",
+   "category": "news"
+  },
+  {
+   "title": "French presidential candidate blames media for racist attack",
+   "summary": "French presidential candidate blames media for racist attack",
+   "link": "https://www.aljazeera.com/video/newsfeed/2026/11/21/french-presidential-candidate-blames-media-for-racist-attack?traffic_source=rss",
+   "source": "Al Jazeera",
+   "published": "2026-11-21T15:46:18Z",
+   "region": "Europe",
+   "category": "conflict"
+  },
+  {
+   "title": "Virginia child dies in state’s first measles-associated death of 2026",
+   "summary": "Death adds to national measles outbreak that recently cost the US its measles elimination status after 26 years Virginia reported its first measles-associated death of 2026 ⁠on Friday, involving a child who tested positive for the infectious disease, the state’s health department said. The…",
+   "link": "https://www.theguardian.com/us-news/2026/nov/21/virginia-child-dies-measles",
+   "source": "The Guardian World",
+   "published": "2026-11-21T15:30:07Z",
+   "region": "Americas",
+   "category": "news"
+  },
+  {
+   "title": "EU and Indonesia sign trade deal",
+   "summary": "A deal covering 730 million people promises lower tariffs and new investment opportunities as the European Union seeks to diversify trade ties amid growing global economic tensions.",
+   "link": "https://www.dw.com/en/eu-and-indonesia-sign-trade-deal/a-80010099?maca=en-rss-en-world-4025-rdf",
+   "source": "DW World",
+   "published": "2026-11-21T15:21:00Z",
+   "region": "Europe",
+   "category": "economy"
+  },
+  {
+   "title": "Diallo present as Africa’s Motsepe reiterates support for FIFA’s Infantino",
+   "summary": "Africa's CAF join South America's CONMEBOL in giving unanimous support of FIFA President Gianni Infantino's re-election.",
+   "link": "https://www.aljazeera.com/sports/2026/11/21/diallo-present-as-africa-football-boss-motsepe-reiterates-infantino-support?traffic_source=rss",
+   "source": "Al Jazeera",
+   "published": "2026-11-21T15:20:43Z",
+   "region": "Africa",
+   "category": "news"
+  },
+  {
+   "title": "British man recalls ‘despair’ over son’s death after fall from Cyprus window",
+   "summary": "Joshua Foster tells of moment he ‘lost control’ of two-year-old when he fell from fourth storey of hotel A British father who was fined by the courts after his two-year-old son fell from a fourth-floor window during a family holiday in Cyprus has recalled his “despair” when the boy slipped from his…",
+   "link": "https://www.theguardian.com/uk-news/2026/nov/21/british-man-recalls-despair-over-sons-death-after-fall-from-cyprus-window",
+   "source": "The Guardian World",
+   "published": "2026-11-21T15:19:03Z",
+   "region": "Europe",
+   "category": "news"
+  },
+  {
+   "title": "Tech outages are fueling a new doomsday economy",
+   "summary": "Recent technology outages have left some worried about AI cyberattacks and the U.S. electricity grid. The doomsday economy is heating up as a result.",
+   "link": "https://www.cnbc.com/2026/11/21/emergency-prep-spending-tech-outages.html",
+   "source": "CNBC World",
+   "published": "2026-11-21T15:04:56Z",
+   "region": "Global",
+   "category": "economy"
+  },
+  {
+   "title": "Tankers hit in Strait of Hormuz as Iran tightens grip on shipping",
+   "summary": "British maritime agency reports two incidents near Oman, while Iran says a tanker caught fire due to naval mine.",
+   "link": "https://www.aljazeera.com/news/2026/11/21/tankers-hit-in-strait-of-hormuz-as-iran-tightens-grip-on-shipping?traffic_source=rss",
+   "source": "Al Jazeera",
+   "published": "2026-11-21T15:01:18Z",
+   "region": "Middle East",
+   "category": "news"
+  },
+  {
+   "title": "I never wanted the American Dream and I felt like something was wrong with me—until I moved abroad",
+   "summary": "\"I realized it was okay to want something different,\" says Cepee Tabibian, who moved to Spain in 2015 at age 35.",
+   "link": "https://www.cnbc.com/make-it/2026/11/21/never-wanted-american-dream-moving-abroad-redefine-success.html",
+   "source": "CNBC World",
+   "published": "2026-11-21T15:00:02Z",
+   "region": "Europe",
+   "category": "economy"
+  },
+  {
+   "title": "SNL’s skit Sister captures the quiet agony of caregiving for women: ‘I’ve never felt seen like that’",
+   "summary": "The viral satirization of the caregiving burden left to women and daughters hit home for many viewers The Saturday Night Live sketch , titled Sister quickly went viral this week for its satirization of the burden that women and daughters face to take care of aging family members. In the parody…",
+   "link": "https://www.theguardian.com/tv-and-radio/2026/nov/21/snl-sister-caregiving",
+   "source": "The Guardian World",
+   "published": "2026-11-21T15:00:01Z",
+   "region": "Global",
+   "category": "news"
+  },
+  {
+   "title": "New EU budget proposal aims at tax gobal tech giants",
+   "summary": "European Council President Antonio Costa has proposed a smaller EU budget for 2028-2034, including a 3% tax on major digital firms to ease member states' contributions. France has already rejected the plan as inadequate.",
+   "link": "https://www.dw.com/en/new-eu-budget-proposal-aims-at-tax-gobal-tech-giants/a-80009255?maca=en-rss-en-world-4025-rdf",
+   "source": "DW World",
+   "published": "2026-11-21T14:58:00Z",
+   "region": "Europe",
+   "category": "economy"
+  },
+  {
+   "title": "Fight over fossil fuels leaves COP31 climate talks in deadlock",
+   "summary": "Countries from nearly 200 countries are in a deadlock to try and get a new global climate agreement.",
+   "link": "https://www.bbc.co.uk/news/articles/c6ly5w40eg07o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "published": "2026-11-21T14:54:24Z",
+   "region": "Global",
+   "category": "news"
+  },
+  {
+   "title": "Federal judge denies request to release man shot by immigration agents in New York",
+   "summary": "Oscar Belgal, a Dominican national, was shot by ICE agents as he drove his five-year-old son home from school A federal judge on Friday declined to release from custody a man who was shot and wounded by immigration officers as they arrested him in New York in October. The US district court judge…",
+   "link": "https://www.theguardian.com/us-news/2026/nov/21/new-york-judge-ice-shooting-immigration",
+   "source": "The Guardian World",
+   "published": "2026-11-21T14:52:30Z",
+   "region": "Americas",
+   "category": "news"
+  },
+  {
+   "title": "Cold gives way to rain in parts of UK as weather warning issued for south-west England",
+   "summary": "Flood alerts in place and risk of power cuts as more than 100mm predicted to fall on Dartmoor on Sunday Cold snaps are to make way for heavy rain in some parts of the country as the Met Office issued a weather warning for south-west England. It said there will be a slow-moving band of rain moving…",
+   "link": "https://www.theguardian.com/uk-news/2026/nov/21/uk-weather-cold-rain-warning-south-west-england",
+   "source": "The Guardian World",
+   "published": "2026-11-21T14:51:37Z",
+   "region": "Europe",
+   "category": "news"
+  },
+  {
+   "title": "Russia strikes Zelenskyy's hometown, killing 2",
+   "summary": "The attacks follow Russian President Vladimir Putin's vow of a \"painful\" response to Ukraine's attacks this week on the Kerch Bridge, linking Russian-occupied Crimea.",
+   "link": "https://www.dw.com/en/russia-strikes-zelenskyy-s-hometown-killing-2/a-80009458?maca=en-rss-en-world-4025-rdf",
+   "source": "DW World",
+   "published": "2026-11-21T14:44:00Z",
+   "region": "Europe",
+   "category": "conflict"
+  },
+  {
+   "title": "Princess of Wales speaks about impact of cancer diagnosis in BBC film Heal",
+   "summary": "Documentary records Catherine taking on Three Peaks challenge and finding ‘sense of hope alongside uncertainty’ The Princess of Wales has spoken candidly about the impact of her cancer diagnosis in a BBC documentary to be aired later this month. “Cancer does change you,” Catherine, 44, says in the…",
+   "link": "https://www.theguardian.com/uk-news/2026/nov/21/princess-of-wales-impact-cancer-diagnosis-bbc-film-heal",
+   "source": "The Guardian World",
+   "published": "2026-11-21T14:42:56Z",
+   "region": "Global",
+   "category": "news"
+  },
+  {
+   "title": "‘Hell dorm’: Florida prisoners testify about 119F heat indexes and walls that sweat",
+   "summary": "Temperatures in a concrete facility contributed to one man’s death after he struggled to breathe, prisoners allege On Tuesday afternoon Dwayne Wilson, 69, a thin Black man dressed in a light gray prison uniform, testified about the stifling heat he experienced in the Dade correctional institute, a…",
+   "link": "https://www.theguardian.com/us-news/2026/nov/21/florida-prisoner-lawsuit-extreme-heat",
+   "source": "The Guardian World",
+   "published": "2026-11-21T14:38:58Z",
+   "region": "Global",
+   "category": "news"
+  },
+  {
+   "title": "Man City claw back 1-1 draw with Fulham to end three-game losing streak",
+   "summary": "Rodrigo Muniz set Fulham on the way but Elliot Anderson volley earns Manchester City a valuable Premier League point.",
+   "link": "https://www.aljazeera.com/sports/2026/11/21/man-city-fightback-for-1-1-draw-with-fulham-to-end-three-game-losing-streak?traffic_source=rss",
+   "source": "Al Jazeera",
+   "published": "2026-11-21T14:35:52Z",
+   "region": "Global",
+   "category": "news"
+  },
+  {
+   "title": "Newcastle United vs Arsenal LIVE: Premier League",
+   "summary": "Follow updates from the Premier League clash, including the build-up, analysis and live text commentary of the game.",
+   "link": "https://www.aljazeera.com/sports/liveblog/2026/11/21/newcastle-united-vs-arsenal-live-premier-league?traffic_source=rss",
+   "source": "Al Jazeera",
+   "published": "2026-11-21T14:30:00Z",
+   "region": "Global",
+   "category": "conflict"
+  },
+  {
+   "title": "Killer robots: U.N. talks fall short of hopes for legally binding rules",
+   "summary": "U.N. talks in Geneva have failed to deliver binding rules on autonomous weapons, as humanitarian groups warn that military AI is advancing far faster than diplomacy.",
+   "link": "https://www.npr.org/2026/11/21/nx-s1-6047916/killer-robots-un-drones",
+   "source": "NPR World",
+   "published": "2026-11-21T14:18:17Z",
+   "region": "Global",
+   "category": "conflict"
+  },
+  {
+   "title": "An ‘illusion of glitz and glamour’: Inside California’s modern-day gold rush, where miners can bring in millions",
+   "summary": "The price of gold has sparked a modern-day gold rush in California. Small-scale miners are investing time, physical labor and money to unearth the yellow metal.",
+   "link": "https://www.cnbc.com/make-it/2026/11/21/california-mining-modern-gold-rush.html",
+   "source": "CNBC World",
+   "published": "2026-11-21T14:05:40Z",
+   "region": "Global",
+   "category": "economy"
+  },
+  {
+   "title": "Zelensky says Crimean Bridge strikes 'fair response' as he meets UK's Streeting",
+   "summary": "Ukraine's president says Kyiv acted after 109 separate Russian aerial attacks on bridges in Ukraine.",
+   "link": "https://www.bbc.co.uk/news/articles/c6wy0qj7w5zqo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "published": "2026-11-21T13:17:38Z",
+   "region": "Europe",
+   "category": "conflict"
+  },
+  {
+   "title": "Mexican drug lord on FBI's 10 most wanted list arrested in shoot-out",
+   "summary": "Fausto Isidro \"Chapo Idisro\" Meza Flores, who is accused of drug trafficking and torture, is detained after gun fight with authorities.",
+   "link": "https://www.bbc.co.uk/news/articles/ckz749ey0r75o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "published": "2026-11-21T13:15:21Z",
+   "region": "Americas",
+   "category": "news"
+  },
+  {
+   "title": "State and federal battle over prediction markets regulation heats up after midterms",
+   "summary": "States, Congress and the CFTC are escalating the fight over prediction market regulation after the midterms.",
+   "link": "https://www.cnbc.com/2026/11/21/prediction-market-regulation-kalshi-cftc.html",
+   "source": "CNBC World",
+   "published": "2026-11-21T13:12:41Z",
+   "region": "Americas",
+   "category": "economy"
+  },
+  {
+   "title": "Warren Buffett quadruples Thanksgiving gifts: A breakdown of how much wealth he's giving away",
+   "summary": "Warren Buffett more than quadrupled his Thanksgiving donations to four family foundations this year to $5.5 billion.",
+   "link": "https://www.cnbc.com/2026/11/21/warren-buffett-quadruples-thanksgiving-gifts.html",
+   "source": "CNBC World",
+   "published": "2026-11-21T13:01:44Z",
+   "region": "Global",
+   "category": "economy"
+  },
+  {
+   "title": "Cargo ship runs aground off French coast",
+   "summary": "A Maltese-flagged cargo ship remains stranded off the coast of south-western France after running aground. French authorities are preparing an operation to prevent the vessel from capsizing and potentially causing pollution. The ship was not carrying any cargo, and all 19 crew members were safely…",
+   "link": "https://www.france24.com/en/cargo-ship-runs-aground-off-french-coast",
+   "source": "France 24",
+   "published": "2026-11-21T12:52:27Z",
+   "region": "Europe",
+   "category": "news"
+  },
+  {
+   "title": "Russia tests NATO’s eastern defences",
+   "summary": "Two Russian missiles and a suspected drone came down in Poland on Friday in what Prime Minister Donald Tusk said was likely an \"intentional provocation\" timed to coincide with European military exercises in the country for a possible postwar mission in Ukraine. Senior Lecturer in Conflict and…",
+   "link": "https://www.france24.com/en/russia-tests-nato-s-eastern-defences",
+   "source": "France 24",
+   "published": "2026-11-21T12:50:35Z",
+   "region": "Europe",
+   "category": "conflict"
+  },
+  {
+   "title": "Thousands protest overs prices, education, military spending in France and Europe",
+   "summary": "France is bracing for a sixth consecutive Saturday of protests, with demonstrators expected to rally over the rising cost of living and the government's handling of weeks of social unrest ahead of next year's presidential election. France 24 journalist Antonia Kerrigan tells us the latest from…",
+   "link": "https://www.france24.com/en/thousands-protest-overs-prices-education-military-spending-in-france-and-europe",
+   "source": "France 24",
+   "published": "2026-11-21T12:48:46Z",
+   "region": "Europe",
+   "category": "conflict"
+  },
+  {
+   "title": "An early breakdown in the polar vortex is threatening already depleted gas stocks",
+   "summary": "Colder weather and low wind speeds could strain Europe’s gas market, where storage started winter at its lowest level in more than a decade.",
+   "link": "https://www.cnbc.com/2026/11/21/polar-vortex-europe-gas-prices.html",
+   "source": "CNBC World",
+   "published": "2026-11-21T12:47:25Z",
+   "region": "Europe",
+   "category": "economy"
+  },
+  {
+   "title": "Military analyst Phillips O'Brien on Ukraine and Europe being left out of Trump's talks",
+   "summary": "As President Trump met with Russian and Chinese counterparts, Ukraine and its European allies were left out of the talks. NPR's Scott Simon talks with Phillips O'Brien of St. Andrew's University.",
+   "link": "https://www.npr.org/2026/11/21/nx-s1-6047379/military-analyst-phillips-obrien-on-ukraine-and-europe-being-left-out-of-trumps-talks",
+   "source": "NPR World",
+   "published": "2026-11-21T12:40:18Z",
+   "region": "Europe",
+   "category": "conflict"
+  },
+  {
+   "title": "Drone attack sets Russian cargo ship ablaze in Gulf of Finland",
+   "summary": "A Russian cargo ship caught fire after a drone strike in international waters in the Gulf of Finland on Saturday and later drifted into Finnish ⁠territorial waters, Finnish authorities said. Helsinki alerted NATO and imposed temporary restrictions in the area amid heightened tensions in the Baltic…",
+   "link": "https://www.france24.com/en/europe/20261121-drone-attack-sets-russian-cargo-ship-ablaze-in-gulf-of-finland",
+   "source": "France 24",
+   "published": "2026-11-21T12:35:54Z",
+   "region": "Europe",
+   "category": "conflict"
+  },
+  {
+   "title": "Anthropic worker claims to have solved a Holy Grail of math problems with the help of AI",
+   "summary": "A mathematician who works for artificial intelligence giant Anthropic claims he has solved a Holy Grail of math problems with the help of the company's AI tool Claude. It marks the second time in recent months that an AI company or someone linked to one claims to have cracked a famed unsolved math…",
+   "link": "https://www.npr.org/2026/11/21/g-s1-154922/anthropic-worker-claims-to-have-solved-a-holy-grail-of-math-problems-with-the-help-of-ai",
+   "source": "NPR World",
+   "published": "2026-11-21T12:30:16Z",
+   "region": "Global",
+   "category": "news"
+  },
+  {
+   "title": "Sessions offer advice on rising energy costs",
+   "summary": "A council is urging people to seek support with rising energy costs on heating this winter.",
+   "link": "https://www.bbc.co.uk/news/articles/cmy49l3x893jo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC Business",
+   "published": "2026-11-21T12:09:49Z",
+   "region": "Global",
+   "category": "economy"
+  },
+  {
+   "title": "International first class is over for U.S. airlines. Enter the mega business-class cabin",
+   "summary": "Airlines are opting to build giant business-class cabins with ever-more luxurious suites.",
+   "link": "https://www.cnbc.com/2026/11/21/us-airlines-first-class-business-class.html",
+   "source": "CNBC World",
+   "published": "2026-11-21T12:00:01Z",
+   "region": "Global",
+   "category": "economy"
+  },
+  {
+   "title": "Rejoining EU ‘on the table’ as UK makes deals on trade and young people",
+   "summary": "All options open in future talks, says Ed Miliband, while prime minister hails ‘a good day for Britain and Europe’ The UK rejoining the EU could be on the table in informal discussions between Andy Burnham and European leaders in Brussels, Ed Miliband has said. The foreign secretary said “all…",
+   "link": "https://www.theguardian.com/politics/2026/nov/21/rejoining-eu-uk-trade-youth-deals-ed-miliband",
+   "source": "The Guardian Economics",
+   "published": "2026-11-21T11:33:01Z",
+   "region": "Europe",
+   "category": "economy"
+  },
+  {
+   "title": "Anthropic researcher uses AI to solve math's greatest riddle",
+   "summary": "The proposed breakthrough could reshape mathematical research, but still needs independent verification. It's the latest in a string of cases where AI has outpaced humans in solving famous maths problems.",
+   "link": "https://www.dw.com/en/anthropic-researcher-uses-ai-to-solve-math-s-greatest-riddle/a-80008428?maca=en-rss-en-world-4025-rdf",
+   "source": "DW World",
+   "published": "2026-11-21T10:29:00Z",
+   "region": "Global",
+   "category": "news"
+  },
+  {
+   "title": "Denmark accuses Russia of plotting to assassinate US-Ukrainian rapper",
+   "summary": "The Russian embassy in Denmark has denied the allegation, which has led to Russia's defence attaché being expelled.",
+   "link": "https://www.bbc.co.uk/news/articles/cmde1lj4yjxno?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "published": "2026-11-21T10:26:36Z",
+   "region": "Europe",
+   "category": "news"
+  },
+  {
    "title": "Deal with EU not dependent on tuition fees agreement, Miliband says",
    "summary": "Brussels sources had previously suggested the bloc might not apply the wider deal until fees were lowered for EU students in Britain.",
    "link": "https://www.bbc.co.uk/news/articles/cm9w9p4geke8o?at_medium=RSS&at_campaign=rss",
    "source": "BBC World",
    "published": "2026-11-21T09:40:55Z",
    "region": "Europe",
-   "category": "news"
-  },
-  {
-   "title": "Fire sprinkler sprays water at flame-covered sign in China",
-   "summary": "An automatic sprinkler system repeatedly sprayed a barbecue sign depicting flames at China’s Wanlong Ski Resort.",
-   "link": "https://www.aljazeera.com/video/newsfeed/2026/11/21/fire-sprinkler-sprays-water-at-flame-covered-sign-in-china?traffic_source=rss",
-   "source": "Al Jazeera",
-   "published": "2026-11-21T09:20:40Z",
-   "region": "Asia-Pacific",
-   "category": "news"
-  },
-  {
-   "title": "French police officers guilty of Michel Zecler assault: What happens now?",
-   "summary": "Officers dealt more than 30 blows to the Black music producer in what the court ruled was a racially motivated crime.",
-   "link": "https://www.aljazeera.com/news/2026/11/21/french-police-officers-guilty-of-michel-zecler-assault-what-happens-now?traffic_source=rss",
-   "source": "Al Jazeera",
-   "published": "2026-11-21T09:12:14Z",
-   "region": "Europe",
-   "category": "news"
-  },
-  {
-   "title": "Harry Kane to miss ‘a few months’ after injury as Bayern Munich draw",
-   "summary": "Ballon d'Or winner tears a ligament in his left ankle during Bayern Munich’s 1-1 draw against Cologne.",
-   "link": "https://www.aljazeera.com/sports/2026/11/21/ballon-dor-kane-to-miss-a-few-months-after-injury-as-bayern-munich-held?traffic_source=rss",
-   "source": "Al Jazeera",
-   "published": "2026-11-21T09:01:29Z",
-   "region": "Global",
-   "category": "news"
-  },
-  {
-   "title": "Illicit alcohol kills 11, poisons 180 in northeast India’s Manipur state",
-   "summary": "Manipur's chief minister orders a probe into the incident, saying those responsible will be arrested and punished.",
-   "link": "https://www.aljazeera.com/news/2026/11/21/suspected-toxic-alcohol-kills-at-least-11-people-in-northeast-india?traffic_source=rss",
-   "source": "Al Jazeera",
-   "published": "2026-11-21T08:48:54Z",
-   "region": "Asia-Pacific",
-   "category": "news"
-  },
-  {
-   "title": "Swimmer braves tanker attacks to expose Hormuz contamination",
-   "summary": "As tankers burned in Hormuz, swimmer Lewis Pugh exposed another casualty of the US-Israeli war on Iran: marine life.",
-   "link": "https://www.aljazeera.com/video/newsfeed/2026/11/21/swimmer-braves-tanker-attacks-to-expose-hormuz-contamination?traffic_source=rss",
-   "source": "Al Jazeera",
-   "published": "2026-11-21T08:39:35Z",
-   "region": "Middle East",
-   "category": "conflict"
-  },
-  {
-   "title": "Gianni Infantino’s FIFA re-election backed by South America’s CONMEBOL",
-   "summary": "Infantino handed huge boost in re-election campaign as FIFA president as CONMEBOL offers unanimous support.",
-   "link": "https://www.aljazeera.com/sports/2026/11/21/gianni-infantinos-fifa-re-election-backed-by-south-americas-conmebol?traffic_source=rss",
-   "source": "Al Jazeera",
-   "published": "2026-11-21T08:33:52Z",
-   "region": "Americas",
-   "category": "news"
-  },
-  {
-   "title": "Live: France braces for fresh protests as social unrest enters sixth week",
-   "summary": "France is bracing for a sixth consecutive Saturday of protests,with demonstrators expected to rally over the rising cost of living and the government's handling of weeks of social unrest ahead of next year's presidential election. Follow our liveblog for the latest developments.",
-   "link": "https://www.france24.com/en/france/20261121-live-france-braces-for-fresh-protests-as-social-unrest-enters-sixth-week",
-   "source": "France 24",
-   "published": "2026-11-21T08:29:53Z",
-   "region": "Europe",
-   "category": "news"
-  },
-  {
-   "title": "Spain court grants bail to pro-Palestinian activist James ‘Fergie’ Chambers",
-   "summary": "Spain’s High Court granted conditional bail to James ‘Fergie’ Chambers, a pro-Palestinian philanthropist.",
-   "link": "https://www.aljazeera.com/video/newsfeed/2026/11/21/spain-court-grants-bail-to-pro-palestinian-activist-james-fergie-chambers-2?traffic_source=rss",
-   "source": "Al Jazeera",
-   "published": "2026-11-21T08:26:22Z",
-   "region": "Middle East",
    "category": "news"
   },
   {
@@ -124,74 +502,11 @@
    "category": "conflict"
   },
   {
-   "title": "Telegraph departures signal concerns over direction under Axel Springer’s ownership",
-   "summary": "Insiders say they only see cuts, with no discernible long-term strategy, since title’s purchase by German media firm A spate of prominent departures and years of public battling over its ownership have ensured the Telegraph’s newsroom has been no stranger to internal intrigue and speculation in…",
-   "link": "https://www.theguardian.com/media/2026/nov/21/telegraph-departures-direction-axel-springer-ownership",
-   "source": "The Guardian World",
-   "published": "2026-11-21T08:00:53Z",
-   "region": "Europe",
-   "category": "news"
-  },
-  {
-   "title": "Letby trial doctor barred from treating patients was expert witness in another case",
-   "summary": "Prof Peter Hindmarsh played key role in conviction of two Birmingham parents whose son died after diabetes episode A doctor who gave expert evidence that helped to convict Lucy Letby, and who was barred during the trial from treating patients, was then instructed as an expert witness in another…",
-   "link": "https://www.theguardian.com/uk-news/2026/nov/21/lucy-letby-trial-doctor-professor-peter-hindmarsh-barred-from-treating-patients-expert-witness-another-case",
-   "source": "The Guardian World",
-   "published": "2026-11-21T08:00:52Z",
-   "region": "Global",
-   "category": "news"
-  },
-  {
-   "title": "Can mediation succeed in a war-torn world? | Episode 1",
-   "summary": "With more than 65 armed conflicts raging worldwide, top mediators reveal why peace has never been harder to achieve.",
-   "link": "https://www.aljazeera.com/video/the-art-of-negotiation/2026/11/21/can-mediation-succeed-in-a-war-torn-world-episode-1?traffic_source=rss",
-   "source": "Al Jazeera",
-   "published": "2026-11-21T07:38:38Z",
-   "region": "Global",
-   "category": "conflict"
-  },
-  {
-   "title": "Fight over fossil fuels leaves COP31 climate talks in deadlock",
-   "summary": "Countries from nearly 200 countries are in a deadlock to try and get a new global climate agreement.",
-   "link": "https://www.bbc.co.uk/news/articles/c6ly5w40eg07o?at_medium=RSS&at_campaign=rss",
-   "source": "BBC World",
-   "published": "2026-11-21T07:31:05Z",
-   "region": "Global",
-   "category": "news"
-  },
-  {
-   "title": "At least four killed, 35 injured in fire at power station in Iraq’s Basra",
-   "summary": "The blaze erupted at the Hartha power station and spread to nearby houses.",
-   "link": "https://www.aljazeera.com/news/2026/11/21/at-least-two-people-killed-as-fire-engulfs-power-station-in-southern-iraq?traffic_source=rss",
-   "source": "Al Jazeera",
-   "published": "2026-11-21T07:25:29Z",
-   "region": "Middle East",
-   "category": "conflict"
-  },
-  {
    "title": "Man convicted of arson over deadly 2025 Palisades fire in Los Angeles",
    "summary": "A 30-year-old man has been convicted of causing one of the most destructive wildfires in the history of Los Angeles. The verdict came after the case was retried.",
    "link": "https://www.dw.com/en/man-convicted-of-arson-over-deadly-2025-palisades-fire-in-los-angeles/a-80007933?maca=en-rss-en-world-4025-rdf",
    "source": "DW World",
    "published": "2026-11-21T07:10:00Z",
-   "region": "Global",
-   "category": "news"
-  },
-  {
-   "title": "US Agriculture Department and FBI hit by cyberattacks, media report",
-   "summary": "Hackers breached systerms at the US Agriculture Department and the FBI, US media reported, amid a recent wave of major technology disruptions across the country.",
-   "link": "https://www.france24.com/en/americas/20261121-us-agriculture-department-fbi-hit-by-cyberattacks-media-report",
-   "source": "France 24",
-   "published": "2026-11-21T07:01:04Z",
-   "region": "Americas",
-   "category": "news"
-  },
-  {
-   "title": "Campaigners back call for scrutiny of consent laws by Joanne Young",
-   "summary": "Experts say no law states third-party consent is a valid defence and call for public debate and further education Campaigners have welcomed a call for scrutiny of consent laws by a survivor of drug-facilitated rape but said action must also focus on wider issues around sexual assault. Joanne Young…",
-   "link": "https://www.theguardian.com/society/2026/nov/21/campaigners-back-call-for-scrutiny-of-consent-laws-by-joanne-young",
-   "source": "The Guardian World",
-   "published": "2026-11-21T06:00:53Z",
    "region": "Global",
    "category": "news"
   },
@@ -205,51 +520,6 @@
    "category": "economy"
   },
   {
-   "title": "Europe's cyber weak spot is the everyday businesses nobody thought to protect",
-   "summary": "Known vulnerabilities are leaving everyday businesses increasingly exposed to cyber sabotage, as AI enables cybercriminals to work better and faster.",
-   "link": "https://www.cnbc.com/2026/11/21/cyber-attacks-fridges-cybersecurity.html",
-   "source": "CNBC World",
-   "published": "2026-11-21T06:00:02Z",
-   "region": "Europe",
-   "category": "economy"
-  },
-  {
-   "title": "An early breakdown in the polar vortex is threatening already depleted gas stocks",
-   "summary": "Colder weather and low wind speeds could strain Europe’s gas market, where storage started winter at its lowest level in more than a decade.",
-   "link": "https://www.cnbc.com/2026/11/21/polar-vortex-europe-gas-prices.html",
-   "source": "CNBC World",
-   "published": "2026-11-21T06:00:02Z",
-   "region": "Europe",
-   "category": "economy"
-  },
-  {
-   "title": "‘So what if there’s a hole? It hasn’t collapsed’: Kyiv residents unbothered by Russian attacks on city’s bridges",
-   "summary": "Despite dodging tears in the tarmac, people are confident in city’s infrastructure – and will not worry about what has not happened yet Mykola expects to drive his battered beige passenger minibus 20 to 24 times a day past the holes in the road on Kyiv’s damaged Northern Bridge that were caused by…",
-   "link": "https://www.theguardian.com/world/2026/nov/21/kyiv-russian-attacks-bridges",
-   "source": "The Guardian World",
-   "published": "2026-11-21T05:00:50Z",
-   "region": "Europe",
-   "category": "conflict"
-  },
-  {
-   "title": "Tourists are throwing fewer coins into Rome’s Trevi fountain – is €2 entry fee to blame?",
-   "summary": "Charity that collects the coins says donations are down by £200,000 after a barrier was put in place to restrict access When Jeff Clinton, an American visiting Rome with his wife for the first time, found a US one-cent coin on a street close to Termini train station, he knew precisely what he was…",
-   "link": "https://www.theguardian.com/world/2026/nov/21/charity-hit-coin-throwing-rome-trevi-fountain-caritas-italy",
-   "source": "The Guardian World",
-   "published": "2026-11-21T05:00:49Z",
-   "region": "Europe",
-   "category": "news"
-  },
-  {
-   "title": "Teenager allegedly organised arsons and kidnapping on Signal during Melbourne hospitality wars",
-   "summary": "Victoria police say boy, 17, communicated with offenders under username ‘Onepercent’ Get our breaking news email , free app or daily news podcast Victorian police allege a 17-year-old boy tasked others to carry out a series of arsons, home invasions and a mistaken identity kidnapping that resulted…",
-   "link": "https://www.theguardian.com/australia-news/2026/nov/21/teenager-allegedly-organised-arsons-and-kidnapping-on-signal-during-melbourne-hospitality-wars-ntwnfb",
-   "source": "The Guardian World",
-   "published": "2026-11-21T04:44:00Z",
-   "region": "Global",
-   "category": "conflict"
-  },
-  {
    "title": "Man convicted of starting Palisades fire in Los Angeles",
    "summary": "The 30-year-old LA resident was convicted of arson leading to wildfires that killed 12 people and destroyed more than 6,800 buildings.",
    "link": "https://www.bbc.co.uk/news/articles/c64gn0gy8rj3o?at_medium=RSS&at_campaign=rss",
@@ -259,75 +529,12 @@
    "category": "conflict"
   },
   {
-   "title": "When you see smoke, run: Rohingya who escaped Myanmar’s genocide tell their stories",
-   "summary": "Survivors recount rivers red with blood and burning nearby villages serving as an urgent warning to flee their homes Smoke was often the signal to run – seen from a distance, it was the indication for Rohingya that a neighbouring village was under attack and that theirs would be next. In other…",
-   "link": "https://www.theguardian.com/world/2026/nov/21/rohingya-who-escaped-myanmars-genocide-tell-their-stories",
-   "source": "The Guardian World",
-   "published": "2026-11-21T04:00:47Z",
-   "region": "Asia-Pacific",
-   "category": "conflict"
-  },
-  {
-   "title": "‘A new record for entertainment’: Grand Theft Auto VI sales hit $3.8bn on first day of release, developer says",
-   "summary": "The announcement from Rockstar Games would mean GTA VI has already earned more than the entire box office run of the highest-grossing film of all time Grand Theft Auto VI generated $3.79bn in retail sales on its first day , publisher Rockstar Games has announced, calling it the biggest launch for…",
-   "link": "https://www.theguardian.com/games/2026/nov/21/a-new-record-for-entertainment-grand-theft-auto-vi-sales-hit-38bn-on-first-day-of-release-developer-says",
-   "source": "The Guardian World",
-   "published": "2026-11-21T03:51:03Z",
-   "region": "Global",
-   "category": "news"
-  },
-  {
    "title": "Brazil ex-President Jair Bolsonaro taken to hospital over abdominal pain",
    "summary": "Jair Bolsonaro has been hospitalized in Brasilia with intestinal obstruction. The former far-right Brazilian leader is receiving pain medications, his son Carlos said.",
    "link": "https://www.dw.com/en/brazil-ex-president-jair-bolsonaro-taken-to-hospital-over-abdominal-pain/a-80007648?maca=en-rss-en-world-4025-rdf",
    "source": "DW World",
    "published": "2026-11-21T03:16:00Z",
    "region": "Americas",
-   "category": "news"
-  },
-  {
-   "title": "Man accused of sparking deadly Los Angeles wildfire found guilty",
-   "summary": "Verdict in case against former Uber driver Jonathan Rinderknecht comes after first trial ended with hung jury The 30-year-old accused of sparking the deadly Palisades fire in Los Angeles was found guilty of two federal arson charges in a Friday verdict that came months after his first trial…",
-   "link": "https://www.theguardian.com/us-news/2026/nov/20/los-angeles-palisades-wildfire-trial-verdict",
-   "source": "The Guardian World",
-   "published": "2026-11-21T01:43:15Z",
-   "region": "Global",
-   "category": "news"
-  },
-  {
-   "title": "They were fined $811m for conning detained migrants, but the scams didn't stop",
-   "summary": "How convicted fraudsters made millions from detained immigrants, evaded efforts to shut down their bail business and left migrants behind bars.",
-   "link": "https://www.bbc.co.uk/news/articles/cqgm0zlkgrm2o?at_medium=RSS&at_campaign=rss",
-   "source": "BBC World",
-   "published": "2026-11-21T01:02:39Z",
-   "region": "Global",
-   "category": "news"
-  },
-  {
-   "title": "ANC fights to keep control of South Africa's key cities after election setback",
-   "summary": "The ANC appears reluctant to replicate its national power-sharing deal with the pro-business DA at the local level.",
-   "link": "https://www.bbc.co.uk/news/articles/cqpv94d10rwpo?at_medium=RSS&at_campaign=rss",
-   "source": "BBC World",
-   "published": "2026-11-21T00:34:51Z",
-   "region": "Africa",
-   "category": "news"
-  },
-  {
-   "title": "Mamdani announces plan to close New York's Rikers Island jail by 2032",
-   "summary": "Plans to shutter the troubled facility date back to 2019, when the city council first voted to close it but delays arose over where to place inmates.",
-   "link": "https://www.bbc.co.uk/news/articles/cmjeqv89egylo?at_medium=RSS&at_campaign=rss",
-   "source": "BBC World",
-   "published": "2026-11-21T00:01:39Z",
-   "region": "Global",
-   "category": "news"
-  },
-  {
-   "title": "A new Nepal, an old neighbour - Balendra Shah's India test on first visit",
-   "summary": "Trade, connectivity and regional cooperation will be on top of the agenda when Nepal's PM meets his India counterpart.",
-   "link": "https://www.bbc.co.uk/news/articles/c6jre8xd83qgo?at_medium=RSS&at_campaign=rss",
-   "source": "BBC World",
-   "published": "2026-11-20T23:28:17Z",
-   "region": "Asia-Pacific",
    "category": "news"
   },
   {
@@ -349,56 +556,11 @@
    "category": "economy"
   },
   {
-   "title": "House of Cards: America's enemies \"no longer fear it, its allies no longer trust it'",
-   "summary": "The Economist's deputy editor Tom Standage joins us for a futuristic retrospective, taking us back to the future as we spotlight \"The World Ahead 2027\". We begin with the \"leader of the free world\", the FIFA Peace Prize recipient presiding over an America under the \"Donroe Doctrine\": \"Its enemies…",
-   "link": "https://www.france24.com/en/tv-shows/spotlight/20261120-house-of-cards-america-s-enemies-no-longer-fear-it-its-allies-no-longer-trust-it",
-   "source": "France 24",
-   "published": "2026-11-20T22:13:21Z",
-   "region": "Americas",
-   "category": "news"
-  },
-  {
-   "title": "Trump says he discussed Jensen Huang with Xi; Bessent tells CNBC Nvidia chip export policy is unchanged",
-   "summary": "Trump said he discussed Jensen Huang with China's Xi. Bessent said the ousted Nvidia CEO didn't come up in talks he had while in China.",
-   "link": "https://www.cnbc.com/2026/11/20/treasury-secretary-scott-bessent.html",
-   "source": "CNBC World",
-   "published": "2026-11-20T22:08:41Z",
-   "region": "Asia-Pacific",
-   "category": "economy"
-  },
-  {
-   "title": "Paris police officers sentenced to prison over 2020 beating of Black man",
-   "summary": "A Paris court on Friday sentenced three policemen to serve time over the 2020 beating of Black music producer Michel Zecler, a rare such ruling. The assault, which was captured on camera, sparked nationwide outrage and renewed scrutiny of police violence and racism in France.",
-   "link": "https://www.france24.com/en/france/20261120-paris-police-officers-sentenced-to-prison-over-2020-beating-of-black-man-michel-zecler",
-   "source": "France 24",
-   "published": "2026-11-20T22:04:45Z",
-   "region": "Europe",
-   "category": "news"
-  },
-  {
-   "title": "Guinea bans Burkina Faso broadcaster, escalating diplomatic tensions",
-   "summary": "Tensions rise between Guinea and Burkina Faso after Conakry bans Burkinabe broadcaster RTB, amid a diplomatic dispute over gold miners and a caricature of President Mamadi Doumbouya. Meanwhile, fighting erupts between Congolese forces and the Rwanda-backed FRN group in eastern DR Congo, despite…",
-   "link": "https://www.france24.com/en/tv-shows/eye-on-africa/20261120-guinea-bans-burkina-faso-broadcaster-escalating-diplomatic-tensions",
-   "source": "France 24",
-   "published": "2026-11-20T21:53:35Z",
-   "region": "Africa",
-   "category": "conflict"
-  },
-  {
    "title": "Nasdaq erases all 2026 gains as AI sell-off dampens Anthropic’s second day of trading",
    "summary": "The Nasdaq lost trillions in value, with the AI startup’s IPO failing to buoy it as investors question huge sums being poured into AI buildout Who are Anthropic’s seven co-founders, now worth $180bn? As Anthropic’s stock dropped during its second day of trading, the wider stock market dipped with…",
    "link": "https://www.theguardian.com/business/2026/nov/20/global-stock-markets-slump-anthropic-ipo-ai-sell-off",
    "source": "The Guardian Economics",
    "published": "2026-11-20T21:38:17Z",
-   "region": "Global",
-   "category": "economy"
-  },
-  {
-   "title": "Zscaler stock jumps 18% on report that CrowdStrike in talks to buy security vendor",
-   "summary": "Cybersecurity companies have been hunting for acquisitions in the AI era.",
-   "link": "https://www.cnbc.com/2026/11/20/zscaler-crowdstrike-deal.html",
-   "source": "CNBC World",
-   "published": "2026-11-20T21:35:24Z",
    "region": "Global",
    "category": "economy"
   },
@@ -412,57 +574,12 @@
    "category": "conflict"
   },
   {
-   "title": "'Licence to kill': France adopts law presuming 'legitimate' self-defence in police shootings",
-   "summary": "French senators gave final approval on Friday to controversial legislation granting police officers a presumption of legitimate self-defence when using firearms, fulfilling a long-standing demand of the far right even as weeks of student-led protests have thrust the issue of police brutality back…",
-   "link": "https://www.france24.com/en/france/20261120-licence-to-kill-french-parliament-adopts-police-shootings-law-slammed-activists",
-   "source": "France 24",
-   "published": "2026-11-20T21:17:59Z",
-   "region": "Europe",
-   "category": "news"
-  },
-  {
-   "title": "Warsh wants Fed officials to talk less. Instead, they’re talking more",
-   "summary": "Fed officials have been rushing to the microphones lately while the Fed chairman stays on the sidelines.",
-   "link": "https://www.cnbc.com/2026/11/20/warsh-fed-forward-guidance-rate-hikes.html",
-   "source": "CNBC World",
-   "published": "2026-11-20T21:10:48Z",
-   "region": "Americas",
-   "category": "economy"
-  },
-  {
-   "title": "Anthropic defied the odds in its record IPO. Now it has to reckon with AI market turbulence",
-   "summary": "Anthropic faced a market sell-off, raging anti-AI sentiment and a crisis at Nvidia in pulling off the largest IPO on record.",
-   "link": "https://www.cnbc.com/2026/11/20/anthropic-defies-odds-holding-ipo-despite-massively-disruptive-market.html",
-   "source": "CNBC World",
-   "published": "2026-11-20T21:06:45Z",
-   "region": "Global",
-   "category": "economy"
-  },
-  {
-   "title": "Gap names new Athleta CEO, says Old Navy turnaround is seeing signs of progress",
-   "summary": "Gap on Thursday announced Ashley Kechter as the new CEO of Athleta. The retailer also reported mixed fiscal third-quarter earnings.",
-   "link": "https://www.cnbc.com/2026/11/19/gap-gap-q3-2026-earnings.html",
-   "source": "CNBC World",
-   "published": "2026-11-20T21:04:48Z",
-   "region": "Global",
-   "category": "economy"
-  },
-  {
    "title": "Trump threatens ban on US firms building AI data centres overseas",
    "summary": "The US president provided little detail on the potential policy, saying others in his team were hearing about it for the first time.",
    "link": "https://www.bbc.co.uk/news/articles/cmde1lw9y54ko?at_medium=RSS&at_campaign=rss",
    "source": "BBC Business",
    "published": "2026-11-20T20:54:12Z",
    "region": "Americas",
-   "category": "economy"
-  },
-  {
-   "title": "Trump vows to stop U.S. companies from building data centers abroad, threatens 'tremendous tax'",
-   "summary": "Trump spoke at the White House after meeting with Chinese President Xi Jinping and Russian President Vladimir Putin for a historic trilateral summit in China.",
-   "link": "https://www.cnbc.com/2026/11/20/trump-data-centers-ai-companies-tax.html",
-   "source": "CNBC World",
-   "published": "2026-11-20T20:47:58Z",
-   "region": "Asia-Pacific",
    "category": "economy"
   },
   {
@@ -484,24 +601,6 @@
    "category": "news"
   },
   {
-   "title": "'Friends' But Who Benefits? Notes from an Historic Summit, Myanmar's Genocide Ruling, Time to 'Bre-join' the EU?",
-   "summary": "Welcome to the World This Week with Gavin Lee. You give us 45 minutes, we'll give you 7 days worth of crystal clear analysis. As ever, alongside a handpicked panel of four distinguished foreign correspondents.",
-   "link": "https://www.france24.com/en/tv-shows/the-world-this-week/20261120-friends-but-who-benefits-notes-from-an-historic-summit-myanmar-s-genocide-ruling-time-to-bre-join-the-eu",
-   "source": "France 24",
-   "published": "2026-11-20T19:42:58Z",
-   "region": "Europe",
-   "category": "news"
-  },
-  {
-   "title": "Yemen's Houthis target Riyadh after Saudi coalition's 'special operation'",
-   "summary": "Yemen's Houthi rebels launched strikes on Riyadh on Saturday after Saudi-led coalition air raids on Yemen, escalating a months-long surge in cross-border attacks.",
-   "link": "https://www.france24.com/en/middle-east/20261120-yemen-s-houthis-target-riyadh-after-saudi-coalition-s-special-operation",
-   "source": "France 24",
-   "published": "2026-11-20T18:36:15Z",
-   "region": "Middle East",
-   "category": "conflict"
-  },
-  {
    "title": "UK to explore even closer ties with EU after agreeing deal, says Burnham",
    "summary": "The UK-EU deal agreed on Friday covers British food exports, emissions trading and a youth experience scheme.",
    "link": "https://www.bbc.co.uk/news/articles/c6jreyqgw4e9o?at_medium=RSS&at_campaign=rss",
@@ -509,15 +608,6 @@
    "published": "2026-11-20T17:49:48Z",
    "region": "Europe",
    "category": "economy"
-  },
-  {
-   "title": "🦛 USA: Fiona, Cincinnati Zoo’s famous hippo, has died",
-   "summary": "🦛Fiona, Cincinnati Zoo’s beloved hippo, has died aged just 9, after swallowing a knitted hat that fell into her enclosure. Born prematurely and weighing only 13kg, she captured millions of hearts around the world and became an internet sensation.",
-   "link": "https://www.france24.com/en/video/20261120-%F0%9F%A6%9B-usa-fiona-cincinnati-zoo-s-famous-hippo-has-died",
-   "source": "France 24",
-   "published": "2026-11-20T17:35:32Z",
-   "region": "Americas",
-   "category": "news"
   },
   {
    "title": "Faisal Islam: This cost-cutting UK-EU deal doesn't mean lower prices will follow",
@@ -556,66 +646,12 @@
    "category": "economy"
   },
   {
-   "title": "The secret cyber scramble to protect UK fridge freezers",
-   "summary": "A behind the scenes cyber-security operation has taken place to secure tens of thousands of refrigeration units from hackers, the BBC has learned.",
-   "link": "https://www.bbc.co.uk/news/videos/cqpv94x1zj89o?at_medium=RSS&at_campaign=rss",
-   "source": "BBC Business",
-   "published": "2026-11-20T15:08:16Z",
-   "region": "Europe",
-   "category": "economy"
-  },
-  {
-   "title": "Is Pakistan backing anti-Taliban groups in Afghanistan?",
-   "summary": "The Taliban rulers in Afghanistan have accused Pakistan of aiding and sheltering armed resistance groups. The allegations come amid heightened tensions and are likely to deepen the rift between the two neighbors.",
-   "link": "https://www.dw.com/en/is-pakistan-backing-anti-taliban-groups-in-afghanistan/a-80004814?maca=en-rss-en-world-4025-rdf",
-   "source": "DW World",
-   "published": "2026-11-20T15:02:00Z",
-   "region": "Asia-Pacific",
-   "category": "news"
-  },
-  {
-   "title": "Trump touts meeting with Xi and Putin but offers little results",
+   "title": "Trump touts meeting with Xi and Putin but offers few results",
    "summary": "At a White House press conference Friday, Trump offered little in actual results of the meetings, beyond a joint statement on unity over some issues.",
    "link": "https://www.npr.org/2026/11/20/nx-s1-6047594/trump-asia-trip-xi-putin-press-conference",
    "source": "NPR World",
    "published": "2026-11-20T15:00:00Z",
    "region": "Americas",
-   "category": "news"
-  },
-  {
-   "title": "EU and UK strike 'landmark deal' to strengthen ties after Brexit",
-   "summary": "The European Union and the United Kingdom have agreed on \"landmark\" deals on youth mobility and trade. Leaders on both sides praised the agreement as they seek to rebuild ties.",
-   "link": "https://www.dw.com/en/eu-and-uk-strike-landmark-deal-to-strengthen-ties-after-brexit/a-80001076?maca=en-rss-en-world-4025-rdf",
-   "source": "DW World",
-   "published": "2026-11-20T14:30:00Z",
-   "region": "Europe",
-   "category": "conflict"
-  },
-  {
-   "title": "Turkey takes control of opposition broadcaster Sozcu TV",
-   "summary": "In the latest in a series of raids and arrests, another major pro-opposition Turkish broadcaster has been brought under state control. This is the third in a year.",
-   "link": "https://www.dw.com/en/turkey-takes-control-of-opposition-broadcaster-sozcu-tv/a-80001984?maca=en-rss-en-world-4025-rdf",
-   "source": "DW World",
-   "published": "2026-11-20T14:21:00Z",
-   "region": "Middle East",
-   "category": "news"
-  },
-  {
-   "title": "Africa at COP31: Will climate cash finally flow?",
-   "summary": "As the curtains draw to a close on COP31 in Antalya, one question looms large for African countries: Will climate promises finally translate into the funding African communities need to cope with a warming world?",
-   "link": "https://www.dw.com/en/africa-at-cop31-will-climate-cash-finally-flow/a-80002269?maca=en-rss-en-world-4025-rdf",
-   "source": "DW World",
-   "published": "2026-11-20T14:18:00Z",
-   "region": "Africa",
-   "category": "news"
-  },
-  {
-   "title": "Myanmar genocide ruling: Rohingya say struggle for justice not over",
-   "summary": "The ICJ has held Myanmar responsible for genocide against the Rohingya and ordered restitution and reparations. Community members have hailed the ruling, but caution that achieving real change will be long and hard.",
-   "link": "https://www.dw.com/en/myanmar-genocide-ruling-rohingya-say-struggle-for-justice-not-over/a-80003365?maca=en-rss-en-world-4025-rdf",
-   "source": "DW World",
-   "published": "2026-11-20T13:38:00Z",
-   "region": "Asia-Pacific",
    "category": "news"
   },
   {
@@ -698,42 +734,6 @@
    "published": "2026-11-19T22:13:52Z",
    "region": "Americas",
    "category": "economy"
-  },
-  {
-   "title": "Anthropic keeps the AI party swinging, but the atmosphere is bubbly | Nils Pratley",
-   "summary": "Can the newly listed AI company really be worth $2tn? Anyone who remembers the late 1990s has good reason to ask Roll up, roll up, who wants to buy shares in a company whose technology “could pose catastrophic or existential risks to humanity”, as the prospectus had it? Virtually everybody, as it…",
-   "link": "https://www.theguardian.com/technology/nils-pratley-on-finance/2026/nov/19/anthropic-keeps-ai-party-swinging-but-atmosphere-bubbly",
-   "source": "The Guardian Economics",
-   "published": "2026-11-19T18:15:48Z",
-   "region": "Global",
-   "category": "economy"
-  },
-  {
-   "title": "Anthropic trading tests investors' appetite for AI",
-   "summary": "Anthropic was valued at $2 trillion after shares started trading on the Nasdaq following a record $81 billion IPO. Its performance will put investor confidence in AI to the test.",
-   "link": "https://www.dw.com/en/anthropic-trading-tests-investors-appetite-for-ai/a-79993163?maca=en-rss-en-bus-2091-rdf",
-   "source": "DW Business",
-   "published": "2026-11-19T15:52:00Z",
-   "region": "Global",
-   "category": "economy"
-  },
-  {
-   "title": "AI demand will push up interest rates around the world, IMF head warns",
-   "summary": "Kristalina Georgieva says countries needed to be ready for tech rollout, adding: ‘You snooze, you lose’ Business live – latest updates Booming demand for artificial intelligence will force the world’s most powerful central banks to raise interest rates, the head of the International Monetary Fund…",
-   "link": "https://www.theguardian.com/world/2026/nov/19/imf-head-warns-ai-demand-push-up-interest-rates-apec",
-   "source": "The Guardian Economics",
-   "published": "2026-11-19T15:15:14Z",
-   "region": "Global",
-   "category": "economy"
-  },
-  {
-   "title": "The U.N.'s top court rules Myanmar committed genocide against the Rohingya",
-   "summary": "The International Court of Justice found that Myanmar security forces \"acted with genocidal intent\" against the Rohingya during military operations in the northern Rakhine state in 2017.",
-   "link": "https://www.npr.org/2026/11/19/g-s1-154340/un-court-myanmar-genocide-rohingya",
-   "source": "NPR World",
-   "published": "2026-11-19T12:29:41Z",
-   "region": "Asia-Pacific",
-   "category": "conflict"
   }
  ]
 }
