@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-21T01:28:44Z",
+ "updatedAt": "2026-11-21T09:43:52Z",
  "sources": [
   "BBC World",
   "BBC Business",
@@ -16,20 +16,290 @@
  "count": 80,
  "items": [
   {
+   "title": "Deal with EU not dependent on tuition fees agreement, Miliband says",
+   "summary": "Brussels sources had previously suggested the bloc might not apply the wider deal until fees were lowered for EU students in Britain.",
+   "link": "https://www.bbc.co.uk/news/articles/cm9w9p4geke8o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "published": "2026-11-21T09:40:55Z",
+   "region": "Europe",
+   "category": "news"
+  },
+  {
+   "title": "Fire sprinkler sprays water at flame-covered sign in China",
+   "summary": "An automatic sprinkler system repeatedly sprayed a barbecue sign depicting flames at China’s Wanlong Ski Resort.",
+   "link": "https://www.aljazeera.com/video/newsfeed/2026/11/21/fire-sprinkler-sprays-water-at-flame-covered-sign-in-china?traffic_source=rss",
+   "source": "Al Jazeera",
+   "published": "2026-11-21T09:20:40Z",
+   "region": "Asia-Pacific",
+   "category": "news"
+  },
+  {
+   "title": "French police officers guilty of Michel Zecler assault: What happens now?",
+   "summary": "Officers dealt more than 30 blows to the Black music producer in what the court ruled was a racially motivated crime.",
+   "link": "https://www.aljazeera.com/news/2026/11/21/french-police-officers-guilty-of-michel-zecler-assault-what-happens-now?traffic_source=rss",
+   "source": "Al Jazeera",
+   "published": "2026-11-21T09:12:14Z",
+   "region": "Europe",
+   "category": "news"
+  },
+  {
+   "title": "Harry Kane to miss ‘a few months’ after injury as Bayern Munich draw",
+   "summary": "Ballon d'Or winner tears a ligament in his left ankle during Bayern Munich’s 1-1 draw against Cologne.",
+   "link": "https://www.aljazeera.com/sports/2026/11/21/ballon-dor-kane-to-miss-a-few-months-after-injury-as-bayern-munich-held?traffic_source=rss",
+   "source": "Al Jazeera",
+   "published": "2026-11-21T09:01:29Z",
+   "region": "Global",
+   "category": "news"
+  },
+  {
+   "title": "Illicit alcohol kills 11, poisons 180 in northeast India’s Manipur state",
+   "summary": "Manipur's chief minister orders a probe into the incident, saying those responsible will be arrested and punished.",
+   "link": "https://www.aljazeera.com/news/2026/11/21/suspected-toxic-alcohol-kills-at-least-11-people-in-northeast-india?traffic_source=rss",
+   "source": "Al Jazeera",
+   "published": "2026-11-21T08:48:54Z",
+   "region": "Asia-Pacific",
+   "category": "news"
+  },
+  {
+   "title": "Swimmer braves tanker attacks to expose Hormuz contamination",
+   "summary": "As tankers burned in Hormuz, swimmer Lewis Pugh exposed another casualty of the US-Israeli war on Iran: marine life.",
+   "link": "https://www.aljazeera.com/video/newsfeed/2026/11/21/swimmer-braves-tanker-attacks-to-expose-hormuz-contamination?traffic_source=rss",
+   "source": "Al Jazeera",
+   "published": "2026-11-21T08:39:35Z",
+   "region": "Middle East",
+   "category": "conflict"
+  },
+  {
+   "title": "Gianni Infantino’s FIFA re-election backed by South America’s CONMEBOL",
+   "summary": "Infantino handed huge boost in re-election campaign as FIFA president as CONMEBOL offers unanimous support.",
+   "link": "https://www.aljazeera.com/sports/2026/11/21/gianni-infantinos-fifa-re-election-backed-by-south-americas-conmebol?traffic_source=rss",
+   "source": "Al Jazeera",
+   "published": "2026-11-21T08:33:52Z",
+   "region": "Americas",
+   "category": "news"
+  },
+  {
+   "title": "Live: France braces for fresh protests as social unrest enters sixth week",
+   "summary": "France is bracing for a sixth consecutive Saturday of protests,with demonstrators expected to rally over the rising cost of living and the government's handling of weeks of social unrest ahead of next year's presidential election. Follow our liveblog for the latest developments.",
+   "link": "https://www.france24.com/en/france/20261121-live-france-braces-for-fresh-protests-as-social-unrest-enters-sixth-week",
+   "source": "France 24",
+   "published": "2026-11-21T08:29:53Z",
+   "region": "Europe",
+   "category": "news"
+  },
+  {
+   "title": "Spain court grants bail to pro-Palestinian activist James ‘Fergie’ Chambers",
+   "summary": "Spain’s High Court granted conditional bail to James ‘Fergie’ Chambers, a pro-Palestinian philanthropist.",
+   "link": "https://www.aljazeera.com/video/newsfeed/2026/11/21/spain-court-grants-bail-to-pro-palestinian-activist-james-fergie-chambers-2?traffic_source=rss",
+   "source": "Al Jazeera",
+   "published": "2026-11-21T08:26:22Z",
+   "region": "Middle East",
+   "category": "news"
+  },
+  {
+   "title": "Zelensky says Putin is a 'killer' after Trump calls Russian leader a friend",
+   "summary": "Earlier this week, Trump greeted Putin ahead of a meeting in China and said the pair have a \"great relationship\".",
+   "link": "https://www.bbc.co.uk/news/articles/cxnv4zvmdy0jo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "published": "2026-11-21T08:10:25Z",
+   "region": "Europe",
+   "category": "news"
+  },
+  {
+   "title": "Trafalgar Square Christmas tree felled in Norway",
+   "summary": "The 21m tree is Oslo’s annual thank you for Britain’s support during World War Two.",
+   "link": "https://www.bbc.co.uk/news/articles/cx8dv4327dnpo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "published": "2026-11-21T08:10:03Z",
+   "region": "Europe",
+   "category": "conflict"
+  },
+  {
+   "title": "Nations at UN talks on AI killer robots agree to more talks but no firm commitment to rein them in",
+   "summary": "Efforts to establish rules for AI-powered killer robots and drones have run aground. U.N.-backed talks in Geneva ended Saturday with an agreement to extend discussions for two more years.",
+   "link": "https://www.npr.org/2026/11/21/g-s1-154914/nations-at-un-talks-on-ai-killer-robots-agree-to-more-talks-but-no-firm-commitment-to-rein-them-in",
+   "source": "NPR World",
+   "published": "2026-11-21T08:08:01Z",
+   "region": "Global",
+   "category": "conflict"
+  },
+  {
+   "title": "Telegraph departures signal concerns over direction under Axel Springer’s ownership",
+   "summary": "Insiders say they only see cuts, with no discernible long-term strategy, since title’s purchase by German media firm A spate of prominent departures and years of public battling over its ownership have ensured the Telegraph’s newsroom has been no stranger to internal intrigue and speculation in…",
+   "link": "https://www.theguardian.com/media/2026/nov/21/telegraph-departures-direction-axel-springer-ownership",
+   "source": "The Guardian World",
+   "published": "2026-11-21T08:00:53Z",
+   "region": "Europe",
+   "category": "news"
+  },
+  {
+   "title": "Letby trial doctor barred from treating patients was expert witness in another case",
+   "summary": "Prof Peter Hindmarsh played key role in conviction of two Birmingham parents whose son died after diabetes episode A doctor who gave expert evidence that helped to convict Lucy Letby, and who was barred during the trial from treating patients, was then instructed as an expert witness in another…",
+   "link": "https://www.theguardian.com/uk-news/2026/nov/21/lucy-letby-trial-doctor-professor-peter-hindmarsh-barred-from-treating-patients-expert-witness-another-case",
+   "source": "The Guardian World",
+   "published": "2026-11-21T08:00:52Z",
+   "region": "Global",
+   "category": "news"
+  },
+  {
+   "title": "Can mediation succeed in a war-torn world? | Episode 1",
+   "summary": "With more than 65 armed conflicts raging worldwide, top mediators reveal why peace has never been harder to achieve.",
+   "link": "https://www.aljazeera.com/video/the-art-of-negotiation/2026/11/21/can-mediation-succeed-in-a-war-torn-world-episode-1?traffic_source=rss",
+   "source": "Al Jazeera",
+   "published": "2026-11-21T07:38:38Z",
+   "region": "Global",
+   "category": "conflict"
+  },
+  {
+   "title": "Fight over fossil fuels leaves COP31 climate talks in deadlock",
+   "summary": "Countries from nearly 200 countries are in a deadlock to try and get a new global climate agreement.",
+   "link": "https://www.bbc.co.uk/news/articles/c6ly5w40eg07o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "published": "2026-11-21T07:31:05Z",
+   "region": "Global",
+   "category": "news"
+  },
+  {
+   "title": "At least four killed, 35 injured in fire at power station in Iraq’s Basra",
+   "summary": "The blaze erupted at the Hartha power station and spread to nearby houses.",
+   "link": "https://www.aljazeera.com/news/2026/11/21/at-least-two-people-killed-as-fire-engulfs-power-station-in-southern-iraq?traffic_source=rss",
+   "source": "Al Jazeera",
+   "published": "2026-11-21T07:25:29Z",
+   "region": "Middle East",
+   "category": "conflict"
+  },
+  {
+   "title": "Man convicted of arson over deadly 2025 Palisades fire in Los Angeles",
+   "summary": "A 30-year-old man has been convicted of causing one of the most destructive wildfires in the history of Los Angeles. The verdict came after the case was retried.",
+   "link": "https://www.dw.com/en/man-convicted-of-arson-over-deadly-2025-palisades-fire-in-los-angeles/a-80007933?maca=en-rss-en-world-4025-rdf",
+   "source": "DW World",
+   "published": "2026-11-21T07:10:00Z",
+   "region": "Global",
+   "category": "news"
+  },
+  {
+   "title": "US Agriculture Department and FBI hit by cyberattacks, media report",
+   "summary": "Hackers breached systerms at the US Agriculture Department and the FBI, US media reported, amid a recent wave of major technology disruptions across the country.",
+   "link": "https://www.france24.com/en/americas/20261121-us-agriculture-department-fbi-hit-by-cyberattacks-media-report",
+   "source": "France 24",
+   "published": "2026-11-21T07:01:04Z",
+   "region": "Americas",
+   "category": "news"
+  },
+  {
+   "title": "Campaigners back call for scrutiny of consent laws by Joanne Young",
+   "summary": "Experts say no law states third-party consent is a valid defence and call for public debate and further education Campaigners have welcomed a call for scrutiny of consent laws by a survivor of drug-facilitated rape but said action must also focus on wider issues around sexual assault. Joanne Young…",
+   "link": "https://www.theguardian.com/society/2026/nov/21/campaigners-back-call-for-scrutiny-of-consent-laws-by-joanne-young",
+   "source": "The Guardian World",
+   "published": "2026-11-21T06:00:53Z",
+   "region": "Global",
+   "category": "news"
+  },
+  {
+   "title": "How China is using summits to expand its global influence",
+   "summary": "Chinese President Xi Jinping has helped coordinate yet another photo-op of global significance.",
+   "link": "https://www.cnbc.com/2026/11/21/china-xi-trump-putin-global-diplomacy-shenzhen.html",
+   "source": "CNBC World",
+   "published": "2026-11-21T06:00:02Z",
+   "region": "Asia-Pacific",
+   "category": "economy"
+  },
+  {
+   "title": "Europe's cyber weak spot is the everyday businesses nobody thought to protect",
+   "summary": "Known vulnerabilities are leaving everyday businesses increasingly exposed to cyber sabotage, as AI enables cybercriminals to work better and faster.",
+   "link": "https://www.cnbc.com/2026/11/21/cyber-attacks-fridges-cybersecurity.html",
+   "source": "CNBC World",
+   "published": "2026-11-21T06:00:02Z",
+   "region": "Europe",
+   "category": "economy"
+  },
+  {
+   "title": "An early breakdown in the polar vortex is threatening already depleted gas stocks",
+   "summary": "Colder weather and low wind speeds could strain Europe’s gas market, where storage started winter at its lowest level in more than a decade.",
+   "link": "https://www.cnbc.com/2026/11/21/polar-vortex-europe-gas-prices.html",
+   "source": "CNBC World",
+   "published": "2026-11-21T06:00:02Z",
+   "region": "Europe",
+   "category": "economy"
+  },
+  {
+   "title": "‘So what if there’s a hole? It hasn’t collapsed’: Kyiv residents unbothered by Russian attacks on city’s bridges",
+   "summary": "Despite dodging tears in the tarmac, people are confident in city’s infrastructure – and will not worry about what has not happened yet Mykola expects to drive his battered beige passenger minibus 20 to 24 times a day past the holes in the road on Kyiv’s damaged Northern Bridge that were caused by…",
+   "link": "https://www.theguardian.com/world/2026/nov/21/kyiv-russian-attacks-bridges",
+   "source": "The Guardian World",
+   "published": "2026-11-21T05:00:50Z",
+   "region": "Europe",
+   "category": "conflict"
+  },
+  {
+   "title": "Tourists are throwing fewer coins into Rome’s Trevi fountain – is €2 entry fee to blame?",
+   "summary": "Charity that collects the coins says donations are down by £200,000 after a barrier was put in place to restrict access When Jeff Clinton, an American visiting Rome with his wife for the first time, found a US one-cent coin on a street close to Termini train station, he knew precisely what he was…",
+   "link": "https://www.theguardian.com/world/2026/nov/21/charity-hit-coin-throwing-rome-trevi-fountain-caritas-italy",
+   "source": "The Guardian World",
+   "published": "2026-11-21T05:00:49Z",
+   "region": "Europe",
+   "category": "news"
+  },
+  {
+   "title": "Teenager allegedly organised arsons and kidnapping on Signal during Melbourne hospitality wars",
+   "summary": "Victoria police say boy, 17, communicated with offenders under username ‘Onepercent’ Get our breaking news email , free app or daily news podcast Victorian police allege a 17-year-old boy tasked others to carry out a series of arsons, home invasions and a mistaken identity kidnapping that resulted…",
+   "link": "https://www.theguardian.com/australia-news/2026/nov/21/teenager-allegedly-organised-arsons-and-kidnapping-on-signal-during-melbourne-hospitality-wars-ntwnfb",
+   "source": "The Guardian World",
+   "published": "2026-11-21T04:44:00Z",
+   "region": "Global",
+   "category": "conflict"
+  },
+  {
+   "title": "Man convicted of starting Palisades fire in Los Angeles",
+   "summary": "The 30-year-old LA resident was convicted of arson leading to wildfires that killed 12 people and destroyed more than 6,800 buildings.",
+   "link": "https://www.bbc.co.uk/news/articles/c64gn0gy8rj3o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "published": "2026-11-21T04:34:00Z",
+   "region": "Global",
+   "category": "conflict"
+  },
+  {
+   "title": "When you see smoke, run: Rohingya who escaped Myanmar’s genocide tell their stories",
+   "summary": "Survivors recount rivers red with blood and burning nearby villages serving as an urgent warning to flee their homes Smoke was often the signal to run – seen from a distance, it was the indication for Rohingya that a neighbouring village was under attack and that theirs would be next. In other…",
+   "link": "https://www.theguardian.com/world/2026/nov/21/rohingya-who-escaped-myanmars-genocide-tell-their-stories",
+   "source": "The Guardian World",
+   "published": "2026-11-21T04:00:47Z",
+   "region": "Asia-Pacific",
+   "category": "conflict"
+  },
+  {
+   "title": "‘A new record for entertainment’: Grand Theft Auto VI sales hit $3.8bn on first day of release, developer says",
+   "summary": "The announcement from Rockstar Games would mean GTA VI has already earned more than the entire box office run of the highest-grossing film of all time Grand Theft Auto VI generated $3.79bn in retail sales on its first day , publisher Rockstar Games has announced, calling it the biggest launch for…",
+   "link": "https://www.theguardian.com/games/2026/nov/21/a-new-record-for-entertainment-grand-theft-auto-vi-sales-hit-38bn-on-first-day-of-release-developer-says",
+   "source": "The Guardian World",
+   "published": "2026-11-21T03:51:03Z",
+   "region": "Global",
+   "category": "news"
+  },
+  {
+   "title": "Brazil ex-President Jair Bolsonaro taken to hospital over abdominal pain",
+   "summary": "Jair Bolsonaro has been hospitalized in Brasilia with intestinal obstruction. The former far-right Brazilian leader is receiving pain medications, his son Carlos said.",
+   "link": "https://www.dw.com/en/brazil-ex-president-jair-bolsonaro-taken-to-hospital-over-abdominal-pain/a-80007648?maca=en-rss-en-world-4025-rdf",
+   "source": "DW World",
+   "published": "2026-11-21T03:16:00Z",
+   "region": "Americas",
+   "category": "news"
+  },
+  {
+   "title": "Man accused of sparking deadly Los Angeles wildfire found guilty",
+   "summary": "Verdict in case against former Uber driver Jonathan Rinderknecht comes after first trial ended with hung jury The 30-year-old accused of sparking the deadly Palisades fire in Los Angeles was found guilty of two federal arson charges in a Friday verdict that came months after his first trial…",
+   "link": "https://www.theguardian.com/us-news/2026/nov/20/los-angeles-palisades-wildfire-trial-verdict",
+   "source": "The Guardian World",
+   "published": "2026-11-21T01:43:15Z",
+   "region": "Global",
+   "category": "news"
+  },
+  {
    "title": "They were fined $811m for conning detained migrants, but the scams didn't stop",
    "summary": "How convicted fraudsters made millions from detained immigrants, evaded efforts to shut down their bail business and left migrants behind bars.",
    "link": "https://www.bbc.co.uk/news/articles/cqgm0zlkgrm2o?at_medium=RSS&at_campaign=rss",
    "source": "BBC World",
    "published": "2026-11-21T01:02:39Z",
-   "region": "Global",
-   "category": "news"
-  },
-  {
-   "title": "Can Mauricio Pochettino save Man United from Premier League relegation?",
-   "summary": "Mauricio Pochettino will take charge of Manchester United for the first time on Sunday, in a trip to rivals Liverpool.",
-   "link": "https://www.aljazeera.com/sports/2026/11/21/can-pochetinno-save-man-united-from-premier-league-relegation?traffic_source=rss",
-   "source": "Al Jazeera",
-   "published": "2026-11-21T00:55:01Z",
    "region": "Global",
    "category": "news"
   },
@@ -43,33 +313,6 @@
    "category": "news"
   },
   {
-   "title": "Victorian Greens seek urgent injunction over how-to-vote cards mimicking party’s branding but preferencing it last",
-   "summary": "Exclusive: Independent candidate Tosh-Jake Finnigan’s cards instruct people to vote in a way that would benefit Liberal party Get our daily political email , free app or daily news podcast The Victorian Greens are seeking an urgent injunction from the supreme court to stop an independent candidate…",
-   "link": "https://www.theguardian.com/australia-news/2026/nov/21/victorian-greens-seek-urgent-injunction-over-how-to-vote-cards-mimicking-branding-but-preferencing-it-last-ntwnfb",
-   "source": "The Guardian World",
-   "published": "2026-11-21T00:26:56Z",
-   "region": "Global",
-   "category": "news"
-  },
-  {
-   "title": "Trump turns White House press conference into a 2028 succession audition",
-   "summary": "The president appeared to put Vance and Rubio through their paces as potential successors, though Stephen Miller unexpectedly stole the spotlight “Which of you shall we say doth love us most?” The ageing King Lear’s question to his daughters, expecting them to compete for his favour and carve up…",
-   "link": "https://www.theguardian.com/us-news/2026/nov/20/trump-republican-succession-battle-vance-rubio",
-   "source": "The Guardian World",
-   "published": "2026-11-21T00:16:26Z",
-   "region": "Americas",
-   "category": "news"
-  },
-  {
-   "title": "‘A source of inspiration’: California celebrates the late civil rights icon Dolores Huerta",
-   "summary": "A public vigil and celebration of life honor the civil rights activist and co-founder of United Farm Workers union Hundreds of people came out to honor and celebrate the life and legacy of the California civil rights activist Dolores Huerta at a celebration-of-life event Friday in Bakersfield…",
-   "link": "https://www.theguardian.com/us-news/2026/nov/20/dolores-huerta-celebration-of-life-california",
-   "source": "The Guardian World",
-   "published": "2026-11-21T00:03:47Z",
-   "region": "Global",
-   "category": "news"
-  },
-  {
    "title": "Mamdani announces plan to close New York's Rikers Island jail by 2032",
    "summary": "Plans to shutter the troubled facility date back to 2019, when the city council first voted to close it but delays arose over where to place inmates.",
    "link": "https://www.bbc.co.uk/news/articles/cmjeqv89egylo?at_medium=RSS&at_campaign=rss",
@@ -79,111 +322,12 @@
    "category": "news"
   },
   {
-   "title": "Iran war live: Saudi-led coalition downs Houthi missiles",
-   "summary": "Saudi Arabia issues a flurry of emergency alerts for Riyadh, as the Saudi coalition says it intercepted three missiles.",
-   "link": "https://www.aljazeera.com/news/liveblog/2026/11/21/iran-war-live-saudi-led-coalition-repels-houthi-missiles?traffic_source=rss",
-   "source": "Al Jazeera",
-   "published": "2026-11-21T00:00:06Z",
-   "region": "Middle East",
-   "category": "conflict"
-  },
-  {
-   "title": "Republican senator blocks Trump cyber nominee over January 6 denial",
-   "summary": "Thom Tillis move comes after Michael LoSapio, nominated for Cisa role, told hearing ‘I don’t believe it was an attack’ Senator Thom Tillis, the outgoing North Carolina Republican who is due to be replaced by a Democrat, has reportedly blocked a confirmation vote on Donald Trump’s nominee to lead a…",
-   "link": "https://www.theguardian.com/us-news/2026/nov/20/tillis-republican-senator-trump-cyber-nominee",
-   "source": "The Guardian World",
-   "published": "2026-11-20T23:48:38Z",
-   "region": "Americas",
-   "category": "conflict"
-  },
-  {
-   "title": "Judge approves $7.25bn Bayer payout to settle claims that Roundup causes cancer",
-   "summary": "German company faced 65,000 claims from people who said they developed cancer after using weedkiller A Missouri judge on Friday approved Bayer ’s $7.25bn settlement of lawsuits ⁠alleging that its weedkiller ​Roundup causes cancer, potentially resolving litigation that has weighed on the German…",
-   "link": "https://www.theguardian.com/business/2026/nov/20/bayer-roundup-cancer-litigation",
-   "source": "The Guardian World",
-   "published": "2026-11-20T23:42:43Z",
-   "region": "Europe",
-   "category": "news"
-  },
-  {
-   "title": "Overturned boat carrying mourners to funeral kills at least four in Nigeria",
-   "summary": "Police say two children among dead as search continues for more victims.",
-   "link": "https://www.aljazeera.com/news/2026/11/20/overturned-boat-carrying-mourners-to-funeral-kills-at-least-four-in-nigeria?traffic_source=rss",
-   "source": "Al Jazeera",
-   "published": "2026-11-20T23:36:36Z",
-   "region": "Africa",
-   "category": "news"
-  },
-  {
-   "title": "A new Nepal, an old neighbour - Balendra Shah's India test",
+   "title": "A new Nepal, an old neighbour - Balendra Shah's India test on first visit",
    "summary": "Trade, connectivity and regional cooperation will be on top of the agenda when Nepal's PM meets his India counterpart.",
    "link": "https://www.bbc.co.uk/news/articles/c6jre8xd83qgo?at_medium=RSS&at_campaign=rss",
    "source": "BBC World",
    "published": "2026-11-20T23:28:17Z",
    "region": "Asia-Pacific",
-   "category": "news"
-  },
-  {
-   "title": "Rahul Gandhi backs strong India-Israel ties despite Gaza war",
-   "summary": "India’s opposition leader Rahul Gandhi, says New Delhi should continue to maintain strong ties with Israel.",
-   "link": "https://www.aljazeera.com/video/newsfeed/2026/11/20/rahul-gandhi-backs-strong-india-israel-ties-despite-gaza-war?traffic_source=rss",
-   "source": "Al Jazeera",
-   "published": "2026-11-20T23:20:50Z",
-   "region": "Middle East",
-   "category": "conflict"
-  },
-  {
-   "title": "Dead pets were meant to be cremated - then their bodies appeared on a livestream",
-   "summary": "Grieving Filipinos confront a distressing reality: their dogs and cats may not have received the send-off they paid for.",
-   "link": "https://www.bbc.co.uk/news/articles/cmn502ek17yvo?at_medium=RSS&at_campaign=rss",
-   "source": "BBC World",
-   "published": "2026-11-20T23:20:33Z",
-   "region": "Global",
-   "category": "news"
-  },
-  {
-   "title": "Man accused of sparking deadly Los Angeles wildfire found guilty",
-   "summary": "Verdict in case against former Uber driver Jonathan Rinderknecht comes after first trial ended with hung jury The 30-year-old accused of sparking the deadly Palisades fire in Los Angeles was found guilty of two federal arson charges in a Friday verdict that came months after his first trial…",
-   "link": "https://www.theguardian.com/us-news/2026/nov/20/los-angeles-palisades-wildfire-trial-verdict",
-   "source": "The Guardian World",
-   "published": "2026-11-20T23:20:29Z",
-   "region": "Global",
-   "category": "news"
-  },
-  {
-   "title": "US declassifies more UFO footage filmed in the Middle East",
-   "summary": "The Pentagon has released an eighth tranche of UFO records, which includes three video clips recorded in 2020, 2023 and 2026.",
-   "link": "https://www.bbc.co.uk/news/videos/cqdr1x8mypnko?at_medium=RSS&at_campaign=rss",
-   "source": "BBC World",
-   "published": "2026-11-20T23:15:20Z",
-   "region": "Americas",
-   "category": "news"
-  },
-  {
-   "title": "NSW passes Mount Pleasant coalmine law as Greens claim change an attempt to head off One Nation",
-   "summary": "Labor says allowing mine to increase production reflects ‘gravity of situation facing hundreds of workers’ – but critics call it ‘unprecedented and dangerous’ Get our breaking news email , free app or daily news podcast The New South Wales government has passed special legislation to allow a…",
-   "link": "https://www.theguardian.com/australia-news/2026/nov/21/nsw-passes-hunter-valley-coalmine-law-as-greens-claim-change-an-attempt-to-head-off-one-nation-ntwnfb",
-   "source": "The Guardian World",
-   "published": "2026-11-20T23:09:57Z",
-   "region": "Global",
-   "category": "news"
-  },
-  {
-   "title": "In a year of AI solving maths problems, Anthropic may have just solved the biggest",
-   "summary": "A mathematician at Anthropic says he used an AI to prove the famed Riemann hypothesis, though verification will take some time.",
-   "link": "https://www.bbc.co.uk/news/articles/c6pqr2g7w059o?at_medium=RSS&at_campaign=rss",
-   "source": "BBC World",
-   "published": "2026-11-20T23:08:57Z",
-   "region": "Global",
-   "category": "news"
-  },
-  {
-   "title": "Fossil fuel talks deadlock pushes COP31 climate summit into overtime",
-   "summary": "EU warns COP31 risks turning into a 'fossil summit' as critical climate commitments are omitted from the draft deal.",
-   "link": "https://www.aljazeera.com/news/2026/11/20/fossil-fuel-talks-deadlock-pushes-cop31-climate-summit-into-overtime?traffic_source=rss",
-   "source": "Al Jazeera",
-   "published": "2026-11-20T23:06:41Z",
-   "region": "Europe",
    "category": "news"
   },
   {
@@ -199,37 +343,10 @@
    "title": "Tech stock sell-off drags markets down as Anthropic shares slide",
    "summary": "Pressures weighed on US markets, with the S&P 500 and the Dow Jones Industrial Average pushed into correction territory.",
    "link": "https://www.bbc.co.uk/news/articles/c6808ym10vzgo?at_medium=RSS&at_campaign=rss",
-   "source": "BBC World",
+   "source": "BBC Business",
    "published": "2026-11-20T22:42:47Z",
    "region": "Americas",
    "category": "economy"
-  },
-  {
-   "title": "French police officers sentenced for beating of music producer Michel Zecler",
-   "summary": "The court has upheld the 2020 beating of the black music producer as an aggravated circumstance of racism.",
-   "link": "https://www.bbc.co.uk/news/articles/ck9d7e9wvvweo?at_medium=RSS&at_campaign=rss",
-   "source": "BBC World",
-   "published": "2026-11-20T22:37:09Z",
-   "region": "Europe",
-   "category": "news"
-  },
-  {
-   "title": "French police officers found guilty of racist assault on black music producer",
-   "summary": "Beating of Michel Zecler in 2020 sparked outrage over police brutality after it was caught on security cameras Three French police officers who beat a black music producer they said was not wearing a face mask during the Covid pandemic have been found guilty of intentional, racist violence. The…",
-   "link": "https://www.theguardian.com/world/2026/nov/20/french-police-officers-found-guilty-of-racist-assault-on-black-music-producer",
-   "source": "The Guardian World",
-   "published": "2026-11-20T22:23:53Z",
-   "region": "Europe",
-   "category": "news"
-  },
-  {
-   "title": "US lawmakers push for tougher AI chip rules amid China export crackdown",
-   "summary": "Washington has new rules restricting remote access to advanced US AI chips, but lawmakers want more.",
-   "link": "https://www.aljazeera.com/economy/2026/11/20/us-lawmakers-push-for-tougher-ai-chip-rules-amid-china-export-crackdown?traffic_source=rss",
-   "source": "Al Jazeera",
-   "published": "2026-11-20T22:15:07Z",
-   "region": "Americas",
-   "category": "news"
   },
   {
    "title": "House of Cards: America's enemies \"no longer fear it, its allies no longer trust it'",
@@ -268,15 +385,6 @@
    "category": "conflict"
   },
   {
-   "title": "Trump threatens ‘tremendous penalties’ for US tech firms that build datacenters abroad",
-   "summary": "President gives wide-ranging White House press conference and says he has ‘fantastic relationships’ with Putin and Xi Donald Trump threatened on Friday to impose “tremendous penalties” on American tech companies that build datacenters outside the US, though he gave no details and told reporters he…",
-   "link": "https://www.theguardian.com/us-news/2026/nov/20/trump-datacenters-white-house",
-   "source": "The Guardian World",
-   "published": "2026-11-20T21:47:41Z",
-   "region": "Americas",
-   "category": "news"
-  },
-  {
    "title": "Nasdaq erases all 2026 gains as AI sell-off dampens Anthropic’s second day of trading",
    "summary": "The Nasdaq lost trillions in value, with the AI startup’s IPO failing to buoy it as investors question huge sums being poured into AI buildout Who are Anthropic’s seven co-founders, now worth $180bn? As Anthropic’s stock dropped during its second day of trading, the wider stock market dipped with…",
    "link": "https://www.theguardian.com/business/2026/nov/20/global-stock-markets-slump-anthropic-ipo-ai-sell-off",
@@ -304,31 +412,13 @@
    "category": "conflict"
   },
   {
-   "title": "Iraq PM targets militia stronghold in bid to assert state control",
-   "summary": "Iraqi PM Ali al-Zaidi said an operation in Jurf al-Sakhar marks the start of a nationwide push to assert state control.",
-   "link": "https://www.aljazeera.com/video/newsfeed/2026/11/20/aje-onl-nf_iraq-pm-targets-militia-stronghold-jurf-al-sakhar-201126?traffic_source=rss",
-   "source": "Al Jazeera",
-   "published": "2026-11-20T21:28:25Z",
-   "region": "Middle East",
-   "category": "news"
-  },
-  {
-   "title": "'Licence to kill': French parliament adopts police shootings law slammed by activists",
+   "title": "'Licence to kill': France adopts law presuming 'legitimate' self-defence in police shootings",
    "summary": "French senators gave final approval on Friday to controversial legislation granting police officers a presumption of legitimate self-defence when using firearms, fulfilling a long-standing demand of the far right even as weeks of student-led protests have thrust the issue of police brutality back…",
    "link": "https://www.france24.com/en/france/20261120-licence-to-kill-french-parliament-adopts-police-shootings-law-slammed-activists",
    "source": "France 24",
    "published": "2026-11-20T21:17:59Z",
    "region": "Europe",
    "category": "news"
-  },
-  {
-   "title": "Trump threatens tax on US tech firms building AI data centres abroad",
-   "summary": "US President Donald Trump warned US tech companies will face “a tremendous tax” if they build AI data centres abroad.",
-   "link": "https://www.aljazeera.com/video/newsfeed/2026/11/20/aje-onl-nf_trump-tax-us-tech-firms-ai-data-centres-abroad-201126?traffic_source=rss",
-   "source": "Al Jazeera",
-   "published": "2026-11-20T21:10:53Z",
-   "region": "Americas",
-   "category": "economy"
   },
   {
    "title": "Warsh wants Fed officials to talk less. Instead, they’re talking more",
@@ -347,15 +437,6 @@
    "published": "2026-11-20T21:06:45Z",
    "region": "Global",
    "category": "economy"
-  },
-  {
-   "title": "Trump defends Putin relationship, warns AI data centres must stay in US",
-   "summary": "The US president also spoke about the war in Iran and praised trip to China during a wide-ranging news conference.",
-   "link": "https://www.aljazeera.com/news/2026/11/20/trump-defends-putin-relationship-warns-ai-data-centres-must-stay-in-us?traffic_source=rss",
-   "source": "Al Jazeera",
-   "published": "2026-11-20T21:05:07Z",
-   "region": "Americas",
-   "category": "conflict"
   },
   {
    "title": "Gap names new Athleta CEO, says Old Navy turnaround is seeing signs of progress",
@@ -412,13 +493,13 @@
    "category": "news"
   },
   {
-   "title": "Bitcoin's regulation bull case is played out. What could drive crypto gains moving forward",
-   "summary": "Crypto investors are looking beyond Congress for the next catalyst after the Senate failed to advance the Clarity Act in September.",
-   "link": "https://www.cnbc.com/2026/11/20/bitcoin-price-catalysts-tokenization-regulation.html",
-   "source": "CNBC World",
-   "published": "2026-11-20T18:07:18Z",
-   "region": "Americas",
-   "category": "economy"
+   "title": "Yemen's Houthis target Riyadh after Saudi coalition's 'special operation'",
+   "summary": "Yemen's Houthi rebels launched strikes on Riyadh on Saturday after Saudi-led coalition air raids on Yemen, escalating a months-long surge in cross-border attacks.",
+   "link": "https://www.france24.com/en/middle-east/20261120-yemen-s-houthis-target-riyadh-after-saudi-coalition-s-special-operation",
+   "source": "France 24",
+   "published": "2026-11-20T18:36:15Z",
+   "region": "Middle East",
+   "category": "conflict"
   },
   {
    "title": "UK to explore even closer ties with EU after agreeing deal, says Burnham",
@@ -437,51 +518,6 @@
    "published": "2026-11-20T17:35:32Z",
    "region": "Americas",
    "category": "news"
-  },
-  {
-   "title": "🔴Watch live: Trump holds press conference after meeting with Xi, Putin",
-   "summary": "",
-   "link": "https://www.france24.com/en/americas/20261120-watch-live-trump-holds-press-conference-meeting-xi-putin",
-   "source": "France 24",
-   "published": "2026-11-20T17:26:57Z",
-   "region": "Europe",
-   "category": "news"
-  },
-  {
-   "title": "Bitcoin sell-off: Crypto is failing the 'digital gold' test again as it sinks with stocks",
-   "summary": "Bitcoin’s sell-off is tracking risk assets again as experts weigh rates, ETF flows, politics and whether the crypto can function as a market hedge.",
-   "link": "https://www.cnbc.com/2026/11/20/bitcoin-price-gold-market-hedge.html",
-   "source": "CNBC World",
-   "published": "2026-11-20T17:25:19Z",
-   "region": "Global",
-   "category": "economy"
-  },
-  {
-   "title": "UK and EU strike ‘landmark’ deal to rebuild ties after Brexit",
-   "summary": "🇬🇧🇪🇺 A fresh start after #Brexit? The #UK and #EU have agreed on a landmark #deal to rebuild ties, following a summit in Brussels this Friday. The agreement covers easier food export checks, youth mobility and carbon emission quotas.",
-   "link": "https://www.france24.com/en/video/20261120-uk-and-eu-strike-landmark-deal-to-rebuild-ties-after-brexit",
-   "source": "France 24",
-   "published": "2026-11-20T17:06:59Z",
-   "region": "Europe",
-   "category": "conflict"
-  },
-  {
-   "title": "A cultural stroll through Paris with singer-songwriters Mariam Doumbia and Zaho",
-   "summary": "Two women, two voices, two destinies: Malian performer Mariam continues her musical journey after the 2025 passing of Amadou, her partner in life and on stage. \"Amadou and I sang about love. We wanted to share love with everyone. We sang of peace, of love, of justice.\"",
-   "link": "https://www.france24.com/en/tv-shows/paris-des-arts/20261120-a-cultural-stroll-through-paris-with-singer-songwriters-mariam-doumbia-and-zaho",
-   "source": "France 24",
-   "published": "2026-11-20T17:04:59Z",
-   "region": "Europe",
-   "category": "news"
-  },
-  {
-   "title": "Data center construction costs soar 13% in 2026",
-   "summary": "The demand for large data centers in the U.S. this year, driven by AI needs, grew beyond the supply of powered land and the labor to build these structures.",
-   "link": "https://www.cnbc.com/2026/11/20/data-center-construction-costs-soar-13-percent-in-2026.html",
-   "source": "CNBC World",
-   "published": "2026-11-20T16:52:08Z",
-   "region": "Global",
-   "category": "economy"
   },
   {
    "title": "Faisal Islam: This cost-cutting UK-EU deal doesn't mean lower prices will follow",
@@ -628,15 +664,6 @@
    "category": "news"
   },
   {
-   "title": "China's Xi praises 'turnaround' in relationship with Australia",
-   "summary": "The leaders of Australia and China have held talks on sidelines of APEC summit. Australian PM Anthony Albanese is also slated to meet Chinese Premier Li Qiang.",
-   "link": "https://www.dw.com/en/china-s-xi-praises-turnaround-in-relationship-with-australia/a-79999229?maca=en-rss-en-world-4025-rdf",
-   "source": "DW World",
-   "published": "2026-11-20T07:33:00Z",
-   "region": "Asia-Pacific",
-   "category": "news"
-  },
-  {
    "title": "UK government borrowing rises less than forecast in surprise boost for chancellor John Healey",
    "summary": "UK economy defies City predictions and Iran war fallout, with gap between spending and income about £1bn lower than expected in October, at £17bn The UK government borrowed less than expected in October despite a rise in debt interest costs, in a boost for chancellor John Healey amid the pressure…",
    "link": "https://www.theguardian.com/business/2026/nov/20/uk-government-borrowing-rises-less-than-forecast-in-surprise-boost-for-chancellor-john-healey",
@@ -653,15 +680,6 @@
    "published": "2026-11-20T07:00:26Z",
    "region": "Europe",
    "category": "economy"
-  },
-  {
-   "title": "White House replaces cyber security chief after tech outages",
-   "summary": "Sean Cairncross is leaving his role as national cyber director after a chaotic week of tech outages. Kirsten Davies, the Pentagon's chief information officer, will assume the position in an acting capacity.",
-   "link": "https://www.dw.com/en/white-house-replaces-cyber-security-chief-after-tech-outages/a-79998531?maca=en-rss-en-world-4025-rdf",
-   "source": "DW World",
-   "published": "2026-11-20T04:21:00Z",
-   "region": "Americas",
-   "category": "news"
   },
   {
    "title": "Anthropic’s historic stock market debut: key takeaways, and what comes next for the AI industry",
@@ -716,24 +734,6 @@
    "published": "2026-11-19T12:29:41Z",
    "region": "Asia-Pacific",
    "category": "conflict"
-  },
-  {
-   "title": "Anthropic raises more than $100B in IPO. And, Dems nominate Jeffries for House speaker",
-   "summary": "Despite growing concern over a possible AI bubble, Anthropic had a record-breaking initial public offering. And, Hakeem Jeffries could become the first Black Speaker of the House.",
-   "link": "https://www.npr.org/2026/11/19/g-s1-154344/up-first-newsletter-house-democrats-trump-xi-putin-anthropic",
-   "source": "NPR World",
-   "published": "2026-11-19T12:26:01Z",
-   "region": "Global",
-   "category": "news"
-  },
-  {
-   "title": "Top House Democrat questions what Trump accomplished in Xi-Putin summit",
-   "summary": "Rep. Gregory Meeks raises concerns about U.S. alliances after Trump's summit with Xi and Putin. He also discusses Chinese espionage amid the Nvidia scandal.",
-   "link": "https://www.npr.org/2026/11/19/nx-s1-6046487/gregory-meeks-trump-xi-putin-summit",
-   "source": "NPR World",
-   "published": "2026-11-19T11:20:37Z",
-   "region": "Europe",
-   "category": "news"
   }
  ]
 }
