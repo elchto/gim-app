@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-21T23:10:24Z",
+ "updatedAt": "2026-11-22T03:06:37Z",
  "sources": [
   "BBC World",
   "BBC Business",
@@ -16,13 +16,148 @@
  "count": 80,
  "items": [
   {
-   "title": "Man found dead on Flinders Island linked to shooting of police officer, Tasmanian authorities say",
-   "summary": "Body of a man in his 20s discovered by police who were sent to investigate the shooting of an officer, who is in a serious but stable condition Get our breaking news email , free app or daily news podcast An on-duty police officer has been shot and a man found dead nearby as police investigate two…",
+   "title": "Man found dead on Flinders Island believed to have been shot by officer, police say",
+   "summary": "The sergeant, who was shot, fired his weapon a number of times after alleged ‘targeted’ attack outside island’s police station Get our breaking news email , free app or daily news podcast A police officer who was shot outside a remote Tasmanian police station is alleged to have shot and killed his…",
    "link": "https://www.theguardian.com/australia-news/2026/nov/22/man-found-dead-on-flinders-island-linked-to-shooting-of-police-officer-tasmanian-authorities-say",
    "source": "The Guardian World",
-   "published": "2026-11-21T22:41:36Z",
+   "published": "2026-11-22T02:44:01Z",
+   "region": "Global",
+   "category": "conflict"
+  },
+  {
+   "title": "Displaced Palestinians protest as Israeli air strikes continue in Gaza",
+   "summary": "Israeli forces continue to destroy residential buildings as part of a 'gradual displacement' policy, a Gaza mayor says.",
+   "link": "https://www.aljazeera.com/news/2026/11/22/displaced-palestinians-protest-as-israeli-air-strikes-continue-in-gaza?traffic_source=rss",
+   "source": "Al Jazeera",
+   "published": "2026-11-22T02:14:18Z",
+   "region": "Middle East",
+   "category": "conflict"
+  },
+  {
+   "title": "Victorian Greens win injunction over how-to-vote cards mimicking party’s branding but preferencing it last",
+   "summary": "Exclusive: Independent candidate Tosh-Jake Finnigan’s cards instructed people to vote in a way that would benefit Liberal party Get our daily political email , free app or daily news podcast The Victorian Greens have won a supreme court injunction to stop an independent candidate from handing out…",
+   "link": "https://www.theguardian.com/australia-news/2026/nov/21/victorian-greens-seek-urgent-injunction-over-how-to-vote-cards-mimicking-branding-but-preferencing-it-last-ntwnfb",
+   "source": "The Guardian World",
+   "published": "2026-11-22T02:08:49Z",
    "region": "Global",
    "category": "news"
+  },
+  {
+   "title": "Bessent confirms he’s living on US military base over Iran fears",
+   "summary": "US Treasury Secretary Scott Bessent says he’s still living at a US military base, two weeks after an Israeli warning.",
+   "link": "https://www.aljazeera.com/video/newsfeed/2026/11/22/bessent-confirms-hes-living-on-us-military-base-over-iran-fears?traffic_source=rss",
+   "source": "Al Jazeera",
+   "published": "2026-11-22T02:05:50Z",
+   "region": "Americas",
+   "category": "conflict"
+  },
+  {
+   "title": "Mexican drug lord on FBI's 10 most wanted list arrested in shoot-out",
+   "summary": "Fausto Isidro \"Chapo Idisro\" Meza Flores, who is accused of drug trafficking and torture, is detained after gun fight with authorities.",
+   "link": "https://www.bbc.co.uk/news/articles/ckz749ey0r75o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "published": "2026-11-22T01:25:03Z",
+   "region": "Americas",
+   "category": "news"
+  },
+  {
+   "title": "Moviegoers head for the exits as quake strikes Peru",
+   "summary": "Moviegoers head for the exits as quake strikes Peru",
+   "link": "https://www.aljazeera.com/video/newsfeed/2026/11/22/moviegoers-head-for-the-exits-as-quake-strikes-peru?traffic_source=rss",
+   "source": "Al Jazeera",
+   "published": "2026-11-22T01:07:19Z",
+   "region": "Americas",
+   "category": "conflict"
+  },
+  {
+   "title": "‘No time for a culture war’: Victoria’s electricity supply is at risk. Can it avoid power shortages and bill shocks?",
+   "summary": "State faces electricity supply gap when Yallourn coal-fired power station closes in 2028 as experts warn neither Labor nor the Coalition has adequate plans Sign up for climate and environment editor Adam Morton’s free Clear Air newsletter here Victoria’s electricity supply will be at risk when a…",
+   "link": "https://www.theguardian.com/australia-news/2026/nov/22/victoria-election-2026-what-are-parties-promising-energy-policy",
+   "source": "The Guardian World",
+   "published": "2026-11-22T01:00:13Z",
+   "region": "Global",
+   "category": "conflict"
+  },
+  {
+   "title": "Clashes erupt across France in another night of protest",
+   "summary": "French police charged to disperse crowds on Saturday as the country faced a sixth weekend of demonstrations.",
+   "link": "https://www.aljazeera.com/video/newsfeed/2026/11/22/clashes-erupt-across-france-in-another-night-of-protest?traffic_source=rss",
+   "source": "Al Jazeera",
+   "published": "2026-11-22T00:37:32Z",
+   "region": "Europe",
+   "category": "conflict"
+  },
+  {
+   "title": "Fred Nile, former NSW politician and figurehead of the rightwing Christian Democratic party, dies aged 92",
+   "summary": "Controversial figure frequently took positions against drug use, abortion and homosexuality, but in later years supported legislation expunging homosexual convictions Get our daily political email , free app or daily news podcast The former New South Wales MP and longstanding figurehead of the…",
+   "link": "https://www.theguardian.com/australia-news/2026/nov/22/fred-nile-former-nsw-politician-and-figurehead-of-the-rightwing-christian-democratic-party-dies-aged-92",
+   "source": "The Guardian World",
+   "published": "2026-11-22T00:26:35Z",
+   "region": "Global",
+   "category": "news"
+  },
+  {
+   "title": "FBI reportedly investigating apparent hack of its criminal database",
+   "summary": "The National Crime Information Center database is used by federal and local law enforcement to share information.",
+   "link": "https://www.bbc.co.uk/news/articles/cvze7de86pk3o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "published": "2026-11-22T00:10:44Z",
+   "region": "Global",
+   "category": "news"
+  },
+  {
+   "title": "Nigerian youth have shown their power in the past - why aren't they shaping this election?",
+   "summary": "Fewer young people have registered to vote in next year's election than in 2023 - are young people losing faith in democracy?",
+   "link": "https://www.bbc.co.uk/news/articles/ck4g174n020eo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "published": "2026-11-22T00:10:37Z",
+   "region": "Africa",
+   "category": "news"
+  },
+  {
+   "title": "How a teen gamer and his mother helped rescue a missing girl",
+   "summary": "When 16-year-old Landon Tresp met a teenage girl in an online game, it led to him and his mother helping the FBI rescue her from kidnapping.",
+   "link": "https://www.bbc.co.uk/news/articles/cmq8lyv8lkjwo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "published": "2026-11-22T00:09:58Z",
+   "region": "Global",
+   "category": "news"
+  },
+  {
+   "title": "Iran war live: Iran targets US bases in Bahrain; Houthi strikes continue",
+   "summary": "Bahrain has condemned Iran's strikes on US military assets in the Gulf country, as Houthis keep Saudi Arabia on edge.",
+   "link": "https://www.aljazeera.com/news/liveblog/2026/11/21/iran-war-live-iran-targets-us-military-in-bahrain-houthi-strikes-continue?traffic_source=rss",
+   "source": "Al Jazeera",
+   "published": "2026-11-21T23:59:03Z",
+   "region": "Middle East",
+   "category": "conflict"
+  },
+  {
+   "title": "Lebanese president demands Israel withdrawal, decries Iran’s interference",
+   "summary": "Joseph Aoun says 'two fundamental obstacles, inseparably linked' mean Lebanon cannot fully celebrate its independence.",
+   "link": "https://www.aljazeera.com/news/2026/11/21/lebanese-president-demands-israel-withdrawal-decries-irans-interference?traffic_source=rss",
+   "source": "Al Jazeera",
+   "published": "2026-11-21T23:44:00Z",
+   "region": "Middle East",
+   "category": "news"
+  },
+  {
+   "title": "Iran faces a ‘silent economic war’, says Iranian president",
+   "summary": "Iran faces a ‘silent economic war’, says Iranian president",
+   "link": "https://www.aljazeera.com/video/newsfeed/2026/11/21/iran-faces-a-silent-economic-war-says-iranian-president?traffic_source=rss",
+   "source": "Al Jazeera",
+   "published": "2026-11-21T23:18:14Z",
+   "region": "Middle East",
+   "category": "conflict"
+  },
+  {
+   "title": "EU-Indonesia agreement sees the light after ten years of negotiations",
+   "summary": "The European Union and Indonesia have signed a major trade deal, ten years after talks began.The agreement removes almost all tariffs between the EU and Southeast Asia's biggest economy: 98.5 per cent of them. For Europe, it means access to a market of 280 million people and a steadier supply of…",
+   "link": "https://www.france24.com/en/video/20261121-eu-indonesia-agreement-sees-the-light-after-ten-years-of-negotiations",
+   "source": "France 24",
+   "published": "2026-11-21T22:23:03Z",
+   "region": "Europe",
+   "category": "economy"
   },
   {
    "title": "Fight over fossil fuels leaves COP31 climate talks in deadlock",
@@ -88,75 +223,12 @@
    "category": "conflict"
   },
   {
-   "title": "Impunity fuels surge in settler violence across occupied West Bank",
-   "summary": "Impunity fuels surge in settler violence across occupied West Bank",
-   "link": "https://www.aljazeera.com/video/newsfeed/2026/11/21/impunity-fuels-surge-in-settler-violence-across-occupied-west-bank?traffic_source=rss",
-   "source": "Al Jazeera",
-   "published": "2026-11-21T21:11:54Z",
-   "region": "Middle East",
-   "category": "economy"
-  },
-  {
-   "title": "Indian man jailed over plot to kill Sikh separatist in US",
-   "summary": "An Indian national has been sentenced to more than 19 years in a US prison for plotting to assassinate Sikh separatist.",
-   "link": "https://www.aljazeera.com/video/newsfeed/2026/11/21/21-11-sv-us-sikh-separatist-pannun-assassination-plot?traffic_source=rss",
-   "source": "Al Jazeera",
-   "published": "2026-11-21T21:09:18Z",
-   "region": "Asia-Pacific",
-   "category": "news"
-  },
-  {
-   "title": "Mexican drug lord on FBI's 10 most wanted list arrested in shoot-out",
-   "summary": "Fausto Isidro \"Chapo Idisro\" Meza Flores, who is accused of drug trafficking and torture, is detained after gun fight with authorities.",
-   "link": "https://www.bbc.co.uk/news/articles/ckz749ey0r75o?at_medium=RSS&at_campaign=rss",
-   "source": "BBC World",
-   "published": "2026-11-21T21:05:29Z",
-   "region": "Americas",
-   "category": "news"
-  },
-  {
-   "title": "Brazil’s Jair Bolsonaro in intensive care with bowel obstruction",
-   "summary": "The former president, serving a sentence for plotting a coup, is stable and breathing on his own, the hospital says.",
-   "link": "https://www.aljazeera.com/news/2026/11/21/brazils-jair-bolsonaro-in-intensive-care-with-bowel-obstruction?traffic_source=rss",
-   "source": "Al Jazeera",
-   "published": "2026-11-21T21:02:18Z",
-   "region": "Americas",
-   "category": "news"
-  },
-  {
-   "title": "Iran says held talks with Qatari mediators, urges US to accept conditions",
-   "summary": "Iran's foreign minister says reopening the strait is 'not difficult' if the US accepts reasonable conditions.",
-   "link": "https://www.aljazeera.com/news/2026/11/21/iran-says-held-talks-with-qatari-mediators-urges-us-to-accept-conditions?traffic_source=rss",
-   "source": "Al Jazeera",
-   "published": "2026-11-21T20:56:35Z",
-   "region": "Middle East",
-   "category": "news"
-  },
-  {
    "title": "Eisenkot invites Netanyahu’s party for ‘marathon’ Israeli coalition talks",
    "summary": "Israeli opposition leader Gadi Eisenkot has invited caretaker prime minister Benjamin Netanyahu's right-wing Likud party for coalition talks, his centrist Yashar party said Saturday. The \"marathon series of talks\" starts Sunday, the party said, adding that the move reflected a commitment to form…",
    "link": "https://www.france24.com/en/middle-east/20261121-eisenkot-invites-netanyahu-s-party-for-marathon-israeli-coalition-talks",
    "source": "France 24",
    "published": "2026-11-21T20:49:04Z",
    "region": "Middle East",
-   "category": "news"
-  },
-  {
-   "title": "Thousands protest across Europe over living costs and housing",
-   "summary": "Demonstrations in France and Portugal follow youth-led protests over education and economic hardship across Europe.",
-   "link": "https://www.aljazeera.com/news/2026/11/21/thousands-protest-across-europe-over-living-costs-and-housing?traffic_source=rss",
-   "source": "Al Jazeera",
-   "published": "2026-11-21T20:47:50Z",
-   "region": "Europe",
-   "category": "news"
-  },
-  {
-   "title": "AOC challenged over AIPAC’s influence on Democratic leadership",
-   "summary": "US Representative AOC was challenged by an activist over her support for Hakeem Jeffries, in light of his ties to AIPAC.",
-   "link": "https://www.aljazeera.com/video/newsfeed/2026/11/21/aje-onl-nf_aoc-challenged-over-aipacs-influence-on-democrats-211126?traffic_source=rss",
-   "source": "Al Jazeera",
-   "published": "2026-11-21T20:38:20Z",
-   "region": "Americas",
    "category": "news"
   },
   {
@@ -176,15 +248,6 @@
    "published": "2026-11-21T20:15:57Z",
    "region": "Global",
    "category": "news"
-  },
-  {
-   "title": "Why is the US Army detonating lead-rich explosives in Iowa?",
-   "summary": "The delayed blasts have stoked environmental fears and concerns about health effects in the state.",
-   "link": "https://www.aljazeera.com/news/2026/11/21/why-is-the-us-army-detonating-lead-rich-explosives-in-iowa?traffic_source=rss",
-   "source": "Al Jazeera",
-   "published": "2026-11-21T20:15:13Z",
-   "region": "Americas",
-   "category": "conflict"
   },
   {
    "title": "'Worst Ever' COP Summit?",
@@ -241,24 +304,6 @@
    "category": "news"
   },
   {
-   "title": "Cigarettes on silver platters at Bondi ‘clean’ beauty business lip gloss launch referred for investigation",
-   "summary": "Copini Beauty referred to New South Wales health regulators, while federal government says it is ‘deeply concerned’ Get our breaking news email , free app or daily news podcast An Australian beauty company that promotes “clean” ingredients “free from skin irritants” has been referred to state…",
-   "link": "https://www.theguardian.com/australia-news/2026/nov/22/cigarette-platter-bondi-copini-beauty-event-investigation",
-   "source": "The Guardian World",
-   "published": "2026-11-21T19:00:07Z",
-   "region": "Asia-Pacific",
-   "category": "news"
-  },
-  {
-   "title": "Australian neo-Nazis among far-right groups raising hundreds of thousands via global crowdfunding platform",
-   "summary": "GiveSendGo has been accused of facilitating the financing of extremism, but the platform says it does not ‘condone racism, discrimination, hate speech, or violence of any kind’ Get our breaking news email , free app or daily news podcast Australian neo-Nazis have raised hundreds of thousands of…",
-   "link": "https://www.theguardian.com/australia-news/2026/nov/22/australian-neo-nazis-among-far-right-groups-raising-hundreds-of-thousands-via-global-crowdfunding-platform-ntwnfb",
-   "source": "The Guardian World",
-   "published": "2026-11-21T19:00:06Z",
-   "region": "Asia-Pacific",
-   "category": "news"
-  },
-  {
    "title": "Louisiana man charged with killing woman on hiking trail and murdering co-worker with crossbow",
    "summary": "Jared Schurr arrested in Mississippi after Lizeht Rodriguez and Woodrow Scott died in otherwise unrelated killings A man recently strangled a woman to death whom he did not know along a hiking trail north of New Orleans – then killed his co-worker with a crossbow two days later before being…",
    "link": "https://www.theguardian.com/us-news/2026/nov/21/louisiana-mississippi-hiking-trail-crossbow-murder-charges",
@@ -277,20 +322,11 @@
    "category": "conflict"
   },
   {
-   "title": "Mexico detains top cartel boss 'El Chapo Isidro,' setting off violence",
+   "title": "Cartel leader captured in northern Mexico in a bloody firefight that left 11 dead",
    "summary": "Fausto Isidro Meza Flores, better known as \"El Chapo Isidro,\" was one of the FBI's most wanted fugitives. His arrest in northwest Mexico on Saturday has sparked violence in the region.",
    "link": "https://www.npr.org/2026/11/21/nx-s1-6049672/cartel-boss-el-chapo-isidro-detained",
    "source": "NPR World",
    "published": "2026-11-21T18:08:55Z",
-   "region": "Americas",
-   "category": "news"
-  },
-  {
-   "title": "Trump orders contractors to check with White House over any congressional inquiries",
-   "summary": "Anticipating flood of Democratic requests, US president issues executive order in attempt to stymie oversight efforts Donald Trump is directing federal contractors and subcontractors to consult with his administration about inquiries they receive from Congress and to withhold any communications…",
-   "link": "https://www.theguardian.com/us-news/2026/nov/21/trump-contractors-congress-executive-order",
-   "source": "The Guardian World",
-   "published": "2026-11-21T18:08:30Z",
    "region": "Americas",
    "category": "news"
   },
@@ -322,15 +358,6 @@
    "category": "news"
   },
   {
-   "title": "Man convicted of starting palisades fire",
-   "summary": "A Los Angeles County jury found former rideshare driver Jonathan Rinderknecht guilty on Friday of starting the 2025 Palisades fire, which caused widespread destruction and loss of life. He faces a prison sentence of between five and 40 years. Liza Kaminov has more.",
-   "link": "https://www.france24.com/en/man-convicted-of-starting-palisades-fire",
-   "source": "France 24",
-   "published": "2026-11-21T17:21:55Z",
-   "region": "Global",
-   "category": "news"
-  },
-  {
    "title": "Russian helicopter suspected of violating Finnish airspace",
    "summary": "Finland's Defense Ministry thinks the incursion is linked to a drone strike earlier Saturday on a Russian cargo ship, which is on a US sanctions list.",
    "link": "https://www.dw.com/en/russian-helicopter-suspected-of-violating-finnish-airspace/a-80010133?maca=en-rss-en-world-4025-rdf",
@@ -347,15 +374,6 @@
    "published": "2026-11-21T16:40:05Z",
    "region": "Americas",
    "category": "economy"
-  },
-  {
-   "title": "FBI reportedly investigating apparent hack of its criminal database",
-   "summary": "The National Crime Information Center database is used by federal and local law enforcement to share information.",
-   "link": "https://www.bbc.co.uk/news/articles/cvze7de86pk3o?at_medium=RSS&at_campaign=rss",
-   "source": "BBC World",
-   "published": "2026-11-21T16:35:15Z",
-   "region": "Global",
-   "category": "news"
   },
   {
    "title": "EU and Indonesia sign trade deal",
@@ -516,24 +534,6 @@
    "link": "https://www.bbc.co.uk/news/articles/cmde1lj4yjxno?at_medium=RSS&at_campaign=rss",
    "source": "BBC World",
    "published": "2026-11-21T10:26:36Z",
-   "region": "Europe",
-   "category": "news"
-  },
-  {
-   "title": "Deal with EU not dependent on tuition fees agreement, Miliband says",
-   "summary": "Brussels sources had previously suggested the bloc might not apply the wider deal until fees were lowered for EU students in Britain.",
-   "link": "https://www.bbc.co.uk/news/articles/cm9w9p4geke8o?at_medium=RSS&at_campaign=rss",
-   "source": "BBC World",
-   "published": "2026-11-21T09:40:55Z",
-   "region": "Europe",
-   "category": "news"
-  },
-  {
-   "title": "Zelensky says Putin is a 'killer' after Trump calls Russian leader a friend",
-   "summary": "Earlier this week, Trump greeted Putin ahead of a meeting in China and said the pair have a \"great relationship\".",
-   "link": "https://www.bbc.co.uk/news/articles/cxnv4zvmdy0jo?at_medium=RSS&at_campaign=rss",
-   "source": "BBC World",
-   "published": "2026-11-21T08:10:25Z",
    "region": "Europe",
    "category": "news"
   },
