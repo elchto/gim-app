@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-23T00:16:29Z",
+ "updatedAt": "2026-11-23T07:42:54Z",
  "sources": [
   "BBC World",
   "BBC Business",
@@ -13,78 +13,384 @@
   "CNBC World"
  ],
  "failed": [],
- "count": 77,
+ "count": 73,
  "items": [
   {
-   "title": "Australian politics live: Hanson calls Coalition and Labor a ‘uni’ party; Liberals demand Bowen resign over Cop ‘disaster’",
-   "summary": "Get our breaking news email , free app or daily news podcast ‘Very difficult to bridge that divide’: Murray Watt Cabinet minister Murray Watt says it’s increasingly difficult to bridge the divide between nations on climate policy after a frustrating Cop summit that didn’t reach a final agreement…",
-   "link": "https://www.theguardian.com/australia-news/live/2026/nov/23/anthony-albanese-digital-duty-of-care-labor-greens-coalition-one-nation-angus-taylor-pauline-hanson-penny-wong-ai-ntwnfb",
-   "source": "The Guardian World",
-   "published": "2026-11-23T00:09:46Z",
+   "title": "Investors gives a thumbs down to Tata Steel-APL Apollo $1.67 billion deal, plunging shares",
+   "summary": "Tata Steel will buy a 26.4% stake in India's leading structural steel pipes and tubes maker to boost downstream capacity.",
+   "link": "https://www.cnbc.com/2026/11/23/tata-steel-acquisition-deal-apl-india.html",
+   "source": "CNBC World",
+   "published": "2026-11-23T07:25:24Z",
+   "region": "Asia-Pacific",
+   "category": "economy"
+  },
+  {
+   "title": "MotoGP maestro Marquez makes history with eighth premier-class world title",
+   "summary": "His eighth success in the premier class of motorcycling pulled Marc Marquez level with Italian great Giacomo Agostini.",
+   "link": "https://www.aljazeera.com/sports/2026/11/23/marc-marquez-motogp-world-title-eighth-premier-class-motorcyling-portugal-gp?traffic_source=rss",
+   "source": "Al Jazeera",
+   "published": "2026-11-23T07:19:47Z",
+   "region": "Europe",
+   "category": "news"
+  },
+  {
+   "title": "India-Pakistan cricket fans want ‘dirty politics’ kept out of beloved sport",
+   "summary": "Cricket's die-hard fans say players are being forced to take part in acts of aggression for the benefit of politicians.",
+   "link": "https://www.aljazeera.com/sports/2026/11/23/india-pakistan-cricket-fans-want-dirty-politics-kept-out-of-beloved-sport?traffic_source=rss",
+   "source": "Al Jazeera",
+   "published": "2026-11-23T07:07:33Z",
    "region": "Asia-Pacific",
    "category": "news"
+  },
+  {
+   "title": "Burnham to tell MPs 'landmark' EU deal could make next decade 'much better'",
+   "summary": "The prime minister will tell MPs the deal agreed on Friday is a \"choice between a broken status quo or change\".",
+   "link": "https://www.bbc.co.uk/news/articles/cmde1dy82lepo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "published": "2026-11-23T07:01:31Z",
+   "region": "Europe",
+   "category": "news"
+  },
+  {
+   "title": "Grieving families getting into debt and doing without memorials due to benefit freezes",
+   "summary": "MPs to discuss bereavement support as financial help for funeral expenses and bereaved families fails to keep pace with costs Bereaved families are borrowing money or forgoing a service with mourners because financial help available from the state no longer covers even half a typical funeral…",
+   "link": "https://www.theguardian.com/money/2026/nov/23/grieving-families-getting-into-debt-and-doing-without-memorials-due-to-benefit-freezes",
+   "source": "The Guardian World",
+   "published": "2026-11-23T07:00:50Z",
+   "region": "Global",
+   "category": "news"
+  },
+  {
+   "title": "How Asian countries are looking to prop up markets as AI downturn sinks stocks",
+   "summary": "Market regulators in South Korea, China and Taiwan have introduced new measures to support markets.",
+   "link": "https://www.cnbc.com/2026/11/23/asia-markets-kospi-taiwan-china-csi300.html",
+   "source": "CNBC World",
+   "published": "2026-11-23T06:50:48Z",
+   "region": "Asia-Pacific",
+   "category": "economy"
+  },
+  {
+   "title": "How Ireland resisted British rule through sport",
+   "summary": "Game Theory explores how traditional Irish sport became part of a much bigger struggle to protect its heritage",
+   "link": "https://www.aljazeera.com/video/game-theory/2026/11/23/how-ireland-resisted-british-rule-through-sport?traffic_source=rss",
+   "source": "Al Jazeera",
+   "published": "2026-11-23T06:47:10Z",
+   "region": "Europe",
+   "category": "news"
+  },
+  {
+   "title": "Monday briefing: What could Andy Burnham’s reset mean for the UK?",
+   "summary": "In today’s newsletter: The prime minister has reopened the debate over a future relationship with a changed EU – as the bloc faces the rise of the far right, a protectionist economic agenda and growing defence ambitions Good morning. Nobody really wants to think about Brexit any more, save for the…",
+   "link": "https://www.theguardian.com/world/2026/nov/23/monday-briefing-what-could-andy-burnhams-reset-mean-for-the-uk",
+   "source": "The Guardian World",
+   "published": "2026-11-23T06:46:49Z",
+   "region": "Europe",
+   "category": "news"
+  },
+  {
+   "title": "Is the global far right really in retreat?",
+   "summary": "Electoral defeats alone will not dismantle the political forces that brought the far right to power.",
+   "link": "https://www.aljazeera.com/opinions/2026/11/23/is-the-global-far-right-really-in-retreat?traffic_source=rss",
+   "source": "Al Jazeera",
+   "published": "2026-11-23T06:44:00Z",
+   "region": "Global",
+   "category": "news"
+  },
+  {
+   "title": "Ligue 1: Marseille lose to Le Mans after being up 2 goals at home",
+   "summary": "Olympique de Marseille suffered a home defeat against Le Mans (3–2). Having led 2-0 after 40 minutes thanks to goals from Gouiri (33’) and Paixão (40’), OM collapsed.",
+   "link": "https://www.france24.com/en/tv-shows/sports/20261123-ligue-1-marseille-lose-to-le-mans-after-being-up-2-goals-at-home",
+   "source": "France 24",
+   "published": "2026-11-23T06:41:41Z",
+   "region": "Global",
+   "category": "news"
+  },
+  {
+   "title": "Alcaraz storms past world number one Zverev to win maiden ATP Finals title",
+   "summary": "Alcaraz joins an exclusive list, becoming one of only four men to have won all four majors and the ATP Finals.",
+   "link": "https://www.aljazeera.com/sports/2026/11/23/carlos-alcaraz-atp-finals-2026-title-alexander-zverev-tennis?traffic_source=rss",
+   "source": "Al Jazeera",
+   "published": "2026-11-23T06:15:40Z",
+   "region": "Global",
+   "category": "news"
+  },
+  {
+   "title": "NSW MP Alex Greenwich drops support for Fred Nile state funeral after blowback from LGBTQ+ community – as it happened",
+   "summary": "This blog is now closed ‘Very difficult to bridge that divide’: Murray Watt Cabinet minister Murray Watt says it’s increasingly difficult to bridge the divide between nations on climate policy after a frustrating Cop summit that didn’t reach a final agreement. It’s obviously a very deeply…",
+   "link": "https://www.theguardian.com/australia-news/live/2026/nov/23/anthony-albanese-digital-duty-of-care-labor-greens-coalition-one-nation-angus-taylor-pauline-hanson-penny-wong-ai-ntwnfb",
+   "source": "The Guardian World",
+   "published": "2026-11-23T06:13:21Z",
+   "region": "Global",
+   "category": "news"
+  },
+  {
+   "title": "Live: Zelensky confirms Ukraine’s military struck Russian ships docked in Libya",
+   "summary": "Ukraine’s military was responsible for drone attacks on two Russian vessels docked at the Libyan port of Benghazi Sunday, President Volodymyr Zelensky confirmed Monday. The president alleged that the Russian corvette Merkury had been sunk in the attack. Follow our liveblog for all the latest…",
+   "link": "https://www.france24.com/en/europe/20261123-live-russian-strikes-kill-at-least-15-people-in-kyiv-region-ukraine-says",
+   "source": "France 24",
+   "published": "2026-11-23T06:10:26Z",
+   "region": "Europe",
+   "category": "conflict"
+  },
+  {
+   "title": "As Syria-EU talks progress, diplomats fear focus will be on repatriation",
+   "summary": "Syria and the EU are in talks on trade and political ties, but migration will likely be the key issue for discussion.",
+   "link": "https://www.aljazeera.com/features/2026/11/23/as-syria-eu-talks-progress-diplomats-fear-focus-will-be-on-repatriation?traffic_source=rss",
+   "source": "Al Jazeera",
+   "published": "2026-11-23T06:08:13Z",
+   "region": "Middle East",
+   "category": "news"
+  },
+  {
+   "title": "Man swaps Australia for south Wales over 'unreal' house prices as locals struggle to buy",
+   "summary": "The area has attracted investors and even a buyer from Australia, but locals struggle to afford homes.",
+   "link": "https://www.bbc.co.uk/news/articles/cjkgkdppk1nwo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC Business",
+   "published": "2026-11-23T06:03:32Z",
+   "region": "Asia-Pacific",
+   "category": "economy"
+  },
+  {
+   "title": "Burnham not ‘backtracking’ on creating closer links with EU, officials say",
+   "summary": "Government wants to let trade deal ‘breathe a bit’, insiders say, after speculation No 10 is dialling back ambitions Andy Burnham is not backtracking or delaying his ambitions to create even closer links with the EU in the wake of a landmark summit in Brussels, the Guardian has been told, after…",
+   "link": "https://www.theguardian.com/politics/2026/nov/23/andy-burnham-not-backtracking-creating-closer-links-eu-officials-say",
+   "source": "The Guardian World",
+   "published": "2026-11-23T06:00:50Z",
+   "region": "Europe",
+   "category": "news"
+  },
+  {
+   "title": "MPs urge Miliband to force UK overseas territories to publish public company registers",
+   "summary": "Improvements in corporate transparency ‘essential’ amid ‘outright disregard for the will of parliament’, says cross-party group Ed Miliband is being urged by MPs to use his powers to force overseas territories such as the British Virgin Islands to publish public company ownership registers – almost…",
+   "link": "https://www.theguardian.com/world/2026/nov/23/mps-urge-miliband-force-uk-overseas-territories-publish-public-company-registers",
+   "source": "The Guardian World",
+   "published": "2026-11-23T06:00:47Z",
+   "region": "Europe",
+   "category": "news"
+  },
+  {
+   "title": "New Zealand’s Mitchell, Phillips frustrate India as first Test ends in draw",
+   "summary": "New Zealand rescued a draw on the final day, surviving 120 overs in a fighting display to finish on 239-5 at the close.",
+   "link": "https://www.aljazeera.com/sports/2026/11/23/new-zealand-india-first-test-cricket-wtc-phillips-mitchell-nicholls?traffic_source=rss",
+   "source": "Al Jazeera",
+   "published": "2026-11-23T05:58:36Z",
+   "region": "Asia-Pacific",
+   "category": "conflict"
+  },
+  {
+   "title": "Who is Alberto Feijoo, the conservative seeking to become Spain’s new PM?",
+   "summary": "The former career civil servant hopes to lead his Popular Party to victory in November 29 elections.",
+   "link": "https://www.aljazeera.com/news/2026/11/23/who-is-alberto-feijoo-the-conservative-seeking-to-become-spains-new-pm?traffic_source=rss",
+   "source": "Al Jazeera",
+   "published": "2026-11-23T05:51:00Z",
+   "region": "Europe",
+   "category": "news"
+  },
+  {
+   "title": "At least 24 killed and dozens missing in confectionery factory fire in Indonesia",
+   "summary": "Rescuers brave unstable structures in search for missing as DNA needed to identify victims Indonesia has confirmed the deaths of 24 people in a fire that tore ⁠through a factory, as rescuers braved unstable structures in the burned wreckage to search for ⁠about 30 people ⁠still missing. Authorities…",
+   "link": "https://www.theguardian.com/world/2026/nov/22/fire-confectionary-factory-indonesia-jakarta",
+   "source": "The Guardian World",
+   "published": "2026-11-23T05:45:12Z",
+   "region": "Asia-Pacific",
+   "category": "conflict"
+  },
+  {
+   "title": "Israeli attacks on medics in occupied West Bank surge by 350%: Rights group",
+   "summary": "Physicians for Human Rights Israel says medics face 'dangerous escalation' in violence from soldiers and settlers.",
+   "link": "https://www.aljazeera.com/news/2026/11/23/israeli-attacks-on-medics-in-occupied-west-bank-surge-by-350-rights-group?traffic_source=rss",
+   "source": "Al Jazeera",
+   "published": "2026-11-23T05:38:01Z",
+   "region": "Middle East",
+   "category": "conflict"
+  },
+  {
+   "title": "What's next after no deal at COP31 climate talks?",
+   "summary": "The talks have been the longest-running in the summit's history, with negotiations breaking down two days after they had been due to end.",
+   "link": "https://www.bbc.co.uk/news/videos/cr1ewge81q4qo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "published": "2026-11-23T05:34:39Z",
+   "region": "Global",
+   "category": "news"
+  },
+  {
+   "title": "Boy, 7, pulled alive from rubble hours after Russian strike on Ukraine, rescuers say",
+   "summary": "Eleven people are dead in the attack on Dymer, with rescue efforts ongoing to find those still missing from the residential building.",
+   "link": "https://www.bbc.co.uk/news/articles/cqdr15l32d3go?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "published": "2026-11-23T05:33:17Z",
+   "region": "Europe",
+   "category": "conflict"
+  },
+  {
+   "title": "Longest-ever UN climate talks end with no deal as deep divisions exposed",
+   "summary": "The prime minister of Australia, which co-hosted COP31, attributed the failure to \"difficult geopolitical times\".",
+   "link": "https://www.bbc.co.uk/news/articles/cqwy06zrd26lo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "published": "2026-11-23T05:15:06Z",
+   "region": "Asia-Pacific",
+   "category": "news"
+  },
+  {
+   "title": "U.S. probes Megaspeed, Alice Huang as new figure emerges in Nvidia chip case",
+   "summary": "The U.S. is investigating Megaspeed and Alice Huang after it emerged a former associate of hers was reportedly \"deeply involved\" in the firm's activities",
+   "link": "https://www.cnbc.com/2026/11/23/nvidia-megaspeed-chipmaker-us.html",
+   "source": "CNBC World",
+   "published": "2026-11-23T05:08:03Z",
+   "region": "Global",
+   "category": "economy"
+  },
+  {
+   "title": "Fewer than half in UK will pay TV licence fee within a decade, report warns",
+   "summary": "Analysis for thinktank points to cycle of falling income leading to lower spending on content in ‘spiral of decline’ Fewer than half of households in Britain will pay the BBC’s licence within a decade, according to analysis that warns that the broadcaster’s funding is locked in a “spiral of…",
+   "link": "https://www.theguardian.com/media/2026/nov/23/bbc-tv-licence-fee-spiral-of-decline-report",
+   "source": "The Guardian World",
+   "published": "2026-11-23T05:00:48Z",
+   "region": "Europe",
+   "category": "news"
+  },
+  {
+   "title": "Love made a fool of Beau Lamarre-Condon but did not make him a murderer, defence argues",
+   "summary": "Crown says accused former officer developed ‘jealous obsession’ but defence says ‘he was a poorly behaved boyfriend’ Follow our Australia politics live blog for latest updates Get our breaking news email , free app or daily news podcast Love made a fool of Beau Lamarre-Condon, but it did not make…",
+   "link": "https://www.theguardian.com/australia-news/2026/nov/23/beau-lamarre-condon-trail-executed-jesse-baird-prosecution-argues-ntwnfb",
+   "source": "The Guardian World",
+   "published": "2026-11-23T04:34:11Z",
+   "region": "Asia-Pacific",
+   "category": "news"
+  },
+  {
+   "title": "‘Difficult geopolitical times’: Albanese defends Bowen after Cop31 deal failure",
+   "summary": "Coalition calls for climate change minister to resign immediately or be sacked over ‘catastrophic diplomatic disaster’, despite offering no alternatives on reducing emissions Sign up for climate and environment editor Adam Morton’s free Clear Air newsletter here Anthony Albanese has defended Chris…",
+   "link": "https://www.theguardian.com/australia-news/2026/nov/23/difficult-geopolitical-times-albanese-defends-bowen-after-cop31-deal-failure",
+   "source": "The Guardian World",
+   "published": "2026-11-23T04:21:00Z",
+   "region": "Global",
+   "category": "news"
+  },
+  {
+   "title": "Pip assessments need 'fundamental overhaul', report to say",
+   "summary": "Disability minister Sir Stephen Timms says he will recommend major reforms to the personal independence payment.",
+   "link": "https://www.bbc.co.uk/news/articles/cvlyj3rn201xo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC Business",
+   "published": "2026-11-23T04:01:13Z",
+   "region": "Global",
+   "category": "economy"
+  },
+  {
+   "title": "Yemen's Houthis claim attacks on Saudi oil refinery as Trump warns of new strikes next year",
+   "summary": "Yemen's Iran-aligned Houthis claimed an operation against Saudi Arabia's Rabigh oil refinery, as diplomatic efforts to end the war face long odds.",
+   "link": "https://www.cnbc.com/2026/11/23/trump-iran-war-hormuz-saudi-.html",
+   "source": "CNBC World",
+   "published": "2026-11-23T03:52:17Z",
+   "region": "Middle East",
+   "category": "conflict"
+  },
+  {
+   "title": "Explosion on Russian ship at Libya port caused by suspected drone attack, officials say",
+   "summary": "Libya's eastern government says the ship had stopped for fuel and supplies on its way back to Russia.",
+   "link": "https://www.bbc.co.uk/news/articles/cr894gjz0j0yo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "published": "2026-11-23T02:59:35Z",
+   "region": "Europe",
+   "category": "conflict"
+  },
+  {
+   "title": "Thousands rally in Istanbul against Turkey’s crackdown on opposition and media",
+   "summary": "Thousands marched in Istanbul on Sunday against a widening crackdown on Turkey’s opposition and independent media, days after police raided Sozcu TV and arrested senior staff. The main opposition Yeni Parti organised the protest after authorities installed a government-appointed trustee at the…",
+   "link": "https://www.france24.com/en/asia-pacific/20261123-istanbul-turkey-crackdown-opposition-media-turkey",
+   "source": "France 24",
+   "published": "2026-11-23T02:15:34Z",
+   "region": "Middle East",
+   "category": "news"
+  },
+  {
+   "title": "Democrats win largest House majority since 1992 after flipping North Carolina seat",
+   "summary": "Democrats have now won at least 258 seats in the midterms compared to Republicans, who hold at least 173 seats.",
+   "link": "https://www.bbc.co.uk/news/articles/c6vg29g7dlyno?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "published": "2026-11-23T01:23:43Z",
+   "region": "Global",
+   "category": "news"
+  },
+  {
+   "title": "Energy bills will soar - here's how you can ease the pain",
+   "summary": "Household energy bills are about to increase but there are ways to keep a lid on your expenditure.",
+   "link": "https://www.bbc.co.uk/news/articles/crm4rygl4m3o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC Business",
+   "published": "2026-11-23T01:05:07Z",
+   "region": "Global",
+   "category": "economy"
+  },
+  {
+   "title": "Christmas market returns to Paris' Champs Elysées",
+   "summary": "France 24's Jamie Smith-Maillet reports from the opening of the Paris Christmas market on the Champs Elysées.",
+   "link": "https://www.france24.com/en/video/20261123-christmas-market-returns-to-paris-champs-elys%C3%A9es",
+   "source": "France 24",
+   "published": "2026-11-23T00:46:47Z",
+   "region": "Europe",
+   "category": "economy"
+  },
+  {
+   "title": "France's far-right leader Le Pen denies receiving secrets from civil servant",
+   "summary": "French far-right leader Marine Le Pen Sunday denied receiving confidential information from a civil servant suspected of leaking details of investigations to her National Rally (RN) party, while acknowledging she could not say whether others in the party had benefited.",
+   "link": "https://www.france24.com/en/video/20261123-france-s-far-right-leader-le-pen-denies-receiving-secrets-from-civil-servant",
+   "source": "France 24",
+   "published": "2026-11-23T00:46:03Z",
+   "region": "Europe",
+   "category": "news"
+  },
+  {
+   "title": "COP31 climate talks in Turkey collapse",
+   "summary": "EU member states on Sunday objected to adopting an 11th-hour deal that omitted explicit references to fossil fuels, the bloc's presidency said. The issue remains a major point of contention at the summit, which is taking place amid soaring energy prices and geopolitical tensions fuelled by the war…",
+   "link": "https://www.france24.com/en/video/20261123-cop31-climate-talks-collapse",
+   "source": "France 24",
+   "published": "2026-11-23T00:44:47Z",
+   "region": "Middle East",
+   "category": "conflict"
+  },
+  {
+   "title": "Drone strikes hit homes, United Nations building in Sudan's capital",
+   "summary": "Drone strikes damaged residential homes and a United Nations building in Sudan's capital Khartoum early Sunday, with the army accusing neighbouring Ethiopia of launching the attacks. The strikes came as drone warfare intensifies in the country's conflict, now in its fourth year.",
+   "link": "https://www.france24.com/en/video/20261123-drone-strikes-hit-homes-united-nations-building-in-sudan-s-capital",
+   "source": "France 24",
+   "published": "2026-11-23T00:43:36Z",
+   "region": "Africa",
+   "category": "conflict"
+  },
+  {
+   "title": "3 big things we're watching in the market this Thanksgiving week",
+   "summary": "Can the AI trade rebound? Plus, a big week for retail activity and Fed policy discussion.",
+   "link": "https://www.cnbc.com/investingclub/2026/11/22/3-big-things-were-watching-in-the-market-this-thanksgiving-week.html",
+   "source": "CNBC World",
+   "published": "2026-11-23T00:42:54Z",
+   "region": "Americas",
+   "category": "economy"
+  },
+  {
+   "title": "Italian jeweller and businessman Paolo Bulgari dies aged 89",
+   "summary": "In a statement to Italian media, his family remember him as \"the greatest jeweller of our time\".",
+   "link": "https://www.bbc.co.uk/news/articles/c8e39qk5vrpdo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "published": "2026-11-23T00:33:36Z",
+   "region": "Europe",
+   "category": "news"
+  },
+  {
+   "title": "What is going on with Poundland?",
+   "summary": "Poundland has a matter of days to find a buyer or face collapsing into administration. Why?",
+   "link": "https://www.bbc.co.uk/news/articles/cm4g10p2r0g9o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC Business",
+   "published": "2026-11-23T00:22:27Z",
+   "region": "Global",
+   "category": "economy"
   },
   {
    "title": "San Francisco is enjoying an AI boom, but worries about a crash are growing",
    "summary": "AI employees in the industry's epicentre - San Francisco - worry that the sector is overheated.",
    "link": "https://www.bbc.co.uk/news/articles/cqe9k09j9jv4o?at_medium=RSS&at_campaign=rss",
-   "source": "BBC Business",
+   "source": "BBC World",
    "published": "2026-11-23T00:08:00Z",
    "region": "Global",
-   "category": "economy"
-  },
-  {
-   "title": "Energy bills will soar - here's how you can ease the pain",
-   "summary": "Household energy bills are about to soar but there are ways to keep a lid on your expenditure.",
-   "link": "https://www.bbc.co.uk/news/articles/crm4rygl4m3o?at_medium=RSS&at_campaign=rss",
-   "source": "BBC Business",
-   "published": "2026-11-23T00:05:29Z",
-   "region": "Global",
-   "category": "economy"
-  },
-  {
-   "title": "Tributes flow for Molly Meldrum: Human Nature, Jason Donovan and others remember music industry great",
-   "summary": "Peter Andre, Richard Wilkins and Kate Ceberano share memories of ‘a truly unique character’ and ‘the fan all artists wish to have’ Molly Meldrum, Countdown host and promoter of Australian music, dies aged 83 Molly Meldrum – a life in pictures Ian ‘Molly’ Meldrum – obituary Friends and fans of Molly…",
-   "link": "https://www.theguardian.com/music/2026/nov/23/molly-meldrum-music-industry-tributes",
-   "source": "The Guardian World",
-   "published": "2026-11-23T00:03:15Z",
-   "region": "Asia-Pacific",
-   "category": "news"
-  },
-  {
-   "title": "Iran war live: Tankers set ablaze in Hormuz as IRGC warns of unrest threat",
-   "summary": "Iran's navy claims tankers contravening its rules were set ablaze, while the IRGC said 'enemies' sought to stoke unrest.",
-   "link": "https://www.aljazeera.com/news/liveblog/2026/11/22/iran-war-live-tankers-set-ablaze-in-hormuz-as-irgc-warns-of-unrest-threat?traffic_source=rss",
-   "source": "Al Jazeera",
-   "published": "2026-11-22T23:59:22Z",
-   "region": "Middle East",
-   "category": "conflict"
-  },
-  {
-   "title": "Mystery of the red stream in Turkiye",
-   "summary": "The Degirmendere Stream in Rize, Turkiye has turned red and prompted investigations by local authorities.",
-   "link": "https://www.aljazeera.com/video/newsfeed/2026/11/22/mystery-of-the-red-stream-in-turkiye?traffic_source=rss",
-   "source": "Al Jazeera",
-   "published": "2026-11-22T23:57:58Z",
-   "region": "Global",
-   "category": "news"
-  },
-  {
-   "title": "Lion on the loose in Turkiye sparks fear among residents",
-   "summary": "Lion on the loose in Turkiye sparks fear among residents",
-   "link": "https://www.aljazeera.com/video/newsfeed/2026/11/22/lion-on-the-loose-in-turkiye-sparks-fear-among-residents?traffic_source=rss",
-   "source": "Al Jazeera",
-   "published": "2026-11-22T23:40:48Z",
-   "region": "Global",
-   "category": "news"
-  },
-  {
-   "title": "Trump criticises Schumer amid push for new Democrat leadership in US Senate",
-   "summary": "Schumer, who has led the Democrats since 2017, faces a challenge from Chris Van Hollen in his bid for majority leader.",
-   "link": "https://www.aljazeera.com/news/2026/11/22/trump-criticises-schumer-amid-push-for-new-democrat-leadership-in-us-senate?traffic_source=rss",
-   "source": "Al Jazeera",
-   "published": "2026-11-22T23:22:59Z",
-   "region": "Americas",
    "category": "news"
   },
   {
@@ -115,193 +421,13 @@
    "category": "conflict"
   },
   {
-   "title": "'Danger seems greater all the time': Ukrainians search for missing after Russian strikes",
-   "summary": "The BBC's Sarah Rainsford reports from the scene of a collapsed residential building in Ukraine's Kyiv region.",
-   "link": "https://www.bbc.co.uk/news/videos/cre3dvd1k9y1o?at_medium=RSS&at_campaign=rss",
-   "source": "BBC World",
-   "published": "2026-11-22T22:37:43Z",
-   "region": "Europe",
-   "category": "conflict"
-  },
-  {
-   "title": "Trump to host private dinner for largest owners of his meme coin",
-   "summary": "Sunday's dinner is the third event for top holders of the $Trump meme coin, launched shortly before his inauguration.",
-   "link": "https://www.aljazeera.com/news/2026/11/22/trump-to-host-private-dinner-for-largest-owners-of-his-meme-coin?traffic_source=rss",
-   "source": "Al Jazeera",
-   "published": "2026-11-22T22:37:38Z",
-   "region": "Americas",
-   "category": "news"
-  },
-  {
-   "title": "Molly Meldrum, Countdown host and promoter of Australian music, dies aged 83",
-   "summary": "Much-loved broadcaster played a critical role in exposing rest of the world to Australian music – and vice versa Tributes flow for Molly Meldrum: Human Nature, Jason Donovan and others remember music industry great Molly Meldrum – a life in pictures Ian ‘Molly’ Meldrum – obituary Molly Meldrum, the…",
-   "link": "https://www.theguardian.com/music/2026/nov/23/molly-meldrum-dies-aged-83",
-   "source": "The Guardian World",
-   "published": "2026-11-22T22:24:56Z",
-   "region": "Asia-Pacific",
-   "category": "news"
-  },
-  {
-   "title": "Democrats win largest House majority since 1992 with North Carolina seat",
-   "summary": "At least 258 US House seats are now under Democratic control, with four more midterm races yet to be decided.",
-   "link": "https://www.aljazeera.com/news/2026/11/22/democrats-win-largest-house-majority-since-1992-with-north-carolina-seat?traffic_source=rss",
-   "source": "Al Jazeera",
-   "published": "2026-11-22T22:19:47Z",
-   "region": "Americas",
-   "category": "news"
-  },
-  {
-   "title": "Second ship targeted in series of naval drone attacks off Libyan coast",
-   "summary": "A second attack has been reported on a commercial vessel flying a Maltese flag off Benghazi.",
-   "link": "https://www.aljazeera.com/video/newsfeed/2026/11/22/second-ship-targeted-in-series-of-naval-drone-attacks-off-libyan-coast?traffic_source=rss",
-   "source": "Al Jazeera",
-   "published": "2026-11-22T22:01:48Z",
-   "region": "Africa",
-   "category": "conflict"
-  },
-  {
-   "title": "Abdul El-Sayed doubles down on ‘TrumpCare’ health plan, urging president to ‘get it done’",
-   "summary": "Democratic senator-elect reiterates suggestion to rename Medicare for All after Trump if president allows bill to pass Michigan US senator-elect Abdul El-Sayed on Sunday doubled down on naming healthcare reform legislation after Donald Trump as long as it meant the president would not impede its…",
-   "link": "https://www.theguardian.com/us-news/2026/nov/22/abdul-el-sayed-trump-care-health-proposal-name",
-   "source": "The Guardian World",
-   "published": "2026-11-22T22:01:17Z",
-   "region": "Americas",
-   "category": "news"
-  },
-  {
-   "title": "Theresa May’s blast from the past calls Tories back to their unhappy place | Peter Walker",
-   "summary": "Conservatives may instinctively want to push back against closer EU ties, but they have to train their focus elsewhere Anyone who accidentally switched to BBC One at about 9.45am on Sunday to be greeted by Theresa May awkwardly espousing the virtues of Brexit could have been forgiven for thinking…",
-   "link": "https://www.theguardian.com/politics/2026/nov/22/theresa-may-blast-from-the-past-tories-brexit",
-   "source": "The Guardian World",
-   "published": "2026-11-22T22:00:58Z",
-   "region": "Europe",
-   "category": "news"
-  },
-  {
-   "title": "Cop31 left Chris Bowen stuck between petrostates and climate reality. But the f-word failure is not his alone",
-   "summary": "Australia’s climate change minister will face a torrent of criticism over his role, but disagreement over fossil fuels proved an unbridgeable sticking point After delivering a major speech to the UN climate talks in Turkey last week, the Australian prime minister, Anthony Albanese, dismissed…",
-   "link": "https://www.theguardian.com/environment/2026/nov/23/cop31-left-chris-bowen-stuck-between-petrostates-and-climate-reality-but-the-failure-to-say-the-f-word-is-not-his-alone",
-   "source": "The Guardian World",
-   "published": "2026-11-22T21:46:40Z",
-   "region": "Asia-Pacific",
-   "category": "news"
-  },
-  {
-   "title": "Russian warship sinks in Benghazi after suspected Ukrainian drone attack",
-   "summary": "No one has claimed responsibility for the strike on the vessel, which had docked on its way back to Russia A Russian warship docked in the Libyan port city of Benghazi was struck in the early hours of Sunday in a suspected Ukrainian sea drone attack, causing a dramatic night-time explosion and the…",
-   "link": "https://www.theguardian.com/world/2026/nov/22/blast-russian-ship-suspected-drone-attack-benghazi-libya",
-   "source": "The Guardian World",
-   "published": "2026-11-22T21:33:44Z",
-   "region": "Europe",
-   "category": "conflict"
-  },
-  {
-   "title": "Netanyahu’s Likud, Eisenkot’s Yashar end coalition talks without deal",
-   "summary": "Parties remain split over who will lead the next government and whether far-right minister Itamar Ben-Gvir will join.",
-   "link": "https://www.aljazeera.com/news/2026/11/22/netanyahus-likud-eisenkots-yashar-end-coalition-talks-without-deal?traffic_source=rss",
-   "source": "Al Jazeera",
-   "published": "2026-11-22T21:33:11Z",
-   "region": "Middle East",
-   "category": "news"
-  },
-  {
    "title": "Israel’s Eisenkot slams ‘Jewish terrorism’ after attacks by settlers in West Bank",
-   "summary": "Israeli opposition leader Gadi Eisenkot on Sunday condemned arson attacks by settlers on Palestinian villages in the West Bank as “Jewish terrorism.” Israeli police said they opened an investigation into the attacks, which came nearly a month after an inconclusive election stripped incumbent Prime…",
+   "summary": "Israeli opposition leader Gadi Eisenkot on Sunday condemned arson attacks by settlers on Palestinian villages in the West Bank as “Jewish terrorism”. Israeli police said they opened an investigation into the attacks, which came nearly a month after an inconclusive election stripped incumbent Prime…",
    "link": "https://www.france24.com/en/middle-east/20261122-israel-s-eisenkot-slams-jewish-terrorism-after-attacks-by-settlers-in-west-bank",
    "source": "France 24",
    "published": "2026-11-22T21:29:16Z",
    "region": "Middle East",
    "category": "conflict"
-  },
-  {
-   "title": "Heartbreak in US capital as Washington Spirit lose women’s football final",
-   "summary": "KC Current win NWSL championship as Spirit lose third consecutive final despite playing in front of rowdy home crowd.",
-   "link": "https://www.aljazeera.com/sports/2026/11/22/heartbreak-in-us-capital-as-washington-spirit-lose-womens-football-final?traffic_source=rss",
-   "source": "Al Jazeera",
-   "published": "2026-11-22T21:26:12Z",
-   "region": "Americas",
-   "category": "news"
-  },
-  {
-   "title": "Miley Cyrus marries Maxx Morando in California ceremony",
-   "summary": "The couple have been together for four years and were engaged in 2025.",
-   "link": "https://www.bbc.co.uk/news/articles/cq8e0p87l89lo?at_medium=RSS&at_campaign=rss",
-   "source": "BBC World",
-   "published": "2026-11-22T21:22:40Z",
-   "region": "Global",
-   "category": "news"
-  },
-  {
-   "title": "US intelligence chief says he trusts Trump’s description of Putin as ‘my friend’",
-   "summary": "Jay Clayton was pressed on Trump’s characterization of Putin during media appearances on Sunday Jay Clayton, the US director of national intelligence, said he trusts Donald Trump “completely” after the US president called Vladimir Putin “a friend” during their recent meeting in China. Clayton made…",
-   "link": "https://www.theguardian.com/us-news/2026/nov/22/intelligence-chief-jay-clayton-trump-putin-my-friend",
-   "source": "The Guardian World",
-   "published": "2026-11-22T20:55:33Z",
-   "region": "Americas",
-   "category": "news"
-  },
-  {
-   "title": "Explosion on Russian ship at Libya port caused by suspected drone attack, officials say",
-   "summary": "Libya's eastern government says the ship had stopped for fuel and supplies on its way back to Russia.",
-   "link": "https://www.bbc.co.uk/news/articles/cr894gjz0j0yo?at_medium=RSS&at_campaign=rss",
-   "source": "BBC World",
-   "published": "2026-11-22T20:28:09Z",
-   "region": "Europe",
-   "category": "conflict"
-  },
-  {
-   "title": "Democrats win largest House majority since 1992 after flipping North Carolina seat",
-   "summary": "Democrats have now won at least 258 seats in the midterms compared to Republicans, who hold at least 173 seats.",
-   "link": "https://www.bbc.co.uk/news/articles/c6vg29g7dlyno?at_medium=RSS&at_campaign=rss",
-   "source": "BBC World",
-   "published": "2026-11-22T20:26:24Z",
-   "region": "Global",
-   "category": "news"
-  },
-  {
-   "title": "Jensen Huang’s reported affair was ‘most expensive sex since Helen of Troy’, US senator says",
-   "summary": "John Kennedy looks to Trump leaders as he asks how China evidently bypassed export controls for Nvidia’s top AI chips Invoking Greek mythology, US senator John Kennedy has characterized former Nvidia chief executive officer Jensen Huang ’s reported affair with a suspected Chinese spy as “the most…",
-   "link": "https://www.theguardian.com/us-news/2026/nov/22/jensen-huang-nvidia-john-kennedy",
-   "source": "The Guardian World",
-   "published": "2026-11-22T20:23:36Z",
-   "region": "Americas",
-   "category": "news"
-  },
-  {
-   "title": "Democrat Hubbard wins North Carolina recount, clinching historic House majority",
-   "summary": "Democrat Chuck Hubbard was elected to the US House of Representatives from North Carolina on Sunday after defeating veteran Republican Virginia Foxx, who chairs the powerful House Rules Committee. His victory gave Democrats their best general election result in decades, winning at least 258 seats…",
-   "link": "https://www.france24.com/en/americas/20261122-democrat-hubbard-wins-north-carolina-recount-clinching-historic-house-majority",
-   "source": "France 24",
-   "published": "2026-11-22T20:16:42Z",
-   "region": "Americas",
-   "category": "news"
-  },
-  {
-   "title": "Russian warship hit by suspected Ukrainian drone at Benghazi naval base, Libyan officials say",
-   "summary": "A Russian navy corvette docked at the Benghazi naval base ​in eastern Libya was hit on Sunday by a suspected Ukrainian sea drone, according to local officials, in what appeared to be the latest attack linked to the Russia-Ukraine war in the North African nation. Hours later, a cargo ship was also…",
-   "link": "https://www.france24.com/en/africa/20261122-russian-warship-hit-by-suspected-ukrainian-drone-at-libya-s-benghazi-naval-base",
-   "source": "France 24",
-   "published": "2026-11-22T19:41:23Z",
-   "region": "Europe",
-   "category": "conflict"
-  },
-  {
-   "title": "Burnham, 'Brejoin' & the Ghosts of Brexit",
-   "summary": "“The people of Britain have spoken, and the answer is: we are out.” The words of David Dimbleby at 4.40am on 24 June 2016, as the Brexit referendum result became clear. But nearly a decade on, is Britain changing its mind? Prime Minister Andy Burnham has reopened talks with Brussels, exploring…",
-   "link": "https://www.france24.com/en/tv-shows/spotlight/20261122-burnham-brejoin-the-ghosts-of-brexit",
-   "source": "France 24",
-   "published": "2026-11-22T19:37:13Z",
-   "region": "Europe",
-   "category": "news"
-  },
-  {
-   "title": "What's next after no deal at COP31 climate talks?",
-   "summary": "The talks have been the longest-running in the summit's history, with negotiations breaking down two days after they had been due to end.",
-   "link": "https://www.bbc.co.uk/news/videos/cr1ewge81q4qo?at_medium=RSS&at_campaign=rss",
-   "source": "BBC World",
-   "published": "2026-11-22T18:57:24Z",
-   "region": "Global",
-   "category": "news"
   },
   {
    "title": "Employees at Eric Trump-backed robot startup lose health benefits as company's cash crunch deepens",
@@ -311,33 +437,6 @@
    "published": "2026-11-22T18:55:05Z",
    "region": "Asia-Pacific",
    "category": "economy"
-  },
-  {
-   "title": "US Army to detonate tonnes of unstable explosives in Iowa despite court order",
-   "summary": "The Army says \"swift action\" is necessary to protect its personnel and nearby communities around its ammunition plant in Iowa.",
-   "link": "https://www.bbc.co.uk/news/articles/cvglrx764gdxo?at_medium=RSS&at_campaign=rss",
-   "source": "BBC World",
-   "published": "2026-11-22T18:29:46Z",
-   "region": "Americas",
-   "category": "conflict"
-  },
-  {
-   "title": "COP31 fails to reach major climate deal as talks expose deep divisions",
-   "summary": "The talks fail to make a breakthrough on tackling climate change after a row about mentioning fossil fuels.",
-   "link": "https://www.bbc.co.uk/news/articles/cqwy06zrd26lo?at_medium=RSS&at_campaign=rss",
-   "source": "BBC World",
-   "published": "2026-11-22T18:17:59Z",
-   "region": "Global",
-   "category": "news"
-  },
-  {
-   "title": "Le Pen denies receiving leaked information from French interior ministry official",
-   "summary": "French far-right leader Marine Le Pen on Sunday said she did not receive, nor ask for, confidential information on an investigation into her party from a senior interior ministry official. She however could not say if other party members had benefited from the leaks. Hugues Moutouh, the civil…",
-   "link": "https://www.france24.com/en/france/20261122-le-pen-denies-receiving-leaked-information-from-french-interior-ministry-official",
-   "source": "France 24",
-   "published": "2026-11-22T17:47:34Z",
-   "region": "Europe",
-   "category": "news"
   },
   {
    "title": "Lebanese villagers return to wrecked homes as the Israeli army pulls back",
@@ -358,22 +457,13 @@
    "category": "economy"
   },
   {
-   "title": "Ligue 1: PSG extend winning run at Nice (3-2) but lose Désiré Doué to injury",
-   "summary": "A bittersweet victory for PSG at Nice on Saturday evening. The Parisians strengthened their grip on top spot in Ligue 1, but lost Désiré Doué for several months after the forward suffered a serious knee injury.",
-   "link": "https://www.france24.com/en/tv-shows/sports/20261122-ligue-1-psg-extend-winning-run-at-nice-3-2-but-lose-d%C3%A9sir%C3%A9-dou%C3%A9-to-injury",
-   "source": "France 24",
-   "published": "2026-11-22T16:55:55Z",
-   "region": "Global",
-   "category": "news"
-  },
-  {
-   "title": "Drone strikes hit homes and UN building in Sudan's Khartoum",
-   "summary": "Drone strikes damaged residential homes and a United Nations building in Sudan's capital Khartoum early Sunday, with the army accusing neighbouring Ethiopia of launching the attacks. The strikes came as drone warfare intensifies in the country's conflict, now in its fourth year.",
-   "link": "https://www.france24.com/en/africa/20261122-drone-strikes-hit-homes-and-un-building-in-sudan-s-khartoum",
-   "source": "France 24",
-   "published": "2026-11-22T16:38:14Z",
-   "region": "Africa",
-   "category": "conflict"
+   "title": "Director of National Intelligence Jay Clayton warns Americans of 'bumps in the road' after tech outages",
+   "summary": "Clayton’s warning comes ahead of Thanksgiving travel, after separate outages disrupted air travel, Microsoft 365 and some bank transactions.",
+   "link": "https://www.cnbc.com/2026/11/22/jay-clayton-tech-outages-faa-microsoft-thanksgiving.html",
+   "source": "CNBC World",
+   "published": "2026-11-22T17:14:03Z",
+   "region": "Americas",
+   "category": "economy"
   },
   {
    "title": "Climate change talks fall apart in final hours over fossil fuels",
@@ -385,13 +475,13 @@
    "category": "news"
   },
   {
-   "title": "West Bank attacks: Opposition leader Eisenkot decries \"Jewish terrorism\"",
-   "summary": "Israeli authorities have opened an investigation after Palestinian vehicles and properties were set on fire in three villages in the occupied West Bank. Israeli soldiers were deployed to the area following the attacks, which local residents said were carried out by Israeli settlers. Gadi Eisenkot…",
-   "link": "https://www.france24.com/en/west-bank-attacks-opposition-leader-eisenkot-decries-jewish-terrorism",
-   "source": "France 24",
-   "published": "2026-11-22T16:25:09Z",
-   "region": "Middle East",
-   "category": "conflict"
+   "title": "26-year-old Google worker earns $323,000 a year—but lives on less than minimum wage",
+   "summary": "Charles Broomfield set a post-college goal of reaching $750,000 in investments by age 30. Now 26, he expects to get there within the next year.",
+   "link": "https://www.cnbc.com/make-it/2026/11/22/google-worker-earns-323000-a-yearbut-he-lives-on-minimum-wage.html",
+   "source": "CNBC World",
+   "published": "2026-11-22T14:00:01Z",
+   "region": "Global",
+   "category": "economy"
   },
   {
    "title": "Centrica boss says he is 'hugely concerned' over impact of soaring energy bills",
@@ -399,24 +489,6 @@
    "link": "https://www.bbc.co.uk/news/articles/c6jre7gpdw13o?at_medium=RSS&at_campaign=rss",
    "source": "BBC Business",
    "published": "2026-11-22T13:50:21Z",
-   "region": "Global",
-   "category": "economy"
-  },
-  {
-   "title": "Saudi Arabia, Bahrain report new attacks as Iran says it remains open to a deal with U.S.",
-   "summary": "Saudi Arabia said it destroyed a drone launched by Iran-backed Houthis, while Bahrain said an industrial facility was hit by Iranian projectiles.",
-   "link": "https://www.cnbc.com/2026/11/22/saudi-houthi-bahrain-iran-attacks-araghchi-talks.html",
-   "source": "CNBC World",
-   "published": "2026-11-22T13:25:47Z",
-   "region": "Middle East",
-   "category": "conflict"
-  },
-  {
-   "title": "Pizza chains are under pressure. GLP-1 use is only one part of the problem",
-   "summary": "Domino's, Papa Johns and Pizza Hut face weaker demand, more delivery competition and changing eating habits, including GLP-1 use.",
-   "link": "https://www.cnbc.com/2026/11/22/pizza-chains-sales-glp-1-demand.html",
-   "source": "CNBC World",
-   "published": "2026-11-22T13:00:01Z",
    "region": "Global",
    "category": "economy"
   },
@@ -439,24 +511,6 @@
    "category": "news"
   },
   {
-   "title": "MP criticises Guernsey and Jersey company ownership register plans",
-   "summary": "Sir Andrew Mitchell says access should be easier for people tackling financial crime.",
-   "link": "https://www.bbc.co.uk/news/articles/cqkgmy2nxy4lo?at_medium=RSS&at_campaign=rss",
-   "source": "BBC Business",
-   "published": "2026-11-22T07:22:05Z",
-   "region": "Global",
-   "category": "economy"
-  },
-  {
-   "title": "Italian jeweller and businessman Paolo Bulgari dies aged 89",
-   "summary": "In a statement to Italian media, his family remember him as \"the greatest jeweller of our time\".",
-   "link": "https://www.bbc.co.uk/news/articles/c8e39qk5vrpdo?at_medium=RSS&at_campaign=rss",
-   "source": "BBC Business",
-   "published": "2026-11-22T07:12:41Z",
-   "region": "Europe",
-   "category": "economy"
-  },
-  {
    "title": "Dozens missing as deadly fire hits Indonesian candy factory",
    "summary": "At least three people were killed in a devastating fire at a confectionery factory on Java. Officials said many more people remain unaccounted for, prompting fears of a much larger tragedy.",
    "link": "https://www.dw.com/en/dozens-missing-as-deadly-fire-hits-indonesian-candy-factory/a-80012342?maca=en-rss-en-world-4025-rdf",
@@ -464,24 +518,6 @@
    "published": "2026-11-22T06:14:00Z",
    "region": "Asia-Pacific",
    "category": "conflict"
-  },
-  {
-   "title": "Quantum computing’s first real-world payoff may come in energy, not drug discovery",
-   "summary": "Quantum computing firms are testing energy-grid optimization, solar materials and hydrogen catalysts as they pursue practical uses.",
-   "link": "https://www.cnbc.com/2026/11/22/quantum-computing-energy-applications.html",
-   "source": "CNBC World",
-   "published": "2026-11-22T06:00:01Z",
-   "region": "Global",
-   "category": "economy"
-  },
-  {
-   "title": "Employers are being asked to give interview feedback - here's what applicants want",
-   "summary": "People say they often hear nothing back after applying for jobs. But could employers be forced to respond to every applicant?",
-   "link": "https://www.bbc.co.uk/news/articles/cm2d94le23xyo?at_medium=RSS&at_campaign=rss",
-   "source": "BBC Business",
-   "published": "2026-11-22T00:04:07Z",
-   "region": "Global",
-   "category": "economy"
   },
   {
    "title": "What did Xi Jinping get from the bear hug with Trump at the Shenzhen summit?",
@@ -538,38 +574,11 @@
    "category": "conflict"
   },
   {
-   "title": "Anthropic’s record IPO collides with tech’s worst week on Wall Street since 2020",
-   "summary": "Anthropic held its historic Nasdaq debut a day before Nvidia's stock closed out its longest weekly losing streak since 2008.",
-   "link": "https://www.cnbc.com/2026/11/21/anthropic-ipo-tech-selloff.html",
-   "source": "CNBC World",
-   "published": "2026-11-21T16:40:05Z",
-   "region": "Americas",
-   "category": "economy"
-  },
-  {
    "title": "EU and Indonesia sign trade deal",
    "summary": "A deal covering 730 million people promises lower tariffs and new investment opportunities as the European Union seeks to diversify trade ties amid growing global economic tensions.",
    "link": "https://www.dw.com/en/eu-and-indonesia-sign-trade-deal/a-80010099?maca=en-rss-en-world-4025-rdf",
    "source": "DW World",
    "published": "2026-11-21T15:21:00Z",
-   "region": "Europe",
-   "category": "economy"
-  },
-  {
-   "title": "Tech outages are fueling a new doomsday economy",
-   "summary": "Recent technology outages have left some worried about AI cyberattacks and the U.S. electricity grid. The doomsday economy is heating up as a result.",
-   "link": "https://www.cnbc.com/2026/11/21/emergency-prep-spending-tech-outages.html",
-   "source": "CNBC World",
-   "published": "2026-11-21T15:04:56Z",
-   "region": "Global",
-   "category": "economy"
-  },
-  {
-   "title": "I never wanted the American Dream and I felt like something was wrong with me—until I moved abroad",
-   "summary": "\"I realized it was okay to want something different,\" says Cepee Tabibian, who moved to Spain in 2015 at age 35.",
-   "link": "https://www.cnbc.com/make-it/2026/11/21/never-wanted-american-dream-moving-abroad-redefine-success.html",
-   "source": "CNBC World",
-   "published": "2026-11-21T15:00:02Z",
    "region": "Europe",
    "category": "economy"
   },
@@ -599,24 +608,6 @@
    "published": "2026-11-21T14:18:17Z",
    "region": "Global",
    "category": "conflict"
-  },
-  {
-   "title": "An ‘illusion of glitz and glamour’: Inside California’s modern-day gold rush, where miners can bring in millions",
-   "summary": "The price of gold has sparked a modern-day gold rush in California. Small-scale miners are investing time, physical labor and money to unearth the yellow metal.",
-   "link": "https://www.cnbc.com/make-it/2026/11/21/california-mining-modern-gold-rush.html",
-   "source": "CNBC World",
-   "published": "2026-11-21T14:05:40Z",
-   "region": "Global",
-   "category": "economy"
-  },
-  {
-   "title": "Sessions offer advice on rising energy costs",
-   "summary": "A council is urging people to seek support with rising energy costs on heating this winter.",
-   "link": "https://www.bbc.co.uk/news/articles/cmy49l3x893jo?at_medium=RSS&at_campaign=rss",
-   "source": "BBC Business",
-   "published": "2026-11-21T12:09:49Z",
-   "region": "Global",
-   "category": "economy"
   },
   {
    "title": "Rejoining EU ‘on the table’ as UK makes deals on trade and young people",
@@ -679,33 +670,6 @@
    "source": "DW Business",
    "published": "2026-11-20T09:43:00Z",
    "region": "Europe",
-   "category": "economy"
-  },
-  {
-   "title": "UK government borrowing rises less than forecast in surprise boost for chancellor John Healey",
-   "summary": "UK economy defies City predictions and Iran war fallout, with gap between spending and income about £1bn lower than expected in October, at £17bn The UK government borrowed less than expected in October despite a rise in debt interest costs, in a boost for chancellor John Healey amid the pressure…",
-   "link": "https://www.theguardian.com/business/2026/nov/20/uk-government-borrowing-rises-less-than-forecast-in-surprise-boost-for-chancellor-john-healey",
-   "source": "The Guardian Economics",
-   "published": "2026-11-20T07:25:31Z",
-   "region": "Europe",
-   "category": "economy"
-  },
-  {
-   "title": "What impact has Brexit had on the UK and EU economies?",
-   "summary": "As talks are held in Brussels over closer relations, we examine the economic context and the challenges ahead The UK and EU will hold the second summit since Brexit on Friday against a volatile economic backdrop. Taking place in Brussels as the war in the Middle East hits the global economy, the…",
-   "link": "https://www.theguardian.com/business/2026/nov/20/what-impact-brexit-uk-eu-economies",
-   "source": "The Guardian Economics",
-   "published": "2026-11-20T07:00:26Z",
-   "region": "Europe",
-   "category": "economy"
-  },
-  {
-   "title": "Anthropic’s historic stock market debut: key takeaways, and what comes next for the AI industry",
-   "summary": "A record breaking IPO has raised billions for the AI frontier lab – but experts say the coming months could prove bumpy, as the industry faces a variety of challenges Anthropic closes first day of public trading at $1.3tn valuation after largest-ever IPO In the end, Anthropic’s much-anticipated IPO…",
-   "link": "https://www.theguardian.com/technology/2026/nov/20/anthropic-ipo-historic-stock-market-debut-key-takeaways-what-next-for-ai",
-   "source": "The Guardian Economics",
-   "published": "2026-11-20T03:33:45Z",
-   "region": "Global",
    "category": "economy"
   }
  ]
