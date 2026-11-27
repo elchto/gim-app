@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-27T14:59:57Z",
+ "updatedAt": "2026-11-27T23:25:04Z",
  "sources": [
   "BBC World",
   "BBC Business",
@@ -13,8 +13,395 @@
   "CNBC World"
  ],
  "failed": [],
- "count": 80,
+ "count": 79,
  "items": [
+  {
+   "title": "Behind China's spectacular rise, voices who defied it say they are being drowned out",
+   "summary": "China's immense clout now also has the flex of soft power. Critics and dissidents say their voices are being drowned out.",
+   "link": "https://www.bbc.co.uk/news/articles/cme3d4y094x7o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "published": "2026-11-27T23:02:35Z",
+   "region": "Asia-Pacific",
+   "category": "news"
+  },
+  {
+   "title": "Charity set up by Captain Tom Moore’s family applies to be struck off",
+   "summary": "Watchdog had found ‘repeated’ misconduct by veteran’s daughter and her husband in running the foundation A charity set up by the family of the pandemic fundraiser Captain Sir Tom Moore has applied to be struck off. The charity is now known as the 1189808 Foundation, having dropped Moore’s name at…",
+   "link": "https://www.theguardian.com/uk-news/2026/nov/27/charity-set-up-by-captain-tom-moores-family-applies-to-be-struck-off",
+   "source": "The Guardian World",
+   "published": "2026-11-27T23:02:04Z",
+   "region": "Global",
+   "category": "news"
+  },
+  {
+   "title": "Kenyan cult leader guilty of manslaughter more than 123 starvation deaths",
+   "summary": "Paul Mackenzie, already serving 200 years, is the founder and pastor of the Good News International Church.",
+   "link": "https://www.aljazeera.com/news/2026/11/27/kenyan-cult-leader-guilty-of-manslaughter-more-than-123-starvation-deaths?traffic_source=rss",
+   "source": "Al Jazeera",
+   "published": "2026-11-27T22:33:17Z",
+   "region": "Africa",
+   "category": "news"
+  },
+  {
+   "title": "US military says it disabled merchant ship trying to breach Iran blockade",
+   "summary": "The US military says it disabled the Palau-flagged ship’s propulsion but its crew was unharmed.",
+   "link": "https://www.aljazeera.com/news/2026/11/27/us-military-says-it-disabled-merchant-ship-trying-to-breach-iran-blockade?traffic_source=rss",
+   "source": "Al Jazeera",
+   "published": "2026-11-27T22:22:02Z",
+   "region": "Americas",
+   "category": "conflict"
+  },
+  {
+   "title": "Thousands still without power after storms that snarled Thanksgiving travel",
+   "summary": "Heavy rains and high winds downed trees and power lines and led to water rescues from New York to Virginia Skies cleared along the US eastern seaboard on Friday, and power was being restored to hundreds of thousands of customers whose Thanksgiving plans were disrupted by heavy rains and high winds…",
+   "link": "https://www.theguardian.com/us-news/2026/nov/27/heavy-rain-wind-flooding-us-thanksgiving",
+   "source": "The Guardian World",
+   "published": "2026-11-27T22:14:56Z",
+   "region": "Americas",
+   "category": "news"
+  },
+  {
+   "title": "Prosecutors seek 25-year prison term for 'poison seller' Kenneth Law",
+   "summary": "The Canadian man, who pleaded guilty to 14 counts of aiding and abetting suicide earlier this year, will be sentenced at a later date.",
+   "link": "https://www.bbc.co.uk/news/articles/cmx2898wq2qjo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "published": "2026-11-27T22:03:46Z",
+   "region": "Americas",
+   "category": "news"
+  },
+  {
+   "title": "Princess of Wales documentary Heal charts ‘pilgrimage’ after cancer treatment",
+   "summary": "BBC film follows Catherine as she undertakes Three Peaks challenge to search for what life can be post-chemotherapy On the day the Princess of Wales undertook the Three Peaks challenge, there was rain, hill fog and, finally, watery June sunshine. It is hard to not see it as a meteorological…",
+   "link": "https://www.theguardian.com/uk-news/2026/nov/27/catherine-princess-of-wales-heal-documentary-cancer",
+   "source": "The Guardian World",
+   "published": "2026-11-27T22:00:21Z",
+   "region": "Global",
+   "category": "news"
+  },
+  {
+   "title": "S&P revises France's outlook from 'stable' to 'negative'",
+   "summary": "Rating agency S&P revised France’s outlook to \"negative\" from \"stable\" on Friday, citing growing budget pressures as weak economic growth and higher interest costs make it harder to reduce the deficit.",
+   "link": "https://www.france24.com/en/france/20261127-s-p-revises-france-s-outlook-from-stable-to-negative",
+   "source": "France 24",
+   "published": "2026-11-27T22:00:20Z",
+   "region": "Europe",
+   "category": "economy"
+  },
+  {
+   "title": "‘Activists of rhythm’: Fighting Spain’s far-right through art",
+   "summary": "Madrid’s La Parceria and Espacio Afro cultural centres are using the arts to fight racism and boost migrant voices.",
+   "link": "https://www.aljazeera.com/video/newsfeed/2026/11/27/activists-of-rhythm-fighting-spains-far-right-through-art?traffic_source=rss",
+   "source": "Al Jazeera",
+   "published": "2026-11-27T21:59:11Z",
+   "region": "Europe",
+   "category": "conflict"
+  },
+  {
+   "title": "Spanish PM and rivals rally supporters in final pitch for votes",
+   "summary": "Prime Minister Pedro Sánchez wants to defy the polls, and his main rivals accuse him of not telling the truth and of \"betrayal\".",
+   "link": "https://www.bbc.co.uk/news/articles/c8wy5p4gdnwvo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "published": "2026-11-27T21:55:53Z",
+   "region": "Europe",
+   "category": "news"
+  },
+  {
+   "title": "Uganda to withdraw troops from DR Congo",
+   "summary": "First, Uganda is heading for the exit in eastern DR Congo. Kampala has announced the withdrawal of its troops from a key town in North Kivu, as relations with Kinshasa deteriorate following provocative comments from Uganda's army chief. Then, pregnant women are struggling to cope with extreme heat…",
+   "link": "https://www.france24.com/en/tv-shows/eye-on-africa/20261127-uganda-to-withdraw-troops-from-dr-congo",
+   "source": "France 24",
+   "published": "2026-11-27T21:44:29Z",
+   "region": "Africa",
+   "category": "conflict"
+  },
+  {
+   "title": "Elderly ‘Scrooge’ severs neighbour’s Christmas lights in mobility-scooter raid",
+   "summary": "CCTV shows unidentified woman taking scissors to Middlesbrough home’s festive display An elderly woman has been accused of defying the season of goodwill after appearing to cut down her neighbour’s Christmas lights. CCTV footage showed her approaching a property on a mobility scooter brandishing…",
+   "link": "https://www.theguardian.com/uk-news/2026/nov/27/elderly-scrooge-severs-neighbours-christmas-lights-in-mobility-scooter-raid",
+   "source": "The Guardian World",
+   "published": "2026-11-27T21:31:40Z",
+   "region": "Global",
+   "category": "news"
+  },
+  {
+   "title": "‘Abusive and insulting to Canadians’: campaign to oust US ambassador presented to parliament",
+   "summary": "Hundreds of thousands of Canadians call for Pete Hoekstra to be declared ‘persona non grata’ A petition signed by nearly 290,000 Canadians calling on Mark Carney’s government to oust Pete Hoekstra as US ambassador to Canada was formally presented to the House of Commons on Thursday, a sign of the…",
+   "link": "https://www.theguardian.com/world/2026/nov/27/pete-hoekstra-canada-us-ambassador-petition",
+   "source": "The Guardian World",
+   "published": "2026-11-27T21:24:10Z",
+   "region": "Americas",
+   "category": "news"
+  },
+  {
+   "title": "Why are families going hungry in northern Yemen even where food is on sale?",
+   "summary": "Flour and oil still reach markets in Hodeidah and Sanaa. But high costs and lack of work and aid put it out of reach.",
+   "link": "https://www.aljazeera.com/economy/2026/11/27/why-are-families-going-hungry-in-northern-yemen-even-where-food-is-on-sale?traffic_source=rss",
+   "source": "Al Jazeera",
+   "published": "2026-11-27T21:11:27Z",
+   "region": "Middle East",
+   "category": "news"
+  },
+  {
+   "title": "Ukraine submits Black Sea ceasefire offer, awaits Russian response",
+   "summary": "⁠Ukraine ​made a Black Sea ceasefire offer ​to enable food exports and passed the details on to international allies, a senior Ukrainian official said Friday, adding that Kyiv was waiting for a response from Moscow. The announcement came a day after Russia attacked ​two foreign grain carriers near…",
+   "link": "https://www.france24.com/en/europe/20261127-ukraine-submits-black-sea-ceasefire-offer-awaits-russian-response",
+   "source": "France 24",
+   "published": "2026-11-27T21:09:12Z",
+   "region": "Europe",
+   "category": "conflict"
+  },
+  {
+   "title": "Venezuela to repeal law that bans opposition figures from office",
+   "summary": "It comes a month after opposition leader Maria Corina Machado returned to Venezuela.",
+   "link": "https://www.aljazeera.com/news/2026/11/27/venezuela-to-repeal-law-that-bans-opposition-figures-from-office?traffic_source=rss",
+   "source": "Al Jazeera",
+   "published": "2026-11-27T20:44:03Z",
+   "region": "Americas",
+   "category": "news"
+  },
+  {
+   "title": "Spanish elections: 'Right-wing voters extremely mobilised, left-wing voters not mobilised enough'",
+   "summary": "“His main political platform is to say, I am not Sánchez, I am the opposite of Sánchez.” As Spain heads to the polls, what do Alberto Núñez Feijóo's campaign and political career tell us about the kind of prime minister he might become? Javier Carbonell, Policy Analyst at the European Politics and…",
+   "link": "https://www.france24.com/en/tv-shows/spotlight/20261127-spanish-elections-right-wing-voters-extremely-mobilised-left-wing-voters-not-mobilised-enough",
+   "source": "France 24",
+   "published": "2026-11-27T20:43:44Z",
+   "region": "Europe",
+   "category": "news"
+  },
+  {
+   "title": "Canada: Supreme Court largely upholds Quebec secularism bill",
+   "summary": "Quebec's government passed Bill 21 to ban religious symbols for public servants, arguing it was necessary to protect its secularist society. Critics argue the bill weakens legal protections for fundamental rights.",
+   "link": "https://www.dw.com/en/canada-supreme-court-largely-upholds-quebec-secularism-bill/a-80082571?maca=en-rss-en-world-4025-rdf",
+   "source": "DW World",
+   "published": "2026-11-27T20:43:00Z",
+   "region": "Americas",
+   "category": "news"
+  },
+  {
+   "title": "OpenAI countersues Apple over trade secrets as AI race heats up",
+   "summary": "Tensions between the two tech companies have escalated as intensifying race to develop AI products fuels competition.",
+   "link": "https://www.aljazeera.com/economy/2026/11/27/openai-countersues-apple-over-trade-secrets-as-ai-race-heats-up?traffic_source=rss",
+   "source": "Al Jazeera",
+   "published": "2026-11-27T20:40:51Z",
+   "region": "Global",
+   "category": "news"
+  },
+  {
+   "title": "Putin unveils new Russian nuclear-powered submarine with hypersonic weapons",
+   "summary": "The Kremlin plans to expand its naval fleet with five new nuclear submarines by 2030.",
+   "link": "https://www.aljazeera.com/news/2026/11/27/putin-unveils-new-russian-nuclear-powered-submarine-with-hypersonic-weapons?traffic_source=rss",
+   "source": "Al Jazeera",
+   "published": "2026-11-27T20:39:57Z",
+   "region": "Europe",
+   "category": "conflict"
+  },
+  {
+   "title": "Capsized tanker carrying 7,000 tonnes of diesel to be towed away from Ibiza",
+   "summary": "There are fears of a major oil spillage off Ibiza but the ship's fuel tanks are so far intact.",
+   "link": "https://www.bbc.co.uk/news/articles/cvrlgz6g0ekgo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "published": "2026-11-27T20:34:45Z",
+   "region": "Global",
+   "category": "news"
+  },
+  {
+   "title": "Hamas chief’s last surviving son escapes Israeli strike in Gaza",
+   "summary": "Hamas leader Khalil al-Hayya's last surviving son Izzeldeen survived an Israeli assassination attempt on Friday.",
+   "link": "https://www.aljazeera.com/video/newsfeed/2026/11/27/aje-onl-nf_-hamas-chiefs-son-escapes-israeli-strike-gaza-271126?traffic_source=rss",
+   "source": "Al Jazeera",
+   "published": "2026-11-27T20:18:45Z",
+   "region": "Middle East",
+   "category": "conflict"
+  },
+  {
+   "title": "The End of Spain’s ‘Frankenstein’ Coalition? Presidential Plotting in Paris, Kushner & Kremlin Trap",
+   "summary": "Catch up with the World This Week with Gavin Lee. In just 45 minutes, make sense of seven extraordinary days in global affairs, as Gavin and his handpicked panel of four leading international correspondents unpack the stories shaping the world — and the questions behind the headlines. This week…",
+   "link": "https://www.france24.com/en/tv-shows/the-world-this-week/20261127-the-end-of-spain-s-frankenstein-coalition-presidential-plotting-in-paris-kushner-kremlin-trap",
+   "source": "France 24",
+   "published": "2026-11-27T20:14:37Z",
+   "region": "Europe",
+   "category": "news"
+  },
+  {
+   "title": "Sales for Biden memoir fall far short of books by Obama and Clinton",
+   "summary": "Promise Me, America, which has lukewarm reviews from critics, sold about 21,000 copies during its first week on sale Joe Biden’s memoir Promise Me, America debuted with modest sales and lackluster reviews, selling about 21,000 copies during its first week on sale, according to Circana. It sold well…",
+   "link": "https://www.theguardian.com/us-news/2026/nov/27/biden-promise-me-america-memoir-sales-fall-short",
+   "source": "The Guardian World",
+   "published": "2026-11-27T20:13:58Z",
+   "region": "Americas",
+   "category": "news"
+  },
+  {
+   "title": "UN Gaza rapporteur Francesca Albanese denied entry into Costa Rica",
+   "summary": "Costa Rica has barred UN special rapporteur Francesca Albanese, citing unfounded ‘links to terrorist acts’.",
+   "link": "https://www.aljazeera.com/video/newsfeed/2026/11/27/un-gaza-rapporteur-francesca-albanese-denied-entry-into-costa-rica?traffic_source=rss",
+   "source": "Al Jazeera",
+   "published": "2026-11-27T20:10:30Z",
+   "region": "Middle East",
+   "category": "news"
+  },
+  {
+   "title": "'We couldn't give up that easily': Marching bands scramble to cover costs after Thanksgiving parade rearranged",
+   "summary": "Stormy weather in New York City prompted organisers to push back the Macy's parade by two days - leaving some musicians stuck.",
+   "link": "https://www.bbc.co.uk/news/articles/ckd71ypy9e8eo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "published": "2026-11-27T20:06:31Z",
+   "region": "Global",
+   "category": "news"
+  },
+  {
+   "title": "Graham Thorpe’s widow takes legal action against NHS trust after inquest",
+   "summary": "Former England Test cricketer was diagnosed with anxiety and depression before he took his own life in 2024 The wife of Graham Thorpe, the former England cricketer who took his own life, has started legal proceedings against an NHS trust after an inquest identified “failings” in his mental health…",
+   "link": "https://www.theguardian.com/uk-news/2026/nov/27/graham-thorpe-widow-legal-action-against-nhs-trust-after-inquest",
+   "source": "The Guardian World",
+   "published": "2026-11-27T19:52:30Z",
+   "region": "Europe",
+   "category": "news"
+  },
+  {
+   "title": "DWP ‘cyber incident’ knocks almost all pensions and benefits systems offline",
+   "summary": "Department for Work and Pensions urges people to be alert to scams related to outage and contact helpline with urgent difficulties Tell us: have you been affected by the DWP ‘cyber incident’ Benefits and pensions claimants have faced chaos after the system was hit by a “serious cyber incident”…",
+   "link": "https://www.theguardian.com/politics/2026/nov/27/dwp-cyber-incident-pensions-benefits-systems-offline",
+   "source": "The Guardian World",
+   "published": "2026-11-27T19:45:51Z",
+   "region": "Americas",
+   "category": "news"
+  },
+  {
+   "title": "Weary of war but with no sign of backing down, Kyiv faces another punishing winter",
+   "summary": "Ukraine settles in for another devastating winter as the questions persists: how will it all end?",
+   "link": "https://www.bbc.co.uk/news/articles/c3pw4yrr8kz9o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "published": "2026-11-27T18:42:50Z",
+   "region": "Europe",
+   "category": "conflict"
+  },
+  {
+   "title": "The AI revolution: Will I lose my job?",
+   "summary": "Have you heard of FOBO? It stands for fear of being obsolete. So as AI spreads, is it going to impact women in the workforce more than men? And are we right to be fearful of becoming obsolete? The International Labour Organization has already found occupations dominated by women are nearly twice as…",
+   "link": "https://www.france24.com/en/tv-shows/the-51/20261127-the-ai-revolution-will-i-lose-my-job",
+   "source": "France 24",
+   "published": "2026-11-27T18:39:38Z",
+   "region": "Global",
+   "category": "news"
+  },
+  {
+   "title": "Police suspect criminals robbed fans at Manchester gig disrupted by ‘unknown substance’",
+   "summary": "Police are working with agencies across Europe after similar incidents occurred at two other Don Toliver concerts A group of organised criminals are believed to have carried out robberies during Don Toliver’s Manchester concert, where an “unknown substance” was released , police have said, with…",
+   "link": "https://www.theguardian.com/uk-news/2026/nov/27/police-believe-criminals-carried-out-robberies-during-don-toliver-manchester-gig-unknown-substance",
+   "source": "The Guardian World",
+   "published": "2026-11-27T18:35:45Z",
+   "region": "Europe",
+   "category": "news"
+  },
+  {
+   "title": "Is Spain 'nostalgic' for Franco? Would traditional right PP consider an alliance with far-right Vox?",
+   "summary": "After eight years of socialist-led government, Spain is at a crossroads. Can Pedro Sánchez pull off another electoral comeback, or will the conservative Partido Popular make way for the far right into national government for the first time since the end of Franco's 40-year brutal reign? Just back…",
+   "link": "https://www.france24.com/en/is-spain-nostalgic-for-franco-would-traditional-right-pp-consider-an-alliance-with-far-right-vox",
+   "source": "France 24",
+   "published": "2026-11-27T18:31:42Z",
+   "region": "Europe",
+   "category": "news"
+  },
+  {
+   "title": "SpaceX shares jump over 4% amid tech rally and after Musk says he will expand on Trump Account share donations",
+   "summary": "SpaceX shares jumped in trading Friday after Elon Musk said on X that he would donate shares to American children every year.",
+   "link": "https://www.cnbc.com/2026/11/27/spacex-shares-musk-donations.html",
+   "source": "CNBC World",
+   "published": "2026-11-27T18:24:06Z",
+   "region": "Americas",
+   "category": "economy"
+  },
+  {
+   "title": "Budget airline Norse Atlantic files for bankruptcy in Europe after failing to secure funding",
+   "summary": "Budget carrier Norse Atlantic filed for bankruptcy Friday, saying it failed to secure funding after soaring fuel costs strained the company's operations.",
+   "link": "https://www.cnbc.com/2026/11/27/norse-atlantic-bankruptcy-fuel-costs.html",
+   "source": "CNBC World",
+   "published": "2026-11-27T18:20:32Z",
+   "region": "Europe",
+   "category": "economy"
+  },
+  {
+   "title": "'From bad to catastrophic: Iran's justice system was already unfair for many decades'",
+   "summary": "Amid war with the US and Israel, Iranian protesters continue to face death sentences following what Amnesty International describes as grossly unfair, torture-tainted trials. “The situation has changed from bad to catastrophic,” says Raha Bahreini, Iranian-Canadian human rights lawyer and Amnesty…",
+   "link": "https://www.france24.com/en/from-bad-to-catastrophic-iran-s-justice-system-was-already-unfair-for-many-decades",
+   "source": "France 24",
+   "published": "2026-11-27T18:18:46Z",
+   "region": "Middle East",
+   "category": "conflict"
+  },
+  {
+   "title": "Zelensky criticises 'strange' Trump-Putin friendship in BBC interview",
+   "summary": "Ukraine's president voices frustration with US and says it is not pushing Russia hard enough in peace talks to end the war.",
+   "link": "https://www.bbc.co.uk/news/articles/c820q9wgrpyyo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "published": "2026-11-27T18:00:40Z",
+   "region": "Europe",
+   "category": "conflict"
+  },
+  {
+   "title": "Uganda to withdraw troops from DR Congo town after army chief's threat sparks row",
+   "summary": "Uganda's army on Friday said it planned to withdraw from the eastern DR Congo town of Lubero in North Kivu. The announcement came days after Ugandan army chief Muhoozi Kainerugaba – son of President Yoweri Museveni – threatened to take control of Walikale, another North Kivu town, sparking a…",
+   "link": "https://www.france24.com/en/africa/20261127-uganda-withdraw-troops-dr-congo-town-after-army-chief-threat-row",
+   "source": "France 24",
+   "published": "2026-11-27T17:56:28Z",
+   "region": "Africa",
+   "category": "conflict"
+  },
+  {
+   "title": "Kenyan doomsday cult leader convicted over further 123 deaths",
+   "summary": "Paul Mackenzie is found guilty of killing his followers, weeks after being jailed for the mass murder of children.",
+   "link": "https://www.bbc.co.uk/news/articles/cmy49de4xx1zo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "published": "2026-11-27T17:19:31Z",
+   "region": "Africa",
+   "category": "news"
+  },
+  {
+   "title": "Canada's top court largely upholds Quebec ban on religious symbols for public servants",
+   "summary": "The law faced legal challenges from a range of groups, including female Muslim, Sikh and Catholic teachers, who argued it violated their fundamental rights.",
+   "link": "https://www.bbc.co.uk/news/articles/cq3dgpy9lem3o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "published": "2026-11-27T16:53:46Z",
+   "region": "Americas",
+   "category": "news"
+  },
+  {
+   "title": "Divisions deepen between EU member states after tense budget summit",
+   "summary": "An EU leaders summit on the bloc's seven-year budget fell apart amid divisions over how to fund Ukraine. The budget proposal also includes a 3% tax on US tech companies, in a bid for the EU to generate additional funds.",
+   "link": "https://www.dw.com/en/divisions-deepen-between-eu-member-states-after-tense-budget-summit/a-80078599?maca=en-rss-en-world-4025-rdf",
+   "source": "DW World",
+   "published": "2026-11-27T16:51:00Z",
+   "region": "Europe",
+   "category": "economy"
+  },
+  {
+   "title": "Will new energy fixes cost more in January?",
+   "summary": "Energy bills will soar by 26% for millions of households in January after a surge in gas prices sparked by the Iran war.",
+   "link": "https://www.bbc.co.uk/news/videos/cwjd7y4jk581o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC Business",
+   "published": "2026-11-27T16:05:32Z",
+   "region": "Middle East",
+   "category": "conflict"
+  },
+  {
+   "title": "Trump demands probe into 'record setting error' after third-quarter GDP data gets massive revision higher",
+   "summary": "President Donald Trump on Thursday deemed the latest gross domestic product revision a mistake, claiming that it should be \"immediately investigated.\"",
+   "link": "https://www.cnbc.com/2026/11/26/trump-gdp-revision-investigation.html",
+   "source": "CNBC World",
+   "published": "2026-11-27T15:52:00Z",
+   "region": "Americas",
+   "category": "economy"
+  },
+  {
+   "title": "Dutch authorities seize 26 critically endangered turtles from luggage of passenger bound for Hong Kong",
+   "summary": "The tiny Vallarta mud turtle was only discovered in 2018. It's critically endangered with around 300 thought to live in the wild. Almost one tenth of that number were stashed in a traveler's luggage, bound in duct tape.",
+   "link": "https://www.dw.com/en/dutch-authorities-seize-26-critically-endangered-turtles-from-luggage-of-passenger-bound-for-hong-kong/a-80077824?maca=en-rss-en-world-4025-rdf",
+   "source": "DW World",
+   "published": "2026-11-27T15:48:00Z",
+   "region": "Europe",
+   "category": "news"
+  },
   {
    "title": "German software firm SAP is reportedly cutting at least 10,000 jobs in AI push",
    "summary": "SAP is reportedly considering cutting 10,000 jobs as it reshapes its software business around AI.",
@@ -23,69 +410,6 @@
    "published": "2026-11-27T14:52:40Z",
    "region": "Europe",
    "category": "economy"
-  },
-  {
-   "title": "Hundreds of thousands still without power after storms hit US on Thanksgiving",
-   "summary": "Pennsylvania and neighbouring states remain badly affected on Friday after both coasts were lashed with wind and rain.",
-   "link": "https://www.bbc.co.uk/news/articles/cre3dj5n7dpwo?at_medium=RSS&at_campaign=rss",
-   "source": "BBC World",
-   "published": "2026-11-27T14:49:59Z",
-   "region": "Americas",
-   "category": "news"
-  },
-  {
-   "title": "With new law, Iraq sees rise in child marriage, custody battles",
-   "summary": "In January 2025, Iraq's parliament passed an amendment allowing families to place their household under religious law, governing all issues around marriage, divorce and inheritance. The new Ja'fari law, a Shiite law, came into force in October 2025. One year on, its consequences have been raising…",
-   "link": "https://www.france24.com/en/tv-shows/focus/20261127-with-new-law-iraq-sees-rise-in-child-marriage-custody-battles",
-   "source": "France 24",
-   "published": "2026-11-27T14:48:28Z",
-   "region": "Middle East",
-   "category": "news"
-  },
-  {
-   "title": "Haaland ‘happy’ at Man City despite outburst that led to transfer talk",
-   "summary": "Erling Haaland blasted beleaguered City's form, but ahead of Arsenal test, manager Enzo Maresca says striker is happy.",
-   "link": "https://www.aljazeera.com/sports/2026/11/27/haaland-happy-at-manchester-city-despite-outburst-that-led-to-transfer-talk?traffic_source=rss",
-   "source": "Al Jazeera",
-   "published": "2026-11-27T14:47:40Z",
-   "region": "Global",
-   "category": "news"
-  },
-  {
-   "title": "‘Mass-casualty event’ in Europe possible amid rise in Russian sabotage, says thinktank",
-   "summary": "Report warns attacks on critical infrastructure could lead to demand for retaliation and expose EU divisions Russian sabotage attacks on Europe are increasing and a “mass-casualty event” is now possible as increasingly skilled operatives target critical infrastructure with ever more complex…",
-   "link": "https://www.theguardian.com/world/2026/nov/27/mass-casualty-event-europe-possible-russian-sabotage-says-thinktank",
-   "source": "The Guardian World",
-   "published": "2026-11-27T14:46:27Z",
-   "region": "Europe",
-   "category": "conflict"
-  },
-  {
-   "title": "Spanish prime minister Pedro Sánchez confident of election victory despite polls – Europe live",
-   "summary": "‘I can’t conceive of us losing,’ the leader said Freelance journalist based in Madrid and host of the Sobremesa podcast Vox has often been portrayed in international coverage as a party of Franco nostalgists whose ultraconservative Catholicism and civil-war rhetoric towards the separatist Catalan…",
-   "link": "https://www.theguardian.com/world/live/2026/nov/27/zelenskyy-putin-trump-comments-russia-ukraine-latest-news-updates",
-   "source": "The Guardian World",
-   "published": "2026-11-27T14:36:12Z",
-   "region": "Europe",
-   "category": "conflict"
-  },
-  {
-   "title": "Japan's radical past: Retracing the far-left groups of the 1970s",
-   "summary": "Our correspondents delve into the history of Japan's radical left in the 1970s. From the United Red Army to the Japanese Red Army, several movements turned to armed struggle and violent action. More than half a century on, our team met with two former militants.",
-   "link": "https://www.france24.com/en/tv-shows/revisited/20261127-japan-radical-past-retracing-far-left-groups-1970s",
-   "source": "France 24",
-   "published": "2026-11-27T14:33:04Z",
-   "region": "Asia-Pacific",
-   "category": "conflict"
-  },
-  {
-   "title": "DWP ‘cyber incident’ knocks almost all pensions and benefits systems offline",
-   "summary": "Department for Work and Pensions officials say welfare payments will continue to be made despite huge outage Tell us: have you been affected by the DWP ‘cyber incident’ Almost all pensions and benefits systems in the UK are unavailable after a “cyber incident”. Anyone trying to check their state…",
-   "link": "https://www.theguardian.com/politics/2026/nov/27/dwp-cyber-incident-pensions-benefits-systems-offline",
-   "source": "The Guardian World",
-   "published": "2026-11-27T14:28:22Z",
-   "region": "Europe",
-   "category": "news"
   },
   {
    "title": "Airline Norse Atlantic files for bankruptcy, succumbing to aviation fuel costs",
@@ -97,15 +421,6 @@
    "category": "economy"
   },
   {
-   "title": "Why is Israel celebrating Costa Rica’s ban on Francesca Albanese?",
-   "summary": "Costa Rica is under pressure over its decision to bar the UN expert who has documented Israel's genocidal war on Gaza.",
-   "link": "https://www.aljazeera.com/news/2026/11/27/why-is-israel-celebrating-costa-ricas-ban-on-francesca-albanese?traffic_source=rss",
-   "source": "Al Jazeera",
-   "published": "2026-11-27T14:17:25Z",
-   "region": "Middle East",
-   "category": "conflict"
-  },
-  {
    "title": "EU leaders fail to break $1.7 trillion budget deadlock as political pressure mounts",
    "summary": "EU leaders failed to break a deadlock over the bloc’s budget, with talks set to resume in December as a key deadline looms.",
    "link": "https://www.cnbc.com/2026/11/27/eu-budget-2028-2034-deadlock.html",
@@ -115,108 +430,18 @@
    "category": "economy"
   },
   {
-   "title": "UK pensions department hit by ‘serious cyber incident’, minister says – UK politics live",
-   "summary": "Pat McFadden says the government doesn’t believe any personal data has been compromised Tell us: have you been affected by the DWP ‘cyber incident’ According to Downdetector , which tracks online service outages, reports of problems with the government website appeared to begin last night and…",
-   "link": "https://www.theguardian.com/politics/live/2026/nov/27/department-work-pensions-offline-cyber-incident-rosebank-slapps-latest-news-updates",
-   "source": "The Guardian World",
-   "published": "2026-11-27T14:01:55Z",
-   "region": "Europe",
-   "category": "news"
-  },
-  {
-   "title": "Jess Wilson’s plan for Melbourne sewage plants risks water and wetlands without bringing debt down, experts say",
-   "summary": "Academic says Victorian Liberal proposal to lease treatment plants and generate profit with no compromise of services ‘a total furphy’ Victorian election 2026 guide: what you need to know Confused about who to vote for? Check the parties’ key promises and policies Get our daily political email…",
-   "link": "https://www.theguardian.com/australia-news/2026/nov/28/jess-wilson-melbourne-sewage-plants-privatisation-risks-water-and-wetlands",
-   "source": "The Guardian World",
-   "published": "2026-11-27T14:00:14Z",
-   "region": "Global",
-   "category": "economy"
-  },
-  {
-   "title": "Labor faces prospect of electoral wipeout in Victoria as voters turn to Liberals and One Nation",
-   "summary": "Former ALP strategist says Ben Carroll government at risk of losing more than 30 seats in Saturday’s election, to fall behind Pauline Hanson’s party Victorian election 2026 guide: what you need to know Confused about who to vote for? Check the parties’ key promises and policies Get our daily…",
-   "link": "https://www.theguardian.com/australia-news/2026/nov/28/vic-election-labor-faces-electoral-wipeout-as-voters-turn-to-liberals-and-one-nation-ntwnfb",
-   "source": "The Guardian World",
-   "published": "2026-11-27T14:00:13Z",
-   "region": "Global",
-   "category": "news"
-  },
-  {
-   "title": "NSW Labor is ‘trampling over party principles’ with preselections by captain’s call, members say",
-   "summary": "Exclusive: Ryde councillor Penny Pedersen was asked by Labor head office not to nominate for Lane Cove in March state election Get our breaking news email , free app or daily news podcast Labor’s New South Wales leadership has been accused of alienating members and undermining the democratic…",
-   "link": "https://www.theguardian.com/australia-news/2026/nov/28/nsw-labor-is-trampling-over-party-principles-with-preselections-by-captains-call-members-say",
-   "source": "The Guardian World",
-   "published": "2026-11-27T14:00:12Z",
-   "region": "Global",
-   "category": "news"
-  },
-  {
-   "title": "Budget airline Norse Atlantic files for bankruptcy in Europe after failing to secure funding",
-   "summary": "Budget carrier Norse Atlantic filed for bankruptcy Friday, saying it failed to secure funding after soaring fuel costs strained the company's operations.",
-   "link": "https://www.cnbc.com/2026/11/27/norse-atlantic-bankruptcy-fuel-costs.html",
-   "source": "CNBC World",
-   "published": "2026-11-27T13:58:19Z",
-   "region": "Europe",
-   "category": "economy"
-  },
-  {
-   "title": "Thanksgiving meal in Florida leads to ‘mass casualty’ food poisoning incident",
-   "summary": "Local media reported that 18 people fell ill after attending a Thanksgiving lunch at a medical center headquarters A Thanksgiving meal in Florida triggered a bout of food poisoning so bad that local emergency officials said it was a “mass casualty” event as numerous stricken diners were sent to…",
-   "link": "https://www.theguardian.com/us-news/2026/nov/27/thanksgiving-meal-florida-mass-casualty-food-poisoning",
-   "source": "The Guardian World",
-   "published": "2026-11-27T13:41:23Z",
-   "region": "Global",
-   "category": "news"
-  },
-  {
-   "title": "Rare turtles found inside baggage at Amsterdam airport",
-   "summary": "The endangered reptiles were bound with duct tape to prevent them moving, officials say.",
-   "link": "https://www.bbc.co.uk/news/articles/cm5y1380q3vgo?at_medium=RSS&at_campaign=rss",
-   "source": "BBC World",
-   "published": "2026-11-27T13:38:07Z",
-   "region": "Global",
-   "category": "news"
-  },
-  {
-   "title": "Why did Georgian police clash with Turkish football fans over Palestine?",
-   "summary": "Georgia's Interior Ministry says 16 people were detained and three employees injured during clashes.",
-   "link": "https://www.aljazeera.com/sports/2026/11/27/why-did-georgian-police-clash-with-turkish-football-fans-over-palestine?traffic_source=rss",
-   "source": "Al Jazeera",
-   "published": "2026-11-27T13:32:55Z",
-   "region": "Middle East",
-   "category": "conflict"
-  },
-  {
-   "title": "UK’s taste for cow’s milk sours as sales hit record low",
-   "summary": "Environmental and animal welfare concerns, and taste preferences, are behind rising popularity of vegan alternatives Has milk gotta lotta bottle? It may not have as much as it used to, with official data showing Britons are buying less cow’s milk than at any point since records began. Guardian…",
-   "link": "https://www.theguardian.com/food/2026/nov/27/britain-cows-milk-sales-record-low-oat-almond",
-   "source": "The Guardian World",
-   "published": "2026-11-27T13:32:07Z",
-   "region": "Europe",
-   "category": "news"
-  },
-  {
-   "title": "The Gambia election: Can Barrow secure a third term?",
+   "title": "As Gambia gears up for election, can Barrow secure a third term?",
    "summary": "President Adama Barrow is seeking a third term as Gambians vote on December 5. The election will test the opposition's appeal and the country's progress on democratic reform.",
-   "link": "https://www.dw.com/en/the-gambia-election-can-barrow-secure-a-third-term/a-80076340?maca=en-rss-en-world-4025-rdf",
+   "link": "https://www.dw.com/en/as-gambia-gears-up-for-election-can-barrow-secure-a-third-term/a-80076340?maca=en-rss-en-world-4025-rdf",
    "source": "DW World",
    "published": "2026-11-27T13:31:00Z",
    "region": "Global",
    "category": "news"
   },
   {
-   "title": "Eisenkot navigates tricky waters as he tests power-sharing with Netanyahu",
-   "summary": "Some of his allies are calling for such an arrangement, but it would represent a betrayal of his pre-election promise.",
-   "link": "https://www.aljazeera.com/news/2026/11/27/eisenkot-navigates-tricky-waters-as-he-tests-power-sharing-with-netanyahu?traffic_source=rss",
-   "source": "Al Jazeera",
-   "published": "2026-11-27T13:28:55Z",
-   "region": "Middle East",
-   "category": "news"
-  },
-  {
-   "title": "On the arrest of Informer TV owner and editor-in-chief Dragan J. Vucicevic: Has the reckoning with Serbia's pro-Vucic media machine begun?",
-   "summary": "The arrest of media owner Dragan J. Vucicevic raises questions about whether Serbia is holding the people behind the country's pro-Vucic media accountable or whether this is another political power struggle.",
-   "link": "https://www.dw.com/en/on-the-arrest-of-informer-tv-owner-and-editor-in-chief-dragan-j-vucicevic-has-the-reckoning-with-serbia-s-pro-vucic-media-machine-begun/a-80074650?maca=en-rss-en-world-4025-rdf",
+   "title": "Informer TV owner Vucicevic arrested: Has the reckoning with Serbia's pro-Vucic media machine begun?",
+   "summary": "The arrest of media owner Dragan J. Vucicevic raises questions about whether Serbia is holding the people behind the country's pro-Vucic media accountable — or whether this is another political power struggle.",
+   "link": "https://www.dw.com/en/informer-tv-owner-vucicevic-arrested-has-the-reckoning-with-serbia-s-pro-vucic-media-machine-begun/a-80074650?maca=en-rss-en-world-4025-rdf",
    "source": "DW World",
    "published": "2026-11-27T13:28:00Z",
    "region": "Europe",
@@ -224,30 +449,12 @@
   },
   {
    "title": "Duterte's ICC trial: What is at stake for the Philippines?",
-   "summary": "Former Philippine President Rodrigo Duterte faces trial in The Hague over his deadly war on drugs. The proceedings could also determine the political fortunes of one of the Philippines' most powerful dynasties.",
+   "summary": "Former Philippine President Rodrigo Duterte faces trial in The Hague over his deadly war on drugs. The proceedings could determine the political fortunes of a powerful dynasty. Victims' families hope to see justice.",
    "link": "https://www.dw.com/en/duterte-s-icc-trial-what-is-at-stake-for-the-philippines/a-80075657?maca=en-rss-en-world-4025-rdf",
    "source": "DW World",
    "published": "2026-11-27T13:23:00Z",
    "region": "Asia-Pacific",
    "category": "conflict"
-  },
-  {
-   "title": "Famine expect to rise due to global conflict, El Nino, warns UN",
-   "summary": "El Nino is a major driver behind three of the four newly identified hotspots, mainly in different parts of Africa.",
-   "link": "https://www.aljazeera.com/news/2026/11/27/famine-expect-to-rise-due-to-global-conflict-el-nino-warns-un?traffic_source=rss",
-   "source": "Al Jazeera",
-   "published": "2026-11-27T13:16:28Z",
-   "region": "Africa",
-   "category": "conflict"
-  },
-  {
-   "title": "Sentence served, still detained: Palestinian families waiting for reunions",
-   "summary": "Palestinian families say their loved ones remain in Israeli prisons despite having completed their sentences.",
-   "link": "https://www.aljazeera.com/video/newsfeed/2026/11/27/sentence-served-still-detained-palestinian-families-waiting-for-reunions?traffic_source=rss",
-   "source": "Al Jazeera",
-   "published": "2026-11-27T13:14:52Z",
-   "region": "Middle East",
-   "category": "news"
   },
   {
    "title": "Rheinmetall reins in growth ambitions as Europe's rearmament boom hits hurdles",
@@ -259,18 +466,9 @@
    "category": "economy"
   },
   {
-   "title": "England’s Overton takes 5-12 as Australia bowled out for record low in T20",
-   "summary": "Australia are bowled out for 108 as Jamie Overton claims career-best figures in England's seven-wicket win in Brisbane.",
-   "link": "https://www.aljazeera.com/sports/2026/11/27/englands-overton-takes-5-12-as-australia-bowled-out-for-record-low-in-t20?traffic_source=rss",
-   "source": "Al Jazeera",
-   "published": "2026-11-27T13:06:54Z",
-   "region": "Europe",
-   "category": "news"
-  },
-  {
-   "title": "Risks of child marriage in Iran complicated by war",
-   "summary": "War, poverty and disrupted schooling could put more girls in Iran at risk of child marriage, rights advocates warn.",
-   "link": "https://www.dw.com/en/risks-of-child-marriage-in-iran-complicated-by-war/a-80075473?maca=en-rss-en-world-4025-rdf",
+   "title": "In Iran, child marriage risks complicated by war",
+   "summary": "War, poverty and disrupted schooling could put more girls in Iran at risk of child marriage, rights advocates have warned.",
+   "link": "https://www.dw.com/en/in-iran-child-marriage-risks-complicated-by-war/a-80075473?maca=en-rss-en-world-4025-rdf",
    "source": "DW World",
    "published": "2026-11-27T13:06:00Z",
    "region": "Middle East",
@@ -286,42 +484,6 @@
    "category": "economy"
   },
   {
-   "title": "Trump embraced Xi, then slapped new tariffs on China: What’s his game plan?",
-   "summary": "US president's new tariff regime targets China hardest, just weeks before Trump and Xi meet again in Miami.",
-   "link": "https://www.aljazeera.com/features/2026/11/27/trump-embraced-xi-then-slapped-new-tariffs-on-china-whats-his-game-plan?traffic_source=rss",
-   "source": "Al Jazeera",
-   "published": "2026-11-27T12:48:44Z",
-   "region": "Americas",
-   "category": "economy"
-  },
-  {
-   "title": "European football violence causes concern with far-right claim in UEFA game",
-   "summary": "Claims of Nazi salutes at UEFA Europa League game in Marseille headline night of further violence in European football.",
-   "link": "https://www.aljazeera.com/sports/2026/11/27/european-football-violence-fuels-concern-as-marseille-far-right-claim-made?traffic_source=rss",
-   "source": "Al Jazeera",
-   "published": "2026-11-27T12:12:56Z",
-   "region": "Europe",
-   "category": "news"
-  },
-  {
-   "title": "US: Thanksgiving storms cause flooding and travel chaos",
-   "summary": "Severe storms battered the US East Coast on Thursday, bringing torrential rain, strong winds and coastal flooding. Nearly one million homes were left without power, while hundreds of flights were cancelled and thousands delayed during one of the country's busiest travel periods. The weather also…",
-   "link": "https://www.france24.com/en/video/20261127-us-thanksgiving-storms-cause-flooding-and-travel-chaos",
-   "source": "France 24",
-   "published": "2026-11-27T12:02:48Z",
-   "region": "Americas",
-   "category": "news"
-  },
-  {
-   "title": "Black Friday: The evolution of a shopping phenomenon",
-   "summary": "Once defined by crowds queuing outside shops for one-off bargains, Black Friday has evolved into weeks of online promotions. As discounts spread throughout the year, consumers are becoming more cautious about advertised deals, increasingly turning to AI and price comparisons to find genuine…",
-   "link": "https://www.france24.com/en/video/20261127-black-friday-the-evolution-of-a-shopping-phenomenon",
-   "source": "France 24",
-   "published": "2026-11-27T12:01:43Z",
-   "region": "Global",
-   "category": "news"
-  },
-  {
    "title": "The Tech Download: Will Jensen Huang’s return be the spark the shaky AI market needs?",
    "summary": "AI stocks have fallen in recent times as investors question the sustainability of the AI boom.",
    "link": "https://www.cnbc.com/2026/11/27/tech-download-jensen-huang-ai-market.html",
@@ -329,24 +491,6 @@
    "published": "2026-11-27T12:00:22Z",
    "region": "Global",
    "category": "economy"
-  },
-  {
-   "title": "Ukraine: Residents brace for another difficult winter",
-   "summary": "As Russia continues to target Ukraine's energy infrastructure, residents are preparing for another difficult winter of strikes and power cuts. With supply chains under pressure, food prices are also rising, forcing many Ukrainians to cut back on essentials or stock up ahead of the coming months.",
-   "link": "https://www.france24.com/en/video/20261127-ukraine-residents-brace-for-another-difficult-winter",
-   "source": "France 24",
-   "published": "2026-11-27T11:54:15Z",
-   "region": "Europe",
-   "category": "economy"
-  },
-  {
-   "title": "Spain election: Housing crisis and immigration dominate final campaign debate",
-   "summary": "Spain goes to the polls on Sunday in an early parliamentary election that may usher in a right-wing coalition to replace the Socialist-led minority government of Prime Minister Pedro Sanchez, one of Europe's last leftist leaders. Our correspondent Sarah Morris tells us more.",
-   "link": "https://www.france24.com/en/video/20261127-spain-election-housing-crisis-and-immigration-dominate-final-campaign-debate",
-   "source": "France 24",
-   "published": "2026-11-27T11:51:07Z",
-   "region": "Europe",
-   "category": "news"
   },
   {
    "title": "French cinema star Gérard Depardieu ordered to stand trial for rape and sexual assault",
@@ -358,51 +502,6 @@
    "category": "news"
   },
   {
-   "title": "Kuwait: Two Italians killed in drone attack",
-   "summary": "A drone attack in Kuwait killed two Italian technicians working on an air defence system on Thursday, marking the first fatal strike in the Gulf state for months.",
-   "link": "https://www.france24.com/en/video/20261127-kuwait-two-italians-killed-in-drone-attack",
-   "source": "France 24",
-   "published": "2026-11-27T11:45:48Z",
-   "region": "Middle East",
-   "category": "conflict"
-  },
-  {
-   "title": "Ex-media executive admits saying Australian child sex abuse survivor 'looking to be raped again'",
-   "summary": "The former Murdoch media executive was overheard at an event referring to the way Grace Tame was dressed.",
-   "link": "https://www.bbc.co.uk/news/articles/ckr5grlq78n9o?at_medium=RSS&at_campaign=rss",
-   "source": "BBC World",
-   "published": "2026-11-27T11:44:40Z",
-   "region": "Asia-Pacific",
-   "category": "news"
-  },
-  {
-   "title": "EU: Leaders fail to reach agreement on next budget after tense summit",
-   "summary": "At the bloc headquarters in Brussels on Thursday, EU leaders failed to reach a consensus after more than 12 hours of talks over the budget and a new $49 billion loan for Ukraine’s economic and military needs next year. France 24's Dave Keating tells us more.",
-   "link": "https://www.france24.com/en/video/20261127-eu-leaders-fail-to-reach-agreement-on-next-budget-after-tense-summit",
-   "source": "France 24",
-   "published": "2026-11-27T11:42:43Z",
-   "region": "Europe",
-   "category": "economy"
-  },
-  {
-   "title": "Israel's Eisenkot reaches deal with left-wing faction as coalition talks gain steam",
-   "summary": "Gadi ​Eisenkot's Yashar party and a left-wing faction agreed on a preliminary coalition deal on Thursday, after a brief dispute that had posed a challenge to his bid to unseat Israeli Prime Minister Benjamin Netanyahu following an inconclusive election last month. France 24's Andrew Hilliar tells…",
-   "link": "https://www.france24.com/en/video/20261127-israel-s-eisenkot-reaches-deal-with-left-wing-faction-as-coalition-talks-gain-steam",
-   "source": "France 24",
-   "published": "2026-11-27T11:36:33Z",
-   "region": "Middle East",
-   "category": "news"
-  },
-  {
-   "title": "Ex-Kenyan governor jailed for 25 years over pregnant girlfriend's murder",
-   "summary": "The pregnant student was murdered after leaving a hotel with a journalist she had contacted to discuss her affair with the governor.",
-   "link": "https://www.bbc.co.uk/news/articles/crx209ekq5xdo?at_medium=RSS&at_campaign=rss",
-   "source": "BBC World",
-   "published": "2026-11-27T11:22:02Z",
-   "region": "Africa",
-   "category": "news"
-  },
-  {
    "title": "Indian workers fill Germany's labor gaps but face hurdles and risks",
    "summary": "The number of Indians working in Germany has grown rapidly in recent years. But many continue to face challenges in the labor market. Some also fall victim to recruitment scams, leaving them vulnerable to exploitation.",
    "link": "https://www.dw.com/en/indian-workers-fill-germany-s-labor-gaps-but-face-hurdles-and-risks/a-80072882?maca=en-rss-en-world-4025-rdf",
@@ -410,33 +509,6 @@
    "published": "2026-11-27T11:06:00Z",
    "region": "Europe",
    "category": "news"
-  },
-  {
-   "title": "Uganda to withdraw troops from DR Congo town amid diplomatic row",
-   "summary": "The Ugandan army is helping the Congolese military fight an Islamist militant group in the east of the country.",
-   "link": "https://www.bbc.co.uk/news/articles/cq4gnj2ldkyzo?at_medium=RSS&at_campaign=rss",
-   "source": "BBC World",
-   "published": "2026-11-27T10:39:31Z",
-   "region": "Africa",
-   "category": "conflict"
-  },
-  {
-   "title": "Clashes mar European games as Macron condemns violence",
-   "summary": "Violent clashes mar a number of European football matches on Thursday night, with French president Emmanuel Macron condemning trouble at Marseille's home game against Levski Sofia.",
-   "link": "https://www.bbc.co.uk/sport/football/articles/c69q8y5x03ywo?at_medium=RSS&at_campaign=rss",
-   "source": "BBC World",
-   "published": "2026-11-27T10:24:24Z",
-   "region": "Europe",
-   "category": "conflict"
-  },
-  {
-   "title": "SpaceX shares jump 4% amid tech rally and after Musk says he will expand on Trump Account share donations",
-   "summary": "SpaceX shares jumped in premarket trading after Elon Musk said on X that he would donate shares to American children every year.",
-   "link": "https://www.cnbc.com/2026/11/27/spacex-shares-musk-donations.html",
-   "source": "CNBC World",
-   "published": "2026-11-27T10:20:39Z",
-   "region": "Americas",
-   "category": "economy"
   },
   {
    "title": "My self-care ritual is a meal at a fancy restaurant - on my own",
@@ -457,24 +529,6 @@
    "category": "news"
   },
   {
-   "title": "Zelensky criticises 'strange' Trump-Putin friendship in BBC interview",
-   "summary": "Ukraine's president voices frustration with US and says it is not pushing Russia hard enough in peace talks to end the war.",
-   "link": "https://www.bbc.co.uk/news/articles/c820q9wgrpyyo?at_medium=RSS&at_campaign=rss",
-   "source": "BBC World",
-   "published": "2026-11-27T09:07:48Z",
-   "region": "Europe",
-   "category": "conflict"
-  },
-  {
-   "title": "Guinea-Bissau's military leaders delay return to civilian rule until 2028",
-   "summary": "The announcement comes a year after a military coup with its leaders promising a return to civilian rule within 12 months.",
-   "link": "https://www.bbc.co.uk/news/articles/cm879e5yxjq5o?at_medium=RSS&at_campaign=rss",
-   "source": "BBC World",
-   "published": "2026-11-27T08:58:08Z",
-   "region": "Global",
-   "category": "conflict"
-  },
-  {
    "title": "'We're scared to turn our heating on'",
    "summary": "Energy bills will soar by 26% for millions of households in January after a surge in gas prices sparked by the Iran war.",
    "link": "https://www.bbc.co.uk/news/videos/c6jd7yj4ve9xo?at_medium=RSS&at_campaign=rss",
@@ -484,30 +538,12 @@
    "category": "conflict"
   },
   {
-   "title": "Millions of wives in South Asia unprotected from marital rape - study",
-   "summary": "More than 100 countries have outlawed marital rape, but a large part of South Asia has not.",
-   "link": "https://www.bbc.co.uk/news/articles/cw074p95ye5do?at_medium=RSS&at_campaign=rss",
-   "source": "BBC World",
-   "published": "2026-11-27T08:13:43Z",
-   "region": "Asia-Pacific",
-   "category": "news"
-  },
-  {
    "title": "Private markets are more accessible than ever for investors. Getting out is another matter",
    "summary": "Retail access to private markets is growing, but PwC says education lags as redemption limits put liquidity risks in focus.",
    "link": "https://www.cnbc.com/2026/11/27/private-markets-retail-investors-liquidity.html",
    "source": "CNBC World",
    "published": "2026-11-27T08:05:09Z",
    "region": "Global",
-   "category": "economy"
-  },
-  {
-   "title": "Spain’s Pablo Hernández de Cos set to lead European Central Bank",
-   "summary": "De Cos will lead the ECB into a period of political uncertainty and choppy growth, after winning the backing needed to succeed Christine Lagarde next year.",
-   "link": "https://www.cnbc.com/2026/11/26/pablo-hernandez-de-cos-ecb-president.html",
-   "source": "CNBC World",
-   "published": "2026-11-27T06:50:38Z",
-   "region": "Europe",
    "category": "economy"
   },
   {
@@ -556,35 +592,8 @@
    "category": "economy"
   },
   {
-   "title": "UK to pay 'participation' fee to deliver EU deals",
-   "summary": "Details of the contribution towards EU running costs have been revealed in new legal documents.",
-   "link": "https://www.bbc.co.uk/news/articles/ck2057x387ego?at_medium=RSS&at_campaign=rss",
-   "source": "BBC Business",
-   "published": "2026-11-26T23:17:12Z",
-   "region": "Europe",
-   "category": "economy"
-  },
-  {
-   "title": "Asia made a big AI bet on Nvidia. What happens now?",
-   "summary": "Asian stocks have been on a rollercoaster ride after Jensen Huang's shock return as Nvidia CEO.",
-   "link": "https://www.bbc.co.uk/news/articles/cqevr4lnd1nxo?at_medium=RSS&at_campaign=rss",
-   "source": "BBC Business",
-   "published": "2026-11-26T23:08:12Z",
-   "region": "Asia-Pacific",
-   "category": "economy"
-  },
-  {
-   "title": "Albania's youth are protesting in Flamingo Revolution, not leaving the country anymore",
-   "summary": "Youth protests against a rigid political system and corruption have shaken the government of Albanian Prime Minister Edi Rama. They also show that fewer young people are willing to emigrate in search of a better future.",
-   "link": "https://www.dw.com/en/albania-s-youth-are-protesting-in-flamingo-revolution-not-leaving-the-country-anymore/a-80068939?maca=en-rss-en-world-4025-rdf",
-   "source": "DW World",
-   "published": "2026-11-26T20:44:00Z",
-   "region": "Global",
-   "category": "news"
-  },
-  {
    "title": "Trump alleges ‘fake’ economic figures released before US midterms but doesn’t provide evidence",
-   "summary": "In a Thanksgiving post, the US president seeks investigation after blue wave of Democrats unseat Republicans Donald Trump has alleged without evidence that economic figures published by the US federal government before this month’s midterm elections were “fake” and demanded an investigation after…",
+   "summary": "In a bitter Thanksgiving post, president seeks investigation after blue wave of Democrats unseated Republicans Donald Trump has alleged without evidence that economic figures published by the US federal government before this month’s midterm elections were “fake” and demanded an investigation after…",
    "link": "https://www.theguardian.com/us-news/2026/nov/26/trump-fake-economic-figures-midterms",
    "source": "The Guardian Economics",
    "published": "2026-11-26T19:41:37Z",
@@ -608,24 +617,6 @@
    "published": "2026-11-26T17:50:54Z",
    "region": "Europe",
    "category": "economy"
-  },
-  {
-   "title": "Saudi pop music is thriving — but for the right reasons?",
-   "summary": "As part of Vision 2030, Saudi Arabia's music scene has evolved hugely thanks to state funding and support. Local musicians and DJs are optimistic. But are they actually just helping prop up an authoritarian state?",
-   "link": "https://www.dw.com/en/saudi-pop-music-is-thriving-but-for-the-right-reasons/a-80036013?maca=en-rss-en-world-4025-rdf",
-   "source": "DW World",
-   "published": "2026-11-26T17:37:00Z",
-   "region": "Middle East",
-   "category": "news"
-  },
-  {
-   "title": "Protests in Iraqi Kurdistan at plans for government in Baghdad to take over oil, border crossings",
-   "summary": "Thousands have gathered in the capital of northern Iraq's semiautonomous Kurdish region, waving flags and voicing opposition to plans for the federal government to take control of oil operations and border crossings.",
-   "link": "https://www.dw.com/en/protests-in-iraqi-kurdistan-at-plans-for-government-in-baghdad-to-take-over-oil-border-crossings/a-80065994?maca=en-rss-en-world-4025-rdf",
-   "source": "DW World",
-   "published": "2026-11-26T16:13:00Z",
-   "region": "Middle East",
-   "category": "news"
   },
   {
    "title": "Congo Ebola outbreak reaches 12,000 cases as some responders evacuate",
